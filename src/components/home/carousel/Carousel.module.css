@@ -1,0 +1,116 @@
+.Carousel{
+    display: flex;
+    width: fit-content;
+    gap: 2vw;
+}
+
+.Card {
+    display: flex;
+    position: relative;
+    width: 15vw;
+    min-width: 260px;
+    height: 50vh;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    background-image: /* webpackIgnore: true */ url(/_next/static/media/pexels-andrea-piacquadio-787961.b4c3adbe.jpg);
+    border-radius: 50px;
+    background-size: cover;
+    background-position: center;
+}
+
+.categories{
+    margin-top: 4vh;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.details{
+    margin-bottom: 4vh;
+    margin-left: 2vw;
+}
+
+.pexelsAndreaPiacquadio7879611 {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+}
+
+.Card:hover{
+    box-shadow: 0 2px 5px rgba(0,0,0,.2);
+}
+
+.title {
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+}
+
+.location {
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    flex-direction: column;
+}
+
+.IconMapMarker {
+    
+}
+
+.icon {
+    width: 100%;
+    height: 100%;
+}
+
+.date, .voirplus {
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+}
+
+
+.voirplus {
+    position: absolute;
+    right: 3vw;
+    background-color: #d9d9d94d;
+}
+
+.categories > span{
+    padding: 5px 15px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 500;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    outline: solid 1px #fff;
+    outline-offset: -1px;
+    border-radius: 20px;
+    background-color: #d9d9d900;
+    margin-right: 5px;
+}
+
+.image{
+position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.image > img{
+    border-radius: 50px;
+    z-index: -1;
+}
