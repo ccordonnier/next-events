@@ -1,10 +1,42 @@
+"use client"
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
-
-import { PhotoIcon, UserCircleIcon } from '@heroicons/react/24/solid';
+import { useDispatch,useSelector } from 'react-redux';
+import { useRouter } from  'next/navigation';
 
 const page = () => {
+  const router = useRouter();
+  const dispatch = useDispatch();
+    let submitForm = async (event) => {
+        event.preventDefault();
+        let form = document.getElementById("formConnexion");
+        let formdata = new FormData(form);
+        try{
+          const response = await fetch("http://localhost:3001/api/login",{
+            method:"POST", 
+            mode:"cors",
+            body: JSON.stringify(Object.fromEntries(formdata)),
+            headers: {
+              "Content-Type": "application/json",
+            },
+          });
+          var alertId = Date.now();
+          if (response.status === 200) {
+            const data = await response.json();
+            dispatch({ type:"account/login", payload: data.user});
+            let user = useSelector((state)=>state.account);
+            console.warn(user);
+            //router.push("/");            
+          }else if (response.status === 401) {
+            const errorData = await response.json();
+            alert("Connexion impossible :"+errorData.message);
+          }
+        }catch(error) {
+            dispatch({ type:"alerts/addAlert", payload: {title: "Erreur lors de l'enregistrement", text: "erreur lors de l'enregistrement", type: "danger", id:alertId}})
+            alert("Erreur lors de la connexion");
+          }
+    };
     return (
         <div className="flex">
             <div className="w-1/2 h-screen relative">
@@ -19,17 +51,17 @@ const page = () => {
               </div>
               <div className='mt-32 w-2/5 min-w-48 align-self-center'>
                 <h1 className="w-full">Connexion</h1>
-                <form className="w-full">
+                <form className="w-full"  id="formConnexion" onSubmit={submitForm} >
                   <div className="space-y-12">
                     <div className="pb-12">
                       <div className="mt-10">
                         <div className="mt-2 w-full">
-                          <label htmlFor="username" className="block text-sm font-medium leading-6 text-gray-900">
+                          <label htmlFor="email" className="block text-sm font-medium leading-6 text-gray-900">
                             Email
                           </label>
                           <div className="">
                             <div className="flex rounded-md shadow-sm ring-1 ring-inset ring-gray-300 focus-within:ring-2 focus-within:ring-inset focus-within:ring-orange-600 ">
-                            <input type="text" name="username" id="username" className="block w-full rounded border-0 py-1.5 pl-4 pr-5 text-gray-900 ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-orange-600 sm:text-sm sm:leading-6 w-full min-w-48"/>
+                            <input type="email" name="email" id="email" className="block w-full rounded border-0 py-1.5 pl-4 pr-5 text-gray-900 ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-orange-600 sm:text-sm sm:leading-6 w-full min-w-48"/>
                             </div>
                           </div>
                         </div>
@@ -55,7 +87,7 @@ const page = () => {
                           </button>
                         </div>
                         <div className="mt-1 ml-1 flex items-center justify-left gap-x-6">
-                          <Link href="/inscription" className="text-sm font-semibold leading-6 text-orange-600">
+                          <Link href="inscription" className="text-sm font-semibold leading-6 text-orange-600">
                             Pas encore membre ? Enregistrez-vous 
                           </Link>
                         </div>

@@ -1,11 +1,43 @@
+"use client"
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
+import { useDispatch } from 'react-redux';
 
 import { PhotoIcon, UserCircleIcon } from '@heroicons/react/24/solid';
 
 const page = () => {
-    return (
+  const dispatch = useDispatch();
+  let submitForm = (event) => {
+    event.preventDefault();
+    let form = document.getElementById("formInscription");
+    let formdata = new FormData(form);
+    fetch("http://localhost:3001/api/user/add", { 
+        method:"POST", 
+        mode:"cors",
+        body:formdata 
+    })
+    .then((response) => {
+        if (response.status === 201) {
+          alert("L'utilisateur a bien été enregistré");
+            //dispatch({ type:"alerts/addAlert", payload: {title: "Utilisateur enregistré", text: "L'utilisateur a bien été enregistré", type: "success"}})
+            return response.json();
+        } else {
+          alert("Something went wrong on API server!");
+            //throw new Error("Something went wrong on API server!");
+        }
+        
+    })
+    .then((data) => {
+        console.log(data);
+    })
+    .catch((error) => {
+        console.log(error);
+        alert("Erreur lors de l'enregistrement");
+        //dispatch({ type:"alerts/addAlert", payload: {title: "Erreur lors de l'enregistrement", text: "erreur lors de l'enregistrement", type: "error"}})
+    });
+  }
+  return (
         <div className='flex'>
             <div className='w-1/2 h-screen relative'>
                 <Image src={"/images/hoian-4988318_1920.jpg"} layout='fill' objectFit='cover'  objectPosition='bottom' alt="Login page"/>
@@ -19,7 +51,7 @@ const page = () => {
               </div>
               <div className='w-3/5 lg:w-2/5 mt-10 align-self-center'>
                 <h1 className="w-full">Inscription</h1>
-                <form className="w-full">
+                <form className="w-full" id="formInscription" onSubmit={submitForm} >
                   <div className="space-y-12">
                     <div className="">
                       <div className="">
@@ -47,32 +79,22 @@ const page = () => {
                         </div>
                         
                         <div className="mt-2 w-full">
-                          <label htmlFor="lastname" className="block text-sm font-medium leading-6 text-gray-900">
+                          <label htmlFor="birthdate" className="block text-sm font-medium leading-6 text-gray-900">
                             Date de naissance
                           </label>
                           <div className="">
                             <div className="flex rounded-md shadow-sm ring-1 ring-inset ring-gray-300 focus-within:ring-2 focus-within:ring-inset focus-within:ring-orange-600 ">
-                            <input type="date" name="dateOfBirth" id="dateOfBirth" className="block w-full border-0 py-1.5 pl-4 pr-5 text-gray-900 ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-orange-600 sm:text-sm sm:leading-6" placeholder="Date de naissance"/>
+                            <input type="date" name="birthdate" id="birthdate" className="block w-full border-0 py-1.5 pl-4 pr-5 text-gray-900 ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-orange-600 sm:text-sm sm:leading-6" placeholder="Date de naissance"/>
                             </div>
                           </div>
                         </div>
                         <div className="mt-2 w-full">
-                          <label htmlFor="username" className="block text-sm font-medium leading-6 text-gray-900">
-                            Nom d'utilisateur
-                          </label>
-                          <div className="">
-                            <div className="flex rounded-md shadow-sm ring-1 ring-inset ring-gray-300 focus-within:ring-2 focus-within:ring-inset focus-within:ring-orange-600 ">
-                            <input type="text" name="username" id="username" className="block w-full rounded border-0 py-1.5 pl-4 pr-5 text-gray-900 ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-orange-600 sm:text-sm sm:leading-6 w-full min-w-48"/>
-                            </div>
-                          </div>
-                        </div>
-                        <div className="mt-2 w-full">
-                          <label htmlFor="mail" className="block text-sm font-medium leading-6 text-gray-900">
+                          <label htmlFor="email" className="block text-sm font-medium leading-6 text-gray-900">
                             Email
                           </label>
                           <div className="">
                             <div className="flex rounded-md shadow-sm ring-1 ring-inset ring-gray-300 focus-within:ring-2 focus-within:ring-inset focus-within:ring-orange-600 ">
-                            <input type="email" name="mail" id="mail" className="block w-full rounded border-0 py-1.5 pl-4 pr-5 text-gray-900 ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-orange-600 sm:text-sm sm:leading-6 w-full min-w-48"/>
+                            <input type="email" name="email" id="email" className="block w-full rounded border-0 py-1.5 pl-4 pr-5 text-gray-900 ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-orange-600 sm:text-sm sm:leading-6 w-full min-w-48"/>
                             </div>
                           </div>
                         </div>
@@ -101,7 +123,7 @@ const page = () => {
                           </button>
                         </div>
                         <div className="mt-1 ml-1 flex items-center justify-left gap-x-6">
-                          <Link href="login" className="text-sm font-semibold leading-6 text-orange-600">
+                          <Link href="connexion" className="text-sm font-semibold leading-6 text-orange-600">
                             Déjà membre ? Connectez-vous 
                           </Link>
                         </div>
@@ -127,7 +149,7 @@ const page = () => {
               </div>
             </div>
          </div>
-    );
+  );
 };
 
 export default page;
