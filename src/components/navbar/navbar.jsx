@@ -1,5 +1,5 @@
 "use client"
-import { Fragment, useState } from 'react'
+import { Fragment, useEffect, useState } from 'react'
 import { Dialog, Disclosure, Popover,Combobox, Transition, Menu } from '@headlessui/react'
 import {
   ArrowPathIcon,
@@ -10,27 +10,29 @@ import {
   SquaresPlusIcon,
   XMarkIcon,
 } from '@heroicons/react/24/outline'
-import { ChevronDownIcon, PhoneIcon, PlayCircleIcon, CheckIcon, ChevronUpDownIcon, RectangleStackIcon, TicketIcon, HeartIcon, UserIcon, ArrowLeftOnRectangleIcon} from '@heroicons/react/20/solid'
+import { ChevronDownIcon, RectangleStackIcon, TicketIcon, HeartIcon, UserIcon, ArrowLeftStartOnRectangleIcon} from '@heroicons/react/20/solid'
 import Link from 'next/link'
-import { useDispatch,useSelector } from 'react-redux';
+import { useLocalStorage } from "@/hooks/useLocalStorage"
+import { useDispatch } from 'react-redux'
 
-const user = {name:"Corentin"};
 
 const products = [
   { name: 'Analytics', description: 'Get a better understanding of your traffic', href: '#', icon: ChartPieIcon },
   { name: 'Engagement', description: 'Speak directly to your customers', href: '#', icon: CursorArrowRaysIcon },
-  { name: 'Security', description: 'Your customers’ data will be safe and secure', href: '#', icon: FingerPrintIcon },
+  { name: 'Security', description: 'Your customers data will be safe and secure', href: '#', icon: FingerPrintIcon },
   { name: 'Integrations', description: 'Connect with third-party tools', href: '#', icon: SquaresPlusIcon },
   { name: 'Automations', description: 'Build strategic funnels that will convert', href: '#', icon: ArrowPathIcon },
 ]
 
 const AccountMenu = [
-  { name: 'Mes évènements', href: '#', icon: RectangleStackIcon },
+  { name: 'Mes évènements', href: '/admin/evenements', icon: RectangleStackIcon},
   { name: 'Mes tickets', href: '#', icon: TicketIcon },
   { name: 'Mes favoris', href: '#', icon: HeartIcon },
   { name: 'Mon profil', href: '#', icon: UserIcon },
-  { name: 'Deconnexion', href: '#', icon: ArrowLeftOnRectangleIcon },
+  { name: 'Deconnexion', href: '#', icon: ArrowLeftStartOnRectangleIcon},
 ]
+
+
 
 const people = [
   { id: 1, name: 'Wade Cooper' },
@@ -45,13 +47,31 @@ function classNames(...classes) {
   return classes.filter(Boolean).join(' ')
 }
 
-
-
 export default function Navbar() {
-  const dispatch = useDispatch();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
   const [selected, setSelected] = useState(people[0])
   const [query, setQuery] = useState('')
+  const [account,setAccount] = useLocalStorage("account",localStorage.getItem("account")??{});
+  const dispatch = useDispatch()
+
+  useEffect(()=>{
+    //initialize account if logged in 
+    dispatch({type:"setAccount",action:account}); 
+  },[]);
+
+  const logout = () => {
+    //remove state and localstorage if logout
+    setAccount(undefined);
+    dispatch({type:"logout",action:{}});
+
+  }
+
+  const HandleClickMenuItems = (name) => {
+    if(name === "Deconnexion"){
+      logout();
+    }
+  }
+
   const filteredPeople =
     query === ''
       ? people
@@ -60,12 +80,8 @@ export default function Navbar() {
             .toLowerCase()
             .replace(/\s+/g, '')
             .includes(query.toLowerCase().replace(/\s+/g, ''))
-        )
+        );
 
-  
-  let user = useSelector((state) => state.account);
-  console.warn("user => ",user);
-    
   return (
     <div className="bg-white">
       <header className="relative inset-x-0 top-0 z-50">
@@ -87,17 +103,21 @@ export default function Navbar() {
           </button>
         </div>
         <div className="hidden lg:flex lg:gap-x-12">
+        <Link href="#" className="text-sm font-semibold leading-6 text-gray-900">
+            Créer votre évènement
+          </Link>
+          <Link href="/evenements" className="text-sm font-semibold leading-6 text-gray-900">
+            Evènements
+          </Link>
+
           <Link href="#" className="text-sm font-semibold leading-6 text-gray-900">
-            Features
+            A propos
           </Link>
           <Link href="#" className="text-sm font-semibold leading-6 text-gray-900">
-            Marketplace
-          </Link>
-          <Link href="#" className="text-sm font-semibold leading-6 text-gray-900">
-            Company
+            Contact
           </Link>
         
-        {user ?
+        {account ?
           
           <Menu as="div" className="relative">
             <Menu.Button className="flex items-center gap-x-1 text-sm font-semibold leading-6 text-gray-900">
@@ -114,16 +134,16 @@ export default function Navbar() {
               leaveTo="opacity-0 translate-y-1"
             >
               <Menu.Items className="absolute -right-8 top-full z-10 mt-3 w-screen max-w-md overflow-hidden rounded-3xl bg-white shadow-lg ring-1 ring-gray-900/5">
-                <div className="p-4">
+                <ul className="p-4">
                   {AccountMenu.map((item) => (
-                    <Menu.Item as="a"
+                    <Menu.Item as="li"
                       key={item.name}
-                      className="group relative flex items-center gap-x-6 rounded-lg p-4 text-sm leading-6 hover:bg-gray-50"
+                      className="group relative flex items-center gap-x-6 rounded-lg p-4 text-sm leading-6 hover:bg-gray-50" 
                     >
                       <div className="flex h-11 w-11 flex-none items-center justify-center rounded-lg bg-gray-50 group-hover:bg-white">
                         <item.icon className="h-6 w-6 text-gray-600 group-hover:text-orange-600" aria-hidden="true" />
                       </div>
-                      <div className="flex-auto">
+                      <div className="flex-auto" onClick={HandleClickMenuItems}>
                         <Link href={item.href} className="block font-semibold text-gray-900">
                           {item.name}
                           <span className="absolute inset-0" />
@@ -131,7 +151,7 @@ export default function Navbar() {
                       </div>
                     </Menu.Item>
                   ))}
-                </div>
+                </ul>
               </Menu.Items>
             </Transition>
           </Menu>

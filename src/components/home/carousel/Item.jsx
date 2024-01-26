@@ -5,7 +5,7 @@ const Item = (props) =>{
   return (
     <div className={classes.Card}>
       <div className={classes.image} >
-        <Image src={"/Evenements/"+props.image} layout='fill' objectFit='cover'/>
+        <Image src={"/Evenements/"+props.image} alt={"Photo de "+props.title} layout='fill' objectFit='cover'/>
       </div>
       <div className={classes.categories}> 
         <span className={classes.chic}>Chic</span>

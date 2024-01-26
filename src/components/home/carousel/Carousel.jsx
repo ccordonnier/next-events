@@ -26,7 +26,7 @@ const Carousel = () => {
     return (
         <div className={classes.Carousel}>
             {events && events.map(event => {
-                return <Item title={event.title} image={event.image} description={event.description} date={new Date(event.date)} time={event.time}></Item>
+                return <Item key={event._id} title={event.title} image={event.image} description={event.description} date={new Date(event.date)} time={event.time}></Item>
             }) }
         </div>
     )
