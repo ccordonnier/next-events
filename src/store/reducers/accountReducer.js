@@ -1,5 +1,4 @@
 import { createSlice } from "@reduxjs/toolkit";
-import { useLocalStorage } from "@/hooks/useLocalStorage";
 
 export const accountSlice = createSlice({
     name: "account",

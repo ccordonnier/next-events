@@ -1,5 +1,5 @@
 "use client"
-import Image from 'next/image';
+import Image from "next/legacy/image";
 import Link from 'next/link';
 import React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
@@ -10,7 +10,7 @@ const page = () => {
   
   const router = useRouter();
   const dispatch = useDispatch();
-  const [account,setAccount] = useLocalStorage("account", localStorage.getItem("account")??{});
+  const [account,setAccount] = useLocalStorage("account", null);
   let submitForm = async (event) => {
     event.preventDefault();
     let form = document.getElementById("formConnexion");
@@ -43,7 +43,7 @@ const page = () => {
   return (
     <div className="flex">
       <div className="w-1/2 h-screen relative">
-        <Image src={"/images/hoian-4988318_1920.jpg"} fill objectFit='cover' objectPosition='bottom' alt="Login page" />
+        <Image src={"/images/hoian-4988318_1920.jpg"} layout="fill" objectFit='cover' objectPosition='bottom' alt="Login page" />
       </div>
       <div className="w-1/2 flex flex-col">
         <div className="relative mt-6 ml-6 flex">

@@ -51,19 +51,11 @@ export default function Navbar() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
   const [selected, setSelected] = useState(people[0])
   const [query, setQuery] = useState('')
-  const [account,setAccount] = useLocalStorage("account",localStorage.getItem("account")??{});
+  const [account, , clearLs] = useLocalStorage("account",null);
   const dispatch = useDispatch()
 
-  useEffect(()=>{
-    //initialize account if logged in 
-    dispatch({type:"setAccount",action:account}); 
-  },[]);
-
   const logout = () => {
-    //remove state and localstorage if logout
-    setAccount(undefined);
-    dispatch({type:"logout",action:{}});
-
+    clearLs();
   }
 
   const HandleClickMenuItems = (name) => {
@@ -81,7 +73,9 @@ export default function Navbar() {
             .replace(/\s+/g, '')
             .includes(query.toLowerCase().replace(/\s+/g, ''))
         );
-
+  useEffect(()=>{
+    console.log(account);
+  })
   return (
     <div className="bg-white">
       <header className="relative inset-x-0 top-0 z-50">
@@ -103,7 +97,7 @@ export default function Navbar() {
           </button>
         </div>
         <div className="hidden lg:flex lg:gap-x-12">
-        <Link href="#" className="text-sm font-semibold leading-6 text-gray-900">
+        <Link href={process.env.NEXT_PUBLIC_ADMIN_EVENT_ADD_PATH} className="text-sm font-semibold leading-6 text-gray-900">
             Créer votre évènement
           </Link>
           <Link href="/evenements" className="text-sm font-semibold leading-6 text-gray-900">
@@ -121,7 +115,7 @@ export default function Navbar() {
           
           <Menu as="div" className="relative">
             <Menu.Button className="flex items-center gap-x-1 text-sm font-semibold leading-6 text-gray-900">
-              Mon compte
+              {account.username}
               <ChevronDownIcon className="h-5 w-5 flex-none text-gray-400" aria-hidden="true" />
             </Menu.Button>
             <Transition
@@ -143,7 +137,7 @@ export default function Navbar() {
                       <div className="flex h-11 w-11 flex-none items-center justify-center rounded-lg bg-gray-50 group-hover:bg-white">
                         <item.icon className="h-6 w-6 text-gray-600 group-hover:text-orange-600" aria-hidden="true" />
                       </div>
-                      <div className="flex-auto" onClick={HandleClickMenuItems}>
+                      <div className="flex-auto" onClick={()=>HandleClickMenuItems(item.name)}>
                         <Link href={item.href} className="block font-semibold text-gray-900">
                           {item.name}
                           <span className="absolute inset-0" />

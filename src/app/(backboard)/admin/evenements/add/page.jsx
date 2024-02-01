@@ -1,9 +1,9 @@
 "use client"
 import React from 'react';
-import Filegroup from "../../../../../components/forms/FileGroup";
-import InputText from "../../../../../components/forms/InputText";
-import Textarea from "../../../../../components/forms/Textarea";
-import SubmitButton from "../../../../../components/forms/SubmitButton";
+import Filegroup from "@/components/forms/FileGroup";
+import InputText from "@/components/forms/InputText";
+import Textarea from "@/components/forms/Textarea";
+import SubmitButton from "@/components/forms/SubmitButton";
 
 
 const form = [
@@ -21,7 +21,6 @@ const form = [
 ]
 
 const AddEvent = () => {
-  //console.log(form.map(item=>{console.log(item.type=="textarea")}));
   const submitForm = (event) => {
     event.preventDefault();
     let form = document.getElementById("formEvent");

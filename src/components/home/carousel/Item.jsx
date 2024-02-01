@@ -1,11 +1,12 @@
 import classes from './Carousel.module.css';
-import Image from 'next/image';
+import Image from "next/legacy/image";
 
-const Item = (props) =>{
+const Item = ({event}) =>{
+
   return (
-    <div className={classes.Card}>
+    <div className={classes.card}>
       <div className={classes.image} >
-        <Image src={"/Evenements/"+props.image} alt={"Photo de "+props.title} layout='fill' objectFit='cover'/>
+        <Image src={"/evenements/"+event.imageEvent} alt={"Photo de "+event.title} layout='fill' objectFit='cover'/>
       </div>
       <div className={classes.categories}> 
         <span className={classes.chic}>Chic</span>
@@ -13,10 +14,10 @@ const Item = (props) =>{
         <span className={classes.danse}>Danse</span>
       </div>
       <div className={classes.details}>
-        <div className={classes.title}>{props.title}</div>
-        <div className={classes.location}><span>{"\\!/"}</span> {props.city}</div>
+        <div className={classes.title}>{event.title}</div>
+        <div className={classes.location}><span>{"\\!/"}</span> {event.city}</div>
         <div style={{display:"flex"}}>
-            <div className={classes.date}><span>{"(L)"}</span> {props.date.getDate()}/{props.date.getMonth()}/{props.date.getFullYear()}</div>
+            <div className={classes.date}><span>{"(L)"}</span> {event.date.getDate()}/{event.date.getMonth()}/{event.date.getFullYear()}</div>
         </div>
       </div>
       

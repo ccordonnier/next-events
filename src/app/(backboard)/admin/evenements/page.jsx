@@ -1,43 +1,14 @@
 "use client"
 import React, { useEffect, useState } from 'react';
-import { useDispatch,useSelector } from 'react-redux';
 import Searchbar from "@/components/searchbar";
 import ListEvents from "@/components/lists/listEvents";
 import { useLocalStorage } from '@/hooks/useLocalStorage';
-
-
+import { useFetchEvents } from '@/hooks/useFetchEvents';
 
 const page = () => {
-
-  const [events, setEvents] = useState([]);
-  const dispatch = useDispatch();
-  var [account, setAccount] = useLocalStorage("account",JSON.parse(localStorage.getItem("account")));
-  
-  useEffect(() => {
-    let userInformations = "corentin";
-      let user = JSON.parse(localStorage.getItem("account"));
-      console.log(user)
-    fetch("http://localhost:3001/api/events/", { method: "POST", mode:"cors",
-    body:JSON.stringify({userId:user?._id}), headers: {
-      "Content-Type": "application/json",
-      // 'Content-Type': 'application/x-www-form-urlencoded',
-    },})
-      .then((response) => {
-        if (response.status === 200) {
-          let r = response.json()
-          return r;
-        } else {
-          throw new Error("Something went wrong on API server!");
-        }
-      })
-      .then((data) => {
-        data.date = new Date(data.date);
-        setEvents(data);
-      })
-      .catch((error) => {
-        console.error(error);
-      });
-  }, []);
+  const [account, setAccount] = useLocalStorage("account",{});
+  const API = "http://localhost:3001/api/events/?userId="+account._id??0;
+  const [events, error, state] = useFetchEvents(API);
 
   const filter = (filters) => {
     var eventsToFilter = events;
@@ -69,9 +40,12 @@ const page = () => {
         </div>
       </div>
       <div className='flex flex-col flex-wrap w-full'>
-        {events.map(event => {
+        {state=="loading" && <div>Loading...</div>}
+        {state=="error" && <div>{error}</div>}
+        {state=="succeeded" && 
+        events?.map(event => {
           return (
-            <ListEvents event={event}></ListEvents>
+            <ListEvents key={event._id} event={event}></ListEvents>
           )
         })}
       </div>

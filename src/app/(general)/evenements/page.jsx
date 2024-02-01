@@ -1,14 +1,18 @@
 "use client"
 import React, {useEffect, useState} from 'react';
 import { MapPinIcon,CalendarDaysIcon, ClockIcon } from '@heroicons/react/24/solid';
-import Image from 'next/image';
+import Image from "next/legacy/image";
 import Link from 'next/link';
-import Searchbar from "../../../components/searchbar";
+import Searchbar from "@/components/searchbar";
+import fetchEventsOfUser from "@/app/api/fecthEvents";
 
 const page = () => {
   
   const [events,setEvents] = useState([]);
 
+  const getEvents = async () => {
+    const result = await fetchEventsOfUser();
+  }
   useEffect(()=>{
     fetch("http://localhost:3001/api/events", { method:"GET" } )
     .then((response) => {

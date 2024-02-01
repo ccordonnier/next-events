@@ -29,7 +29,7 @@ const Dropdown = (props) => {
         <Menu.Items className="absolute right-0 z-10 mt-2 w-56 origin-top-right rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none">
           <div className="py-1">
         {props.items.map( item => { return (
-          <Menu.Item>
+          <Menu.Item key={item._id}>
           {({ active }) => (
             <Link
               href={item.href}

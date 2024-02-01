@@ -1,79 +1,62 @@
-import { useCallback, useEffect, useState } from "react"
+import { useEffect, useState } from "react"
 
 const IS_SERVER = typeof window === "undefined"
 
 export function useLocalStorage(key, initialValue) {
   // Get from local storage then
   // parse stored json or return initialValue
-  const readValue = useCallback(() => {
-    // Prevent build error "window is undefined" but keeps working
-    if (IS_SERVER) {
-      return initialValue
-    }
+  const [storedValue, setStoredValue] = useState(localStorage.getItem(key)?parseJSON(localStorage.getItem(key)):null);
 
-    try {
-      const item = window.localStorage.getItem(key)
-      return item ? parseJSON(item) : initialValue
-    } catch (error) {
-      console.warn(`Error reading localStorage key “${key}”:`, error)
-      return initialValue
-    }
-  }, [initialValue, key])
-
-  // State to store our value
-  // Pass initial value to support hydration server-client
-  const [storedValue, setStoredValue] = useState(initialValue)
-
-  // Return a wrapped version of useState's setter function that ...
-  // ... persists the new value to localStorage.
   const setValue = (value) => {
-    // Prevent build error "window is undefined" but keeps working
-    if (IS_SERVER) {
-      console.warn(
-        `Tried setting localStorage key “${key}” even though environment is not a client`
-      )
-    }
-
-    try {
-      // Allow value to be a function so we have the same API as useState
-      const newValue = value instanceof Function ? value(readValue()) : value
-
-      // Save to local storage
-      if(JSON.parse(window.localStorage.getItem(key)) !== newValue){
-        window.localStorage.setItem(key, JSON.stringify(newValue))
-      }
-
-      // Save state
-      setStoredValue(newValue)
-    } catch (error) {
-      console.warn(`Error setting localStorage key “${key}”:`, error)
+    let currentValue = parseJSON(localStorage.getItem(key));
+    if (currentValue !== value) {
+      setStoredValue(value);
+      localStorage.setItem(key, stringifyJSON(value))
     }
   }
 
-  useEffect(() => {
-    setStoredValue(readValue())
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [key])
-
-  const handleStorageChange = useCallback(
-    event => {
-      if (event?.key && event.key !== key) {
-        return
+  const getValue = () => {
+      if (IS_SERVER) {
+        return initialValue;
       }
-      setStoredValue(readValue())
-    },
-    [key, readValue]
-  )
+      if (localStorage.getItem(key) === "undefined") {
+        return "undefined";
+      }
+      return storedValue;
+  }
 
-  return [storedValue, setValue]
+  const clearLocalStorage = () => {
+    setStoredValue(null);
+    delete localStorage[key];
+  }
+
+
+  useEffect(() => {
+    setValue(parseJSON(localStorage.getItem(key)));
+  },[]);
+
+
+
+
+  return [getValue(), setValue, clearLocalStorage]
 }
 
 // A wrapper for "JSON.parse()"" to support "undefined" value
 function parseJSON(value) {
   try {
-    return value === "undefined" ? undefined : JSON.parse(value ?? "")
+    return (value === "undefined" || value === null) ? undefined : JSON.parse(value ?? "")
   } catch {
-    console.warn("parsing error on", { value })
+    console.warn("Parsing error on", { value })
+    return undefined
+  }
+}
+
+// A wrapper for "JSON.stringify()"" to support "undefined" value
+function stringifyJSON(value) {
+  try {
+    return value === undefined ? "undefined" : JSON.stringify(value ?? {})
+  } catch {
+    console.warn("Stringify error on", { value })
     return undefined
   }
 }

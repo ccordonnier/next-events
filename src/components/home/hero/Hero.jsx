@@ -25,7 +25,7 @@ const Hero = () => {
               <Searchbar></Searchbar>
             </div>
             <div className="mt-1 ml-1 flex items-center justify-left gap-x-6">
-              <a href="#" className="text-sm font-semibold leading-6 text-orange-600">
+              <a href={process.env.NEXT_PUBLIC_ADMIN_EVENT_ADD_PATH} className="text-sm font-semibold leading-6 text-orange-600">
                 Ajoutez votre propre évènement<span aria-hidden="true">→</span>
               </a>
             </div>
