@@ -4,6 +4,7 @@ import Filegroup from "@/components/forms/FileGroup";
 import InputText from "@/components/forms/InputText";
 import Textarea from "@/components/forms/Textarea";
 import SubmitButton from "@/components/forms/SubmitButton";
+import {addEventApi} from "@/api/eventsApi.js";
 
 
 const form = [
@@ -16,7 +17,7 @@ const form = [
   { name: "categorie", type: "text", id: "categorie", placeholder: "", label: "Catégorie" },
   { name: "place", type: "number", id: "place", placeholder: "100", label: "Nombre de places" },
   { name: "price", type: "number", id: "price", placeholder: "23.99", label: "Prix" },
-  { name: "eventPicture", type: "file", id: "eventPicture", placeholder: "", label: "Image de l'évènement" },
+  { name: "imageEvent", type: "file", id: "imageEvent", placeholder: "", label: "Image de l'évènement" },
   { name: "ajouter", type:"button", id:"ajouter", placeholder:"", value:"Ajouter mon évènement"}
 ]
 
@@ -25,23 +26,8 @@ const AddEvent = () => {
     event.preventDefault();
     let form = document.getElementById("formEvent");
     let formdata = new FormData(form);
-    fetch("http://localhost:3001/api/event/add", { 
-        method:"POST", 
-        mode:"cors",
-        body:formdata 
-    })
-    .then((response) => {
-        if (response.status === 201) {
-            alert("L'event a bien été enregistré")
-            return response.json();
-        } else {
-            throw new Error("Something went wrong on API server!");
-        }
-    })
-    .catch((error) => {
-        alert("erreur lors de l'enregistrement"+error);
-    });
-  
+    let result = addEventApi({formdata: formdata, options : {contentType : 'application/json'}})
+    console.log(result);
   }
   return (
       <div className='m-4'>

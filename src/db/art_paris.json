@@ -1,0 +1,4553 @@
+[
+  {
+    "relevance": 0,
+    "id": "EPixrk7cMbEwcuXT5p",
+    "title": "L'ODYSSEE SONORE",
+    "description": "Sourced from predicthq.com - L’ODYSSÉE SONORE, IMMERSION DANS UN UNIVERS EXTRAORDINAIREDepuis le mois de mai, le Théâtre antique d’Orange propose un nouveau parcours-spectacle immersif : l’Odyssée Sonore. Depuis sa création, ce monument hors norme est considéré comme un outil à l’acoustique extraordinaire. À la manière d’Ulysse dans l’Odyssée d’Homère, vous traverserez des paysages merveilleux et fantastiques, et partirez à la rencontre de divinités et de personnages mythologiques. L’EXPÉRIENCE DU MULTISENSORIELÀ travers ce spectacle d’un genre nouveau, découvrez une double expérience inédite : l’excellence acoustique grâce à un casque audio haute définition spatialisé et géolocalisé et l’immersion visuelle avec un videomapping monumental projeté sur l’ensemble du Théâtre antique, entièrement généré par l’intelligence artificielle. Sensations et frissons garantis !UN SPECTACLE ACCESSIBLE POUR PETITS ET GRANDSLe Théâtre étant avant tout un lieu de partage et d’échanges, ce parcours-spectacle, véritable œuvre mythologique contemporaine, est accessible à tous les publics et conçu pour être vécu entre amis ou en famille. Petits et grands partageront des moments inoubliables, tout en s’amusant à reconnaître les sons qui viennent de registres, de styles, et d’époques variés.L’ODYSSÉE SONORE EN QUELQUES MOTS45 minutes d’expériencePremier videomapping généré intégralement par intelligence artificielle5000 m² de découverteRestitution d’une qualité d’écoute haute-définition via un casque binaural",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 59,
+    "local_rank": 84,
+    "phq_attendance": 2807,
+    "entities": [
+      {
+        "entity_id": "KTPLsyhXFX8vX9SupnHV7",
+        "name": "Théâtre antique d'Orange",
+        "type": "venue",
+        "formatted_address": "Rue Madeleine Roch\n84100 Orange\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T20:30:00Z",
+    "end": "2024-05-07T20:30:00Z",
+    "predicted_end": "2024-05-07T22:40:00Z",
+    "updated": "2024-01-17T00:52:51Z",
+    "first_seen": "2024-01-17T00:37:10Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      4.8088117,
+      44.1359031
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          4.8088117,
+          44.1359031
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7fc-4bt-zcq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 422,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 2807,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 281,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 786,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 2807,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 29,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "2970554",
+        "3035679",
+        "6451580",
+        "2989460"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "2970554",
+        "3035679",
+        "6455379",
+        "3035681"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 73647,
+    "predicted_event_spend_industries": {
+      "accommodation": 5300,
+      "hospitality": 38704,
+      "transportation": 29641
+    },
+    "phq_labels": [
+      {
+        "label": "community-event",
+        "weight": 0.563
+      },
+      {
+        "label": "general-theatre",
+        "weight": 0.437
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "7kBhRttZhmRiyktSAi",
+    "title": "LA GUERRE DES SEXES",
+    "description": "Sourced from predicthq.com - Attention, il n'est plus possible d'accéder au spectacle après le début de la représentation. Si le sexe est le ciment du couple, ça va être un beau chantier... La comédie culte et coquine de Pascal Grégoire aux 800 000 spectateurs.Après 5 ans de vie commune, rien ne va plus entre Anne-Laure et Pierre :  Si nous ne réagissons pas rapidement, notre couple va droit dans le mur . Ancien animateur dans un club de vacances, Pierre est un adulescent qui refuse de rentrer dans le système. Il rêve d'écrire LA pièce de théâtre qui va le faire connaître. Mais sa journée type se résume entre glandouille, console de jeu, sites pornos et poker en ligne, le tout en caleçon. Un vrai cadeau... Anne-Laure, la trentaine flamboyante, travaille dans un service juridique d'une grande entreprise. Working-girl prise dans la tourmente d'une vie professionnelle, elle est consciente qu'elle a quelque peu dû sacrifier son couple au profit de ses propres ambitions. Même si tous les opposent et qu'ils ont l'habitude de chacun défendre leur territoire, ils n'en demeurent pas moins très amoureux. Épaulée par sa meilleure amie, Isabelle une sexologue nymphomane, elle décide de reprendre son couple en main et redonner un nouveau souffle à leur libido en berne.Elle va donc utiliser toutes les cartes dont elle dispose pour reconstruire son couple. Entre  l'adulescent  et la working-girl, la guerre des sexes commence..... Également en tournée partout en France. A Savoir :Comédie pour un public adulte conseillé à partir de 16 ans.Attention, il n'est plus possible d'accéder au spectacle après le début de la représentation. Auteur : Pascal Grégoire Artistes : En alternance : Pascal Grégoire, Sébastien Giray, Benjamin Baffie, Anne Levallois, Charlotte Lequesne, Camille Roy, Régis Lionti.Metteur en scène : Pascal Grégoire",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "3B2yS4VqbRP38YTf7R7hmbT",
+        "name": "LES ENFANTS DU PARADIS - SALLE 1",
+        "type": "venue",
+        "formatted_address": "34, RUE RICHER\n75009 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T19:30:00Z",
+    "end": "2024-05-07T19:30:00Z",
+    "predicted_end": "2024-05-07T21:20:00Z",
+    "updated": "2024-01-31T00:42:14Z",
+    "first_seen": "2024-01-31T00:26:22Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3447149,
+      48.8742055
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3447149,
+          48.8742055
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xq-hdv"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "2989487"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": false,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "DWr7BpqjwuqHE6nY3Q",
+    "title": "PAR ICI LA SORTIE",
+    "description": "Sourced from predicthq.com - Une escape comédie familialeTrois collègues de bureau réunis par leur patron dans une pièce pour ce qu'ils pensaient être une réunion commerciale, vont en fait apprendre qu'il s'apprête à les licencier.Mais dans son immense bonté, celui-ci leur accorde une dernière faveur : Participer à un Escape Game... La salle de réunion devient alors le point de départ d'un grand jeu d'évasion avec épreuves et énigmes à résoudre... Les 3 compères n'auront qu'une heure pour sortir du jeu s'ils veulent sauver leur emploi. Alors que la panique s'installe, une délicate histoire d'adultère refait surface et menace fortement la cohésion du groupe. Mais pendant ce temps l'heure tourne... Les trois collègues réussiront- ils à s'en sortir ? Après   Les hommes sont des femmes comme les autres   et   Célibataire mais je me soigne   la 3ème pièce de Manuel Montero ne déroge pas à la règle : Rythme, énergie, interactivité, et folie des acteurs !",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 33,
+    "local_rank": 49,
+    "phq_attendance": 148,
+    "entities": [
+      {
+        "entity_id": "czmXzG5NVRvZrCkXNMnfgf",
+        "name": "Théâtre Le Victoire",
+        "type": "venue",
+        "formatted_address": "18 Rue des Augustins\n33000 Bordeaux\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T19:30:00Z",
+    "end": "2024-05-07T19:30:00Z",
+    "predicted_end": "2024-05-07T21:20:00Z",
+    "updated": "2024-01-29T00:42:04Z",
+    "first_seen": "2023-11-29T00:29:26Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -0.5715274,
+      44.8323885
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -0.5715274,
+          44.8323885
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4f9-sn9-9cq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 148,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 148,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071620",
+        "3015948",
+        "3031580",
+        "6455058",
+        "3031582"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2843,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1527,
+      "transportation": 1315
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "FMRPDrZTWYsVexxhJT",
+    "title": "L'HOMME DE SES REVES",
+    "description": "Sourced from predicthq.com - Durée : 80 minutesGenre : ClassiqueType de public : Tout PublicMetteur en scène : Jonathan PINDUCCIU Auteur : Georges FEYDEAU d'après  A qui ma femme ?  Distribution : Aude BOMBAUT, Léna GOLVET, Cédric GUEUGNON, Clément HERNANDEZ, Justine MENORET,Enzo PINDUCCIU, Jonathan PINDUCCIU Il ne lui manque qu’une chose pour être heureux : marier sa femme !L’adaptation d’un Feydeau méconnu à voir absolument ! Thomas Marcassol est un homme d’affaires riche, amoureux d’une femme etheureux propriétaire d’un immeuble parisien. Seul bémol : il est marié et ne supporte plus sa femme ! Il se souvient alors d’une promesse, qu'elle lui a faite, lors de la demande en mariage : « Vous necorrespondez pas du tout à l’homme de mes rêves ! Si je venais à le trouver, je divorcerais et l’épouseraissur-le-champ ! » Marcassol, frappé par une idée de génie, se lance à la recherche de l’homme parfait…pour sa femme ! Le plan ne se passera pas comme prévu… Les quiproquos et rebondissements s’enchaînent à un rythme effréné, dans la plus pure tradition d’unFeydeau !Le saviez-vous ? L'homme de ses rêves est l'adaptation de  A qui ma femme ? , une pièce jamais jouée du vivant de l'auteur !",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 33,
+    "local_rank": 36,
+    "phq_attendance": 139,
+    "entities": [
+      {
+        "entity_id": "7TjXh5G7mCyMz9VFhEg3bH",
+        "name": "La Comédie Saint-Michel",
+        "type": "venue",
+        "formatted_address": "95 Boulevard Saint-Michel\n75005 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T19:30:00Z",
+    "end": "2024-05-07T19:30:00Z",
+    "predicted_end": "2024-05-07T21:40:00Z",
+    "updated": "2023-12-20T04:51:47Z",
+    "first_seen": "2023-12-20T00:12:25Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3395187,
+      48.8445422
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3395187,
+          48.8445422
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7yb-d7q"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 139,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 139,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "2988623"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3130,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1981,
+      "transportation": 1149
+    },
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "3i3uivfzyS7WyVaac2",
+    "title": "FRANÇOIS ALU - COMPLÈTEMENT JETÉS",
+    "description": "Sourced from predicthq.com - Festival Uzès Seul en Scène - FRANÇOIS ALU – COMPLÈTEMENT JETÉSDu mardi 7 au samedi 11 mai 2024 le Festival  Uzès, Seul en Scène  revient pour une seconde édition à l’Ombrière, toujours sous la direction artistique de Patrick Timsit. Le festival mettra en avant la pluridisciplinarité avec des artistes seul(es) sur scène dans divers domaines (danse, humour, théâtre, magie, musique, …).Uzès, Seul en Scène, c’est un évènement fédérateur et convivial. Plus qu’un festival, c’est le rendez-vous incontournable du mois de mai en Pays d’Uzès.Danse le cadre du festival Uzès, Seul en Scène #2Le premier seul en scène de François Alu est un spectacle qui ne ressemble qu’à lui, pluridisciplinaire et sans limite. Solos virtuoses de danse bien sûr mais aussi parodies, délires chorégraphiques, et textes ciselés… Il interprète une multitude de personnages dans un tour de force d’1h20, une explosion à la fois d’humour, de technicité et d’émotion.Venez plonger dans le monde intérieur d’un des danseurs Etoiles les plus singuliers de notre époque.Informations pratiques :L’ouverture des portes et du bar de l’Ombrière se fait 1h avant le début de la représentation, un foodtruck sera présent sur place.Nous conseillons aux spectateurs d’arriver au moins 30min avant le début de la représentation.Parking gratuit sur place.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "Gjg5w9pBB5RiTrCRqzgf5d",
+        "name": "L'OMBRIERE",
+        "type": "venue",
+        "formatted_address": "3 PLACE CROIX DES PALMIERS\n30700 Uzes\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T19:00:00Z",
+    "end": "2024-05-07T19:00:00Z",
+    "predicted_end": "2024-05-07T21:10:00Z",
+    "updated": "2024-02-03T00:25:32Z",
+    "first_seen": "2024-02-03T00:13:26Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      4.4186438,
+      44.008247
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          4.4186438,
+          44.008247
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7fb-x8t-7dv"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071623",
+        "3016670",
+        "2990362",
+        "6431469",
+        "2971258"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071623",
+        "3016670",
+        "2990362",
+        "6431349",
+        "2990363"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "5p5hKcCm2gRm9SAY7N",
+    "title": "THE WORLD OF BANKSY",
+    "description": "Sourced from predicthq.com - THE WORLD OF BANKSY jusqu'au 30 décembre 2024.Billet daté valable pour une entrée, selon calendrier d'ouverture du site.The World of Banksy - The Immersive Experience - Paris Une expérience immersive dans le monde du street-art : un voyage dans l'univers des œuvres de l'artiste. Ambiances urbaines et découvertes d'œuvres murales sans frontières. Graffeurs, amoureux des pochoirs, passionnés d'art urbain et curieux en tous genres, ne tardez pas et réservez une date dans votre agenda !  (l’artiste Banksy n’est pas associé à cet Evènement)Heures d'ouvertures :du lundi au vendredi de 12h00 à 21h00 (dernière entrée vers 20h00)samedi de 10h00 à 21h00 (dernière entrée vers 20h00)dimanche de 10h00 à 19h00 (dernière entrée vers 18h00)",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 33,
+    "local_rank": 35,
+    "phq_attendance": 149,
+    "entities": [
+      {
+        "entity_id": "wRmssy7Cv4KddCMgVW93RZ",
+        "name": "THE WORLD OF BANKSY - PARIS",
+        "type": "venue",
+        "formatted_address": "44, RUE DU FAUBOURG MONTMARTRE\n75009 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T19:00:00Z",
+    "end": "2024-05-07T19:00:00Z",
+    "predicted_end": "2024-05-07T22:20:00Z",
+    "updated": "2023-12-18T00:16:17Z",
+    "first_seen": "2023-09-02T00:17:14Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3417344,
+      48.8745958
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3417344,
+          48.8745958
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xp-w8v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 149,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 149,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "2989487"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3356,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2123,
+      "transportation": 1232
+    },
+    "phq_labels": [
+      {
+        "label": "visual-art",
+        "weight": 0.601
+      },
+      {
+        "label": "cultural-performance",
+        "weight": 0.399
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "5uF3PDSc5qi6Vv2bSC",
+    "title": "ET PENDANT CE TEMPS SIMONE VEILLE - 8EME",
+    "description": "Sourced from predicthq.com - Quatre générations de femmes se succèdent dans ce voyage dans le temps qui s’étend de la lutte pour l’avortement à la procréation médicalement assistée. Ponctuée par les interventions d’une fantasque et grinçante Simone qui veille à nous rappeler les dates importantes, nous (re)découvrons cette quête d’une égalité hommes / femmes qui s’est faite à force de combats, de désirs et de doutes. 60 ans de féminisme revisité avec beaucoup d'humour !Avec Agnès Bove, Dalia Bonnet, Anne Barbier, Bénédicte Charton, Juliette Croizat, Emmanuelle Fernandez, Nell Holson, Anne Le Coutour, Morgane Lombard, Sofia Morgavi, Trinidad",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "utec7rszCEpBQvMij9YrtS",
+        "name": "Comédie Bastille",
+        "type": "venue",
+        "formatted_address": "5 Rue Nicolas Appert\n75011 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T19:00:00Z",
+    "end": "2024-05-07T19:00:00Z",
+    "predicted_end": "2024-05-07T21:10:00Z",
+    "updated": "2024-02-07T00:33:08Z",
+    "first_seen": "2023-11-16T00:11:45Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3701575,
+      48.8588833
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3701575,
+          48.8588833
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xh-2hq"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "2986082"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "8ornUX6qdpo9e4SAAY",
+    "title": "L'AMOUR CHEZ LES AUTRES",
+    "description": "Sourced from predicthq.com - L’amour chez les autresTrois couples réunis dans une histoire rocambolesque. Les Foster, les Phillips et les Chestnut se connaissent bien, les trois hommes travaillent ensemble. Franck Foster est le chef de ce petit monde et Bob Phillips espère devenir son numéro deux très prochainement, William Chestnut vient quant à lui d’intégrer l'entreprise.Cependant, Fiona Foster et Bob Phillips se connaissent encore mieux, car ils entretiennent une liaison ! La veille encore, ils étaient ensemble et sont rentrés dans leurs foyers respectifs trop tardivement et trop éméchés pour ne pas éveiller les soupçons de leurs conjoints. Pour se couvrir, ils décident de mentir en prétendant chacun avoir passé la soirée avec le mari et la femme Chestnut. Ignorant qu’ils servent d'alibi, les Chestnut sont invités à dîner chez les Foster et les Phillips. Deux invitations qu'ils se sentent obligés d’accepter… Pour le meilleur, pour le pire et pour le rire. Avec JULIE DELARME, ARIÉ ELMALEH, VIRGINIE HOCQ, R.JONATHAN LAMBERT, SOPHIE BOUILLOUX, ANDY COCQUne comédie de ALAN AYCKBOURNMise en scène LADISLAS CHOLLATAdaptation française MARIE-JULIE BAUPAssistant à la mise en scène ÉRIC SUPPLYDécors EMMANUELLE ROYLumières ALBAN SAUVÉCostumes JEAN-DANIEL VUILLERMOZMusique FRÉDÉRIC NOREL Distribution :Franck Foster : JONATHAN LAMBERTFiona Foster : VIRGINIE HOCQBob Phillips : ARIÉ ELMALEHTerry Phillips : JULIE DELARMEWilliam Chestnut: ANDY COCQMarie Chestnut : SOPHIE BOUILLOUX",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 43,
+    "local_rank": 48,
+    "phq_attendance": 432,
+    "entities": [
+      {
+        "entity_id": "AmYy7TW9nFyunyF8B694cL",
+        "name": "Théâtre Edouard VII",
+        "type": "venue",
+        "formatted_address": "10 Édouard VII Square\n75009 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T19:00:00Z",
+    "end": "2024-05-07T19:00:00Z",
+    "predicted_end": "2024-05-07T20:50:00Z",
+    "updated": "2024-01-14T00:35:06Z",
+    "first_seen": "2023-11-24T00:30:06Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3293893,
+      48.8713608
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3293893,
+          48.8713608
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xq-brk"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 432,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 121,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 432,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 5,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "2989487"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 14122,
+    "predicted_event_spend_industries": {
+      "accommodation": 1958,
+      "hospitality": 7696,
+      "transportation": 4466
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "ARJkvFrd2Fzh7BRDDc",
+    "title": "LE FRIDGE BY KEV ADAMS",
+    "description": "Sourced from predicthq.com - C’est le plateau phare du Fridge Comedy Club à Paris qui débarque au Théâtre à l'Ouest !Le Fridge Comedy Night accueille tous les artistes confirmés, bien connus de la scène parisienne, pour votre plus grand plaisir !Venez prendre votre dose d’humour avec des artistes qui se succéderont pour vous faire rire pendant plus d'une heure.Le concept de la soirée : une programmation tenue secrète ! Vous aurez donc la surprise de rencontrer vos artistes préférés, mais aussi de découvrir les talents qui montent.A Savoir :Pour cette soirée  Fridge Comedy Club , vous pouvez boire un verre et même manger avant ou après le spectacle au Bar à l'Ouest.Le spectacle est accessible aux personnes à mobilité réduite.Age minimum pour accéder au spectacle : 12 ans.",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "W8CzKTpj2A6ppkpCyCxkyq",
+        "name": "THEATRE A L'OUEST",
+        "type": "venue",
+        "formatted_address": "8 QUAI VENDEUVRE\n14000 Caen\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T19:00:00Z",
+    "end": "2024-05-07T19:00:00Z",
+    "predicted_end": "2024-05-07T20:50:00Z",
+    "updated": "2024-01-11T02:40:16Z",
+    "first_seen": "2024-01-11T00:36:20Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -0.3576061,
+      49.1837691
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -0.3576061,
+          49.1837691
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4f8-3sf-q75"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071621",
+        "3029094",
+        "3029240",
+        "6427109",
+        "3029241"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "AsyYnMk3YZfR7dZ3sQ",
+    "title": "L'ODYSSEE SONORE",
+    "description": "Sourced from predicthq.com - L’ODYSSÉE SONORE, IMMERSION DANS UN UNIVERS EXTRAORDINAIREDepuis le mois de mai, le Théâtre antique d’Orange propose un nouveau parcours-spectacle immersif : l’Odyssée Sonore. Depuis sa création, ce monument hors norme est considéré comme un outil à l’acoustique extraordinaire. À la manière d’Ulysse dans l’Odyssée d’Homère, vous traverserez des paysages merveilleux et fantastiques, et partirez à la rencontre de divinités et de personnages mythologiques. L’EXPÉRIENCE DU MULTISENSORIELÀ travers ce spectacle d’un genre nouveau, découvrez une double expérience inédite : l’excellence acoustique grâce à un casque audio haute définition spatialisé et géolocalisé et l’immersion visuelle avec un videomapping monumental projeté sur l’ensemble du Théâtre antique, entièrement généré par l’intelligence artificielle. Sensations et frissons garantis !UN SPECTACLE ACCESSIBLE POUR PETITS ET GRANDSLe Théâtre étant avant tout un lieu de partage et d’échanges, ce parcours-spectacle, véritable œuvre mythologique contemporaine, est accessible à tous les publics et conçu pour être vécu entre amis ou en famille. Petits et grands partageront des moments inoubliables, tout en s’amusant à reconnaître les sons qui viennent de registres, de styles, et d’époques variés.L’ODYSSÉE SONORE EN QUELQUES MOTS45 minutes d’expériencePremier videomapping généré intégralement par intelligence artificielle5000 m² de découverteRestitution d’une qualité d’écoute haute-définition via un casque binaural",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 59,
+    "local_rank": 84,
+    "phq_attendance": 2807,
+    "entities": [
+      {
+        "entity_id": "KTPLsyhXFX8vX9SupnHV7",
+        "name": "Théâtre antique d'Orange",
+        "type": "venue",
+        "formatted_address": "Rue Madeleine Roch\n84100 Orange\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T19:00:00Z",
+    "end": "2024-05-07T19:00:00Z",
+    "predicted_end": "2024-05-07T21:10:00Z",
+    "updated": "2024-01-17T00:50:06Z",
+    "first_seen": "2024-01-17T00:31:07Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      4.8088117,
+      44.1359031
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          4.8088117,
+          44.1359031
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7fc-4bt-zcq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 422,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 2807,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 281,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 786,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 2807,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 29,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "2970554",
+        "3035679",
+        "6451580",
+        "2989460"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "2970554",
+        "3035679",
+        "6455379",
+        "3035681"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 73647,
+    "predicted_event_spend_industries": {
+      "accommodation": 5300,
+      "hospitality": 38704,
+      "transportation": 29641
+    },
+    "phq_labels": [
+      {
+        "label": "community-event",
+        "weight": 0.563
+      },
+      {
+        "label": "general-theatre",
+        "weight": 0.437
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "CAKzMsjGBBnuhGx3jg",
+    "title": "LE TENTALISTE",
+    "description": "Sourced from predicthq.com",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "AYFz76qnTmPvURTGAev4FD",
+        "name": "The Company Theatre Café",
+        "type": "venue",
+        "formatted_address": "6 Rue des Carmélites\n44000 Nantes\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T19:00:00Z",
+    "end": "2024-05-07T19:00:00Z",
+    "predicted_end": "2024-05-07T20:50:00Z",
+    "updated": "2023-12-29T00:42:13Z",
+    "first_seen": "2023-12-29T00:23:55Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -1.5513859,
+      47.2165503
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -1.5513859,
+          47.2165503
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4dx-826-pjv"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2997861",
+        "2990968",
+        "6434483",
+        "2990969"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 0.683
+      },
+      {
+        "label": "general-theatre",
+        "weight": 0.317
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "ERLoMeNxzwg2dEeDTH",
+    "title": "DERNIER COUP DE CISEAUX",
+    "description": "Sourced from predicthq.com - DERNIER COUP DE CISEAUXDe Paul PORTNERAdaptation de Sébastien AZZOPARDI et Sacha DANINOMise en scène de Sébastien AZZOPARDIAvec Domitille BIORET ou Marie-France SANTON, Thierry LANCKRIET ou Romain TOMAS, Jean-Marie ROLLIN ou Pierre SAMUEL, Salomé TALABOULMA, Morgane CABOT ou ELISA AZE, Richard DELESTRE ou Mathias BORD, Laurent HUGNY ou Cyril GARNIERUne comédie policière interactive. Un meurtre est commis chaque soir et c’est au public de résoudre l’enquête. 30 ans de succès et guinness des records de longévité aux usa ! plus de 9 millions de spectateurs à travers le monde. Un salon de coiffure, un meurtre, un flic… des suspects, à vous de jouer ! la première pièce dont le public est le héros...",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 40,
+    "local_rank": 46,
+    "phq_attendance": 323,
+    "entities": [
+      {
+        "entity_id": "PEtTNiNBjEpVuNZPvkNNhH",
+        "name": "Théâtre des Mathurins",
+        "type": "venue",
+        "formatted_address": "36 Rue des Mathurins\n75008 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T19:00:00Z",
+    "end": "2024-05-07T19:00:00Z",
+    "predicted_end": "2024-05-07T20:50:00Z",
+    "updated": "2024-01-20T00:18:04Z",
+    "first_seen": "2023-11-15T00:12:42Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.325623,
+      48.873275
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.325623,
+          48.873275
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-8dr-r8v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 323,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 323,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "3020270"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 7275,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 4603,
+      "transportation": 2671
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "F4HcigjpwBCDUqYcQ9",
+    "title": "PASSEPORT",
+    "description": "Sourced from predicthq.com - PASSEPORTAuteur : Alexis MichalikMise en scène : Alexis MichalikDistribution : Christopher BAYEMIPatrick BLANDINJean-Louis GARÇONKévin RAZYFaycal SAFIManda TOURÉYsmahane YAQINIRésumé : Issa, jeune Érythréen, laissé pour mort dans la « jungle » de Calais, a perdu la mémoire. Alors que le seul élément tangible de son passé est son passeport, il entame une longue quête semée d’embûches afin d’obtenir un titre de séjour, entouré de compagnons d’infortune. « D’une manière générale, je ne souhaite jamais écrire sur un thème, mais me fonde plutôt sur une idée ou une situation précise, qui donne ensuite naissance à l’architecture du spectacle. J’ai écrit cette nouvelle pièce en Guadeloupe, seul, après avoir mûri ses contours pendant plus d’un an et m’être longuement renseigné. Ce n’est pas un théâtre militant ou documentaire, mais une histoire humaine, qui s’adresse à tous. » confie Alexis Michalik.Équipe artistique (lumières, décor, costumes...) : Assistante mise en scène : Clotilde DaniaultMusiques : Sly JohnsonDécor : Juliette Azzopardiassistée de Arnaud de SegonzacAccessoires : Pauline GallotCostumes : Marion RebmannVidéo : Nathalie CabrolLumières : François le Neveu",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 42,
+    "local_rank": 42,
+    "phq_attendance": 392,
+    "entities": [
+      {
+        "entity_id": "hHtsJAJ79Xd9CJ93RXqzHc",
+        "name": "Renaissance Theatre (Théâtre de la Renaissance)",
+        "type": "venue",
+        "formatted_address": "20 Boulevard Saint-Martin\n75010 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T19:00:00Z",
+    "end": "2024-05-07T19:00:00Z",
+    "predicted_end": "2024-05-07T20:50:00Z",
+    "updated": "2024-01-25T00:55:59Z",
+    "first_seen": "2023-10-08T00:27:37Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3563112,
+      48.8690646
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3563112,
+          48.8690646
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xh-m8v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 392,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 110,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 392,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 4,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "3020216"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 11925,
+    "predicted_event_spend_industries": {
+      "accommodation": 888,
+      "hospitality": 6983,
+      "transportation": 4053
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "FjpwLGt2c5REjmSeqt",
+    "title": "LE PLUS HEUREUX DES TROIS",
+    "description": "Sourced from predicthq.com - LE PLUS HEUREUX DES TROISDe Eugène Labiche et Edmond GondinetAdaptation et mise en scène Luq HamettMusique originale : Christian GermainDécors : Claude PiersonAvec : GWENOLA DE LUZE, ALEXANDRE PESLE, DAVID MARTIN, OLIVIER DENIZET, ROSALIE HAMET, SOLENN DE CATUELAN et JULIEN GIUSTINIANI.Alphonse Marjavel est le plus heureux des hommes. Pour la Saint Alphonse, sa femme Hermance, a invité tous ses amis : Jobelin l'amant de sa première femme, sa nièce Berthe et Ernest son amant. Arrivent de la Sarthe, Omer et Mariette, les nouveaux domestiques qui, par leur candeur et leur ignorance, vont faire imploser tous les arrangements et l'organisation de ce joli petit monde … Avec le concours d’un cerf de la forêt de Compiègne, de Cléo le poisson rouge et d'un hanneton tout droit venu de Pruillé le Chétif ! Le saviez-vous ?Le plus heureux des trois est la première pièce de théâtre que Pierre Bellemare a joué au début des années 2000, en tournée dans toute la France avec comme partenaire Marion Game.",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 32,
+    "local_rank": 35,
+    "phq_attendance": 132,
+    "entities": [
+      {
+        "entity_id": "mLDgDqXLwRz7rh8kr5xwmG",
+        "name": "Théâtre Edgar",
+        "type": "venue",
+        "formatted_address": "58 Boulevard Edgar Quinet\n75014 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T19:00:00Z",
+    "end": "2024-05-07T19:00:00Z",
+    "predicted_end": "2024-05-07T20:50:00Z",
+    "updated": "2024-01-08T00:24:44Z",
+    "first_seen": "2023-12-14T00:18:57Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3244314,
+      48.8415161
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3244314,
+          48.8415161
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7y8-qs5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 132,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 132,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2971090",
+        "6457375",
+        "6613140",
+        "3016292",
+        "2989781"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2973,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1881,
+      "transportation": 1091
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "HNXhqkRpiCY2sGCaNM",
+    "title": "JE VOUDRAIS PAS CREVER",
+    "description": "Sourced from predicthq.com - Boris Vian vous invite chez lui pour un spectacle poético-musical ! Une vision authentique de sa vie, ses folies, de ses maux, ses joies.Authentiques, les deux interprètes de ce spectacle poético-musical dont l’amitié profonde et la sensibilité enflamment les poèmes de Boris donnent la sensation d’observer l’artiste en intense conversation avec lui-même. Un spectacle sensible avec une bonne dose d’auto dérision, pour rire, aussi.Théâtre musicalDurée : 60 minAuteur : Boris VIANMise en scène : Georgina Ridealgh et Jonathan PerreinDistribution : Guillaume Barre et Jonathan Perrein",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "music",
+      "arts"
+    ],
+    "rank": 30,
+    "local_rank": 34,
+    "phq_attendance": 100,
+    "entities": [
+      {
+        "entity_id": "37rA9B3U6zLDkYyupZkV7c4",
+        "name": "Essaïon Théâtre - Theatre room",
+        "type": "venue",
+        "formatted_address": "6 Rue Pierre au Lard\n75004 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T19:00:00Z",
+    "end": "2024-05-07T19:00:00Z",
+    "predicted_end": "2024-05-07T20:50:00Z",
+    "updated": "2024-01-27T02:52:11Z",
+    "first_seen": "2024-01-04T00:13:00Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3533099,
+      48.859704
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3533099,
+          48.859704
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xg-zcq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 100,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 100,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "3013131"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2252,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1425,
+      "transportation": 827
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "BnNpRuqN6J2SCrjNRF",
+    "title": "GHISLAINE B.",
+    "description": "Sourced from predicthq.com - Ghislaine B est le dernier volet du Triptyque « Solitudes ». Après Le Sas de Michel Azama, portrait d’une femme dans sa dernière nuit en prison ; Y a Pas Personne, une femme en perte de repères chez elle, nous voici avec Ghislaine B, concierge, femme de ménage dans un théâtre. À l’heure où les spectateurs sont partis, elle prend l’espace du plateau pour y déposer ses rêves. Elle dévoile les coulisses du spectacle, ce qu’elle a vu des auditions, des espoirs et désespoirs des comédiens.Elle joue et rejoue les scènes. Elle écoute ses bandes sons, ces extraits de spectacles qu’elle enregistre comme s’ils lui étaient nécessaires pour simplement vivre. Elle est là, comme les personnages du peintre Vincent Giquel : elle est à ce qu’elle fait.Sans regard sur elle. Elle se révèle aussi, se multiplie.Son alter ego ? La servante, cette lumière sacrée qu’on allume dans les théâtres à l’heure où le théâtre est vide. Elle n’a l’air de rien mais elle veille sur tout ce qui a été. Elle sert le théâtre.Cette servante est à la fois ou successivement sa partenaire, son amie, sa confidente son alter ego.Ghislaine vit son rêve ou rêve sa vie ? Elle joue pour de vrai ? Pour de faux ?Elle joue dans la pénombre, ses entrailles, ce qui l’anime et la tient debout. Elle s’autorise un temps pour sortir de l’habitude. Être là vraiment. Vivre. Sortir de sa boîte. À nu. À vif. À cran.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "Mmew4igCi2wirCMkT962cX",
+        "name": "CAC Concarneau",
+        "type": "venue",
+        "formatted_address": "10 Boulevard Bougainville\n29900 Concarneau\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:45:00Z",
+    "end": "2024-05-07T18:45:00Z",
+    "predicted_end": "2024-05-07T20:55:00Z",
+    "updated": "2023-12-18T00:48:33Z",
+    "first_seen": "2023-10-15T00:33:45Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -3.9217782,
+      47.8700955
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -3.9217782,
+          47.8700955
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4dx-k5j-zzz"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3030293",
+        "3018471",
+        "2984700",
+        "6448064",
+        "3024035"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3030293",
+        "3018471",
+        "2984700",
+        "6431033",
+        "2984701"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "H58gNmKz3TeX7XgxJ9",
+    "title": "FANNY RUWET",
+    "description": "Sourced from predicthq.com - Après un premier show (Bon anniversaire Jean, en streaming sur Canal ), un roman (Bien sur que les poissons ont froid, dispo en librairie) un court-métrage, plusieurs podcasts (Les Gens Qui Doutent) et quatre ans de chroniques sur France Inter, Fanny Ruwet revient avec un nouveau spectacle. Elle vous citerait bien les thèmes qui y sont abordés, mais c’est toujours en cours d’écriture. Donc tout ce qu’on peut promettre : c’est que ça sera drôle.",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "3948GPdXegenvsS8Nf4vHJd",
+        "name": "La Baie Des Singes",
+        "type": "venue",
+        "formatted_address": "6 Avenue de la République\n63800 Cournon-d'Auvergne\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:33:00Z",
+    "end": "2024-05-07T18:33:00Z",
+    "predicted_end": "2024-05-07T20:20:00Z",
+    "updated": "2024-01-01T02:22:13Z",
+    "first_seen": "2023-11-01T03:20:24Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.1951732,
+      45.7400302
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.1951732,
+          45.7400302
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53j-y5t-pjv"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "2984986",
+        "3024634",
+        "6440008",
+        "3022988"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "2984986",
+        "3024634",
+        "6440000",
+        "3024635"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": false,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 0.717
+      },
+      {
+        "label": "general-theatre",
+        "weight": 0.283
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "3zVckNobrqjzjzrzy4",
+    "title": "DJAL",
+    "description": "Sourced from predicthq.com - Après deux shows à guichets fermés, plus de 200 représentations et des milliers de spectateurs, D’jal est de retour avec un nouveau spectacle mêlant personnages toujours plus dingues et situations encore plus folles ! L’occasion de s’amuser tout en prenant votre dose d’humour et d’amour",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "nDqwmWqnBnabgxVfYFjT5M",
+        "name": "Espace Charles Vanel",
+        "type": "venue",
+        "formatted_address": "22 Boulevard du Maréchal Gallieni\n77400 Lagny-sur-Marne\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:30:00Z",
+    "end": "2024-05-07T18:30:00Z",
+    "predicted_end": "2024-05-07T20:20:00Z",
+    "updated": "2024-02-01T04:22:45Z",
+    "first_seen": "2023-09-22T08:36:25Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.7068164,
+      48.8760825
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.7068164,
+          48.8760825
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53t-67y-skf"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2975249",
+        "6457363",
+        "6455408",
+        "3009071"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2975246",
+        "6457371",
+        "6452608",
+        "3032179"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "7f4DgAYagKcZam9e3G",
+    "title": "LA CLAQUE",
+    "description": "Sourced from predicthq.com - Le spectacle connaît un joli succès auprès des critiques et reçoit sept nominations aux Trophées de la comédie musicale 2023- Meilleure comédie musicale- Meilleure mise en scène pour Fred RADIX- Meilleur livret pour Fred RADIX- Meilleure partition pour Fred RADIX- Premier rôle masculin pour Fred RADIX- Révélation féminine Alice NOUREUX- Révélation masculine Guillaume COLLIGNONLA CLAQUE Un spectacle de FRED RADIXAprès une première saison démarrée en septembre 2022 et couronnée de succès (prolongée à deux reprises), La Claque sera de retour pour une deuxième saison à partir du 17 septembre 2023.Drôle, musical et interactif, l’incroyable histoire d’un chef d’orchestre d’applaudissements.1895 dans un théâtre parisien.Auguste Levasseur, chef de claque, dirige une troupe de complices, qui, mêlés au public, sont chargés d’applaudir aux moments opportuns.Une pièce applaudie est une pièce à succès, or, à deux heures d’une grande première, Auguste est abandonné par sa claque. Il charge alors Fauvette, musicienne de l’orchestre, et Dugommier, régisseur du théâtre, de trouver des remplaçants pour sauver la représentation du soir. Il ne reste plus qu’une heure trente avant le début de la première pour faire répéter les claqueurs novices en leur interprétant des extraits du spectacle qui ne compte pas moins de cinq actes, quarante musiciens et trente changements de décors ! La tâche est ardue, ils ne sont que trois, et ce soir, leur carrière ne tient plus qu’à une claque !Après Le Siffleur et ses 600 représentations, Fred Radix revient avec un nouveau spectacle qui s’empare d’un sujet et d’un personnage qui ont marqué l’histoire du théâtre et les traite avec humour, musicalité et décalage historique.Auteur : Fred RADIXArtistes : Alice NOUREUX, Guillaume COLLIGNON, Fred RADIXMetteur en scène : Fred RADIXLa presse en parle « Une comédie originale et savoureuse, récompensée par de sincères rires et applaudissements » Télérama • TTT« Fred Radix prouve qu’avec peu de moyens, il est possible de révolutionner le spectacle vivant » Le Figaro« Moderne et original : une pépite théâtrale » France 2",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 42,
+    "local_rank": 44,
+    "phq_attendance": 376,
+    "entities": [
+      {
+        "entity_id": "QkYxXrBgu2wUTKu3pZsTUp",
+        "name": "Théâtre de la Gaîté-Montparnasse",
+        "type": "venue",
+        "formatted_address": "26 Rue de la Gaité\n75014 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:30:00Z",
+    "end": "2024-05-07T18:30:00Z",
+    "predicted_end": "2024-05-07T20:20:00Z",
+    "updated": "2024-02-02T01:00:19Z",
+    "first_seen": "2023-10-01T00:21:28Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.323101,
+      48.839302
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.323101,
+          48.839302
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7y7-rtv"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 376,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 106,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 376,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 4,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2971090",
+        "6457375",
+        "6613140",
+        "3016292",
+        "2989781"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 12291,
+    "predicted_event_spend_industries": {
+      "accommodation": 1704,
+      "hospitality": 6698,
+      "transportation": 3887
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "7iepWYEeNmwkpUDMTA",
+    "title": "MAHAUT",
+    "description": "Sourced from predicthq.com",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "AYFz76qnTmPvURTGAev4FD",
+        "name": "The Company Theatre Café",
+        "type": "venue",
+        "formatted_address": "6 Rue des Carmélites\n44000 Nantes\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:30:00Z",
+    "end": "2024-05-07T18:30:00Z",
+    "predicted_end": "2024-05-07T20:20:00Z",
+    "updated": "2023-12-29T00:19:40Z",
+    "first_seen": "2023-12-29T00:16:32Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -1.5513859,
+      47.2165503
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -1.5513859,
+          47.2165503
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4dx-826-pjv"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2997861",
+        "2990968",
+        "6434483",
+        "2990969"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 0.683
+      },
+      {
+        "label": "general-theatre",
+        "weight": 0.317
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "9QrYzjSrvw6xwCsdtu",
+    "title": "LES ANNÉES TWIST",
+    "description": "Sourced from predicthq.com - LES ANNÉES TWIST LA COMÉDIE MUSICALE SUR LES ANNÉES 60 :  les 10 ans qui ont changé le monde.Vivez l’histoire d’une bande de jeunes qui traverse les années 60 du rock, aux yéyés, au blues en passant par les hippies, mai 68, les révolutions morales, sexuelles, musicales, tous les grands événements de cette décennie racontés en 18 tableaux à travers Johnny, Cloclo, Bardot,  Dutronc, Eddy, les Stones, Hendrix, les Beatles, Aznavour, Sheila, Brel, Nougaro, Bécaud et les autres…Tout ça en live !  Et si vous venez habillez style sixties ce sera encore plus le feu dans la salle ! Distribution :Lou NAGYMartin HEUZARDAlexia PIOVANOPierre-Arthur LEMOINEMarine ROUVRAISThéophile BAQUETOlivier BENARDArmonie COIFFARDEt en alternance : Quentin AUBERT, Victor VILLAFRANCA, Thomas BOISSY, Magali BONFILS, Pierre-Alain LELEU Équipe artistique :Mise en scène : Lucy HarrisonChorégraphe : Olivier BenardDirection musicale : Gabriel Sarrou VergnacDurée : 1h30",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "music",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "GiDgV54K87ydgrz54dEAPU",
+        "name": "Theatre of the Eiffel Tower",
+        "type": "venue",
+        "formatted_address": "4 Square Rapp\n75007 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:30:00Z",
+    "end": "2024-05-07T18:30:00Z",
+    "predicted_end": "2024-05-07T20:20:00Z",
+    "updated": "2024-01-17T00:29:17Z",
+    "first_seen": "2023-06-15T00:45:45Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.301056,
+      48.858637
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.301056,
+          48.858637
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7yf-tsq"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "2988760"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false
+  },
+  {
+    "relevance": 0,
+    "id": "CFLC3f7eSC9vK8sqxq",
+    "title": "CROISIERE DINER - 20H30 - CROISIERE DINER SUR LA SEINE",
+    "description": "Sourced from predicthq.com - BATEAUX PARISIENS :CROISIERE DINER - 20H30Tous les jours de l'année sauf les 24 décembre, 25 décembre, 31 décembre, 14 février et 14 juillet.Au pied de la Tour Eiffel - Port de la Bourdonnais - Bateaux ParisiensMétro Bir-Hakeim ou Trocadéro - RER C Champs de Mars - Bus 42-82Parkings à proximité.Accueil : 19h30/20h15Départ : 20h30Retour : 23h00Incontournable ! Le  Must  des Croisières Dîner !À bord de bateaux entièrement vitrés, vous entrez dans le secret du Paris des Lumières…Au fil des plus beaux monuments, nos artistes vous font vivre une soirée prestigieuse en  live  dans une ambiance festive et inoubliable !Embarquez à bord d'une Croisière Dîner et laissez-vous emporter par l'animation musicale Glamour & Pop réalisée en live par nos artistes… Sublimez vos soirées d'été grâce à une expérience inoubliable !Le Chef prépare chaque jour, à bord de nos bateaux, une carte inspirée de la gastronomie française, élégante et raffinée.La cuisine, tout en fraîcheur, privilégie le goût et l'authenticité de denrées soigneusement sélectionnées.Une soirée magique !Les atouts de la Croisière Dîner :- Une croisière de 2H30 au cœur de Paris- Une vue imprenable et panoramique des illuminations de Paris- Un choix parmi 4 services- Une cuisine raffinée réalisée à bord par notre Chef- Une animation musicale en live- Une croisière  tout compris , incluant l'apéritif, le dîner, les boissons (eau minérale, vins et café) et l'animation musicaleBateaux non fumeurs. Vestiaire gratuit. Animaux non admis.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "gKjh9KhqswuEEkLnngQ9N2",
+        "name": "BATEAUX PARISIENS",
+        "type": "venue",
+        "formatted_address": "Port de la Bourdonnais\n75007 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:30:00Z",
+    "end": "2024-05-07T18:30:00Z",
+    "predicted_end": "2024-05-07T20:40:00Z",
+    "updated": "2024-02-02T00:49:04Z",
+    "first_seen": "2024-02-02T00:35:58Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.293565,
+      48.860385
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.293565,
+          48.860385
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7yf-td9"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "3013657",
+        "6457369",
+        "6451977",
+        "2990611",
+        "2988394"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "cultural-performance",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "DuaTx5Mjf4e77EiCZ6",
+    "title": "ROBERTO ALAGNA",
+    "description": "Sourced from predicthq.com",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "music",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "k9QpgZuX5C7xKABxNtAthv",
+        "name": "Bourges Cathedral",
+        "type": "venue",
+        "formatted_address": "Place Etienne Dolet\n18000 Bourges\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:30:00Z",
+    "end": "2024-05-07T18:30:00Z",
+    "predicted_end": "2024-05-07T20:40:00Z",
+    "updated": "2024-02-08T03:23:43Z",
+    "first_seen": "2023-12-10T01:13:44Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.399205,
+      47.0821639
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.399205,
+          47.0821639
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53t-ppp-zfz"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3027939",
+        "3025480",
+        "3031004",
+        "6454979",
+        "3031005"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 0.585
+      },
+      {
+        "label": "concert",
+        "weight": 0.415
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "E84LkaVNsB2aL52YjZ",
+    "title": "LA GIFLE TOURNOI D IMPROVISATION",
+    "description": "Sourced from predicthq.com - Venez assister à la 8ème saison des matchs d'improvisation de la GIFLE au Théâtre à l'Ouest RouenNée à Montréal en 1977, cette discipline théâtrale allie le sport et le théâtre. Mondialement connue, cette discipline théâtrale originale séduit par sa rapidité et sa spontanéité.Après 15 saisons, la G.I.F.L.E. est connue et reconnue dans le monde professionnel de l'improvisation théâtrale. Les tournois d'improvisations et leur concept unique de saynètes théâtrales improvisées dans un décorum de hockey séduisent chaque année de plus en plus de gens.Ce qui est aussi très impressionnant, c'est le bouquet de différents styles de scènes, d'époques et de référence au sein d'un même match.A chaque nouvelle improvisation, l'arbitre impose un thème et des contraintes de jeu. Les comédiens ne disposent que de 20 secondes pour mettre en oeuvre une scène complète et au terme du temps alloué par l'arbitre, c'est au public de juger laquelle des équipes a été la meilleure.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 34,
+    "local_rank": 50,
+    "phq_attendance": 165,
+    "entities": [
+      {
+        "entity_id": "ug4DLj8HGxDGUDUk5ctGiR",
+        "name": "Theatre a l'Ouest",
+        "type": "venue",
+        "formatted_address": "26 Quai Gaston Boulet\n76000 Rouen\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:30:00Z",
+    "end": "2024-05-07T18:30:00Z",
+    "predicted_end": "2024-05-07T20:20:00Z",
+    "updated": "2024-01-30T00:40:33Z",
+    "first_seen": "2023-11-30T00:27:31Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      1.0805632,
+      49.4420167
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          1.0805632,
+          49.4420167
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4f8-62z-gtv"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 165,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 165,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071621",
+        "2975248",
+        "2982651",
+        "6454707",
+        "2982652"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2742,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1413,
+      "transportation": 1328
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "EeTWiXKojfVSSBziCc",
+    "title": "ZAZIE",
+    "description": "Sourced from predicthq.com - Après sa tournée de Zéniths pour le « ZAZIE AIR TOUR », Zazie nous présente un spectacle plus intimiste lors de cette tournée 2024.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "tfy9nNBDtxffS8wFmX5vy9",
+        "name": "Théâtre Galli",
+        "type": "venue",
+        "formatted_address": "80 Avenue Raoul Henry\n83110 Sanary-sur-Mer\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:30:00Z",
+    "end": "2024-05-07T18:30:00Z",
+    "predicted_end": "2024-05-07T21:00:00Z",
+    "updated": "2024-01-30T07:26:02Z",
+    "first_seen": "2023-07-08T21:36:24Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      5.8039908,
+      43.1184292
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          5.8039908,
+          43.1184292
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7f9-tz2-7qz"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "2970749",
+        "2972326",
+        "6445067",
+        "2976258"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "2970749",
+        "2972326",
+        "6612862",
+        "2972328"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "concert",
+        "weight": 0.828
+      },
+      {
+        "label": "general-theatre",
+        "weight": 0.172
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "LQMJzVa2DAPxpxwjGo",
+    "title": "EDMOND",
+    "description": "Sourced from predicthq.com - EDMOND LA CRÉATION D’ALEXIS MICHALIKDécembre 1897, Paris.Edmond Rostand n’a pas encore trente ans mais déjà deux enfants et beaucoup d’angoisses. Il n’a rien écrit depuis deux ans. En désespoir de cause, il propose au grand Constant Coquelin une pièce nouvelle, une comédie héroïque, en vers, pour les fêtes. Seul souci : elle n’est pas encore écrite. Faisant fi de caprices des actrices, des exigences de ses producteurs corses, de la jalousie de sa femme, des histoires de cœur de son meilleur ami et du manque d’enthousiasme de l’ensemble de son entourage, Edmond se met à écrire cette pièce à laquelle personne ne croit. Pour l’instant, il n’a que le titre : Cyrano de Bergerac.5 MOLIÈRESMeilleur spectacle Théâtre Privé : Alexis MichalikAuteur francophone vivant : Alexis MichalikMetteur en scène Théâtre Privé : Alexis MichalikComédien dans un second rôle : Pierre ForestRévélation masculineAprès Le Porteur d’Histoire et Le Cercle des Illusionnistes, l’auteur – metteur en scène aux 8 Molières revient pour raconter la triomphale et mythique première de Cyrano de Bergerac. Edmond, avec ses douze comédiens sur scène, est - un vrai théâtre de troupe - rappelant les grandes épopées théâtrales du XIXe siècle.Distribution : Adrien Melin, Alice Allwright, Arthur Mazet, Ary Gabison, Augustin Ruhabura, Benjamin Wangermée, Catherine Arondel, Charline Paul, Christian Mulot, Christine Bonnard, Christophe Canard, Cyril Descours, Éric Mariotto, Eriq Ebouaney, Fabienne Galula, Fannie Outeiro, Franck Vincent, Gall Gaspard, Héloïse Janjaud, Jacques Bourgaux, Jeanne Guittet, Jean-Philippe Renaud, Julien Rouquette, Juliette Lamboley, Lionel Erdogan, Nathan Dunglas, Nora Giret, Pierre Bénézit,  Pierre Besson, Raphaële Volkoff, Sandra Dorset, Sonia Bendhaou, Thibault Truffert, Tristan Schotte, Valérie Baurens, Vincent Viotti, Valérie Vogt.Equipe artistique : Scénographie : Juliette AzzopardiLumières : Arnaud JungCostumes : Marion RebmannMusique : Romain TrouilletAssistante : Aïda AsgharzadehCombat : François RostainINFORMATION IMPORTANTE : Suite à la mise en place de l’état d’urgence et du renforcement des mesures de sécurité dans le cadre du plan Vigipirate, le  Théâtre du Palais-Royal  applique les mesures préventives décidées par le gouvernement pour les lieux publics.Ainsi, un seul sac (de type sac à main ou sac à dos d’une contenance inférieur ou égale à 25 litres) par personne est admis dans l’enceinte du Théâtre.Tout spectateur se présentant muni de valise se verra interdire l’entrée du théâtre sans possibilité de remboursement.Les trottinettes, mono-roues, vélos et batteries de vélos sont également interdits dans l’enceinte du Théâtre. Les poussettes sont autorisées, mais uniquement pliées et déposées au vestiaire du Théâtre pendant la représentation. Nous vous rappelons aussi que toute nourriture et/ou boisson est interdite en salle.Nous vous remercions de votre compréhension et de votre collaboration.Le Théâtre du Palais-Royal n’est pas équipé pour l’accès des usagers en fauteuil roulant (PMR). Nous vous informons également que l’accès à la salle du Théâtre du Palais-Royal est interdit aux enfants de moins de 3 ans.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 43,
+    "local_rank": 48,
+    "phq_attendance": 452,
+    "entities": [
+      {
+        "entity_id": "Rzcck4TVauVHwsnJqEuH2S",
+        "name": "Théâtre du Palais-Royal",
+        "type": "venue",
+        "formatted_address": "38 Rue de Montpensier\n75001 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:30:00Z",
+    "end": "2024-05-07T18:30:00Z",
+    "predicted_end": "2024-05-07T20:40:00Z",
+    "updated": "2024-01-08T00:44:08Z",
+    "first_seen": "2023-11-23T01:26:02Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3375997,
+      48.8660642
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3375997,
+          48.8660642
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7yj-8n5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 452,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 127,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 452,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 5,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "3030864"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 13751,
+    "predicted_event_spend_industries": {
+      "accommodation": 1024,
+      "hospitality": 8052,
+      "transportation": 4673
+    },
+    "phq_labels": [
+      {
+        "label": "movie",
+        "weight": 0.721
+      },
+      {
+        "label": "general-theatre",
+        "weight": 0.279
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "39EgFrB6GevM2qsS6R",
+    "title": "LES GROS PATINENT BIEN",
+    "description": "Sourced from predicthq.com - LES GROS PATIMENT BIEN Après Bigre, Molière de la Comédie 2017, Pierre Guillois et Olivier Martin-Salvan, dans un feu d’artifice de bouts de carton, invitent à un voyage imaginaire, fusion des délires d’un cabaret de « cartoons » et d’une épopée shakespearienne.Il quitte les plaines du Grand Nord, maudit par une sirène pêchée par accident. Il s’évade en patins, à trottinette, en avion cartonné. Il découvre l’Écosse, repart vers le sud à dos de mulet, assassine quelques cornemuseurs au passage, cherche l’amour, toujours. Mais l’acteur en costume trois pièces reste assis, c’est la folie du spectacle. Son acolyte en maillot de bain s’agite autour de lui avec des centaines de morceaux de carton où sont inscrits les noms des pays, accessoires ou bestioles rencontrées. Aventures rocambolesques déployées à force d’astuces et de gags, c’est une explosion d’idées géniales et farfelues. Le saviez-vous ?-  Molière 2022 du Meilleur Spectacle de Théâtre Public !De : Pierre GUILLOIS et Olivier MARTIN-SALVANDistribution : Avec en alternance : Didier BOULLE ou Jonathan PINTO-ROCHA ou Pierre BÉNÉZIT et Grégoire LAGRANGE ou Édouard PÉNAUD ou Baptiste CHABAUTYIngénierie carton : Charlotte RODIÈREGenre : ComédieDurée : 80 minutesPublic : à partir de 11 ansCritiques presse : « On est conquis » LE MONDE« Irrésistible » LES INROCKS« Un délire cartoonesque jamais vu sur scène » LE PARISIEN« Un spectacle drôle et poétique, plein de générosité » RFI« Une comédie espiègle, à nulle autre pareille » TELERAMA« Une vivifiante cure de rire » LA CROIX« Hilarant » FRANCE INTER« Ils déchainement des tempêtes de rires » L’OBS« Inoubliable » LE BONBON",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "p87tmfB5QVJAhCmFninu7f",
+        "name": "Théâtre Saint-Georges",
+        "type": "venue",
+        "formatted_address": "51 Rue Saint-Georges\n75009 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:00:00Z",
+    "end": "2024-05-07T18:00:00Z",
+    "predicted_end": "2024-05-07T19:50:00Z",
+    "updated": "2024-02-03T00:31:48Z",
+    "first_seen": "2024-02-03T00:22:46Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3374143,
+      48.8782255
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3374143,
+          48.8782255
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xp-ygk"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "2989487"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "48GPAv4mAung2CmCCC",
+    "title": "JAMAIS LE DEUXIEME SOIR",
+    "alternate_titles": [
+      "L'HOMME PARFAIT N'EXISTE PAS"
+    ],
+    "description": "Sourced from predicthq.com - JAMAIS LE DEUXIEME SOIRQuand les femmes font comme les hommes !  Et si les femmes étaient le sexe fort ?Et si les rôles étaient inverses ? Et si elles ne croyaient plus au grand amour ? Et si l'homme idéal venait frapper à leur porte ? Et si elles voulaient consommer le premier soir ? Et si l'homme était plus romantique que la femme ? Quand la belle ne croit plus au prince charmant ! Et si les rôles étaient inverses ? Et si elles ne croyaient plus au grand amour ? Et si l'homme idéal venait frapper à leur porte ? Et si elles voulaient consommer le premier soir ? Et si l'homme était plus romantique que la femme ?Quand la belle ne croit plus au prince charmant ! Une comédie à hurler de rire et à ne pas rater !Auteur : Patrick Hernandez, Enver Recepovic Metteur en scène : Xavier VitonAvec Emilie G. LAROMIGUIERE ; Rébecca TRUFFOT et Nicolas LEMAITRE",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 37,
+    "local_rank": 52,
+    "phq_attendance": 218,
+    "entities": [
+      {
+        "entity_id": "P4QL9w82eMGpsapYmYB4es",
+        "name": "Théâtre Trianon",
+        "type": "venue",
+        "formatted_address": "6 Rue Franklin\n33000 Bordeaux\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:00:00Z",
+    "end": "2024-05-07T18:00:00Z",
+    "predicted_end": "2024-05-07T19:50:00Z",
+    "updated": "2024-01-01T07:15:49Z",
+    "first_seen": "2023-11-01T03:19:15Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -0.5781629,
+      44.8422068
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -0.5781629,
+          44.8422068
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4f9-sn9-3h5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 218,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 218,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071620",
+        "3015948",
+        "3031580",
+        "6455058",
+        "3031582"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 4188,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2249,
+      "transportation": 1938
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 0.706
+      },
+      {
+        "label": "cultural-performance",
+        "weight": 0.294
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "7xV8vTUnMCQ9qJ4TwP",
+    "title": "LE LAC DES CYGNES - BALLET ET ORCHESTRE - LE LAC DES CYGNES",
+    "description": "Sourced from predicthq.com - Chef-d’œuvre intemporel du ballet classique, le Lac des Cygnes fait son grand retour en 2024.Dans une toute nouvelle tournée française et européenne, retrouvez l’amour romanesque d’une princesse-cygne et de son prince sous de somptueux décors et d’étincelants costumes dans cette dernière production inédite.Ce ballet nous plonge dans l’histoire féérique du Prince Siegfried et de la Princesse Odette. Celle-ci est victime du célèbre maléfice du magicien Rothbart: elle se transforme en cygne le jour et redevient femme la nuit. Seule la promesse d’un amour éternel pourra la libérer de cet ensorcellement. Siegfried promet alors à Odette de l’épouser lors du bal donné en son honneur. Échapperont-ils aux fourberies de Rothbart et de sa fille Odile? Le Prince parviendra-t-il à sauver sa promise? Créé en 1875 par le compositeur russe Piotr Ilitch Tchaïkovski, c’est en 1895 avec la reprise du chorégraphe Marius Petipa que Le Lac des Cygnes deviendra le plus grand succès classique de tous les temps. Entre « Pas de deux », duos romantiques et « Danse des Petits Cygnes », les danseurs, accompagnés d’un orchestre de renom, interpréteront tout en élégance cette œuvre magistrale. Symbole du ballet romantique, Le Lac des Cygnes envoûte et continue d’enchanter enfants comme adultes.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "u3dbzFUXJUGPnx36gAzBa",
+        "name": "Casino d'Arras",
+        "type": "venue",
+        "formatted_address": "3 Rue Emile Legrelle\n62000 Arras\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:00:00Z",
+    "end": "2024-05-07T18:00:00Z",
+    "predicted_end": "2024-05-07T20:10:00Z",
+    "updated": "2024-01-09T00:25:50Z",
+    "first_seen": "2023-06-03T00:23:43Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.7770794,
+      50.2900117
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.7770794,
+          50.2900117
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-nxf-kj9"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3036783",
+        "6618442",
+        "3036784"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "85y22tgMLHF7ERe5FP",
+    "title": "HASARD",
+    "description": "Sourced from predicthq.com - Dans ce spectacle, comme dans la vie, l’aléatoire vient bousculer nos repères et nos certitudes. Le hasard est au centre de la vie elle-même en faisant ou défaisant les situations. À l’intersection de différentes pratiques corporelles, Hasard s’appuie sur le mouvement du corps humain avec au cœur de la création, le geste.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "u8ex269mCKcccRARbamdyF",
+        "name": "Théâtre Jean-Vilar",
+        "type": "venue",
+        "formatted_address": "1 Place Jean Vilar\n94400 Vitry-sur-Seine\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:00:00Z",
+    "end": "2024-05-07T18:00:00Z",
+    "predicted_end": "2024-05-07T20:10:00Z",
+    "updated": "2024-01-11T05:25:36Z",
+    "first_seen": "2024-01-11T00:16:28Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.390165,
+      48.789089
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.390165,
+          48.789089
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7x6-zzz"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2971090",
+        "6457373",
+        "6452043",
+        "2967849"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2971090",
+        "6457373",
+        "6452018",
+        "3022530"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "8dS9UFZHUum5Udk2rs",
+    "title": "MA VERSION DE L'HISTOIRE",
+    "description": "Sourced from predicthq.com - MA VERSION DE L'HISTOIRE Ils ont vécu ensemble pendant 20 ans mais ils n’ont pas vécu la même histoire.Valentine et Sam font une thérapie de couple. Sam n’a pas du tout envie d’être là. Valentine pense que c’est essentiel. Elle raconte leur vie. Mais Sam s’insurge : ce n’est pas comme ça que ça s’est passé ! Et il se met à raconter sa version de l’histoire. Alors qui a tort ? Qui a raison? À vous de vous faire votre idée…Distribution :Miren Pradier, Sébastien Azzopardi, Déborah Leclercq, Alexandre NicotEquipe artistique :De Sébastien AzzopardiAssistante : Camille JolivetScénographie : Juliette Azzopardi, assistée de Arnaud de SegonzacVidéo : Nathalie CabrolLumières : Philippe LacombeCostumes : Jackie TadeoniAccessoiriste : Capucine Grou-RadenezMusique : Romain TrouilletCrédit Photos : Emilie Brouchon",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 39,
+    "local_rank": 45,
+    "phq_attendance": 293,
+    "entities": [
+      {
+        "entity_id": "DMrRyzhCbTp7gaa2rwi6Xr",
+        "name": "Théâtre Michel",
+        "type": "venue",
+        "formatted_address": "38 Rue des Mathurins\n75008 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:00:00Z",
+    "end": "2024-05-07T18:00:00Z",
+    "predicted_end": "2024-05-07T19:50:00Z",
+    "updated": "2024-01-18T00:18:55Z",
+    "first_seen": "2023-11-15T00:25:54Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3254543,
+      48.8732929
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3254543,
+          48.8732929
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-8dr-sqz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 293,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 293,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "3020270"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 6599,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 4176,
+      "transportation": 2423
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "9GjZWWbKr3tDcLbszM",
+    "title": "AYTA",
+    "description": "Sourced from predicthq.com - YOUNESS ABOULAKOULAYTADANSEMERCREDI 7 MAI / 20H / LE FOIRAIL1HAprès son solo Today Is a Beautiful Day, Youness Aboulakoul signe avec Ayta un appel à la résistance et à la verticalité, un manifeste chorégraphique pour six interprètes féminines, un nécessaire hymne à la vie.Dans sa dernière création, Youness Aboulakoul lance un appel en faveur de ces femmes pour qui la contestation est une nécessité. Dans la pièce, l’esprit libre et rebelle de la pratique musicale marocaine de l’ayta, alliée à l’engagement physique des danseuses, exalte la force et la liberté du corps féminin. D’origine berbère, l’ayta est né du cri. Un cri qui se transforme en appel à la mémoire, à la vie, à la beauté et à la souffrance qui l’accompagnent. Pratiqué au Maroc par des chanteuses et danseuses qui se démarquent par leur indépendance et leur liberté, il catalyse les émotions, exaltant la soif de justice. Transposé sur un plateau avec six danseuses d’origines diverses, Youness Aboulakoul rabat cet appel à la résistance sur la question de la verticalité. Les interprètes s’avancent comme une seule entité qui tombe, se soulève, se plie et se déplie. Un exercice rituel d’élévation et de valorisation des chutes. Ayta est une traversée sans relâche de ruptures et d’ascensions dans lequel le corps trouve à se régénérer.Avec Nefeli Asteriou, Marie-Laure Caradec, Sophie Lèbre, Cassandre Munoz, Anna Vanneau, Léonore Zurflu¨h Concept, chorégraphie Youness Aboulakoul Assistant artistique Pep Garrigues Créateur lumières Jean-François Desboeufs Sound media Jéronimo Roé Créateur sonore Youness Aboulakoul et Zouheir Atban",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "xzUGiR4QnqcELWf9Lg9XQP",
+        "name": "LE FOIRAIL",
+        "type": "venue",
+        "formatted_address": "14 PLACE DU FOIRAIL\n64000 Pau\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:00:00Z",
+    "end": "2024-05-07T18:00:00Z",
+    "predicted_end": "2024-05-07T20:10:00Z",
+    "updated": "2024-01-18T01:36:56Z",
+    "first_seen": "2023-07-05T00:07:17Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -0.3703483,
+      43.3032862
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -0.3703483,
+          43.3032862
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4dy-dqm-f75"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071620",
+        "2984887",
+        "2988356",
+        "6440557",
+        "2988358"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "BBv7VNrmH5z8T8VFL6",
+    "title": "THE MAGICAL MUSIC OF HARRY POTTER",
+    "description": "Sourced from predicthq.com - La série de films Harry Potter, largement acclamée pour son succès au cinéma, propose maintenant une expérience musicale unique en Europe. Avec la participation d'invités spéciaux, de solistes renommés, d'un chœur et d'un orchestre de musique de film, le concert met en lumière la magie des compositions de John Williams, Patrick Doyle, Nicolas Hooper et Alexandre Desplat. Offrant une soirée inoubliable mêlant humour, magie et un voyage musical dans le monde sorcier, le spectacle utilise des technologies avancées pour créer une ambiance envoûtante.",
+    "category": "arts",
+    "labels": [
+      "concert",
+      "movie",
+      "music",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "UQi9F55swmnCg2S4DefeXw",
+        "name": "LE KURSAAL - SALLE EUROPE",
+        "type": "venue",
+        "formatted_address": "PLACE DU CASINO\n59240 Dunkerque\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:00:00Z",
+    "end": "2024-05-07T18:00:00Z",
+    "predicted_end": "2024-05-07T20:10:00Z",
+    "updated": "2024-01-09T01:17:12Z",
+    "first_seen": "2023-12-02T00:12:23Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3888286,
+      51.0480918
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3888286,
+          51.0480918
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-q69-99f"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "3020685",
+        "6614519",
+        "2996359"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "movie",
+        "weight": 0.376
+      },
+      {
+        "label": "concert",
+        "weight": 0.312
+      },
+      {
+        "label": "family-theatre",
+        "weight": 0.311
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "BuYFMoQGpDbZ8nNdyw",
+    "title": "Klaus Mäkelä, Orchestre De Paris, and Philharmonie de Paris / Cité de la Musique saison 2023/2024",
+    "description": "Sourced from predicthq.com",
+    "category": "arts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 53,
+    "local_rank": 54,
+    "phq_attendance": 1446,
+    "entities": [
+      {
+        "entity_id": "rGxhtDVq7PLKMeZRVJB74h",
+        "name": "Grande salle Pierre Boulez",
+        "type": "venue",
+        "formatted_address": "221 Avenue Jean Jaurès\n75019 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:00:00Z",
+    "end": "2024-05-07T18:00:00Z",
+    "predicted_end": "2024-05-07T19:50:00Z",
+    "updated": "2024-01-07T04:42:30Z",
+    "first_seen": "2023-07-12T21:32:22Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.394194500000026,
+      48.89176049999999
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.394194500000026,
+          48.89176049999999
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xg-6zf"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 217,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 1446,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 145,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 405,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 1446,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 15,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2975246",
+        "6457371",
+        "6614030",
+        "3002499"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2975246",
+        "6457371",
+        "6452608",
+        "3032179"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 34437,
+    "predicted_event_spend_industries": {
+      "accommodation": 3278,
+      "hospitality": 17189,
+      "transportation": 13969
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "3dGhFg9mzipNdL45aw",
+    "title": "DANS LA PEAU DE MA FEMME",
+    "description": "Sourced from predicthq.com - Mettez-vous une seule journée à sa place !Suite à une scène de ménage le jour de la Saint Valentin, Cécile a fait un voeu. Elle a souhaité que son mari, Fred, se retrouve une seule journée à sa place.Le lendemain, le voeu a été exaucé.Fred se retrouve dans le corps de Cécile et Cécile, dans le corps de Fred.La visite inopportune de leur meilleur ami les oblige à jouer le rôle de l'autre. Dans la peau de ma femme  est une comédie de moeurs où hommes et femmes apprendront beaucoup d'eux-mêmes.Le Saviez-vous?Née à Montpellier en 2016 et traduite en 4 langues, cette comédie connait un succès partout en France et à l'étranger et a déjà réunis plus de 200 000 spectateurs.Avec en alternance, Anne Cazenave ou Mailys Fernandez, Jessica Monpiou ou Marion Rocquet, Roland Todoverto ou Fabrice Chikkaoui, Jérémy Faubet ou Tom PhénixPlacement libre - Bar et Restauration sur place - Ouverture une heure avant le spectacle.",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 33,
+    "local_rank": 49,
+    "phq_attendance": 148,
+    "entities": [
+      {
+        "entity_id": "czmXzG5NVRvZrCkXNMnfgf",
+        "name": "Théâtre Le Victoire",
+        "type": "venue",
+        "formatted_address": "18 Rue des Augustins\n33000 Bordeaux\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T17:30:00Z",
+    "end": "2024-05-07T17:30:00Z",
+    "predicted_end": "2024-05-07T19:20:00Z",
+    "updated": "2024-02-08T00:46:53Z",
+    "first_seen": "2024-02-08T00:32:03Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -0.5715274,
+      44.8323885
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -0.5715274,
+          44.8323885
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4f9-sn9-9cq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 148,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 148,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071620",
+        "3015948",
+        "3031580",
+        "6455058",
+        "3031582"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2843,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1527,
+      "transportation": 1315
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "4CYa34z7BF9ySyQPhT",
+    "title": "MÉDÉE",
+    "description": "Sourced from predicthq.com - MÉDÉEOPÉRAMarc-Antoine CharpentierC’est peut-être le personnage le plus insondable de la mythologie : Médée, la magicienne, trahie par son époux Jason, se venge en offrant à l’amante de celui-ci une robe empoisonnée puis en tuant ses propres enfants. Un tel destin, maintes fois repris dans les arts, ne pouvait que s’incarner à l’Opéra. En 1693, Marc-Antoine Charpentier crée à l’Académie royale de Musique – ancêtre de l’Opéra national de Paris – son unique tragédie lyrique, sur un livret de Thomas Corneille, en présence de Louis XIV. Trois siècles après sa création, cette partition baroque d’une grande richesse orchestrale revient pour la première fois sur la scène de l’Opéra national de Paris, portée par la direction musicale de William Christie. Réputé pour ses lectures d’une grande lisibilité, le metteur en scène David McVicar transpose l’action pendant la Deuxième Guerre mondiale, renforçant ainsi le caractère tragique de l’héroïne.3h25 avec 2 entractes",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "music",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "Zv9UNqY9429WkyqWywmWrL",
+        "name": "Palais Garnier",
+        "type": "venue",
+        "formatted_address": "8 Rue Scribe\n75009 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T17:30:00Z",
+    "end": "2024-05-07T17:30:00Z",
+    "predicted_end": "2024-05-07T19:40:00Z",
+    "updated": "2023-12-18T00:18:42Z",
+    "first_seen": "2023-05-25T00:09:18Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3316014,
+      48.8719697
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3316014,
+          48.8719697
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xq-6rk"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "2989487"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "5yKTGyi5YqdGV2HTH4",
+    "title": "LES FOUS ALLIES",
+    "description": "Sourced from predicthq.com - Avec mauvaise foi, lâcheté, hypocrisie, ils échangent sur l'amour, l'amitié, la mort, la famille... pour le meilleur du rire !Ils ne sont d'accord sur rien, ne comprennent rien aux usages de notre société. Ils sont lâches, égoïstes, parfois hypocrites, ils ont peur du conflit, et ont beaucoup de mal à assumer leurs torts. Alors quand les Fous Alliés débarquent, ils sont diaboliquement fous, mais follement drôles !Le Saviez-vous ?Nomination Meilleur spectacle d'humour Cyranos 2022Succès Festival d'Avignon 2022Auteur : Vincent CordierArtistes : Fabrice Pannetier, Vincent CordierMetteur en scène : Stéphane DuclotDurée : 70 minutesPRESSE :« Surréaliste ! On n'arrête pas de rire. Le jeu des comédiens est juste parfait dans ce spectacle extrêmement bien écrit. On en ressort regonflé ! » France Bleu Ile de France« Une comédie hilarante, résolument moderne. » Ouest France« De la rigolade pure et dure. » Le Télégramme« Un comique de situation redoutablement efficace, un regard très précis et bien senti et une interprétation à la malice contagieuse et pleine de justesse. » Pop and films« Un spectacle d’une irrésistible drôlerie, qui nous met les larmes aux yeux. » L’œil d’Olivier« Une comédie hilarante ! » Midi Libre« Des situations burlesques et loufoques. Un succès ! » La voix du Nord« De l’humour nouveau dans une comédie souvent absurde et surréaliste. » France 3« Extrêmement bien vu. C’est réglé comme du papier à musique. » France Bleu Loire Océan« Un spectacle fou et puissant en écriture. » Chérie FM",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 34,
+    "local_rank": 35,
+    "phq_attendance": 162,
+    "entities": [
+      {
+        "entity_id": "AnNBwMNPx6HPTH9v2ZSCfj",
+        "name": "Théâtre du Marais",
+        "type": "venue",
+        "formatted_address": "37 Rue Volta\n75003 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T17:30:00Z",
+    "end": "2024-05-07T17:30:00Z",
+    "predicted_end": "2024-05-07T19:20:00Z",
+    "updated": "2024-02-07T00:38:00Z",
+    "first_seen": "2023-12-08T00:44:03Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3577748,
+      48.866236
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3577748,
+          48.866236
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xh-p5f"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 162,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 162,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "2973189"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": false,
+    "private": false,
+    "predicted_event_spend": 3649,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2308,
+      "transportation": 1340
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "ADQfNDPiL5BKxcojo4",
+    "title": "MAGLOIRE",
+    "description": "Sourced from predicthq.com - MAGLOIRELOIN DE FORT BOYARD…MAGLOIRE OFFRE AU PUBLIC UNE ÉNORME SURPRISEPour la première fois seul en scène, Magloire propose avec Vaut-il mieux prier ou jouer à la loterie un spectacle à la fois profond et drôle, à la manière de Woody Allen.C’est une révélation, car on découvre un « autre » Magloire Delcros : un humoriste un peu provocateur, mais aussi un intellectuel, un humaniste d’une sensibilité bouleversante, un être à la fois rationaliste et mystique, sûr de lui et vulnérable.La question « Vaut-il mieux prier ou jouer à la loterie » entraîne Magloire sur des terrains parfois glissants :Les règles du marketing s’appliquent-elles à la prière ? Peut-on se dire à la fois athée et croyant ?Comment éviter d’inviter Dieu à un dîner de cons ?Comment contacter le service après-vente de la prière ?Vaut-il mieux s’adresser à Dieu où à ses assistants ?Dans Vaut-il mieux prier ou jouer à la loterie, Magloire offre au public la lecture des plus belles prières du monde : des textes lumineux, qui prouvent que nous appartenons à une humanité diverse et universelle à la fois... et que nous devons partager notre richesse et nos espoirs.Vaut-il mieux prier ou jouer à la loterie : le seul-en-scène le plus inattendu de la saison.",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 44,
+    "local_rank": 45,
+    "phq_attendance": 482,
+    "entities": [
+      {
+        "entity_id": "xspt8G8ZmW9m8vcqxvP8hP",
+        "name": "Théâtre du Gymnase Marie Bell",
+        "type": "venue",
+        "formatted_address": "38 Boulevard de Bonne Nouvelle\n75010 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T17:30:00Z",
+    "end": "2024-05-07T17:30:00Z",
+    "predicted_end": "2024-05-07T19:20:00Z",
+    "updated": "2024-01-28T01:17:46Z",
+    "first_seen": "2024-01-28T00:25:56Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.348866,
+      48.870883
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.348866,
+          48.870883
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xq-dvz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 482,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 135,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 482,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 5,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "3020216"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 15756,
+    "predicted_event_spend_industries": {
+      "accommodation": 2185,
+      "hospitality": 8587,
+      "transportation": 4983
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "CcYWXAfiBLkcTrZ4nU",
+    "title": "CIRQUE ARLETTE GRUSS - MULHOUSE",
+    "description": "Sourced from predicthq.com - CIRQUE ARLETTE GRUSS -  ETERNEL  C’est un moment hors du temps, un charme qui ne s’explique pas, un mirage né des projecteurs, un rêve excentrik, une peinture en mille couleurs !Invitez-vous sous notre toile ! Abandonnez votre habit du quotidien et dans les poussières d’étoile prenez votre bain.Ici brille un amour qui défie les lois, telle une étoile en héritage.Au-delà des corps, laissez-vous porter par la musique, invoquez avec nous les prouesses les plus inédites et rendez unique cet instant de partage.De cette piste, une ronde à l’infini, jaillit un souffle réinventé à chaque fois, une larme, un rire, un carnaval perpétuel.C’est en rouge et blanc que le nom d’Arlette GRUSS s'illumine et années après années nous le rendons « Éternel ».- Placement numéroté avec possibilité de choix sur plan et non garanti après le début de la représentation- Durée du spectacle 2H avec un entracte de 20 minutes- Avant le spectacle ou pendant l'entracte, les snacks et stands de friandises vous proposent des en-cas, boissons et douceurs pour le plaisir des petits et des grands- Orchestre live- Aucune place de ce chapiteau n'est en visibilité réduite.- Chapiteau chauffé- Salle de spectacle et toilettes accessibles pour les PMR.Il est conseillé d'arriver 45 minutes à l'avance. Le bar et le hall sont ouverts 1H avant le début du spectacle.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "8WAXSYvpCLFY7kiyi8U846",
+        "name": "CHAPITEAU ARLETTE GRUSS",
+        "type": "venue",
+        "formatted_address": "CHAMP DE FOIRE DE DORNACH\n68200 Mulhouse\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T17:30:00Z",
+    "end": "2024-05-07T17:30:00Z",
+    "predicted_end": "2024-05-07T19:10:00Z",
+    "updated": "2023-12-17T21:19:30Z",
+    "first_seen": "2023-12-14T02:23:26Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      7.3090829,
+      47.7463836
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          7.3090829,
+          47.7463836
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53b-pjv-3yv"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "3013663",
+        "2991213",
+        "6441541",
+        "2991214"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "3013663",
+        "3024296",
+        "6455228",
+        "3024297"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "circus",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "G9LfWJJvBxfujQ5Wbi",
+    "title": "MES COPAINS D'ABORD",
+    "description": "Sourced from predicthq.com - Descriptif : L’amitié peut-elle résister à tout ? Rien n’est moins sûr Pour préserver leur amitié, cinq amis d’enfance se sont fait la promesse de se revoir tous les dix ans. Cette année les retrouvailles ont lieu chez Samuel, devenu l’un des patrons les plus puissants du monde dans le secteur de l’intelligence artificielle. Il leur a réservé une surprise de taille, un petit jeu à l’issue duquel il cèdera son fauteuil et sa fortune au vainqueur. La règle est simple : chacun devra convaincre tous les autres qu’il est le meilleur et un gagnant sera élu à l’unanimité. Cette soirée inoubliable mettra leur amitié à rude épreuve, avant de prendre une tournure particulièrement inattendue… Avec en alternance : Kim Schwarck,  Nathalie Tassera, Joseph Gallet, Christophe Truchi, Jane Resmond, Sébastien Perez, Nicolas Bresteau, Jessica Berthe Godart, Fabienne Louin Une comédie de Joseph Gallet et Pascal Rocher Mise en scène Anne Bouvier Assistée de Joris Donnadieu Lumières : Jacques Rouveyrollis Décors : Caroline Lowenbach Costumes : Arnaud Caron  Par les auteurs de  Diner de Famille  LA PRESSE EN PARLE :  Rebondissements aussi intelligents que les dialogues sont drôles et vifs    - VSD  Mes copains d'abord fait mouche en étrillant joyeusement notre époque  l'Officiel des Spectacle  Comédiens au top, dialogues bien ciselés, on rit en s'interrogeant sur le sens de l'amitié, de la loyauté, de la vie ...    Le Parisien",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "YxXDBZMjyvCbKR8KiqtGcD",
+        "name": "Great Point-Virgule",
+        "type": "venue",
+        "formatted_address": "8bis Rue de l'Arrivée\n75015 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T17:30:00Z",
+    "end": "2024-05-07T17:30:00Z",
+    "predicted_end": "2024-05-07T19:20:00Z",
+    "updated": "2024-02-02T00:44:27Z",
+    "first_seen": "2024-02-02T00:23:52Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3220393,
+      48.8435752
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3220393,
+          48.8435752
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7y8-qvf"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "2997000"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "4XyhcTQwM3FPyVeVhC",
+    "title": "LE COUCOU",
+    "description": "Sourced from predicthq.com - LE COUCOUDe Matthieu Burnel et Sacha JudaszkoMise en scène Luq HamettAvec : Emmanuelle BOIDRON, Gérard VIVÈS et Luq HAMETT Maxime Depratte (Gérad Vivès), directeur charismatique dans un grand groupe, invite à dîner son comptable pointilleux et effacé, Corentin Michelot (Luq Hamett), pour « arranger » un bilan financier qui risque de le mener tout droit en prison.Ségolène (Emmanuelle Boidron), la femme de Maxime, est très contrariée d’être la complice de ce dîner de con. Le comble étant que, depuis une semaine, des collègues les ont étrangement confondus, alors que d’après son mari, ils ne se ressemblent pas du tout ! À l’arrivée de Michelot, Ségolène constate en effet que les deux hommes n’ont strictement rien à voir ! Et pourtant… L’orage gronde ce soir-là… Et ce qui paraissait impossible ne va plus l’être du tout ! Les emportant tous les trois dans un tourbillon de retournements de situation, de quiproquos et d’inversion des rôles, qui va les forcer malgré eux à se découvrir bien au-delà de ce qu’ils auraient pu imaginer !Et vous, on vous a déjà confondu avec quelqu’un d’autre ?Le saviez-vous ? Le coucou, de la famille des Cuculidés a cette particularité rare de pondre ses œufs dans le nid des autres et de les laisser élever ses petits à sa place… LA PRESSE : LE PARISIEN:  TOP 5 des spectacles les plus tordants... Un enchaînement de savoureux quiproquos, follement mené par Gérard Vivès, Emmanuelle Boidron et Luq Hamett  - Valentine Rousseau LE FIGARO TV magazine:   il rêvait depuis longtemps de monter sur scène avec un contre-emploi à l'image de ceux qui ont marqué son parcours audiovisuel. Le succès est au rendez-vous puisque la pièce figure aujourd'hui dans le Top 5 des comédies à l'affiche à Paris  - Jacques Pessis.",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 32,
+    "local_rank": 35,
+    "phq_attendance": 132,
+    "entities": [
+      {
+        "entity_id": "mLDgDqXLwRz7rh8kr5xwmG",
+        "name": "Théâtre Edgar",
+        "type": "venue",
+        "formatted_address": "58 Boulevard Edgar Quinet\n75014 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T17:00:00Z",
+    "end": "2024-05-07T17:00:00Z",
+    "predicted_end": "2024-05-07T18:50:00Z",
+    "updated": "2023-12-17T22:55:59Z",
+    "first_seen": "2023-12-14T02:46:19Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3244314,
+      48.8415161
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3244314,
+          48.8415161
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7y8-qs5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 132,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 132,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2971090",
+        "6457375",
+        "6613140",
+        "3016292",
+        "2989781"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2973,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1881,
+      "transportation": 1091
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "C5TC5HK6QfasWDKfiF",
+    "title": "SATIE BEETHOVEN CHOPIN SCHUBERT",
+    "description": "Sourced from predicthq.com - A. Polycarpe, pianoChopin, Nocturnes – Debussy, Clair de lune – Schubert, impromptusconcert aux chandelles",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "music",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "MtruDjJRk6V6QrGiZfarZH",
+        "name": "Church of Saint-Ephrem",
+        "type": "venue",
+        "formatted_address": "17 Rue des Carmes\n75005 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T17:00:00Z",
+    "end": "2024-05-07T17:00:00Z",
+    "predicted_end": "2024-05-07T19:30:00Z",
+    "updated": "2024-01-27T00:49:05Z",
+    "first_seen": "2024-01-27T00:26:58Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3475592,
+      48.8483564
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3475592,
+          48.8483564
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7y9-zmk"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "2988623"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "concert",
+        "weight": 0.531
+      },
+      {
+        "label": "cultural-performance",
+        "weight": 0.469
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "CP8SbuHF4jdbuzxoD6",
+    "title": "RIMBAUD CAVALCADES",
+    "alternate_titles": [
+      "REMBRANDT SOUS L'ESCALIER - REMBRANDT SOUS L ESCALIER"
+    ],
+    "description": "Sourced from predicthq.com - Graphiste en plein burn out, Romuald a tout quitté. Il nous raconte son voyage et comment Arthur Rimbaud lui a sauvé la vie.Graphiste pour une marque de yaourt, Romuald a claqué la porte d’une réunion en hurlant : « Je vais acheter un cheval et m’en aller ! » Il apprend qu' Arthur Rimbaud  a écrit cette phrase, en 1881... Romuald va tout lâcher, acheter un vélo et partir sur les traces du poète…Genre : Comédie, seul en scène, poésieDurée : 80 minutesTOUT PUBLICA partir de 10 ansAuteur : Romain Puyuelo et Nicolas ValléeMise en scène : Nicolas ValléeAvec : Romain PuyueloCréation musicale : Carlos BernardoPresse: Magistralement interprété!  - l'Humanité Un spectacle, seul en scène, tout à fait trépidant et drôle pour évoquer le parcours du poète voyageur. Romain PUYUELO à travers le personnage fantasque de Romuald a choisi la face ensoleillée de Rimbaud. Il en résulte un spectacle au charme fou...   - Le Monde Libertaire Une petite merveille d'hommage au génie de Charleville  Froggy's delight Romain Puyuelo incarne à la perfection chacun des personnages. Il est, suit, poursuit et vit Arthur Rimbaud. Coup de maître et bel hommage à ce  princes des poètes . La réussite tient aussi sur la fluidité de la mise en scène, la sobriété du décor, le son travaillé à la perfection.  La Revue du spectacle La mise en scène ingénieuse de Nicolas Vallée place le comédien Romain Puyuelo en enquêteur qui donne corps et voix à tous les protagonistes de la vie du poète. Il égraine les rimes, fait briller la poésie et la musique de Carlos Bernardo avec une belle mise en lumière. Un instant suspendu.  Théâtreactu  Une belle manière pour découvrir ou redécouvrir Arthur Rimbaud. Une sacré performance scénique   VivreFM",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 30,
+    "local_rank": 34,
+    "phq_attendance": 102,
+    "entities": [
+      {
+        "entity_id": "37rA9B3U6zLDkYyupZkV7c4",
+        "name": "Essaïon Théâtre - Theatre room",
+        "type": "venue",
+        "formatted_address": "6 Rue Pierre au Lard\n75004 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T17:00:00Z",
+    "end": "2024-05-07T17:00:00Z",
+    "predicted_end": "2024-05-07T18:50:00Z",
+    "updated": "2024-01-27T03:13:06Z",
+    "first_seen": "2023-12-28T00:24:01Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3533099,
+      48.859704
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3533099,
+          48.859704
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xg-zcq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 102,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 102,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "3013131"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2297,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1453,
+      "transportation": 843
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "EdNoGF25TUSdzNyVBw",
+    "title": "A LA RECHERCHE DES CANARDS PERDUS - DES CANARDS",
+    "description": "Sourced from predicthq.com - Seul en scène et sur fond de Power Point, Frédéric Ferrer explore des sujets aussi farfelus qu’insolites autour de la préoccupation majeure de notre époque : le changement climatique !Dans son cycle artistique de cartographies théâtrales, Atlas de l’Anthropocène, le metteur en scène, comédien mais aussi géographe de formation, décortique avec érudition et humour le fruit de ses enquêtes sur des territoires absolument inattendus.De et avec Frédéric Ferrer",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 41,
+    "local_rank": 40,
+    "phq_attendance": 339,
+    "entities": [
+      {
+        "entity_id": "NLkfiXMfkpXiJ9pP7RHkFr",
+        "name": "Théâtre de l'Atelier",
+        "type": "venue",
+        "formatted_address": "1 Place Charles Dullin\n75018 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T17:00:00Z",
+    "end": "2024-05-07T17:00:00Z",
+    "predicted_end": "2024-05-07T18:50:00Z",
+    "updated": "2024-01-21T00:41:23Z",
+    "first_seen": "2024-01-21T00:25:45Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3422628,
+      48.8833994
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3422628,
+          48.8833994
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xq-wp9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 339,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 95,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 339,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 4,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2975246",
+        "2980915",
+        "6455342",
+        "2977824",
+        "3029374"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 10313,
+    "predicted_event_spend_industries": {
+      "accommodation": 768,
+      "hospitality": 6039,
+      "transportation": 3505
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "HzCuH4cVgmXZ9kWjuY",
+    "title": "CABARET BIO DÉGRADABLE",
+    "description": "Sourced from predicthq.com - CABARET BIO DÉGRADABLE Un tout nouveau cabaret littéraire humoristique arrive à Paris !Conçu comme une expérience littéraire aux frontières de l'intimité, ce cabaret nous fera revivre d'inclassables souvenirs du showbiz : les pires autobiographies de vos personnalités préférées font l'objet d'un spectacle plein de détails croustillants et d'anecdotes essentielles.Venez découvrir les témoignages crédibles et passionnants de Nabilla, la simplicité d'un Massimo Gargia, les vies antérieures de Sheila, les conseils avisés aux jeunes femmes de Nadine de Rothschild et tant d'autres moments de poésie pure. Mais aussi des émotions fortes, lorsque vous apprendrez par exemple l'impact de la guerre du Golfe sur la vie d'Élodie Gossuin.Les comédiens qui se succèdent sur scène réveilleront les mots endormis en faisant une lecture fidèle de morceaux choisis tirés de ces chefs-d'oeuvre d'authenticité et d'hilarité.Artistes : Jean-Louis Barcelona, Christophe Canard, Guillaume Clérice, Franck Duret, Benjamin Gauthier, Nicolas Martinez, Djibril Pavadé, Virginie Pradal",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "utec7rszCEpBQvMij9YrtS",
+        "name": "Comédie Bastille",
+        "type": "venue",
+        "formatted_address": "5 Rue Nicolas Appert\n75011 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T17:00:00Z",
+    "end": "2024-05-07T17:00:00Z",
+    "predicted_end": "2024-05-07T19:10:00Z",
+    "updated": "2024-01-15T02:24:13Z",
+    "first_seen": "2024-01-15T00:16:08Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3701575,
+      48.8588833
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3701575,
+          48.8588833
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xh-2hq"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "2986082"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "GH7YsAbgRqwPqUeG84",
+    "title": "CROISIERE DINER - 18H15 - CROISIERE DINER SUR LA SEINE",
+    "description": "Sourced from predicthq.com - BATEAUX PARISIENS :CROISIERE DINER - 18H15Tous les jours de l'année sauf les 24 décembre, 25 décembre, 31 décembre, 14 février et 14 juillet.Au pied de la Tour Eiffel - Port de la Bourdonnais - Bateaux ParisiensMétro Bir-Hakeim ou Trocadéro - RER C Champs de Mars - Bus 42-82Parkings à proximité.Accueil : 17H15/18H00Départ : 18h15Retour : 19H45Incontournable ! Le  Must  des Croisières Dîner !À bord de bateaux entièrement vitrés, vous entrez dans le secret du Paris des Lumières…Au fil des plus beaux monuments, nos artistes vous font vivre une soirée prestigieuse en  live  dans une ambiance festive et inoubliable !Embarquez à bord d'une Croisière Dîner et laissez-vous emporter par l'animation musicale Glamour & Pop réalisée en live par nos artistes… Sublimez vos soirées d'été grâce à une expérience inoubliable !Le Chef prépare chaque jour, à bord de nos bateaux, une carte inspirée de la gastronomie française, élégante et raffinée.La cuisine, tout en fraîcheur, privilégie le goût et l'authenticité de denrées soigneusement sélectionnées.Une soirée magique !Les atouts de la Croisière Dîner :- Une croisière de 2H30 au cœur de Paris- Une vue imprenable et panoramique des illuminations de Paris- Un choix parmi 4 services- Une cuisine raffinée réalisée à bord par notre Chef- Une animation musicale en live- Une croisière  tout compris , incluant l'apéritif, le dîner, les boissons (eau minérale, vins et café) et l'animation musicaleBateaux non fumeurs. Vestiaire gratuit. Animaux non admis.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "gKjh9KhqswuEEkLnngQ9N2",
+        "name": "BATEAUX PARISIENS",
+        "type": "venue",
+        "formatted_address": "Port de la Bourdonnais\n75007 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T16:15:00Z",
+    "end": "2024-05-07T16:15:00Z",
+    "predicted_end": "2024-05-07T18:25:00Z",
+    "updated": "2024-02-02T00:52:40Z",
+    "first_seen": "2024-02-02T00:37:11Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.293565,
+      48.860385
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.293565,
+          48.860385
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7yf-td9"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "3013657",
+        "6457369",
+        "6451977",
+        "2990611",
+        "2988394"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "cultural-performance",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "7Ato4euJULotgNBXRC",
+    "title": "MUSEE   EXPOSITIONS TEMPORAIRES - MUSEE DU QUAI BRANLY",
+    "description": "Sourced from predicthq.com - MUSEE DU QUAI BRANLY - JACQUES CHIRAC37, Quai Branly - 75007 PARIS.Ce billet daté donne accès au musée, aux expositions temporaires et au jardin.Ouvert du mardi au dimanche : de 10h30 à 19h00, le jeudi jusqu'à 22h00.Gratuit pour tous le premier dimanche du mois.Dans le cadre du weekend nationale de l’ethnographie le musée sera entièrement gratuit le samedi 2 mars et le dimanche 3 mars.EXPOSITIONS EN COURS ET A VENIR :- LA RESERVE DES NON-DITSdans le cadre de la Résidence sonore 2022Du samedi 05 novembre 2022 au dimanche 18 février 2024 La Réserve des non-dits  est le premier projet créé dans le cadre des résidences sonores au musée du quai Branly - Jacques Chirac. Tout en délicatesse, Youmna Saba, lauréate de cette résidence 2022, est allée capter le souffle des instruments de musique, au cœur de leur lieu de conservation.--- VISIONS CHAMANIQUESArts de l'Ayahuasca en Amazonie péruvienneDu mardi 14 novembre 2023 au dimanche 26 mai 2024 L’exposition explore les enjeux contemporains liés aux relations entre images hallucinatoires et productions iconographiques, à partir du cas de l’ayahuasca.--- DEBORDER L'ANTHROPOLOGIEZora Neale Hurston, Eslanda Goode Robeson, Katherine DunhamDu mardi 06 février 2024 au dimanche 12 mai 2024En puisant dans une histoire peu connue en France, l’exposition met à l’honneur trois femmes qui se sont chacune réapproprié les codes de l’anthropologie pour s’en émanciper et devenir des figures militantes et artistiques incontournables du 20e siècle.--- MYRIAM MIHINDOUIlimb, l'essence des pleursDu mardi 06 février 2024 au dimanche 10 novembre 2024 Invitation à l’artiste contemporaine Myriam Mihindou, pour une œuvre immersive et sonore construite en résonance avec la collection d’instruments de musique conservée au musée.--- MEXICADes dons et des dieux au templo MayorDu mercredi 03 avril 2024 au dimanche 08 septembre 2024Le fruit des recherches conduites au temple principal de la culture mexica est présenté pour la première fois en Europe. Une exposition unique dans l’histoire de l’archéologie mésoaméricaine.EN RESERVANT SUR NOTRE SITE, L'EXPOSITION  « MEXICA » EST ACCESSIBLE AUX CONDITIONS SUIVANTES :Pour l'exposition « MEXICA », la réservation d’un accès gratuit horodaté est obligatoire sur la billetterie en ligne du musée du quai Branly-Jacques Chirac pour toute commande. La réservation horodatée et le billet préacheté seront nécessaires pour accéder à l'exposition.- En raison d’une jauge réduite, l’exposition temporaire « MEXICA » ne sera accessible qu'avec un billet spécifique et disponible uniquement sur le site du musée. - Procédure de réservation pour l’exposition « MEXICA » :Après l’achat de votre billet dans notre réseau, la réservation d’un créneau de visite gratuit horodaté sur le site de la billetterie en ligne du musée du quai Branly - Jacques Chirac est OBLIGATOIRE.Pour ce faire, il vous suffira de sélectionner, sur le site de la billetterie du musée du quai Branly - Jacques Chirac, «Billet musée   accès  MEXICA », cliquer sur «Réserver» puis «Billet musée Autres gratuités - Accès MEXICA» et d’indiquer le nombre de billets correspondants à votre commande.La réservation et le billet préacheté seront à présenter au contrôle d'accès.--- TAÏNOS ET KALINAGOS DES ANTILLESDu mardi 04 juin 2024 au dimanche 13 octobre 2024  Taïnos et Kalinagos des Antilles  rend hommage à l’exposition présentée il y a trente ans au Petit Palais à l’initiative de Jacques Chirac et considérée comme un prélude à la naissance du musée du quai Branly-Jacques Chirac.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "EV3mBYxN3sDL9HgQfXtCwt",
+        "name": "Quai Branly Museum",
+        "type": "venue",
+        "formatted_address": "37 Quai Branly\n75007 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T15:00:00Z",
+    "end": "2024-05-07T15:00:00Z",
+    "predicted_end": "2024-05-07T17:10:00Z",
+    "updated": "2024-02-03T00:35:53Z",
+    "first_seen": "2024-02-02T00:35:30Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.297894,
+      48.8608889
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.297894,
+          48.8608889
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7yf-v2k"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "3013657",
+        "6457369",
+        "6451977",
+        "2990611",
+        "2988394"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "cultural-performance",
+        "weight": 0.748
+      },
+      {
+        "label": "community-event",
+        "weight": 0.252
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "8yxgYmzRw69zFcxnGB",
+    "title": "LE CHAPEAU MAGIQUE",
+    "description": "Sourced from predicthq.com - Avec son chapeau, le magicien vous emmène dans le monde merveilleux de la magie et de l'illusion ! Un ballon magique est offert à chaque enfant.Durée : 1h.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "cCfmxDXFMPXU84uRXuNy37",
+        "name": "L'antre Magique",
+        "type": "venue",
+        "formatted_address": "50 Rue Saint-Georges\n75009 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T15:00:00Z",
+    "end": "2024-05-07T15:00:00Z",
+    "predicted_end": "2024-05-07T17:10:00Z",
+    "updated": "2023-12-18T00:45:38Z",
+    "first_seen": "2023-10-07T00:03:32Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3374246,
+      48.8774422
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3374246,
+          48.8774422
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xp-y5f"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "2989487"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "EUYVJbdGrgQCH7S9Ac",
+    "title": "MATCH - ENTRÉE SIMPLE",
+    "description": "Sourced from predicthq.com - MATCHDesign & sport - une histoire tournée vers le futurDu mercredi 13 mars 2024 au dimanche 11 août 2024À l’occasion des Jeux Olympiques de Paris 2024, le Musée du Luxembourg propose une exposition dédiée à l’avenir du design et du sport. Inscrite dans le cadre des Olympiades Culturelles Match retrace le rôle du design dans les progrès du sport, les liens qui se sont dessinés entre ces deux domaines ainsi que les perspectives d’évolution. L’exposition permet également d’explorer comment le monde du sport ne cesse d’inspirer les grands designers - et réciproquement - dans des secteurs tels que l’automobile ou le prêt-à-porter.Commissaire général & Scénographie : Konstantin GrcicHoraires :Ouvert tous les jours du lundi au dimanche de 10h30 à 19h00.Nocturne jusqu'à 22h00 le lundi sauf les 29 juillet et 5 aout.Pas de jour de fermeture hebdomadaire.Fermé le 1er mai.Ouverture le 17 octobre, 24 et 31 décembre de 10h30 à 18h00.Dernière entrée 45 minutes avant l’heure de fermeture.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "F8mwt8uFqhanG49U6Fqu2S",
+        "name": "Musée du Luxembourg",
+        "type": "venue",
+        "formatted_address": "19 Rue de Vaugirard\n75006 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T14:30:00Z",
+    "end": "2024-05-07T14:30:00Z",
+    "predicted_end": "2024-05-07T16:40:00Z",
+    "updated": "2024-02-04T03:02:15Z",
+    "first_seen": "2024-02-04T00:31:46Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.334057,
+      48.8484382
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.334057,
+          48.8484382
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7yh-v75"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "2997000"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "cultural-performance",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "EZ9Bj8iKbwmAoTJhAc",
+    "title": "CITE DE L'HISTOIRE",
+    "description": "Sourced from predicthq.com - Amaclio Productions présente :CITÉ DE L'HISTOIRE PLONGEZ AU CŒUR DE L’HISTOIRE ET REMONTEZ LE TEMPS !Seul, en famille ou entre amis, venez vous immerger au cœur de quelques unes des plus grandes sagas de l'aventure humaine.Aux portes de Paris, remontez le temps et découvrez les plus belles pages de l’Histoire de l’humanité au sein de la Cité de l’Histoire. Grâce à des spectacles et animations technologiques ultra-immersives, petits et grands revivent les grands évènements du passé, rencontrent les figures emblématiques de l’histoire de France et vivent de nouvelles émotions !Trois attractions principales, un espace entièrement dédié à l’Histoire, un univers inspiré de différentes époques… le tout mis en scène par Franck Ferrand et produit par Amaclio Productions, société reconnue pour ses grands spectacles historiques immersifs.1) PARCOURS IMMERSIF : - LE FIL DES SIÈCLES -Soyez les témoins privilégiés des grands évènements et des scènes anonymes qui ont façonné l'Histoire de France.De scènes en scènes, guidés par des acteurs, laissez-vous mener par la voix caractéristique de Franck Ferrand pour découvrir les riches heures de notre histoire.Un parcours 4 dimensions accessible en continu, pour une immersion complète dans l'épopée française.Durée : 40 minutes d'expérience itinérante.2) ELLIPSE 360° : - HUGO, L'HOMME RÉVOLUTIONS -Vivez une parfaite immersion auprès d'un personnage historique emblématique.Le vidéomapping à 360° sur un décor ancien plonge les spectateurs dans la vie d'un grand personnage, à mi-chemin entre le cinéma et spectacle immersif.Au sein d'une arène, plusieurs fois par jour, s'anime un grand spectacle visuel et sonore écrit par Franck Ferrand.Programmation disponible jusqu'au 3 septembre 2023.Durée : 30 minutes de spectacle debout.3) FRISE CHRONOLOGIQUE :- LE COULOIR DU TEMPS -Empruntez les couloirs du temps et découvrez les secrets de l'humanité.La frise chronologique géante, numérique et interactive, permet aux visiteurs de découvrir 400 dates majeures de l’histoire du monde.Un espace en libre accès avec 26 bornes tactiles permettant de faire apparaître au mur l’illustration animée de la date sélectionnée.Programmation disponible jusqu'au 3 septembre 2023.Durée : Minimum 1 heure, 400 dates à découvrir.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "qrVdwBfnvPNWGrhfmC3sVg",
+        "name": "CITÉ DE L'HISTOIRE",
+        "type": "venue",
+        "formatted_address": "1 PARVIS DE LA DEFENSE\n92400 Puteaux\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T14:00:00Z",
+    "end": "2024-05-07T14:00:00Z",
+    "predicted_end": "2024-05-07T16:10:00Z",
+    "updated": "2024-01-13T01:40:44Z",
+    "first_seen": "2023-09-30T00:21:35Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.2355535,
+      48.892868
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.2355535,
+          48.892868
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-8db-mtv"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "3013657",
+        "6457369",
+        "6451978",
+        "2985034"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "3013657",
+        "6457369",
+        "6451976",
+        "2990970"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "cultural-performance",
+        "weight": 1
+      }
+    ]
+  }
+]

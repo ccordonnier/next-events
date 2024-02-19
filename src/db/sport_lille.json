@@ -1,0 +1,5382 @@
+[
+  {
+    "relevance": 1,
+    "id": "42ipiwqMvybDB88iFc",
+    "title": "Course de la Paix",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 31,
+    "local_rank": 58,
+    "phq_attendance": 109,
+    "entities": [],
+    "duration": 86399,
+    "start": "2024-05-07T22:00:00Z",
+    "end": "2024-05-08T21:59:59Z",
+    "updated": "2024-01-10T22:10:36Z",
+    "first_seen": "2023-11-27T01:04:21Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.4881107,
+      50.3272216
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.4881107,
+          50.3272216
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53q-fjw-6zf"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-08",
+            "value": 109,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-08",
+            "value": 109,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2971040",
+        "6438529",
+        "2978846"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2167,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1306,
+      "transportation": 861
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "F4jT8kdJS3KT3JNcs4",
+    "title": "La Jaroise",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 31,
+    "local_rank": 55,
+    "phq_attendance": 112,
+    "entities": [],
+    "duration": 0,
+    "start": "2024-05-05T08:30:00Z",
+    "end": "2024-05-05T08:30:00Z",
+    "updated": "2024-01-10T22:29:49Z",
+    "first_seen": "2023-10-02T00:32:31Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.115632,
+      50.746301
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.115632,
+          50.746301
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p5d-zmk"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 112,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 112,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6438450",
+        "2982938"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2227,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1342,
+      "transportation": 884
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "9S6Eg9Mj8oxRxb5exz",
+    "title": "Hond' Race",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 31,
+    "local_rank": 58,
+    "phq_attendance": 114,
+    "entities": [],
+    "duration": 0,
+    "start": "2024-05-05T08:00:00Z",
+    "end": "2024-05-05T08:00:00Z",
+    "updated": "2024-01-10T21:27:58Z",
+    "first_seen": "2023-11-27T00:42:16Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.5199379,
+      50.756727
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.5199379,
+          50.756727
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-r2p-kmk"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 114,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 114,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "3020685",
+        "6438296",
+        "3013177"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2266,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1366,
+      "transportation": 900
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "An2Gu3NAj5NMbRt4K2",
+    "title": "Courir A Montigny-en-gohelle",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 32,
+    "local_rank": 55,
+    "phq_attendance": 131,
+    "entities": [],
+    "duration": 0,
+    "start": "2024-05-05T07:30:00Z",
+    "end": "2024-05-05T07:30:00Z",
+    "updated": "2024-01-10T22:33:16Z",
+    "first_seen": "2023-11-27T00:37:33Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.9270679,
+      50.428189
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.9270679,
+          50.428189
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-nmx-qmk"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 131,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 131,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3003091",
+        "6439732",
+        "2992420"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3036783",
+        "6618442",
+        "3036784"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2421,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1397,
+      "transportation": 1023
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "4CcaAXhHhAawJ9aqJ8",
+    "title": "La Flines-équipe",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 32,
+    "local_rank": 64,
+    "phq_attendance": 119,
+    "entities": [],
+    "duration": 86399,
+    "start": "2024-05-04T22:00:00Z",
+    "end": "2024-05-05T21:59:59Z",
+    "updated": "2024-01-10T21:48:04Z",
+    "first_seen": "2023-11-27T00:44:22Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.182975,
+      50.426894
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.182975,
+          50.426894
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-p5h-cnq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 119,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 119,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "3020999",
+        "6617186",
+        "3018257"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2366,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1426,
+      "transportation": 940
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "BnteuX46jDPTvwBMmL",
+    "title": "LNB Pro B - Lille vs Aix Maurienne",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "basketball",
+      "sport"
+    ],
+    "rank": 55,
+    "local_rank": 69,
+    "phq_attendance": 1694,
+    "entities": [
+      {
+        "entity_id": "RP3rHk9XvPTSeRK2C3tCF4",
+        "name": "Palais des sport Saint Sauveur",
+        "type": "venue",
+        "formatted_address": "78 Avenue du Président John F. Kennedy\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-28T18:00:00Z",
+    "end": "2024-04-28T18:00:00Z",
+    "predicted_end": "2024-04-28T19:45:00Z",
+    "updated": "2024-01-10T21:11:51Z",
+    "first_seen": "2023-07-18T13:08:39Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0718652,
+      50.6326365
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0718652,
+          50.6326365
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3x-4qf"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 339,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-28",
+            "value": 1694,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-29",
+            "value": 170,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 390,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-28",
+            "value": 1694,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-29",
+            "value": 34,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 58020,
+    "predicted_event_spend_industries": {
+      "accommodation": 15914,
+      "hospitality": 25377,
+      "transportation": 16728
+    },
+    "phq_labels": [
+      {
+        "label": "basketball",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "9zkAKQeCn3k2Dgv3fJ",
+    "title": "Ham'n Tes Baskets !",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 32,
+    "local_rank": 63,
+    "phq_attendance": 131,
+    "entities": [],
+    "duration": 0,
+    "start": "2024-04-28T07:15:00Z",
+    "end": "2024-04-28T07:15:00Z",
+    "updated": "2024-01-29T04:23:43Z",
+    "first_seen": "2024-01-29T04:17:24Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.458368,
+      50.588787
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.458368,
+          50.588787
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-qzt-ckf"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 131,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 131,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3033000",
+        "6439591",
+        "3014015"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3036783",
+        "6618442",
+        "3036784"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2421,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1397,
+      "transportation": 1023
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "4dcZ6BYWgdfFocowgp",
+    "title": "National 3 - Group G - Pays de Cassel vs Saint-Amand",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "soccer",
+      "sport"
+    ],
+    "rank": 35,
+    "local_rank": 56,
+    "phq_attendance": 176,
+    "entities": [
+      {
+        "entity_id": "35hLMS7Ai3EKEadVMWDphKH",
+        "name": "Stade Auguste Damette 1",
+        "type": "venue",
+        "formatted_address": "Avenue du Maréchal de Lattre de Tassigny\n59190 Hazebrouck\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-27T16:30:00Z",
+    "end": "2024-04-27T16:30:00Z",
+    "predicted_end": "2024-04-27T18:20:00Z",
+    "updated": "2024-01-11T00:44:15Z",
+    "first_seen": "2023-07-21T17:48:06Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.5392472743988037,
+      50.718573244611406
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.5392472743988037,
+          50.718573244611406
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-r2j-y9z"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 176,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 176,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "3020685",
+        "6438285",
+        "3013619"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3499,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2109,
+      "transportation": 1390
+    },
+    "phq_labels": [
+      {
+        "label": "soccer",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "FJTMkjdGkFQFk3m9dU",
+    "title": "National 3 - Group G - IC Croix vs Chantilly",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "soccer",
+      "sport"
+    ],
+    "rank": 44,
+    "local_rank": 60,
+    "phq_attendance": 514,
+    "entities": [
+      {
+        "entity_id": "v7Nfj93GW6JNZ6quxNsQhT",
+        "name": "Stade Henri Seigneur",
+        "type": "venue",
+        "formatted_address": "Boulevard Emile Zola\n59170 Croix\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-27T16:00:00Z",
+    "end": "2024-04-27T16:00:00Z",
+    "predicted_end": "2024-04-27T17:50:00Z",
+    "updated": "2024-01-11T01:44:21Z",
+    "first_seen": "2023-07-21T17:51:14Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.1511664390563965,
+      50.67785682230989
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.1511664390563965,
+          50.67785682230989
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p2t-fcq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 514,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 57,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-27",
+            "value": 514,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454404",
+        "3022376"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 17604,
+    "predicted_event_spend_industries": {
+      "accommodation": 4828,
+      "hospitality": 7700,
+      "transportation": 5075
+    },
+    "phq_labels": [
+      {
+        "label": "soccer",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "JFe8kEWuu6B66ng9fn",
+    "title": "National 3 - Group G - Lens II vs Vimy",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "soccer",
+      "sport"
+    ],
+    "rank": 47,
+    "local_rank": 70,
+    "phq_attendance": 713,
+    "entities": [
+      {
+        "entity_id": "hx3nHuRyptzmMbqcf3Cmw3",
+        "name": "Stade François Blin",
+        "type": "venue",
+        "formatted_address": "62210 Avion\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-27T16:00:00Z",
+    "end": "2024-04-27T16:00:00Z",
+    "predicted_end": "2024-04-27T17:50:00Z",
+    "updated": "2024-01-10T22:03:15Z",
+    "first_seen": "2023-07-21T18:21:53Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.8407798517,
+      50.407294215
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.8407798517,
+          50.407294215
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-nvf-b6k"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 713,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 79,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-27",
+            "value": 713,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3003091",
+        "6450268",
+        "3035667"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3036783",
+        "6618442",
+        "3036784"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 23173,
+    "predicted_event_spend_industries": {
+      "accommodation": 6698,
+      "hospitality": 9510,
+      "transportation": 6965
+    },
+    "phq_labels": [
+      {
+        "label": "soccer",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "KH5YdPQpxszTDmVZPd",
+    "title": "National 3 - Group G - Lille II vs St Ouen l'Aumône",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "soccer",
+      "sport"
+    ],
+    "rank": 39,
+    "local_rank": 68,
+    "phq_attendance": 296,
+    "entities": [
+      {
+        "entity_id": "37nbKJNp3x9vPK2pB7FNU6h",
+        "name": "Complexe Sportif de Luchin",
+        "type": "venue",
+        "formatted_address": "Alee de Domaine de Luchin\n59780 Camphin-en-Pévèle\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-27T16:00:00Z",
+    "end": "2024-04-27T16:00:00Z",
+    "predicted_end": "2024-04-27T17:50:00Z",
+    "updated": "2024-01-10T21:51:15Z",
+    "first_seen": "2023-07-21T17:58:51Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.246634304523468,
+      50.59838823791055
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.246634304523468,
+          50.59838823791055
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p8m-435"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 296,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 296,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6438149",
+        "3028946"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 5885,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 3547,
+      "transportation": 2338
+    },
+    "phq_labels": [
+      {
+        "label": "soccer",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "8SkkAnoFEWjjjx48pS",
+    "title": "Les Foulées Tilloysiennes",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 31,
+    "local_rank": 59,
+    "phq_attendance": 118,
+    "entities": [],
+    "duration": 0,
+    "start": "2024-04-27T14:30:00Z",
+    "end": "2024-04-27T14:30:00Z",
+    "updated": "2024-01-11T01:49:47Z",
+    "first_seen": "2023-11-27T02:05:25Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.22003,
+      50.19601
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.22003,
+          50.19601
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-q3t-4jv"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 118,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 118,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "3029029",
+        "6617208",
+        "2972577"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3036783",
+        "6618442",
+        "3036784"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2181,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1259,
+      "transportation": 922
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "GWFThYQuk3Rm6wsAaF",
+    "title": "Les Foulées Hornaingeoises",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 32,
+    "local_rank": 64,
+    "phq_attendance": 133,
+    "entities": [],
+    "duration": 0,
+    "start": "2024-04-21T07:00:00Z",
+    "end": "2024-04-21T07:00:00Z",
+    "updated": "2024-01-10T21:58:00Z",
+    "first_seen": "2023-11-27T01:54:06Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.337115,
+      50.369348
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.337115,
+          50.369348
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53q-fzk-qzz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-21",
+            "value": 133,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-21",
+            "value": 133,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "3020999",
+        "6438301",
+        "3013152"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2644,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1593,
+      "transportation": 1050
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "CddmPS3zhMhHSsdNFW",
+    "title": "Course de la Rhônelle",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 31,
+    "local_rank": 54,
+    "phq_attendance": 116,
+    "entities": [],
+    "duration": 86399,
+    "start": "2024-04-20T22:00:00Z",
+    "end": "2024-04-21T21:59:59Z",
+    "updated": "2024-01-11T08:50:39Z",
+    "first_seen": "2023-11-27T01:51:46Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.5227641,
+      50.3288784
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.5227641,
+          50.3288784
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53q-fjy-nbk"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-21",
+            "value": 116,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-21",
+            "value": 116,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2971040",
+        "6617182",
+        "3036133"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2306,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1390,
+      "transportation": 916
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "DmHCaNWDhtMQH5auEW",
+    "title": "Nord Trail des Monts de Flandres",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 67,
+    "local_rank": 88,
+    "phq_attendance": 7495,
+    "entities": [],
+    "duration": 86399,
+    "start": "2024-04-20T22:00:00Z",
+    "end": "2024-04-21T21:59:59Z",
+    "updated": "2024-01-10T21:59:52Z",
+    "first_seen": "2023-11-20T01:51:00Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.73559,
+      50.736482
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.73559,
+          50.736482
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-qsn-rtv"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-19",
+            "value": 1499,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-20",
+            "value": 5247,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-21",
+            "value": 7495,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-22",
+            "value": 2249,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-20",
+            "value": 2624,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-21",
+            "value": 7495,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-22",
+            "value": 2624,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "3020685",
+        "6455196",
+        "3035359"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 498584,
+    "predicted_event_spend_industries": {
+      "accommodation": 105617,
+      "hospitality": 291933,
+      "transportation": 101034
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "F9onL7xkevYSnM2Nr9",
+    "title": "Les Foulées du Bruaysis",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 32,
+    "local_rank": 54,
+    "phq_attendance": 127,
+    "entities": [],
+    "duration": 86399,
+    "start": "2024-04-20T22:00:00Z",
+    "end": "2024-04-21T21:59:59Z",
+    "updated": "2024-01-10T21:24:41Z",
+    "first_seen": "2023-12-04T01:49:25Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.543206,
+      50.483113
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.543206,
+          50.483113
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-r55-sqz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-21",
+            "value": 127,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-21",
+            "value": 127,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3033000",
+        "6617278",
+        "3029825"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3036783",
+        "6618442",
+        "3036784"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2347,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1355,
+      "transportation": 992
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "CPrYqRzU9iujCfycfT",
+    "title": "National 3 - Group G - Olympique Marcquois vs Drancy JA",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "soccer",
+      "sport"
+    ],
+    "rank": 48,
+    "local_rank": 67,
+    "phq_attendance": 795,
+    "entities": [
+      {
+        "entity_id": "MNcSdrEACCJmYVHBjm2Qwn",
+        "name": "Stade Georges Niquet",
+        "type": "venue",
+        "formatted_address": "Boulevard Georges Clemenceau\nMarcq-en-Baroeul\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-20T18:00:00Z",
+    "end": "2024-04-20T18:00:00Z",
+    "predicted_end": "2024-04-20T19:50:00Z",
+    "updated": "2024-01-10T21:33:46Z",
+    "first_seen": "2023-07-21T19:43:44Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0801737308502197,
+      50.66625349600618
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0801737308502197,
+          50.66625349600618
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3j-bkz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-20",
+            "value": 795,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-19",
+            "value": 88,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-20",
+            "value": 795,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6614574",
+        "2995908"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 27229,
+    "predicted_event_spend_industries": {
+      "accommodation": 7468,
+      "hospitality": 11909,
+      "transportation": 7850
+    },
+    "phq_labels": [
+      {
+        "label": "soccer",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "5BULmG55kY8QUJmVxn",
+    "title": "National 3 - Group G - Lille II vs Le Pays du Valois",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "soccer",
+      "sport"
+    ],
+    "rank": 39,
+    "local_rank": 68,
+    "phq_attendance": 296,
+    "entities": [
+      {
+        "entity_id": "37nbKJNp3x9vPK2pB7FNU6h",
+        "name": "Complexe Sportif de Luchin",
+        "type": "venue",
+        "formatted_address": "Alee de Domaine de Luchin\n59780 Camphin-en-Pévèle\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-20T16:00:00Z",
+    "end": "2024-04-20T16:00:00Z",
+    "predicted_end": "2024-04-20T17:50:00Z",
+    "updated": "2024-01-12T19:58:05Z",
+    "first_seen": "2023-07-21T18:51:26Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.246634304523468,
+      50.59838823791055
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.246634304523468,
+          50.59838823791055
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p8m-435"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-20",
+            "value": 296,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-20",
+            "value": 296,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6438149",
+        "3028946"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 5885,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 3547,
+      "transportation": 2338
+    },
+    "phq_labels": [
+      {
+        "label": "soccer",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "DqgcahdqMeAcfhzTxe",
+    "title": "National 3 - Group G - Valenciennes II vs Compiègne",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "soccer",
+      "sport"
+    ],
+    "rank": 37,
+    "local_rank": 63,
+    "phq_attendance": 228,
+    "entities": [
+      {
+        "entity_id": "sxd8nBn33BNHWXjQzFziH",
+        "name": "Stade Centre Formation VAFC",
+        "type": "venue",
+        "formatted_address": "Rue du Mont Houy\n59300 Famars\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-20T16:00:00Z",
+    "end": "2024-04-20T16:00:00Z",
+    "predicted_end": "2024-04-20T17:50:00Z",
+    "updated": "2024-01-10T21:40:26Z",
+    "first_seen": "2023-07-21T18:45:30Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.515528440475464,
+      50.31840830821566
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.515528440475464,
+          50.31840830821566
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53q-fjx-yd9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-20",
+            "value": 228,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-20",
+            "value": 228,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2971040",
+        "6438224",
+        "3019080"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 4533,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2732,
+      "transportation": 1801
+    },
+    "phq_labels": [
+      {
+        "label": "soccer",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "EJxcj9U8bzXHztMZbx",
+    "title": "National 3 - Group G - Saint-Amand vs IC Croix",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "soccer",
+      "sport"
+    ],
+    "rank": 39,
+    "local_rank": 65,
+    "phq_attendance": 296,
+    "entities": [
+      {
+        "entity_id": "TrGRFYMFsRtYjzgP98iALt",
+        "name": "Stade Municipal",
+        "type": "venue",
+        "formatted_address": "Rue des Anciens d'AFN\n59230 Saint-Amand-les-Eaux\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-20T16:00:00Z",
+    "end": "2024-04-20T16:00:00Z",
+    "predicted_end": "2024-04-20T17:50:00Z",
+    "updated": "2024-01-10T23:42:34Z",
+    "first_seen": "2023-07-21T17:41:50Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.4329378604888916,
+      50.444469598026345
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.4329378604888916,
+          50.444469598026345
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53q-g36-d5f"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-20",
+            "value": 296,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-20",
+            "value": 296,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2971040",
+        "6438464",
+        "2981839"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 5885,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 3547,
+      "transportation": 2338
+    },
+    "phq_labels": [
+      {
+        "label": "soccer",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "Eg48VYA4ejSzz7XQtF",
+    "title": "National 3 - Group G - Vimy vs Entente SSG",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "soccer",
+      "sport"
+    ],
+    "rank": 39,
+    "local_rank": 65,
+    "phq_attendance": 296,
+    "entities": [
+      {
+        "entity_id": "vsTNZYchXvLzKh9mhcLkUs",
+        "name": "Stade De La Mine 1",
+        "type": "venue",
+        "formatted_address": "1 Résidence les Peupliers\n62580 Vimy\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-20T16:00:00Z",
+    "end": "2024-04-20T16:00:00Z",
+    "predicted_end": "2024-04-20T17:50:00Z",
+    "updated": "2024-01-10T21:27:33Z",
+    "first_seen": "2023-07-21T18:45:30Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.8042371482017643,
+      50.37992981319238
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.8042371482017643,
+          50.37992981319238
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-nvb-5vf"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-20",
+            "value": 296,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-20",
+            "value": 296,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3036783",
+        "6618306",
+        "2968070"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3036783",
+        "6618442",
+        "3036784"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 5471,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 3158,
+      "transportation": 2313
+    },
+    "phq_labels": [
+      {
+        "label": "soccer",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "gUHUKapTFAD8ezKzxX",
+    "title": "National 2 - Group D - Wasquehal vs Furiani-Agliani",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "soccer",
+      "sport"
+    ],
+    "rank": 44,
+    "local_rank": 64,
+    "phq_attendance": 500,
+    "entities": [
+      {
+        "entity_id": "cAEeBfQ8qfyGvM4472F4ct",
+        "name": "Complexe Sportif Lucien Montagne",
+        "type": "venue",
+        "formatted_address": "Wasquehal\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-20T16:00:00Z",
+    "end": "2024-04-20T16:00:00Z",
+    "predicted_end": "2024-04-20T17:50:00Z",
+    "updated": "2024-01-10T21:47:52Z",
+    "first_seen": "2023-07-19T17:47:40Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.1231463548,
+      50.6763460783
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.1231463548,
+          50.6763460783
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p2y-4vz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-20",
+            "value": 500,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-19",
+            "value": 55,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-20",
+            "value": 500,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6438566",
+        "2967438"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 17125,
+    "predicted_event_spend_industries": {
+      "accommodation": 4697,
+      "hospitality": 7490,
+      "transportation": 4937
+    },
+    "phq_labels": [
+      {
+        "label": "soccer",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "uyXryr5zpyqxPRxywo",
+    "title": "LNB Pro B - Denain Voltaire vs Évreux",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "basketball",
+      "sport"
+    ],
+    "rank": 55,
+    "local_rank": 80,
+    "phq_attendance": 1835,
+    "entities": [
+      {
+        "entity_id": "VytS5b2Y8STiJ9M3HQdJfB",
+        "name": "Complexe Sportif Jean Degros",
+        "type": "venue",
+        "formatted_address": "Boulevard du 8 Mai 1945\n59220 Denain\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-19T18:00:00Z",
+    "end": "2024-04-19T18:00:00Z",
+    "predicted_end": "2024-04-19T19:45:00Z",
+    "updated": "2024-01-10T22:04:05Z",
+    "first_seen": "2023-07-18T13:08:39Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.3983997,
+      50.322596
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.3983997,
+          50.322596
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53q-g9q-ty9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-18",
+            "value": 367,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-19",
+            "value": 1835,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-20",
+            "value": 184,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-18",
+            "value": 423,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-19",
+            "value": 1835,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-20",
+            "value": 37,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2971040",
+        "6454406",
+        "3021605"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 62850,
+    "predicted_event_spend_industries": {
+      "accommodation": 17238,
+      "hospitality": 27489,
+      "transportation": 18121
+    },
+    "phq_labels": [
+      {
+        "label": "basketball",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "89HP6etcYLiCCigt2K",
+    "title": "La Gyro des Hauts de France",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 33,
+    "local_rank": 65,
+    "phq_attendance": 140,
+    "entities": [],
+    "duration": 0,
+    "start": "2024-04-19T08:00:00Z",
+    "end": "2024-04-19T08:00:00Z",
+    "updated": "2024-01-11T01:43:11Z",
+    "first_seen": "2023-11-20T01:33:23Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.396423,
+      50.476531
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.396423,
+          50.476531
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53q-g2h-gkz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-19",
+            "value": 140,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-19",
+            "value": 140,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2971040",
+        "6438318",
+        "3004814"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2783,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1677,
+      "transportation": 1106
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "GvcwgHiGLNJHAgApZx",
+    "title": "Vivicitta Vieux-Condé",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 31,
+    "local_rank": 56,
+    "phq_attendance": 112,
+    "entities": [],
+    "duration": 0,
+    "start": "2024-04-14T08:00:00Z",
+    "end": "2024-04-14T08:00:00Z",
+    "updated": "2024-01-11T02:02:12Z",
+    "first_seen": "2023-11-20T01:29:43Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.568612,
+      50.458671
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.568612,
+          50.458671
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53q-g5y-jd9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-14",
+            "value": 112,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-14",
+            "value": 112,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2971040",
+        "6454425",
+        "2969213"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2227,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1342,
+      "transportation": 884
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "CuJZQXPaeY7uiHrBQd",
+    "title": "La Run'escuroise",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 32,
+    "local_rank": 62,
+    "phq_attendance": 131,
+    "entities": [],
+    "duration": 0,
+    "start": "2024-04-14T07:30:00Z",
+    "end": "2024-04-14T07:30:00Z",
+    "updated": "2024-01-10T22:30:10Z",
+    "first_seen": "2023-11-20T01:16:47Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.366497,
+      50.728651
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.366497,
+          50.728651
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-dv2-6p9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-14",
+            "value": 131,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-14",
+            "value": 131,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "3020685",
+        "6438440",
+        "2984005"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2604,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1570,
+      "transportation": 1034
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "6NdBGVhJjw4UrjFy6c",
+    "title": "Foulées de Genech",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 33,
+    "local_rank": 62,
+    "phq_attendance": 139,
+    "entities": [],
+    "duration": 0,
+    "start": "2024-04-14T07:15:00Z",
+    "end": "2024-04-14T07:15:00Z",
+    "updated": "2024-01-10T23:45:14Z",
+    "first_seen": "2023-11-20T01:11:12Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.2173949,
+      50.528929
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.2173949,
+          50.528929
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p7j-qfz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-14",
+            "value": 139,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-14",
+            "value": 139,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6438255",
+        "3016376"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2764,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1665,
+      "transportation": 1098
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "Fn9JYS6VegB389vVBA",
+    "title": "Les Foulées d'Isidore",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "marathon",
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 33,
+    "local_rank": 53,
+    "phq_attendance": 141,
+    "entities": [],
+    "duration": 0,
+    "start": "2024-04-14T06:30:00Z",
+    "end": "2024-04-14T06:30:00Z",
+    "updated": "2024-01-10T21:38:48Z",
+    "first_seen": "2023-11-27T01:28:18Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.1140604,
+      50.6149556
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.1140604,
+          50.6149556
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p35-mp9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-14",
+            "value": 141,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-14",
+            "value": 141,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6438328",
+        "2998654"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2803,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1689,
+      "transportation": 1113
+    },
+    "phq_labels": [
+      {
+        "label": "marathon",
+        "weight": 0.33
+      },
+      {
+        "label": "outdoor",
+        "weight": 0.33
+      },
+      {
+        "label": "running",
+        "weight": 0.33
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "DmWrJxDBy3iQBp2BfV",
+    "title": "National 3 - Group G - Pays de Cassel vs Lille II",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "soccer",
+      "sport"
+    ],
+    "rank": 35,
+    "local_rank": 56,
+    "phq_attendance": 176,
+    "entities": [
+      {
+        "entity_id": "35hLMS7Ai3EKEadVMWDphKH",
+        "name": "Stade Auguste Damette 1",
+        "type": "venue",
+        "formatted_address": "Avenue du Maréchal de Lattre de Tassigny\n59190 Hazebrouck\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-13T16:30:00Z",
+    "end": "2024-04-13T16:30:00Z",
+    "predicted_end": "2024-04-13T18:20:00Z",
+    "updated": "2024-01-10T23:43:48Z",
+    "first_seen": "2023-07-21T18:13:21Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.5392472743988037,
+      50.718573244611406
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.5392472743988037,
+          50.718573244611406
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-r2j-y9z"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-13",
+            "value": 176,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-13",
+            "value": 176,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "3020685",
+        "6438285",
+        "3013619"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3499,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2109,
+      "transportation": 1390
+    },
+    "phq_labels": [
+      {
+        "label": "soccer",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "5ffBW5UMqqf4k2QmBM",
+    "title": "National 3 - Group G - IC Croix vs St Ouen l'Aumône",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "soccer",
+      "sport"
+    ],
+    "rank": 44,
+    "local_rank": 60,
+    "phq_attendance": 514,
+    "entities": [
+      {
+        "entity_id": "v7Nfj93GW6JNZ6quxNsQhT",
+        "name": "Stade Henri Seigneur",
+        "type": "venue",
+        "formatted_address": "Boulevard Emile Zola\n59170 Croix\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-13T16:00:00Z",
+    "end": "2024-04-13T16:00:00Z",
+    "predicted_end": "2024-04-13T17:50:00Z",
+    "updated": "2024-01-10T21:55:21Z",
+    "first_seen": "2023-07-21T17:48:06Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.1511664390563965,
+      50.67785682230989
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.1511664390563965,
+          50.67785682230989
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p2t-fcq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-13",
+            "value": 514,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-12",
+            "value": 57,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 514,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454404",
+        "3022376"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 17604,
+    "predicted_event_spend_industries": {
+      "accommodation": 4828,
+      "hospitality": 7700,
+      "transportation": 5075
+    },
+    "phq_labels": [
+      {
+        "label": "soccer",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "6EYpzD7BF6uVoJMUHt",
+    "title": "National 3 - Group G - Lens II vs Saint-Amand",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "soccer",
+      "sport"
+    ],
+    "rank": 47,
+    "local_rank": 70,
+    "phq_attendance": 713,
+    "entities": [
+      {
+        "entity_id": "hx3nHuRyptzmMbqcf3Cmw3",
+        "name": "Stade François Blin",
+        "type": "venue",
+        "formatted_address": "62210 Avion\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-13T16:00:00Z",
+    "end": "2024-04-13T16:00:00Z",
+    "predicted_end": "2024-04-13T17:50:00Z",
+    "updated": "2024-01-10T22:11:15Z",
+    "first_seen": "2023-07-21T18:31:34Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.8407798517,
+      50.407294215
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.8407798517,
+          50.407294215
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-nvf-b6k"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-13",
+            "value": 713,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-12",
+            "value": 79,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 713,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3003091",
+        "6450268",
+        "3035667"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3036783",
+        "6618442",
+        "3036784"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 23173,
+    "predicted_event_spend_industries": {
+      "accommodation": 6698,
+      "hospitality": 9510,
+      "transportation": 6965
+    },
+    "phq_labels": [
+      {
+        "label": "soccer",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "9XYgVnXFK5S9FbHien",
+    "title": "Lille de Départ",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 31,
+    "local_rank": 45,
+    "phq_attendance": 116,
+    "entities": [],
+    "duration": 86399,
+    "start": "2024-04-12T22:00:00Z",
+    "end": "2024-04-13T21:59:59Z",
+    "updated": "2024-01-11T01:43:04Z",
+    "first_seen": "2023-11-27T01:08:03Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.057256,
+      50.62925
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.057256,
+          50.62925
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-rkz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-13",
+            "value": 116,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-13",
+            "value": 116,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2306,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1390,
+      "transportation": 916
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "bxf48EHuj7sEtaebA9",
+    "title": "Trail du Chardon",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 30,
+    "local_rank": 55,
+    "phq_attendance": 102,
+    "entities": [],
+    "duration": 86399,
+    "start": "2024-04-12T22:00:00Z",
+    "end": "2024-04-13T21:59:59Z",
+    "updated": "2024-02-05T03:33:04Z",
+    "first_seen": "2024-02-05T03:21:07Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.756158,
+      50.408736
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.756158,
+          50.408736
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-ns9-2ff"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-13",
+            "value": 102,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-13",
+            "value": 102,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3003091",
+        "6450242",
+        "3037585"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3036783",
+        "6618442",
+        "3036784"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 1885,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1088,
+      "transportation": 797
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "FjMDzjoQFrL7ztVafP",
+    "title": "LNB Pro B - Lille vs Pau-Lacq-Orthez",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "basketball",
+      "sport"
+    ],
+    "rank": 55,
+    "local_rank": 69,
+    "phq_attendance": 1816,
+    "entities": [
+      {
+        "entity_id": "RP3rHk9XvPTSeRK2C3tCF4",
+        "name": "Palais des sport Saint Sauveur",
+        "type": "venue",
+        "formatted_address": "78 Avenue du Président John F. Kennedy\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-12T18:00:00Z",
+    "end": "2024-04-12T18:00:00Z",
+    "predicted_end": "2024-04-12T19:45:00Z",
+    "updated": "2024-01-10T23:59:03Z",
+    "first_seen": "2023-07-18T13:08:39Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0718652,
+      50.6326365
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0718652,
+          50.6326365
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3x-4qf"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-11",
+            "value": 364,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 1816,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 182,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-11",
+            "value": 418,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 1816,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 37,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 62199,
+    "predicted_event_spend_industries": {
+      "accommodation": 17060,
+      "hospitality": 27205,
+      "transportation": 17933
+    },
+    "phq_labels": [
+      {
+        "label": "basketball",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "D5ftC8BsypCiqzKzXf",
+    "title": "LNB Pro B - Denain Voltaire vs Vichy Clermont",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "basketball",
+      "sport"
+    ],
+    "rank": 56,
+    "local_rank": 80,
+    "phq_attendance": 1926,
+    "entities": [
+      {
+        "entity_id": "VytS5b2Y8STiJ9M3HQdJfB",
+        "name": "Complexe Sportif Jean Degros",
+        "type": "venue",
+        "formatted_address": "Boulevard du 8 Mai 1945\n59220 Denain\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-09T18:00:00Z",
+    "end": "2024-04-09T18:00:00Z",
+    "predicted_end": "2024-04-09T19:45:00Z",
+    "updated": "2024-01-11T01:59:35Z",
+    "first_seen": "2023-07-18T13:08:39Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.3983997,
+      50.322596
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.3983997,
+          50.322596
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53q-g9q-ty9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-08",
+            "value": 386,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-09",
+            "value": 1926,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 193,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-08",
+            "value": 443,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-09",
+            "value": 1926,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 39,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2971040",
+        "6454406",
+        "3021605"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 65966,
+    "predicted_event_spend_industries": {
+      "accommodation": 18093,
+      "hospitality": 28853,
+      "transportation": 19019
+    },
+    "phq_labels": [
+      {
+        "label": "basketball",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "FqeXWTj7ChavSbweSv",
+    "title": "LNB Pro B - Lille vs Évreux",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "basketball",
+      "sport"
+    ],
+    "rank": 55,
+    "local_rank": 69,
+    "phq_attendance": 1816,
+    "entities": [
+      {
+        "entity_id": "RP3rHk9XvPTSeRK2C3tCF4",
+        "name": "Palais des sport Saint Sauveur",
+        "type": "venue",
+        "formatted_address": "78 Avenue du Président John F. Kennedy\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-09T18:00:00Z",
+    "end": "2024-04-09T18:00:00Z",
+    "predicted_end": "2024-04-09T19:45:00Z",
+    "updated": "2024-01-10T23:49:43Z",
+    "first_seen": "2023-07-18T13:08:39Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0718652,
+      50.6326365
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0718652,
+          50.6326365
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3x-4qf"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-08",
+            "value": 364,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-09",
+            "value": 1816,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 182,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-08",
+            "value": 418,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-09",
+            "value": 1816,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 37,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 62199,
+    "predicted_event_spend_industries": {
+      "accommodation": 17060,
+      "hospitality": 27205,
+      "transportation": 17933
+    },
+    "phq_labels": [
+      {
+        "label": "basketball",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "CWGV4sJY36CkoTPLSL",
+    "title": "National 3 - Group G - Vimy vs Compiègne",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "soccer",
+      "sport"
+    ],
+    "rank": 44,
+    "local_rank": 69,
+    "phq_attendance": 489,
+    "entities": [
+      {
+        "entity_id": "vsTNZYchXvLzKh9mhcLkUs",
+        "name": "Stade De La Mine 1",
+        "type": "venue",
+        "formatted_address": "1 Résidence les Peupliers\n62580 Vimy\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-07T13:00:00Z",
+    "end": "2024-04-07T13:00:00Z",
+    "predicted_end": "2024-04-07T14:50:00Z",
+    "updated": "2024-01-10T22:51:50Z",
+    "first_seen": "2023-07-21T17:50:44Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.8042371482017643,
+      50.37992981319238
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.8042371482017643,
+          50.37992981319238
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-nvb-5vf"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-07",
+            "value": 489,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 54,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-07",
+            "value": 489,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3036783",
+        "6618306",
+        "2968070"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3036783",
+        "6618442",
+        "3036784"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 15893,
+    "predicted_event_spend_industries": {
+      "accommodation": 4593,
+      "hospitality": 6522,
+      "transportation": 4777
+    },
+    "phq_labels": [
+      {
+        "label": "soccer",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "GZ7bpNrT48ToMWem9p",
+    "title": "Les Foulées Valenciennoises",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 32,
+    "local_rank": 54,
+    "phq_attendance": 127,
+    "entities": [],
+    "duration": 0,
+    "start": "2024-04-07T07:30:00Z",
+    "end": "2024-04-07T07:30:00Z",
+    "updated": "2024-01-10T23:02:39Z",
+    "first_seen": "2023-11-20T00:40:36Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.5346045,
+      50.3720664
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.5346045,
+          50.3720664
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53q-g54-qcq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-07",
+            "value": 127,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-07",
+            "value": 127,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2971040",
+        "6438479",
+        "2977058"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2525,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1522,
+      "transportation": 1003
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "78mZv6HzCc7XYf4ARy",
+    "title": "Foulées 'Nature' de Roncq",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 32,
+    "local_rank": 56,
+    "phq_attendance": 132,
+    "entities": [],
+    "duration": 0,
+    "start": "2024-04-07T07:00:00Z",
+    "end": "2024-04-07T07:00:00Z",
+    "updated": "2024-01-10T21:52:05Z",
+    "first_seen": "2023-11-20T00:33:13Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.115632,
+      50.746301
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.115632,
+          50.746301
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p5d-zmk"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-07",
+            "value": 132,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-07",
+            "value": 132,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6438450",
+        "2982938"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2624,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1581,
+      "transportation": 1042
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "9TGHMEUWRwVZPt9y4p",
+    "title": "La Rigol'Hard",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 32,
+    "local_rank": 60,
+    "phq_attendance": 123,
+    "entities": [],
+    "duration": 0,
+    "start": "2024-04-07T07:00:00Z",
+    "end": "2024-04-07T07:00:00Z",
+    "updated": "2024-02-05T01:48:00Z",
+    "first_seen": "2024-02-05T01:40:24Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.859659,
+      50.520053
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.859659,
+          50.520053
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-p8y-7qz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-07",
+            "value": 123,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-07",
+            "value": 123,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3033000",
+        "6439369",
+        "3032622"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2445,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1474,
+      "transportation": 971
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "3sDSWspsSJ23gJsSh6",
+    "title": "National 3 - Group G - Olympique Marcquois vs Valenciennes II",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "soccer",
+      "sport"
+    ],
+    "rank": 48,
+    "local_rank": 67,
+    "phq_attendance": 795,
+    "entities": [
+      {
+        "entity_id": "MNcSdrEACCJmYVHBjm2Qwn",
+        "name": "Stade Georges Niquet",
+        "type": "venue",
+        "formatted_address": "Boulevard Georges Clemenceau\nMarcq-en-Baroeul\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-06T18:00:00Z",
+    "end": "2024-04-06T18:00:00Z",
+    "predicted_end": "2024-04-06T19:50:00Z",
+    "updated": "2024-01-10T22:51:50Z",
+    "first_seen": "2023-07-21T18:04:49Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0801737308502197,
+      50.66625349600618
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0801737308502197,
+          50.66625349600618
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3j-bkz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 795,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-05",
+            "value": 88,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-06",
+            "value": 795,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6614574",
+        "2995908"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 27229,
+    "predicted_event_spend_industries": {
+      "accommodation": 7468,
+      "hospitality": 11909,
+      "transportation": 7850
+    },
+    "phq_labels": [
+      {
+        "label": "soccer",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "GNsQFnbyfKfPxAELZ7",
+    "title": "LFB - Saint Amand vs Villeneuve d'Ascq",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "basketball",
+      "sport"
+    ],
+    "rank": 53,
+    "local_rank": 79,
+    "phq_attendance": 1383,
+    "entities": [
+      {
+        "entity_id": "8scdEDHyfzNzeSaUSpqTEn",
+        "name": "Salle Maurice Hugot",
+        "type": "venue",
+        "formatted_address": "Avenue d'Intervilles\n59230 Saint-Amand-les-Eaux\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-06T18:00:00Z",
+    "end": "2024-04-06T18:00:00Z",
+    "predicted_end": "2024-04-06T20:00:00Z",
+    "updated": "2024-01-10T22:34:11Z",
+    "first_seen": "2023-08-13T10:03:29Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.43404,
+      50.4508333
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.43404,
+          50.4508333
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53q-g2w-c3q"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-05",
+            "value": 277,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-06",
+            "value": 1383,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-07",
+            "value": 139,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-05",
+            "value": 319,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-06",
+            "value": 1383,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-07",
+            "value": 28,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2971040",
+        "6438464",
+        "2981839"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 47368,
+    "predicted_event_spend_industries": {
+      "accommodation": 12992,
+      "hospitality": 20718,
+      "transportation": 13657
+    },
+    "phq_labels": [
+      {
+        "label": "basketball",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "8CG39gxV2wnL7R3gAL",
+    "title": "National 3 - Group G - Pays de Cassel vs Le Pays du Valois",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "soccer",
+      "sport"
+    ],
+    "rank": 35,
+    "local_rank": 56,
+    "phq_attendance": 176,
+    "entities": [
+      {
+        "entity_id": "35hLMS7Ai3EKEadVMWDphKH",
+        "name": "Stade Auguste Damette 1",
+        "type": "venue",
+        "formatted_address": "Avenue du Maréchal de Lattre de Tassigny\n59190 Hazebrouck\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-06T16:30:00Z",
+    "end": "2024-04-06T16:30:00Z",
+    "predicted_end": "2024-04-06T18:20:00Z",
+    "updated": "2024-01-12T19:53:37Z",
+    "first_seen": "2023-07-21T18:22:08Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.5392472743988037,
+      50.718573244611406
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.5392472743988037,
+          50.718573244611406
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-r2j-y9z"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 176,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 176,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "3020685",
+        "6438285",
+        "3013619"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3499,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2109,
+      "transportation": 1390
+    },
+    "phq_labels": [
+      {
+        "label": "soccer",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "Ema5ZrnTFsKeZKG5mX",
+    "title": "National 3 - Group G - Lille II vs IC Croix",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "soccer",
+      "sport"
+    ],
+    "rank": 39,
+    "local_rank": 68,
+    "phq_attendance": 296,
+    "entities": [
+      {
+        "entity_id": "37nbKJNp3x9vPK2pB7FNU6h",
+        "name": "Complexe Sportif de Luchin",
+        "type": "venue",
+        "formatted_address": "Alee de Domaine de Luchin\n59780 Camphin-en-Pévèle\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-06T16:00:00Z",
+    "end": "2024-04-06T16:00:00Z",
+    "predicted_end": "2024-04-06T17:50:00Z",
+    "updated": "2024-01-10T22:15:34Z",
+    "first_seen": "2023-07-21T18:31:44Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.246634304523468,
+      50.59838823791055
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.246634304523468,
+          50.59838823791055
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p8m-435"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 296,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 296,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6438149",
+        "3028946"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 5885,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 3547,
+      "transportation": 2338
+    },
+    "phq_labels": [
+      {
+        "label": "soccer",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "GQVnFERwQCoajn3HKq",
+    "title": "National 3 - Group G - Saint-Amand vs Entente SSG",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "soccer",
+      "sport"
+    ],
+    "rank": 39,
+    "local_rank": 65,
+    "phq_attendance": 296,
+    "entities": [
+      {
+        "entity_id": "TrGRFYMFsRtYjzgP98iALt",
+        "name": "Stade Municipal",
+        "type": "venue",
+        "formatted_address": "Rue des Anciens d'AFN\n59230 Saint-Amand-les-Eaux\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-06T16:00:00Z",
+    "end": "2024-04-06T16:00:00Z",
+    "predicted_end": "2024-04-06T17:50:00Z",
+    "updated": "2024-01-10T21:46:27Z",
+    "first_seen": "2023-07-21T18:31:58Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.4329378604888916,
+      50.444469598026345
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.4329378604888916,
+          50.444469598026345
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53q-g36-d5f"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 296,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 296,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2971040",
+        "6438464",
+        "2981839"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 5885,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 3547,
+      "transportation": 2338
+    },
+    "phq_labels": [
+      {
+        "label": "soccer",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "KfGmDfYSvnPtdV4cRZ",
+    "title": "National 2 - Group D - Wasquehal vs Auxerre II",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "soccer",
+      "sport"
+    ],
+    "rank": 44,
+    "local_rank": 64,
+    "phq_attendance": 500,
+    "entities": [
+      {
+        "entity_id": "cAEeBfQ8qfyGvM4472F4ct",
+        "name": "Complexe Sportif Lucien Montagne",
+        "type": "venue",
+        "formatted_address": "Wasquehal\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-06T16:00:00Z",
+    "end": "2024-04-06T16:00:00Z",
+    "predicted_end": "2024-04-06T17:50:00Z",
+    "updated": "2024-01-10T21:59:02Z",
+    "first_seen": "2023-07-19T18:25:55Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.1231463548,
+      50.6763460783
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.1231463548,
+          50.6763460783
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p2y-4vz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 500,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-05",
+            "value": 55,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-06",
+            "value": 500,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6438566",
+        "2967438"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 17125,
+    "predicted_event_spend_industries": {
+      "accommodation": 4697,
+      "hospitality": 7490,
+      "transportation": 4937
+    },
+    "phq_labels": [
+      {
+        "label": "soccer",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "3p5Q84cdLpub9kffbj",
+    "title": "Paris-Roubaix Challenge",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 31,
+    "local_rank": 47,
+    "phq_attendance": 112,
+    "entities": [],
+    "duration": 86399,
+    "start": "2024-04-05T22:00:00Z",
+    "end": "2024-04-06T21:59:59Z",
+    "updated": "2024-01-10T21:30:32Z",
+    "first_seen": "2023-11-27T00:18:39Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.2041488,
+      50.6801936
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.2041488,
+          50.6801936
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p4c-hh5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 112,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 112,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6614177",
+        "3007601"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2227,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1342,
+      "transportation": 884
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "E3i4K4cKEUywGjRSij",
+    "title": "Quand Lomme Court",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 32,
+    "local_rank": 47,
+    "phq_attendance": 127,
+    "entities": [],
+    "duration": 0,
+    "start": "2024-04-01T07:00:00Z",
+    "end": "2024-04-01T07:00:00Z",
+    "updated": "2024-01-11T01:49:04Z",
+    "first_seen": "2023-11-13T00:05:44Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.9877112,
+      50.6457268
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.9877112,
+          50.6457268
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-qxx-c3q"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-01",
+            "value": 127,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-01",
+            "value": 127,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2997803"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2525,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1522,
+      "transportation": 1003
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "E9kdHP3Zm74ER8d5A7",
+    "title": "La Course des Hameaux",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 31,
+    "local_rank": 63,
+    "phq_attendance": 117,
+    "entities": [],
+    "duration": 0,
+    "start": "2024-03-31T08:00:00Z",
+    "end": "2024-03-31T08:00:00Z",
+    "updated": "2024-01-11T00:15:52Z",
+    "first_seen": "2023-11-13T01:43:15Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.136737,
+      50.45885
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.136737,
+          50.45885
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-p7y-pgk"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-03-31",
+            "value": 117,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-03-31",
+            "value": 117,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "3020999",
+        "6438225",
+        "3018942"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2326,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1402,
+      "transportation": 924
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "HMniRxb68kkFLJB8Fj",
+    "title": "La Forestière - Saint-Amand-les-Eaux",
+    "description": "Sourced from predicthq.com",
+    "category": "sport",
+    "labels": [
+      "outdoor",
+      "running",
+      "sport"
+    ],
+    "rank": 31,
+    "local_rank": 57,
+    "phq_attendance": 116,
+    "entities": [],
+    "duration": 0,
+    "start": "2024-03-31T08:00:00Z",
+    "end": "2024-03-31T08:00:00Z",
+    "updated": "2024-01-10T22:32:23Z",
+    "first_seen": "2023-11-20T02:07:14Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.428713,
+      50.448979
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.428713,
+          50.448979
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53q-g36-dsq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-03-31",
+            "value": 116,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-03-31",
+            "value": 116,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2971040",
+        "6438464",
+        "2981839"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2306,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1390,
+      "transportation": 916
+    },
+    "phq_labels": [
+      {
+        "label": "outdoor",
+        "weight": 0.5
+      },
+      {
+        "label": "running",
+        "weight": 0.5
+      }
+    ]
+  }
+]

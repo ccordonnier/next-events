@@ -1,0 +1,4636 @@
+[{
+  "relevance": 1,
+  "id": "HkmMnsCoFvym3xJiSG",
+  "title": "La vie et le théâtre",
+  "description": "Sourced from predicthq.com - Conférence-lecture de Thomas Bénatouïl et Ariane Martinez",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "performing-arts"
+  ],
+  "rank": 0,
+  "local_rank": 0,
+  "phq_attendance": null,
+  "entities": [],
+  "duration": 0,
+  "start": "2024-04-16T16:30:00Z",
+  "end": "2024-04-16T16:30:00Z",
+  "updated": "2024-01-18T01:13:00Z",
+  "first_seen": "2024-01-18T01:07:42Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.1408309999999346,
+    50.610003
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.1408309999999346,
+        50.610003
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p36-52k"
+  },
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "2968577",
+      "3036584"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "phq_labels": [
+    {
+      "label": "art-and-cultural",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "4Vw7Rd8Fdaq2XagbZV",
+  "title": "Colloque annuel  : \"L'enfant victime de violences intrafamiliales\"",
+  "description": "Sourced from predicthq.com - Venez assister à notre colloque annuel sur la thématique de l'enfant victime de violences intrafamiliales !",
+  "category": "conference",
+  "labels": [
+    "community",
+    "conference"
+  ],
+  "rank": 38,
+  "local_rank": 54,
+  "phq_attendance": 264,
+  "entities": [],
+  "duration": 32400,
+  "start": "2024-04-16T06:30:00Z",
+  "end": "2024-04-16T15:30:00Z",
+  "updated": "2024-01-18T01:37:32Z",
+  "first_seen": "2024-01-18T01:34:04Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.045271,
+    50.6323328
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.045271,
+        50.6323328
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p42-7kf"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-04-16",
+          "value": 264,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-04-16",
+          "value": 264,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": false,
+  "private": false,
+  "predicted_event_spend": 6040,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 3954,
+    "transportation": 2085
+  },
+  "phq_labels": [
+    {
+      "label": "lifestyle",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "4JkoAJHDjwizLj93Rr",
+  "title": "Atelier : faire vivre un texte non théâtral",
+  "description": "Sourced from predicthq.com - réservé aux étudiants et personnels de l'université",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "performing-arts"
+  ],
+  "rank": 0,
+  "local_rank": 0,
+  "phq_attendance": null,
+  "entities": [],
+  "duration": 0,
+  "start": "2024-04-15T15:00:00Z",
+  "end": "2024-04-15T15:00:00Z",
+  "updated": "2024-02-01T03:54:20Z",
+  "first_seen": "2024-02-01T00:54:36Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.1408309999999346,
+    50.610003
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.1408309999999346,
+        50.610003
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p36-52k"
+  },
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "2968577",
+      "3036584"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "phq_labels": [
+    {
+      "label": "art-and-cultural",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "4qMZmSNdDvHdpAobaa",
+  "title": "FDTour 2024 - Lille",
+  "description": "Sourced from predicthq.com - Les investisseurs continuent leur tour de France à la rencontre des futures pépites  !",
+  "category": "conference",
+  "labels": [
+    "business",
+    "conference"
+  ],
+  "rank": 34,
+  "local_rank": 48,
+  "phq_attendance": 161,
+  "entities": [
+    {
+      "entity_id": "fqKkAerPC8kxgrBQEkpicR",
+      "name": "Euratechnologies",
+      "type": "venue",
+      "formatted_address": "165 Avenue de Bretagne\n59000 Lille\nFrance"
+    }
+  ],
+  "duration": 28800,
+  "start": "2024-04-11T08:00:00Z",
+  "end": "2024-04-11T16:00:00Z",
+  "updated": "2023-12-14T01:55:51Z",
+  "first_seen": "2023-12-14T01:39:00Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.0203176,
+    50.6330833
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.0203176,
+        50.6330833
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-qxz-92k"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-04-11",
+          "value": 161,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-04-11",
+          "value": 161,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6438313",
+      "3008218"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 3683,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 2411,
+    "transportation": 1271
+  }
+},
+{
+  "relevance": 1,
+  "id": "AJHcbxVCQAgyn2AnqZ",
+  "title": "Table ronde, Histoire récente du théâtre décentralisé en métropole de Lille",
+  "description": "Sourced from predicthq.com - Par Yannic Mancel et Maxence Cambron",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "performing-arts"
+  ],
+  "rank": 0,
+  "local_rank": 0,
+  "phq_attendance": null,
+  "entities": [],
+  "duration": 0,
+  "start": "2024-04-10T16:30:00Z",
+  "end": "2024-04-10T16:30:00Z",
+  "updated": "2024-01-18T01:49:38Z",
+  "first_seen": "2024-01-18T01:37:59Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.1261485,
+    50.6284632
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.1261485,
+        50.6284632
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p3c-fvf"
+  },
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "2968577",
+      "3018335"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "phq_labels": [
+    {
+      "label": "art-and-cultural",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "5hqfVWfLADbhBZzd5q",
+  "title": "Be Authentic for Leaders - 10/04 - English session",
+  "description": "Sourced from predicthq.com - Embark on a transformative journey with \"Be Authentic\" – where leadership meets wisdom and self-discovery.",
+  "category": "conference",
+  "labels": [
+    "business",
+    "conference"
+  ],
+  "rank": 37,
+  "local_rank": 65,
+  "phq_attendance": 222,
+  "entities": [],
+  "duration": 203400,
+  "start": "2024-04-10T06:30:00Z",
+  "end": "2024-04-12T15:00:00Z",
+  "updated": "2023-12-09T09:13:16Z",
+  "first_seen": "2023-12-09T09:09:58Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.4635916,
+    50.3692894
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.4635916,
+        50.3692894
+      ],
+      "type": "Point"
+    },
+    "placekey": "@53q-fz9-3qz"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-04-10",
+          "value": 222,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-04-11",
+          "value": 222,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-04-12",
+          "value": 222,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-04-10",
+          "value": 222,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-04-11",
+          "value": 222,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-04-12",
+          "value": 222,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2971040",
+      "6617181",
+      "3036300"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 15238,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 9977,
+    "transportation": 5261
+  },
+  "phq_labels": [
+    {
+      "label": "management-and-consulting",
+      "weight": 0.538
+    },
+    {
+      "label": "education-and-careers",
+      "weight": 0.462
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "8DJvkHvE4va4ma2BfK",
+  "title": "Histoire du théâtre en Nord du Moyen Âge au XXe siècle",
+  "description": "Sourced from predicthq.com - Conférence de Véra Dupuis",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "performing-arts"
+  ],
+  "rank": 0,
+  "local_rank": 0,
+  "phq_attendance": null,
+  "entities": [],
+  "duration": 0,
+  "start": "2024-04-09T16:30:00Z",
+  "end": "2024-04-09T16:30:00Z",
+  "updated": "2024-01-18T01:39:02Z",
+  "first_seen": "2024-01-18T01:36:59Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.1408309999999346,
+    50.610003
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.1408309999999346,
+        50.610003
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p36-52k"
+  },
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "2968577",
+      "3036584"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "phq_labels": [
+    {
+      "label": "art-and-cultural",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "DiSRSip3Z3jkWoBDd8",
+  "title": "Le 12/13h des Entreprises - Santé des collaborateurs & Productivité",
+  "description": "Sourced from predicthq.com - Découvrez comment la santé de vos collaborateurs peut booster leur productivité lors du \"12/13h des Entreprises\" le 9 avril 2024 à Lille",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "health"
+  ],
+  "rank": 26,
+  "local_rank": 39,
+  "phq_attendance": 60,
+  "entities": [
+    {
+      "entity_id": "38b338yhj4agsyJdPJy3GdE",
+      "name": "Institute Pasteur De Lille",
+      "type": "venue",
+      "formatted_address": "1 Rue du Professeur Calmette\n59000 Lille\nFrance"
+    }
+  ],
+  "duration": 7200,
+  "start": "2024-04-09T10:00:00Z",
+  "end": "2024-04-09T12:00:00Z",
+  "updated": "2024-02-01T03:48:32Z",
+  "first_seen": "2024-02-01T00:32:19Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.0738908,
+    50.6282142
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.0738908,
+        50.6282142
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p3w-52k"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-04-09",
+          "value": 60,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-04-09",
+          "value": 60,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 1372,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 898,
+    "transportation": 474
+  },
+  "phq_labels": [
+    {
+      "label": "medical",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "3CdRfY5atEmyiiqvE3",
+  "title": "Conférence CLIO : Les établissements hospitaliers au Moyen-Âge",
+  "description": "Sourced from predicthq.com - Conférence CLIO  sur l'histoire de la Médecine.",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "science",
+    "technology"
+  ],
+  "rank": 31,
+  "local_rank": 44,
+  "phq_attendance": 118,
+  "entities": [
+    {
+      "entity_id": "f4SBWehTfpFQ5fLARHGd7k",
+      "name": "Maison des Associations",
+      "type": "venue",
+      "formatted_address": "72/74 rue Royale\nLille\nFrance"
+    }
+  ],
+  "duration": 3600,
+  "start": "2024-04-04T15:45:00Z",
+  "end": "2024-04-04T16:45:00Z",
+  "updated": "2023-10-31T14:09:18Z",
+  "first_seen": "2023-07-02T16:47:24Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.0655758,
+    50.6278495
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.0655758,
+        50.6278495
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p3w-ckf"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-04-04",
+          "value": 118,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-04-04",
+          "value": 118,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 2699,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 1767,
+    "transportation": 932
+  },
+  "phq_labels": [
+    {
+      "label": "science-and-technology",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "83VpHa7fAjXQmsgePp",
+  "title": "Conférence \"La Médiation institutionnelle d'aujourd'hui à horizon 2030\"",
+  "description": "Sourced from predicthq.com - Conférence portant sur l'avenir de la médiation institutionnelle",
+  "category": "conference",
+  "labels": [
+    "business",
+    "conference"
+  ],
+  "rank": 35,
+  "local_rank": 51,
+  "phq_attendance": 171,
+  "entities": [
+    {
+      "entity_id": "39SV9JxK7ZxqhnrcUjXvqZC",
+      "name": "Catholic University of Lille",
+      "type": "venue",
+      "formatted_address": "Faculty of Arts and Humanities ETHICS EA-7446, 56 rue du port\nLille\nFrance"
+    }
+  ],
+  "duration": 25200,
+  "start": "2024-04-04T07:30:00Z",
+  "end": "2024-04-04T14:30:00Z",
+  "updated": "2023-12-28T01:57:57Z",
+  "first_seen": "2023-12-28T01:53:57Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.0466837,
+    50.633109
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.0466837,
+        50.633109
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p42-7bk"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-04-04",
+          "value": 171,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-04-04",
+          "value": 171,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 3912,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 2561,
+    "transportation": 1350
+  }
+},
+{
+  "relevance": 1,
+  "id": "7yhWWu7g6ygc8a5arL",
+  "title": "29 mars - Place des Dircoms : Visite de Sopra Steria",
+  "description": "Sourced from predicthq.com - Événement réservé aux adhérents Dircom.",
+  "category": "conference",
+  "labels": [
+    "business",
+    "conference"
+  ],
+  "rank": 24,
+  "local_rank": 43,
+  "phq_attendance": 51,
+  "entities": [],
+  "duration": 9000,
+  "start": "2024-03-29T10:30:00Z",
+  "end": "2024-03-29T13:00:00Z",
+  "updated": "2024-02-08T03:00:11Z",
+  "first_seen": "2024-02-08T02:56:40Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.1280129,
+    50.6503472
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.1280129,
+        50.6503472
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p2s-d9z"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-03-29",
+          "value": 51,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-03-29",
+          "value": 51,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "2968577",
+      "3018335"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 1166,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 764,
+    "transportation": 402
+  }
+},
+{
+  "relevance": 1,
+  "id": "9wAc6nr6nVJtEy5m5A",
+  "title": "International Cybersecurity Fourm",
+  "description": "Sourced from predicthq.com - The International Cybersecurity Forum is an influential conference that brings together industry experts, policymakers, and leaders to discuss and address the latest challenges and developments in cybersecurity. This event offers a unique platform for networking, knowledge sharing, and collaboration in the global efforts to enhance cybersecurity.",
+  "category": "conference",
+  "labels": [
+    "conference"
+  ],
+  "rank": 42,
+  "local_rank": 56,
+  "phq_attendance": 408,
+  "entities": [
+    {
+      "entity_id": "R7yuRmY2VwqG5ArDPUeVbr",
+      "name": "Lille Grand Palais",
+      "type": "venue",
+      "formatted_address": "1 Boulevard des Cités Unies\n59 Lille\nFrance"
+    },
+    {
+      "entity_id": "N5CN9gWYKTDDNAZYZhGUhG",
+      "name": "International Cybersecurity Fourm",
+      "type": "event-group",
+      "formatted_address": "1 Boulevard of United Cities, 59 Lille",
+      "category": "conference",
+      "labels": [
+        "conference",
+        "event-group"
+      ]
+    }
+  ],
+  "duration": 378000,
+  "start": "2024-03-24T08:00:00Z",
+  "end": "2024-03-28T17:00:00Z",
+  "updated": "2023-11-28T04:56:50Z",
+  "first_seen": "2023-06-10T02:55:51Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.078077,
+    50.6326569
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.078077,
+        50.6326569
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p3x-7t9"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-03-22",
+          "value": 62,
+          "position": "leading"
+        },
+        {
+          "date_local": "2024-03-23",
+          "value": 164,
+          "position": "leading"
+        },
+        {
+          "date_local": "2024-03-24",
+          "value": 408,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-25",
+          "value": 408,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-26",
+          "value": 408,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-27",
+          "value": 408,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-28",
+          "value": 408,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-29",
+          "value": 82,
+          "position": "lagging"
+        },
+        {
+          "date_local": "2024-03-30",
+          "value": 21,
+          "position": "lagging"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-03-22",
+          "value": 21,
+          "position": "leading"
+        },
+        {
+          "date_local": "2024-03-23",
+          "value": 164,
+          "position": "leading"
+        },
+        {
+          "date_local": "2024-03-24",
+          "value": 408,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-25",
+          "value": 408,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-26",
+          "value": 408,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-27",
+          "value": 408,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-28",
+          "value": 408,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-29",
+          "value": 54,
+          "position": "lagging"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 130288,
+  "predicted_event_spend_industries": {
+    "accommodation": 36796,
+    "hospitality": 73346,
+    "transportation": 20145
+  }
+},
+{
+  "relevance": 1,
+  "id": "wmHngDjCZBGunZYcmA",
+  "title": "Impro-conférence : Le printemps",
+  "description": "Sourced from predicthq.com - Impro-conférence autour de la biologie",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "science",
+    "technology"
+  ],
+  "rank": 0,
+  "local_rank": 0,
+  "phq_attendance": null,
+  "entities": [],
+  "duration": 0,
+  "start": "2024-03-19T17:30:00Z",
+  "end": "2024-03-19T17:30:00Z",
+  "updated": "2024-01-18T01:05:14Z",
+  "first_seen": "2024-01-18T00:52:54Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.1408309999999346,
+    50.610003
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.1408309999999346,
+        50.610003
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p36-52k"
+  },
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "2968577",
+      "3036584"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "phq_labels": [
+    {
+      "label": "science-and-technology",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "8FpduVmKgaoCH4imgs",
+  "title": "Matinée POP Café : Mettre de l'intelligence artificielle dans nos métiers",
+  "description": "Sourced from predicthq.com - Venez découvrir comment l'intelligence artificielle peut révolutionner nos métiers lors de la Matinée POP Café, un événement en personne à n",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "science",
+    "technology"
+  ],
+  "rank": 27,
+  "local_rank": 39,
+  "phq_attendance": 68,
+  "entities": [],
+  "duration": 7200,
+  "start": "2024-03-19T09:00:00Z",
+  "end": "2024-03-19T11:00:00Z",
+  "updated": "2024-01-06T16:40:57Z",
+  "first_seen": "2024-01-06T16:40:41Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.0498645,
+    50.62487109999999
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.0498645,
+        50.62487109999999
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p3z-47q"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-03-19",
+          "value": 68,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-03-19",
+          "value": 68,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 1555,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 1018,
+    "transportation": 537
+  },
+  "phq_labels": [
+    {
+      "label": "science-and-technology",
+      "weight": 0.624
+    },
+    {
+      "label": "education-and-careers",
+      "weight": 0.376
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "67G9tffbseo4M5aEoH",
+  "title": "International Conference CBRNE - Research & Innovation",
+  "description": "Sourced from predicthq.com",
+  "category": "conference",
+  "labels": [
+    "conference"
+  ],
+  "rank": 44,
+  "local_rank": 57,
+  "phq_attendance": 500,
+  "entities": [
+    {
+      "entity_id": "R7yuRmY2VwqG5ArDPUeVbr",
+      "name": "Lille Grand Palais",
+      "type": "venue",
+      "formatted_address": "1 Boulevard des Cités Unies\n59 Lille\nFrance"
+    },
+    {
+      "entity_id": "W2XGbCK7AVwVpE98v9dZw",
+      "name": "International Conference CBRNE - Research & Innovation",
+      "type": "event-group",
+      "formatted_address": "1 Boulevard of United Cities, 59 Lille",
+      "category": "conference",
+      "labels": [
+        "conference",
+        "event-group"
+      ]
+    }
+  ],
+  "duration": 291600,
+  "start": "2024-03-19T08:00:00Z",
+  "end": "2024-03-22T17:00:00Z",
+  "updated": "2023-10-26T02:09:14Z",
+  "first_seen": "2023-02-01T07:25:43Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.078077,
+    50.6326569
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.078077,
+        50.6326569
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p3x-7t9"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-03-17",
+          "value": 75,
+          "position": "leading"
+        },
+        {
+          "date_local": "2024-03-18",
+          "value": 200,
+          "position": "leading"
+        },
+        {
+          "date_local": "2024-03-19",
+          "value": 500,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-20",
+          "value": 500,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-21",
+          "value": 500,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-22",
+          "value": 500,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-23",
+          "value": 100,
+          "position": "lagging"
+        },
+        {
+          "date_local": "2024-03-24",
+          "value": 25,
+          "position": "lagging"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-03-17",
+          "value": 25,
+          "position": "leading"
+        },
+        {
+          "date_local": "2024-03-18",
+          "value": 200,
+          "position": "leading"
+        },
+        {
+          "date_local": "2024-03-19",
+          "value": 500,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-20",
+          "value": 500,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-21",
+          "value": 500,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-22",
+          "value": 500,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-23",
+          "value": 65,
+          "position": "lagging"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 152722,
+  "predicted_event_spend_industries": {
+    "accommodation": 61063,
+    "hospitality": 71908,
+    "transportation": 19750
+  },
+  "phq_labels": [
+    {
+      "label": "legal-and-property-services",
+      "weight": 0.373
+    },
+    {
+      "label": "science-and-technology",
+      "weight": 0.326
+    },
+    {
+      "label": "education-and-careers",
+      "weight": 0.301
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "GnHw3JC3E5pJecq7RF",
+  "title": "Series Mania Forum",
+  "description": "Sourced from predicthq.com",
+  "category": "conference",
+  "labels": [
+    "conference"
+  ],
+  "rank": 30,
+  "local_rank": 43,
+  "phq_attendance": 100,
+  "entities": [
+    {
+      "entity_id": "R7yuRmY2VwqG5ArDPUeVbr",
+      "name": "Lille Grand Palais",
+      "type": "venue",
+      "formatted_address": "1 Boulevard des Cités Unies\n59 Lille\nFrance"
+    },
+    {
+      "entity_id": "rY4RqwT5QDHjyG6BZTyPxf",
+      "name": "Series Mania Forum",
+      "type": "event-group",
+      "formatted_address": "59800 Lille\nFrance",
+      "category": "conference",
+      "labels": [
+        "conference",
+        "event-group",
+        "recurring"
+      ],
+      "recurring": {
+        "ical": "DTSTART;VALUE=DATE-TIME:20230321T090000\nRRULE:FREQ=YEARLY;INTERVAL=1"
+      }
+    }
+  ],
+  "duration": 205200,
+  "start": "2024-03-19T08:00:00Z",
+  "end": "2024-03-21T17:00:00Z",
+  "updated": "2023-12-19T01:26:37Z",
+  "first_seen": "2023-05-28T03:32:52Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.078077,
+    50.6326569
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.078077,
+        50.6326569
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p3x-7t9"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-03-19",
+          "value": 100,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-20",
+          "value": 100,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-21",
+          "value": 100,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-03-19",
+          "value": 100,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-20",
+          "value": 100,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-21",
+          "value": 100,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 6864,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 4494,
+    "transportation": 2370
+  }
+},
+{
+  "relevance": 1,
+  "id": "8eiyLzC3FhmJSYncw7",
+  "title": "Conférence CLIO : Histoire de la cardiologie lilloise",
+  "description": "Sourced from predicthq.com - Conférence CLIO  sur l'histoire de la Médecine.",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "science",
+    "technology"
+  ],
+  "rank": 32,
+  "local_rank": 44,
+  "phq_attendance": 121,
+  "entities": [
+    {
+      "entity_id": "f4SBWehTfpFQ5fLARHGd7k",
+      "name": "Maison des Associations",
+      "type": "venue",
+      "formatted_address": "72/74 rue Royale\nLille\nFrance"
+    }
+  ],
+  "duration": 3600,
+  "start": "2024-03-14T16:45:00Z",
+  "end": "2024-03-14T17:45:00Z",
+  "updated": "2023-10-31T08:36:07Z",
+  "first_seen": "2023-07-02T04:15:05Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.0655758,
+    50.6278495
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.0655758,
+        50.6278495
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p3w-ckf"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-03-14",
+          "value": 121,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-03-14",
+          "value": 121,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 2768,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 1812,
+    "transportation": 955
+  },
+  "phq_labels": [
+    {
+      "label": "science-and-technology",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "hQZQUqzLzLH8JYSUYc",
+  "title": "Semaine du cerveau 2024 : De la peur au trouble de stress post-traumatique",
+  "description": "Sourced from predicthq.com - La semaine du cerveau est de retour à Lille ! Venez échanger et débattre avec les chercheurs en neurosciences. Inscription obligatoire",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "science",
+    "technology"
+  ],
+  "rank": 28,
+  "local_rank": 46,
+  "phq_attendance": 76,
+  "entities": [
+    {
+      "entity_id": "WNwxpRqfpvTfnciNfbziud",
+      "name": "Université Lille 2 Faculty Of Medicine Henri Warembourg",
+      "type": "venue",
+      "formatted_address": "Avenue Eugène Avinée\n59120 Loos\nFrance"
+    }
+  ],
+  "duration": 7200,
+  "start": "2024-03-13T17:30:00Z",
+  "end": "2024-03-13T19:30:00Z",
+  "updated": "2024-02-08T01:51:47Z",
+  "first_seen": "2024-02-08T01:50:39Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.0321602,
+    50.6037924
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.0321602,
+        50.6037924
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hh-p4n-5fz"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-03-13",
+          "value": 76,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-03-13",
+          "value": 76,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454415",
+      "2997620"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 1738,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 1138,
+    "transportation": 600
+  },
+  "phq_labels": [
+    {
+      "label": "science-and-technology",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "7yYUVH6k9PrdU9vpeM",
+  "title": "Interactions au théâtre entre acteurs, spectateurs et lieu de performance",
+  "description": "Sourced from predicthq.com - Analyse des réactions et des comportements\nConférence de Laurent Sparrow, Cécile Chantraine Braillon et Laurence Willard Delbarre",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "performing-arts"
+  ],
+  "rank": 0,
+  "local_rank": 0,
+  "phq_attendance": null,
+  "entities": [],
+  "duration": 0,
+  "start": "2024-03-12T17:30:00Z",
+  "end": "2024-03-12T17:30:00Z",
+  "updated": "2024-01-05T18:21:51Z",
+  "first_seen": "2023-12-06T18:21:38Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.1408309999999346,
+    50.610003
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.1408309999999346,
+        50.610003
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p36-52k"
+  },
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "2968577",
+      "3036584"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 2288,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 1498,
+    "transportation": 790
+  },
+  "phq_labels": [
+    {
+      "label": "art-and-cultural",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "9xwg7w4UYm2p3HT8kg",
+  "title": "Le 12/13h Prév' des Entreprises - Préparez votre semaine de la QVCT",
+  "description": "Sourced from predicthq.com - Venez préparer une semaine de succès avec le \"Le 12/13h Prév' des Entreprises - Préparez votre semaine de la QVCT\" le 12 mars 2024 à Lille.",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "health"
+  ],
+  "rank": 26,
+  "local_rank": 39,
+  "phq_attendance": 61,
+  "entities": [
+    {
+      "entity_id": "38b338yhj4agsyJdPJy3GdE",
+      "name": "Institute Pasteur De Lille",
+      "type": "venue",
+      "formatted_address": "1 Rue du Professeur Calmette\n59000 Lille\nFrance"
+    }
+  ],
+  "duration": 7200,
+  "start": "2024-03-12T11:00:00Z",
+  "end": "2024-03-12T13:00:00Z",
+  "updated": "2024-02-01T04:02:12Z",
+  "first_seen": "2024-02-01T00:52:40Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.0738908,
+    50.6282142
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.0738908,
+        50.6282142
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p3w-52k"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-03-12",
+          "value": 61,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-03-12",
+          "value": 61,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 1395,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 913,
+    "transportation": 481
+  },
+  "phq_labels": [
+    {
+      "label": "medical",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "5g8Sb9tPAjLNAAppYs",
+  "title": "Comment mettre en place une démarche de mobilité durable en entreprise ?",
+  "description": "Sourced from predicthq.com - Venez découvrir comment instaurer une démarche de mobilité durable en entreprise avec l'exemple du vélotaf le 12/03/2024",
+  "category": "conference",
+  "labels": [
+    "conference"
+  ],
+  "rank": 0,
+  "local_rank": 0,
+  "phq_attendance": null,
+  "entities": [],
+  "duration": 0,
+  "start": "2024-03-12T07:30:00Z",
+  "end": "2024-03-12T07:30:00Z",
+  "updated": "2023-12-21T02:30:56Z",
+  "first_seen": "2023-12-21T02:08:46Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.0877785,
+    50.6142616
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.0877785,
+        50.6142616
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p3y-nnq"
+  },
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6438449",
+      "2982944"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false
+},
+{
+  "relevance": 1,
+  "id": "CnMoKVnPG2TBWfsZtJ",
+  "title": "Semaine du cerveau 2024 : AVC, état des lieux et projections futures",
+  "description": "Sourced from predicthq.com - La semaine du cerveau est de retour à Lille ! Venez échanger et débattre avec les chercheurs en neurosciences. Inscription obligatoire",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "science",
+    "technology"
+  ],
+  "rank": 0,
+  "local_rank": 0,
+  "phq_attendance": null,
+  "entities": [
+    {
+      "entity_id": "WNwxpRqfpvTfnciNfbziud",
+      "name": "Université Lille 2 Faculty Of Medicine Henri Warembourg",
+      "type": "venue",
+      "formatted_address": "Avenue Eugène Avinée\n59120 Loos\nFrance"
+    }
+  ],
+  "duration": 0,
+  "start": "2024-03-11T17:30:00Z",
+  "end": "2024-03-11T17:30:00Z",
+  "updated": "2024-02-08T00:33:33Z",
+  "first_seen": "2024-02-08T00:23:23Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.0321602,
+    50.6037924
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.0321602,
+        50.6037924
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hh-p4n-5fz"
+  },
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454415",
+      "2997620"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "phq_labels": [
+    {
+      "label": "science-and-technology",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "AJffV9s55yW33is59w",
+  "title": "Ageing Fit Conference",
+  "alternate_titles": [
+    "AgeingFit"
+  ],
+  "description": "Sourced from predicthq.com",
+  "category": "conference",
+  "labels": [
+    "conference"
+  ],
+  "rank": 44,
+  "local_rank": 57,
+  "phq_attendance": 500,
+  "entities": [
+    {
+      "entity_id": "R7yuRmY2VwqG5ArDPUeVbr",
+      "name": "Lille Grand Palais",
+      "type": "venue",
+      "formatted_address": "1 Boulevard des Cités Unies\n59 Lille\nFrance"
+    },
+    {
+      "entity_id": "pKKvZLFA57RBvDgrNZbGM2",
+      "name": "Ageing Fit Conference",
+      "type": "event-group",
+      "formatted_address": "1 Boulevard of United Cities, 59 Lille",
+      "category": "conference",
+      "labels": [
+        "conference",
+        "event-group"
+      ]
+    }
+  ],
+  "duration": 118800,
+  "start": "2024-03-05T08:00:00Z",
+  "end": "2024-03-06T17:00:00Z",
+  "updated": "2023-10-26T02:58:33Z",
+  "first_seen": "2023-03-12T11:31:23Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.078077,
+    50.6326569
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.078077,
+        50.6326569
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p3x-7t9"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-03-03",
+          "value": 75,
+          "position": "leading"
+        },
+        {
+          "date_local": "2024-03-04",
+          "value": 200,
+          "position": "leading"
+        },
+        {
+          "date_local": "2024-03-05",
+          "value": 500,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-06",
+          "value": 500,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-07",
+          "value": 100,
+          "position": "lagging"
+        },
+        {
+          "date_local": "2024-03-08",
+          "value": 25,
+          "position": "lagging"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-03-03",
+          "value": 25,
+          "position": "leading"
+        },
+        {
+          "date_local": "2024-03-04",
+          "value": 200,
+          "position": "leading"
+        },
+        {
+          "date_local": "2024-03-05",
+          "value": 500,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-06",
+          "value": 500,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-03-07",
+          "value": 65,
+          "position": "lagging"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 68376,
+  "predicted_event_spend_industries": {
+    "accommodation": 22546,
+    "hospitality": 35954,
+    "transportation": 9875
+  },
+  "phq_labels": [
+    {
+      "label": "science-and-technology",
+      "weight": 0.609
+    },
+    {
+      "label": "education-and-careers",
+      "weight": 0.391
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "5okwvtxdjJFzP48fmp",
+  "title": "Conférence \"Veut-on nourrir le monde ?\" avec Sébastien ABIS",
+  "description": "Sourced from predicthq.com - Assistez à la conférence captivante \"Veut-on nourrir le monde ?\" avec Sébastien ABIS le 29 février 2024 à 18h à la Péniche Laléa",
+  "category": "conference",
+  "labels": [
+    "business",
+    "conference"
+  ],
+  "rank": 0,
+  "local_rank": 0,
+  "phq_attendance": null,
+  "entities": [],
+  "duration": 0,
+  "start": "2024-02-29T17:00:00Z",
+  "end": "2024-02-29T17:00:00Z",
+  "updated": "2024-01-30T17:14:19Z",
+  "first_seen": "2024-01-25T01:01:17Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.0554044,
+    50.68657229999999
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.0554044,
+        50.68657229999999
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p3g-v9f"
+  },
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6438558",
+      "2967482"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false
+},
+{
+  "relevance": 1,
+  "id": "5yzMwTsRSSjvFPZRCa",
+  "title": "[Flupa Lille] UX, inclusion et accessibilité : de quoi parle-t-on ?",
+  "description": "Sourced from predicthq.com - Explorez l'UX,l'inclusion et accessibilité avec Pauline Oger  et Théo Jacqmin.",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "science",
+    "technology"
+  ],
+  "rank": 28,
+  "local_rank": 44,
+  "phq_attendance": 81,
+  "entities": [],
+  "duration": 7200,
+  "start": "2024-02-21T17:30:00Z",
+  "end": "2024-02-21T19:30:00Z",
+  "updated": "2024-02-08T00:35:18Z",
+  "first_seen": "2024-02-08T00:25:15Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.0580162,
+    50.6354764
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.0580162,
+        50.6354764
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p47-6ff"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-21",
+          "value": 81,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-21",
+          "value": 81,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 1853,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 1213,
+    "transportation": 639
+  },
+  "phq_labels": [
+    {
+      "label": "science-and-technology",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "4JVH7tMa4RVTJVRxrc",
+  "title": "Conférence musicale : 18 chansons pour une parfaite playlist féminine",
+  "alternate_titles": [
+    "De quoi \"territoire zéro chômeurs\" est-il le nom ?"
+  ],
+  "description": "Sourced from predicthq.com - Par Lucie Baratte",
+  "category": "conference",
+  "labels": [
+    "conference"
+  ],
+  "rank": 0,
+  "local_rank": 0,
+  "phq_attendance": null,
+  "entities": [],
+  "duration": 0,
+  "start": "2024-02-20T17:30:00Z",
+  "end": "2024-02-20T17:30:00Z",
+  "updated": "2024-02-08T00:52:40Z",
+  "first_seen": "2023-11-01T11:09:08Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.1408309999999346,
+    50.610003
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.1408309999999346,
+        50.610003
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p36-52k"
+  },
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "2968577",
+      "3036584"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false
+},
+{
+  "relevance": 1,
+  "id": "Ea7MsQXMZS8fjtZmQV",
+  "title": "Réforme obligation d'emploi TH 2020, 4 ans après, où en êtes-vous ?",
+  "description": "Sourced from predicthq.com - Venez vous informer et anticiper ce qui va changer fin 2024 concernant l'obligation d'emploi des travailleurs handicapés (OETH).",
+  "category": "conference",
+  "labels": [
+    "business",
+    "conference"
+  ],
+  "rank": 27,
+  "local_rank": 48,
+  "phq_attendance": 71,
+  "entities": [],
+  "duration": 7200,
+  "start": "2024-02-20T07:30:00Z",
+  "end": "2024-02-20T09:30:00Z",
+  "updated": "2024-01-18T02:48:23Z",
+  "first_seen": "2024-01-18T02:41:30Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    2.735399999999999,
+    50.302027
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        2.735399999999999,
+        50.302027
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hh-j6p-2zf"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-20",
+          "value": 71,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-20",
+          "value": 71,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2988430",
+      "3036783",
+      "6450247",
+      "2981599"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2988430",
+      "3036783",
+      "6618442",
+      "3036784"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 1501,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 947,
+    "transportation": 554
+  }
+},
+{
+  "relevance": 1,
+  "id": "GAnxWrwZSVEoBkMQ7W",
+  "title": "CCI DIGITAL NIGHT 24",
+  "description": "Sourced from predicthq.com - 5è édition de la CCI DIGITAL NIGHT, le rendez-vous incontournable des entreprises et des acteurs du numérique !",
+  "category": "conference",
+  "labels": [
+    "business",
+    "conference"
+  ],
+  "rank": 34,
+  "local_rank": 50,
+  "phq_attendance": 164,
+  "entities": [
+    {
+      "entity_id": "CQY2vJmMFGzyJG4tr6A66B",
+      "name": "CCI Grand Lille",
+      "type": "venue",
+      "formatted_address": "Place du Théâtre\n59000 Lille\nFrance"
+    }
+  ],
+  "duration": 14400,
+  "start": "2024-02-15T17:30:00Z",
+  "end": "2024-02-15T21:30:00Z",
+  "updated": "2024-01-16T18:32:27Z",
+  "first_seen": "2024-01-06T12:26:03Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.0643391,
+    50.6377681
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.0643391,
+        50.6377681
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p47-7t9"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-15",
+          "value": 164,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-15",
+          "value": 164,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 3752,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 2456,
+    "transportation": 1295
+  }
+},
+{
+  "relevance": 1,
+  "id": "5pFFNNk5J5b4G6asJW",
+  "title": "La synthèse inclusive de l'évolution",
+  "description": "Sourced from predicthq.com - Étienne Danchin, directeur de recherche émérite au CNRS, spécialiste du comportement social des oiseaux marins",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "science",
+    "technology"
+  ],
+  "rank": 0,
+  "local_rank": 0,
+  "phq_attendance": null,
+  "entities": [],
+  "duration": 0,
+  "start": "2024-02-13T17:30:00Z",
+  "end": "2024-02-13T17:30:00Z",
+  "updated": "2023-11-29T09:51:44Z",
+  "first_seen": "2023-11-28T23:50:04Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.143895,
+    50.60823749999999
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.143895,
+        50.60823749999999
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p32-k2k"
+  },
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "2968577",
+      "3036584"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "phq_labels": [
+    {
+      "label": "science-and-technology",
+      "weight": 0.649
+    },
+    {
+      "label": "education-and-careers",
+      "weight": 0.351
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "Fz7eLQunW9fi2Uu4Q5",
+  "title": "L'importance de la charte graphique dans un projet",
+  "description": "Sourced from predicthq.com - Talk sur l'importance de la charte graphique dans un projet. Qu'est ce que c'est ? Pourquoi ? Quels avantages ? Est-ce que ça marche ?",
+  "category": "conference",
+  "labels": [
+    "business",
+    "conference"
+  ],
+  "rank": 25,
+  "local_rank": 45,
+  "phq_attendance": 59,
+  "entities": [],
+  "duration": 7200,
+  "start": "2024-02-13T17:30:00Z",
+  "end": "2024-02-13T19:30:00Z",
+  "updated": "2024-01-09T02:42:27Z",
+  "first_seen": "2024-01-09T02:31:41Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.119072399999999,
+    50.66559059999999
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.119072399999999,
+        50.66559059999999
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p2m-jqf"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-13",
+          "value": 59,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-13",
+          "value": 59,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6438566",
+      "2967438"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 1349,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 883,
+    "transportation": 466
+  },
+  "phq_labels": [
+    {
+      "label": "education-and-careers",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "B5B5URBudXzedhZcnM",
+  "title": "CES 2024 : AFTERWORK REX de la délégation de la Région Hauts-de-France",
+  "description": "Sourced from predicthq.com - All you need to know sur la participation au CES de Las Vegas!",
+  "category": "conference",
+  "labels": [
+    "business",
+    "conference"
+  ],
+  "rank": 33,
+  "local_rank": 46,
+  "phq_attendance": 141,
+  "entities": [],
+  "duration": 5400,
+  "start": "2024-02-13T16:00:00Z",
+  "end": "2024-02-13T17:30:00Z",
+  "updated": "2024-02-08T02:32:50Z",
+  "first_seen": "2024-02-08T02:29:00Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.078537999999999,
+    50.6291435
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.078537999999999,
+        50.6291435
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p3w-47q"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-13",
+          "value": 141,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-13",
+          "value": 141,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 3226,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 2112,
+    "transportation": 1113
+  },
+  "phq_labels": [
+    {
+      "label": "lifestyle",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "CRXYPRmexG8EWAmhgo",
+  "title": "Séminaire Accompagner des etudiants sur les terrains professionnels",
+  "description": "Sourced from predicthq.com - Participez à notre séminaire \"accompagner des étudiants sur les terrains professionnels\"",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "education",
+    "family"
+  ],
+  "rank": 28,
+  "local_rank": 43,
+  "phq_attendance": 80,
+  "entities": [],
+  "duration": 7200,
+  "start": "2024-02-13T15:30:00Z",
+  "end": "2024-02-13T17:30:00Z",
+  "updated": "2024-01-25T00:40:42Z",
+  "first_seen": "2024-01-25T00:24:45Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.0391566,
+    50.6145629
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.0391566,
+        50.6145629
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hh-p4n-y9z"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-13",
+          "value": 80,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-13",
+          "value": 80,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454415",
+      "2997620"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 1830,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 1198,
+    "transportation": 632
+  },
+  "phq_labels": [
+    {
+      "label": "education-and-careers",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "9g6GANuyUzAnrJ5dFC",
+  "title": "Action ! Quand les séries parlent des coulisses de la prod audiovisuelle",
+  "description": "Sourced from predicthq.com - Table ronde et conférence en partenariat avec Séries Mania",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "entertainment"
+  ],
+  "rank": 0,
+  "local_rank": 0,
+  "phq_attendance": null,
+  "entities": [],
+  "duration": 0,
+  "start": "2024-02-13T12:45:00Z",
+  "end": "2024-02-13T12:45:00Z",
+  "updated": "2024-02-08T02:15:37Z",
+  "first_seen": "2024-02-08T02:03:49Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.1408309999999346,
+    50.610003
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.1408309999999346,
+        50.610003
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p36-52k"
+  },
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "2968577",
+      "3036584"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false
+},
+{
+  "relevance": 1,
+  "id": "3LtusGppQv8vgKTaDq",
+  "title": "Conférence CLIO : Art et Médecine",
+  "description": "Sourced from predicthq.com - Conférence CLIO  sur l'histoire de la Médecine.",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "science",
+    "technology"
+  ],
+  "rank": 32,
+  "local_rank": 45,
+  "phq_attendance": 127,
+  "entities": [
+    {
+      "entity_id": "f4SBWehTfpFQ5fLARHGd7k",
+      "name": "Maison des Associations",
+      "type": "venue",
+      "formatted_address": "72/74 rue Royale\nLille\nFrance"
+    }
+  ],
+  "duration": 3600,
+  "start": "2024-02-08T16:45:00Z",
+  "end": "2024-02-08T17:45:00Z",
+  "updated": "2023-10-31T11:16:32Z",
+  "first_seen": "2023-07-02T16:47:24Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.0655758,
+    50.6278495
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.0655758,
+        50.6278495
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p3w-ckf"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-08",
+          "value": 127,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-08",
+          "value": 127,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 2905,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 1902,
+    "transportation": 1003
+  },
+  "phq_labels": [
+    {
+      "label": "science-and-technology",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "6KX9sSNLtT8Qs7qi96",
+  "title": "Pitchs session BA NdF",
+  "description": "Sourced from predicthq.com - Soirée pitchs 7' Présentation  7' Questions",
+  "category": "conference",
+  "labels": [
+    "business",
+    "conference"
+  ],
+  "rank": 33,
+  "local_rank": 54,
+  "phq_attendance": 146,
+  "entities": [],
+  "duration": 8100,
+  "start": "2024-02-06T17:15:00Z",
+  "end": "2024-02-06T19:30:00Z",
+  "updated": "2024-01-18T01:00:53Z",
+  "first_seen": "2024-01-18T00:47:16Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.1548409,
+    50.63949539999999
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.1548409,
+        50.63949539999999
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p2n-vj9"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-06",
+          "value": 146,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-06",
+          "value": 146,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "2968577",
+      "3018335"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 3340,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 2187,
+    "transportation": 1153
+  }
+},
+{
+  "relevance": 1,
+  "id": "CaMdoHx3s9cqTEmSW5",
+  "title": "Les entreprises de Lille et alentours recrutent !",
+  "description": "Sourced from predicthq.com - Vous êtes à la recherche d'un job, d'un stage ou d'une alternance ? Rencontrez les recruteurs de votre région en direct !",
+  "category": "conference",
+  "labels": [
+    "business",
+    "conference"
+  ],
+  "rank": 37,
+  "local_rank": 52,
+  "phq_attendance": 218,
+  "entities": [],
+  "duration": 10800,
+  "start": "2024-02-06T16:30:00Z",
+  "end": "2024-02-06T19:30:00Z",
+  "updated": "2024-01-09T02:23:47Z",
+  "first_seen": "2024-01-09T02:21:46Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.0571765,
+    50.6269159
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.0571765,
+        50.6269159
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p3z-rc5"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-06",
+          "value": 218,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-06",
+          "value": 218,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 4988,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 3265,
+    "transportation": 1722
+  },
+  "phq_labels": [
+    {
+      "label": "education-and-careers",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "CaagRoxjP8Z5PqsBwN",
+  "title": "SEULS DANS L’UNIVERS, Conférence au Forum des Sciences",
+  "description": "Sourced from predicthq.com - Sommes-nous seuls dans l’Univers. Rejoignez-nous pour discuter de la question fascinante !",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "science",
+    "technology"
+  ],
+  "rank": 29,
+  "local_rank": 48,
+  "phq_attendance": 94,
+  "entities": [],
+  "duration": 5400,
+  "start": "2024-02-05T17:30:00Z",
+  "end": "2024-02-05T19:00:00Z",
+  "updated": "2024-01-18T01:05:54Z",
+  "first_seen": "2024-01-18T00:54:45Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.1329525,
+    50.6204896
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.1329525,
+        50.6204896
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p3c-nyv"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-05",
+          "value": 94,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-05",
+          "value": 94,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "2968577",
+      "3037551"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 2150,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 1408,
+    "transportation": 742
+  },
+  "phq_labels": [
+    {
+      "label": "science-and-technology",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "9PX3weXbH6yjELtgUz",
+  "title": "05 février - Place des Agences: prospecter malin en 2024, ne raccrochez pas",
+  "description": "Sourced from predicthq.com - Événement réservé aux adhérents.",
+  "category": "conference",
+  "labels": [
+    "business",
+    "conference"
+  ],
+  "rank": 26,
+  "local_rank": 41,
+  "phq_attendance": 62,
+  "entities": [],
+  "duration": 8100,
+  "start": "2024-02-05T10:15:00Z",
+  "end": "2024-02-05T12:30:00Z",
+  "updated": "2024-01-11T01:37:23Z",
+  "first_seen": "2024-01-11T00:56:35Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.0623584,
+    50.6358599
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.0623584,
+        50.6358599
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p47-54v"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-05",
+          "value": 62,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-05",
+          "value": 62,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 1418,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 928,
+    "transportation": 489
+  }
+},
+{
+  "relevance": 1,
+  "id": "8PvG8hHcBLfQZCBp9E",
+  "title": "« Journaliste, se former tout au long de sa vie »  - CNMJ 2024",
+  "description": "Sourced from predicthq.com - RDV au à l'ESJ Lille pour la CNMJ le jeudi 1er février 2024",
+  "category": "conference",
+  "labels": [
+    "business",
+    "conference"
+  ],
+  "rank": 39,
+  "local_rank": 52,
+  "phq_attendance": 285,
+  "entities": [],
+  "duration": 26100,
+  "start": "2024-02-01T09:00:00Z",
+  "end": "2024-02-01T16:15:00Z",
+  "updated": "2024-01-25T12:13:28Z",
+  "first_seen": "2023-12-04T18:13:49Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.063992,
+    50.62880690000001
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.063992,
+        50.62880690000001
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p3w-cqz"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-01",
+          "value": 285,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-02-01",
+          "value": 285,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 6521,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 4269,
+    "transportation": 2251
+  }
+},
+{
+  "relevance": 1,
+  "id": "AueZ3EwEw36gXdV6hS",
+  "title": "Le régime imaginaire de l'existence",
+  "description": "Sourced from predicthq.com - Conférence d'Alain Cambier",
+  "category": "conference",
+  "labels": [
+    "conference"
+  ],
+  "rank": 0,
+  "local_rank": 0,
+  "phq_attendance": null,
+  "entities": [],
+  "duration": 0,
+  "start": "2024-01-30T17:30:00Z",
+  "end": "2024-01-30T17:30:00Z",
+  "updated": "2023-11-21T10:15:30Z",
+  "first_seen": "2023-11-21T10:15:13Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.1408309999999346,
+    50.610003
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.1408309999999346,
+        50.610003
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p36-52k"
+  },
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "2968577",
+      "3036584"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false
+},
+{
+  "relevance": 1,
+  "id": "9Ls4eMURRgKbJQKuCq",
+  "title": "Vernissage Embryologie : le cycle éternel. Les modèles en cire Ziegler",
+  "description": "Sourced from predicthq.com - Exposition des étudiants du master 2 Patrimoine et musées et leur association Lillomusées avec le soutien de la Direction culture",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "science",
+    "technology"
+  ],
+  "rank": 0,
+  "local_rank": 0,
+  "phq_attendance": null,
+  "entities": [],
+  "duration": 0,
+  "start": "2024-01-29T17:00:00Z",
+  "end": "2024-01-29T17:00:00Z",
+  "updated": "2023-12-04T18:01:00Z",
+  "first_seen": "2023-12-04T18:00:32Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.1408309999999346,
+    50.610003
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.1408309999999346,
+        50.610003
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p36-52k"
+  },
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "2968577",
+      "3036584"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "phq_labels": [
+    {
+      "label": "science-and-technology",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "HvCkJgyL4xQwfBHbSW",
+  "title": "Accueil Tribus ELM de 6 mois à 10 ans",
+  "description": "Sourced from predicthq.com - Accueil chaque dimanche des enfants âgés de 6 mois à 10 ans pour leur permettre de découvrir la foi chrétienne selon leur âge.",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "religion"
+  ],
+  "rank": 31,
+  "local_rank": 51,
+  "phq_attendance": 112,
+  "entities": [],
+  "duration": 6300,
+  "start": "2024-01-28T08:45:00Z",
+  "end": "2024-01-28T10:30:00Z",
+  "updated": "2024-01-22T15:00:43Z",
+  "first_seen": "2024-01-18T00:48:19Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.1256863,
+    50.67726400000001
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.1256863,
+        50.67726400000001
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p2y-3qz"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-01-28",
+          "value": 112,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-01-28",
+          "value": 112,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6438566",
+      "2967438"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 2562,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 1677,
+    "transportation": 884
+  },
+  "phq_labels": [
+    {
+      "label": "religion-and-spirituality",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "9Ue3JLwxcJbtgrQrcq",
+  "title": "Conférence Spectacle : Soyez vous-même : en mieux  !",
+  "description": "Sourced from predicthq.com - 5 Grands Principes de la Psychologie pour la réalisation de soi et  choix de vie, applicables immédiatement pour les Parents et Adolescents.",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "health"
+  ],
+  "rank": 27,
+  "local_rank": 47,
+  "phq_attendance": 68,
+  "entities": [],
+  "duration": 7200,
+  "start": "2024-01-27T09:00:00Z",
+  "end": "2024-01-27T11:00:00Z",
+  "updated": "2023-12-03T09:36:12Z",
+  "first_seen": "2023-08-30T15:32:43Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.1501444,
+    50.6376107
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.1501444,
+        50.6376107
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p2n-wc5"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-01-27",
+          "value": 68,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-01-27",
+          "value": 68,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "2968577",
+      "3018335"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 1555,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 1018,
+    "transportation": 537
+  },
+  "phq_labels": [
+    {
+      "label": "medical",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "73sZwZPQAkxoDxUxnu",
+  "title": "Table-ronde \"La place des citoyens en Europe\"",
+  "description": "Sourced from predicthq.com - Militer, plaider, participer : quelle place pour les citoyens dans l’Union européenne ?",
+  "category": "conference",
+  "labels": [
+    "conference"
+  ],
+  "rank": 26,
+  "local_rank": 42,
+  "phq_attendance": 61,
+  "entities": [],
+  "duration": 5400,
+  "start": "2024-01-26T16:30:00Z",
+  "end": "2024-01-26T18:00:00Z",
+  "updated": "2024-01-18T00:57:20Z",
+  "first_seen": "2024-01-18T00:42:04Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.0466739,
+    50.6330179
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.0466739,
+        50.6330179
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p42-7bk"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-01-26",
+          "value": 61,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-01-26",
+          "value": 61,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 1395,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 913,
+    "transportation": 481
+  }
+},
+{
+  "relevance": 1,
+  "id": "7DRg3ctHywotS2t3or",
+  "title": "26 janvier - Place des Dircoms : les tendances de la communication en 2024",
+  "description": "Sourced from predicthq.com - Événement réservé aux adhérents avec une cotisation Dircom.",
+  "category": "conference",
+  "labels": [
+    "business",
+    "conference"
+  ],
+  "rank": 26,
+  "local_rank": 44,
+  "phq_attendance": 63,
+  "entities": [
+    {
+      "entity_id": "7LCUcS6APjDR99ksjnUxHJ",
+      "name": "Cité des Echanges",
+      "type": "venue",
+      "formatted_address": "France"
+    }
+  ],
+  "duration": 9000,
+  "start": "2024-01-26T10:30:00Z",
+  "end": "2024-01-26T13:00:00Z",
+  "updated": "2023-11-27T15:16:13Z",
+  "first_seen": "2023-11-27T15:16:00Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.1107768677,
+    50.6595903746
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.1107768677,
+        50.6595903746
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p2r-66k"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-01-26",
+          "value": 63,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-01-26",
+          "value": 63,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6438566",
+      "2967438"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 1441,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 943,
+    "transportation": 497
+  }
+},
+{
+  "relevance": 1,
+  "id": "soxSSV4kuZB8BU6qaH",
+  "title": "Réunion technique des métalliers",
+  "description": "Sourced from predicthq.com - Réponses à toutes les questions que les métalliers se posent !!",
+  "category": "conference",
+  "labels": [
+    "business",
+    "conference"
+  ],
+  "rank": 25,
+  "local_rank": 58,
+  "phq_attendance": 56,
+  "entities": [],
+  "duration": 9000,
+  "start": "2024-01-26T10:00:00Z",
+  "end": "2024-01-26T12:30:00Z",
+  "updated": "2024-01-06T12:28:31Z",
+  "first_seen": "2024-01-06T12:26:38Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    2.69324,
+    50.6030874
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        2.69324,
+        50.6030874
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-r56-b8v"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-01-26",
+          "value": 56,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-01-26",
+          "value": 56,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2988430",
+      "3033000",
+      "6439942",
+      "2969331"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 1281,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 838,
+    "transportation": 442
+  }
+},
+{
+  "relevance": 1,
+  "id": "3EYY594yGKvshVCuxD",
+  "title": "Comment surveiller les cybermenaces malgré des ressources limitées ?",
+  "description": "Sourced from predicthq.com - P'tit Dej Cyber - Découvrez les enjeux de la cybersécurité pour votre entreprise en savourant de délicieux donuts et un bon café !",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "science",
+    "technology"
+  ],
+  "rank": 30,
+  "local_rank": 44,
+  "phq_attendance": 97,
+  "entities": [],
+  "duration": 5400,
+  "start": "2024-01-26T08:00:00Z",
+  "end": "2024-01-26T09:30:00Z",
+  "updated": "2024-01-06T12:28:31Z",
+  "first_seen": "2024-01-06T12:23:39Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.0668404,
+    50.6317744
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.0668404,
+        50.6317744
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p3w-gp9"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-01-26",
+          "value": 97,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-01-26",
+          "value": 97,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": false,
+  "private": false,
+  "predicted_event_spend": 2219,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 1453,
+    "transportation": 766
+  },
+  "phq_labels": [
+    {
+      "label": "science-and-technology",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "EMxc3jaYLRFBnGx9sN",
+  "parent_event": {
+    "parent_event_id": "AnPSHpP3FfnBVjTggD"
+  },
+  "title": "The French Language Pneumology Congress",
+  "alternate_titles": [
+    "CPLF"
+  ],
+  "description": "Sourced from predicthq.com",
+  "category": "conference",
+  "labels": [
+    "conference"
+  ],
+  "rank": 30,
+  "local_rank": 43,
+  "phq_attendance": 100,
+  "entities": [
+    {
+      "entity_id": "R7yuRmY2VwqG5ArDPUeVbr",
+      "name": "Lille Grand Palais",
+      "type": "venue",
+      "formatted_address": "1 Boulevard des Cités Unies\n59 Lille\nFrance"
+    },
+    {
+      "entity_id": "EFcVNjyxxD9TZvwbPBgHpe",
+      "name": "The French Language Pneumology Congress",
+      "type": "event-group",
+      "formatted_address": "1 Boulevard of United Cities, 59 Lille",
+      "category": "conference",
+      "labels": [
+        "conference",
+        "event-group"
+      ]
+    }
+  ],
+  "duration": 205200,
+  "start": "2024-01-26T08:00:00Z",
+  "end": "2024-01-28T17:00:00Z",
+  "updated": "2023-10-26T06:18:55Z",
+  "first_seen": "2023-04-09T05:19:39Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.078077,
+    50.6326569
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.078077,
+        50.6326569
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p3x-7t9"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-01-26",
+          "value": 100,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-01-27",
+          "value": 100,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-01-28",
+          "value": 100,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-01-26",
+          "value": 100,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-01-27",
+          "value": 100,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-01-28",
+          "value": 100,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 6864,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 4494,
+    "transportation": 2370
+  },
+  "phq_labels": [
+    {
+      "label": "medical",
+      "weight": 0.536
+    },
+    {
+      "label": "education-and-careers",
+      "weight": 0.278
+    },
+    {
+      "label": "science-and-technology",
+      "weight": 0.185
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "6EEsSmRD2VgXxXSU2r",
+  "title": "Participez au Congrès de Pneumologie de Langue Française",
+  "description": "Sourced from predicthq.com - Participez au Congrès de Pneumologie de Langue Française avec nous !\n\nNous serons présents au CPLF cette année ! Rejoignez-nous du 26 au 28",
+  "category": "conference",
+  "labels": [
+    "conference",
+    "health"
+  ],
+  "rank": 37,
+  "local_rank": 50,
+  "phq_attendance": 217,
+  "entities": [],
+  "duration": 183600,
+  "start": "2024-01-26T07:00:00Z",
+  "end": "2024-01-28T10:00:00Z",
+  "updated": "2024-01-18T01:00:09Z",
+  "first_seen": "2024-01-18T00:39:38Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.078077,
+    50.6326569
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.078077,
+        50.6326569
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p3x-7t9"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-01-26",
+          "value": 217,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-01-27",
+          "value": 217,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-01-28",
+          "value": 217,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-01-26",
+          "value": 217,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-01-27",
+          "value": 217,
+          "position": "event_day"
+        },
+        {
+          "date_local": "2024-01-28",
+          "value": 217,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 14895,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 9752,
+    "transportation": 5143
+  },
+  "phq_labels": [
+    {
+      "label": "medical",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 1,
+  "id": "3Wznj3nxg4dm7MBbR5",
+  "title": "SOIREE EVENEMENT TRUST",
+  "description": "Sourced from predicthq.com - Le club d’entreprises Trust vous convie à sa soirée évènement du 25 janvier 2024 pour s'inspirer, réseauter et partager un moment convivial.",
+  "category": "conference",
+  "labels": [
+    "business",
+    "conference"
+  ],
+  "rank": 35,
+  "local_rank": 48,
+  "phq_attendance": 168,
+  "entities": [],
+  "duration": 10800,
+  "start": "2024-01-25T17:30:00Z",
+  "end": "2024-01-25T20:30:00Z",
+  "updated": "2023-11-26T09:11:31Z",
+  "first_seen": "2023-11-26T08:57:19Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.1684493,
+    50.6979047
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.1684493,
+        50.6979047
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p4f-v9f"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-01-25",
+          "value": 168,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-01-25",
+          "value": 168,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6438452",
+      "2982681"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 3540,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 2214,
+    "transportation": 1325
+  }
+}]

@@ -8,7 +8,6 @@ import FormEvent from "@/components/forms/FormEvent";
 const page = ({ params }) => {
 
   const [event, error, state] = useFetchEvents({url:process.env.NEXT_PUBLIC_API_URL_GET_EVENTS+ params.id});
-  console.log(event)
 
   return (
     <div className='m-4'>

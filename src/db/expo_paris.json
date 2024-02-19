@@ -1,0 +1,7519 @@
+[
+  {
+    "relevance": 0,
+    "id": "Ar6F3n5W2MtjVBfgvb",
+    "title": "GAP FOIRE EXPO 2024",
+    "description": "Sourced from predicthq.com - 42ème édition de GAP FOIRE EXPO la Foire des Hautes Alpes et des Alpes du Sud",
+    "category": "expo",
+    "labels": [
+      "expo"
+    ],
+    "rank": 54,
+    "local_rank": 70,
+    "phq_attendance": 1583,
+    "entities": [],
+    "duration": 725400,
+    "start": "2024-05-04T08:00:00Z",
+    "end": "2024-05-12T17:30:00Z",
+    "updated": "2023-12-13T07:51:02Z",
+    "first_seen": "2023-12-13T07:50:26Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      6.0866748999999345,
+      44.5627744
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          6.0866748999999345,
+          44.5627744
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7fc-dn4-389"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-02",
+            "value": 10,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-03",
+            "value": 29,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 190,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 190,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 158,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 158,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 158,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-09",
+            "value": 158,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-10",
+            "value": 190,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-11",
+            "value": 190,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-12",
+            "value": 190,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-13",
+            "value": 19,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-05-14",
+            "value": 10,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 8,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 190,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 190,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 158,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 158,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 158,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-09",
+            "value": 158,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-10",
+            "value": 190,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-11",
+            "value": 190,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-12",
+            "value": 190,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "3013738",
+        "3016701",
+        "6446644",
+        "3016702"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 107272,
+    "predicted_event_spend_industries": {
+      "accommodation": 26770,
+      "hospitality": 62429,
+      "transportation": 18072
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "HkQu2RaQPPkpRzg68p",
+    "title": "Rhum Fest Paris",
+    "description": "Sourced from predicthq.com",
+    "category": "expo",
+    "labels": [
+      "expo"
+    ],
+    "rank": 64,
+    "local_rank": 74,
+    "phq_attendance": 5000,
+    "entities": [
+      {
+        "entity_id": "rbKgHsRPDvjHcP9FP2B5VN",
+        "name": "Parc Floral de Paris",
+        "type": "venue",
+        "formatted_address": "Route de la Pyramide\n75012 Paris\nFrance"
+      },
+      {
+        "entity_id": "F2XT2qEDHHpUXr3wBDqkzX",
+        "name": "Rhum Fest Paris",
+        "type": "event-group",
+        "formatted_address": "Route de la Pyramide, 75012 Paris",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "expo"
+        ]
+      }
+    ],
+    "duration": 259199,
+    "start": "2024-05-03T22:00:00Z",
+    "end": "2024-05-06T21:59:59Z",
+    "updated": "2023-10-26T01:27:33Z",
+    "first_seen": "2023-10-14T12:49:51Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.4408478,
+      48.83906
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.4408478,
+          48.83906
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xx-fpv"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-02",
+            "value": 89,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-03",
+            "value": 265,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 1765,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 1765,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 1471,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 148,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 74,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 265,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 1765,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 1765,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 1471,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 148,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2971090",
+        "6457374",
+        "6613142",
+        "2968054"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2971090",
+        "6457373",
+        "6452018",
+        "3022530"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 588871,
+    "predicted_event_spend_industries": {
+      "accommodation": 337439,
+      "hospitality": 184607,
+      "transportation": 66824
+    },
+    "phq_labels": [
+      {
+        "label": "science-and-technology",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "EzuPijAHAKSHa7Zab9",
+    "title": "Foire de Paris",
+    "alternate_titles": [
+      "International Trade Fair"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "expo",
+    "labels": [
+      "expo",
+      "product"
+    ],
+    "rank": 100,
+    "local_rank": 100,
+    "phq_attendance": 612572,
+    "entities": [
+      {
+        "entity_id": "fNRA29TLUcuHbjD2YrEzjB",
+        "name": "Paris Expo Porte de Versailles",
+        "type": "venue",
+        "formatted_address": "1 Place de la Porte de Versailles\n75015 Paris\nFrance"
+      },
+      {
+        "entity_id": "yGXsRZsx8tz3vXLhXVJTJ4",
+        "name": "Foire de Paris",
+        "type": "event-group",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "recurring"
+        ],
+        "description": "International Trade Fair"
+      }
+    ],
+    "duration": 1036799,
+    "start": "2024-04-30T22:00:00Z",
+    "end": "2024-05-12T21:59:59Z",
+    "updated": "2024-02-06T01:18:05Z",
+    "first_seen": "2023-01-03T04:37:55Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.2904507,
+      48.8300389
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.2904507,
+          48.8300389
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7yk-8jv"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-29",
+            "value": 11602,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-30",
+            "value": 32485,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-01",
+            "value": 46407,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-02",
+            "value": 46407,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-03",
+            "value": 55688,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 55688,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 55688,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 46407,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 46407,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 46407,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-09",
+            "value": 46407,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-10",
+            "value": 55688,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-11",
+            "value": 55688,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-12",
+            "value": 55688,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-13",
+            "value": 22276,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-05-14",
+            "value": 2785,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-29",
+            "value": 2321,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-30",
+            "value": 9282,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-01",
+            "value": 46407,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-02",
+            "value": 46407,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-03",
+            "value": 55688,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 55688,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 55688,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 46407,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 46407,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 46407,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-09",
+            "value": 46407,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-10",
+            "value": 55688,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-11",
+            "value": 55688,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-12",
+            "value": 55688,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-13",
+            "value": 8354,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "3013657",
+        "6457368",
+        "6613135",
+        "2970761"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 114559860,
+    "predicted_event_spend_industries": {
+      "accommodation": 52285303,
+      "hospitality": 52385591,
+      "transportation": 9888966
+    },
+    "phq_labels": [
+      {
+        "label": "hospitality-and-travel",
+        "weight": 0.298
+      },
+      {
+        "label": "consumer-goods",
+        "weight": 0.27
+      },
+      {
+        "label": "festivals-and-outdoor-activities",
+        "weight": 0.261
+      },
+      {
+        "label": "design-and-furnishing",
+        "weight": 0.171
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "Arg4GTGFhzooi8PJ8a",
+    "title": "Startup For Kids Saclay 2024",
+    "description": "Sourced from predicthq.com - Dessinez les mondes de demain ! 60 startups vous projettent dans les métiers du futur. Spécial 8 -15 ans : vivez une expérience immersive !",
+    "category": "expo",
+    "labels": [
+      "business",
+      "expo"
+    ],
+    "rank": 36,
+    "local_rank": 61,
+    "phq_attendance": 210,
+    "entities": [],
+    "duration": 28800,
+    "start": "2024-04-28T08:00:00Z",
+    "end": "2024-04-28T16:00:00Z",
+    "updated": "2024-01-25T03:33:18Z",
+    "first_seen": "2024-01-25T03:11:46Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.167539799999986,
+      48.7097442
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.167539799999986,
+          48.7097442
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-83d-pvz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 210,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 210,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "3019599",
+        "6457367",
+        "6446113",
+        "3029522"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2967196",
+        "2969678",
+        "6444096",
+        "2969679"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 4398,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2808,
+      "transportation": 1589
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "HWqxy8Bqm9nFpwVZ4S",
+    "title": "The Colors - Perfumery & Cosmetics B2B Conference 2024",
+    "description": "Sourced from predicthq.com - The Colors - Conférence cosmétique et parfumerie B2B",
+    "category": "expo",
+    "labels": [
+      "expo",
+      "fashion"
+    ],
+    "rank": 39,
+    "local_rank": 46,
+    "phq_attendance": 289,
+    "entities": [
+      {
+        "entity_id": "33zr5SqAzHvRsKUvsjeQ65F",
+        "name": "MEDEF",
+        "type": "venue",
+        "formatted_address": "55 Avenue Bosquet\n75007 Paris\nFrance"
+      }
+    ],
+    "duration": 34200,
+    "start": "2024-04-26T06:30:00Z",
+    "end": "2024-04-26T16:00:00Z",
+    "updated": "2024-01-25T09:50:13Z",
+    "first_seen": "2024-01-25T09:49:33Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3047216,
+      48.8568177
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3047216,
+          48.8568177
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7yg-2rk"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 289,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 289,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "2988760"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 7539,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 5148,
+      "transportation": 2390
+    },
+    "phq_labels": [
+      {
+        "label": "beauty-and-fashion",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "BjvY5g5GTqRcNh7Gzg",
+    "title": "Petit 1-Paris",
+    "description": "Sourced from predicthq.com",
+    "category": "expo",
+    "labels": [
+      "expo"
+    ],
+    "rank": 64,
+    "local_rank": 70,
+    "phq_attendance": 5000,
+    "entities": [
+      {
+        "entity_id": "qJz9kwasujHJ3PdfpMAAHE",
+        "name": "PARIS MONTREUIL EXPO",
+        "type": "venue",
+        "formatted_address": "128 RUE DE PARIS\nMontreuil\nFrance"
+      },
+      {
+        "entity_id": "JLmAFfVNYvt3Zu7KEGmTg6",
+        "name": "Petit 1-Paris",
+        "type": "event-group",
+        "formatted_address": "128 Rue de Paris, 93100 Montreuil, France",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "expo"
+        ]
+      }
+    ],
+    "duration": 32400,
+    "start": "2024-04-25T07:00:00Z",
+    "end": "2024-04-25T16:00:00Z",
+    "updated": "2024-01-15T08:39:18Z",
+    "first_seen": "2024-01-15T08:39:06Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.4257716,
+      48.8567914
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.4257716,
+          48.8567914
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7y5-fj9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-23",
+            "value": 250,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-24",
+            "value": 750,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-25",
+            "value": 5000,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-26",
+            "value": 500,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-27",
+            "value": 250,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-24",
+            "value": 750,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-25",
+            "value": 5000,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-26",
+            "value": 500,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2971090",
+        "6457374",
+        "6613142",
+        "2968054"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2975246",
+        "6457371",
+        "6452608",
+        "3032179"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 731123,
+    "predicted_event_spend_industries": {
+      "accommodation": 498728,
+      "hospitality": 166425,
+      "transportation": 65969
+    },
+    "phq_labels": [
+      {
+        "label": "education-and-careers",
+        "weight": 0.392
+      },
+      {
+        "label": "science-and-technology",
+        "weight": 0.317
+      },
+      {
+        "label": "management-and-consulting",
+        "weight": 0.291
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "4q2Sb8WohFCqSX6Y9J",
+    "title": "The Colors - Beauty & Perfumery Conference 2024",
+    "description": "Sourced from predicthq.com - The Colors - Conférence cosmétique et parfumerie B2B",
+    "category": "expo",
+    "labels": [
+      "expo",
+      "fashion"
+    ],
+    "rank": 37,
+    "local_rank": 44,
+    "phq_attendance": 223,
+    "entities": [
+      {
+        "entity_id": "33zr5SqAzHvRsKUvsjeQ65F",
+        "name": "MEDEF",
+        "type": "venue",
+        "formatted_address": "55 Avenue Bosquet\n75007 Paris\nFrance"
+      }
+    ],
+    "duration": 34200,
+    "start": "2024-04-25T06:30:00Z",
+    "end": "2024-04-25T16:00:00Z",
+    "updated": "2023-12-17T21:55:50Z",
+    "first_seen": "2023-06-15T04:21:52Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3047216,
+      48.8568177
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3047216,
+          48.8568177
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7yg-2rk"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-25",
+            "value": 223,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-25",
+            "value": 223,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "2988760"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 5817,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 3973,
+      "transportation": 1844
+    },
+    "phq_labels": [
+      {
+        "label": "beauty-and-fashion",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "AabjU3nt26abvZV7Go",
+    "title": "medFEL",
+    "alternate_titles": [
+      "International fruit and vegetable business gathering"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "expo",
+    "labels": [
+      "expo",
+      "food"
+    ],
+    "rank": 62,
+    "local_rank": 83,
+    "phq_attendance": 3785,
+    "entities": [
+      {
+        "entity_id": "RT6756xgHbZhGuqN3cssRB",
+        "name": "Parc des expoitions",
+        "type": "venue",
+        "formatted_address": "Avenue du Palais des expoitions\n66000 Perpignan\nFrance"
+      },
+      {
+        "entity_id": "s9RWCTZKKXM6TE7tDELd6L",
+        "name": "medFEL",
+        "type": "event-group",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "recurring"
+        ],
+        "description": "International fruit and vegetable business gathering"
+      }
+    ],
+    "duration": 172799,
+    "start": "2024-04-23T22:00:00Z",
+    "end": "2024-04-25T21:59:59Z",
+    "updated": "2023-10-26T14:44:42Z",
+    "first_seen": "2023-01-03T04:14:57Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.902356,
+      42.708568
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.902356,
+          42.708568
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7f8-gpz-t9z"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-22",
+            "value": 95,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-23",
+            "value": 473,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-24",
+            "value": 1892,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-25",
+            "value": 1892,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-26",
+            "value": 190,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-27",
+            "value": 95,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-22",
+            "value": 95,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-23",
+            "value": 379,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-24",
+            "value": 1892,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-25",
+            "value": 1892,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-26",
+            "value": 284,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071623",
+        "2984885",
+        "2987913",
+        "6440996",
+        "2998871"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071623",
+        "2984885",
+        "2987913",
+        "6440996",
+        "2987914"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 517535,
+    "predicted_event_spend_industries": {
+      "accommodation": 319937,
+      "hospitality": 153051,
+      "transportation": 44547
+    },
+    "phq_labels": [
+      {
+        "label": "food-and-beverage",
+        "weight": 0.749
+      },
+      {
+        "label": "agriculture-forestry-and-fisheries",
+        "weight": 0.251
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "D4BxQXjdDM9fiprf3X",
+    "title": "INTERMAT Paris 2024",
+    "alternate_titles": [
+      "Intermat Expo"
+    ],
+    "description": "Sourced from predicthq.com - Intermat Expo is a premier trade show dedicated to the construction and infrastructure sector, bringing together industry professionals, manufacturers, and innovators to showcase the latest technologies, equipment, and solutions. With a wide array of exhibitors and interactive displays, the event serves as a networking hub and knowledge-sharing platform for professionals looking to stay ahead in the rapidly evolving construction industry.",
+    "category": "expo",
+    "labels": [
+      "construction",
+      "environment",
+      "expo",
+      "industrial",
+      "technology"
+    ],
+    "rank": 95,
+    "local_rank": 100,
+    "phq_attendance": 180000,
+    "entities": [],
+    "duration": 345599,
+    "start": "2024-04-23T22:00:00Z",
+    "end": "2024-04-27T21:59:59Z",
+    "updated": "2024-02-08T03:30:48Z",
+    "first_seen": "2023-01-03T04:04:15Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.5207267,
+      48.970952
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.5207267,
+          48.970952
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-64r-h89"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-22",
+            "value": 10228,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-23",
+            "value": 28637,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-24",
+            "value": 40909,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-25",
+            "value": 40909,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-26",
+            "value": 49091,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-27",
+            "value": 49091,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-28",
+            "value": 19637,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-29",
+            "value": 2455,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-22",
+            "value": 2046,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-23",
+            "value": 8182,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-24",
+            "value": 40909,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-25",
+            "value": 40909,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-26",
+            "value": 49091,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-27",
+            "value": 49091,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-28",
+            "value": 7364,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2975246",
+        "6457372",
+        "6452008",
+        "2968482"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2975246",
+        "6457371",
+        "6452608",
+        "3032179"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 30521179,
+    "predicted_event_spend_industries": {
+      "accommodation": 17527613,
+      "hospitality": 10270860,
+      "transportation": 2722705
+    },
+    "phq_labels": [
+      {
+        "label": "science-and-technology",
+        "weight": 0.562
+      },
+      {
+        "label": "construction-and-infrastructure",
+        "weight": 0.438
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "FPXf782csCER64oFy3",
+    "title": "expoition « jardin de lumière »",
+    "description": "Sourced from predicthq.com - « Jardin de lumière » est une expoition collaborative entre femmes artistes et artisanes. Elle incarne un jardin de lumière artistique.",
+    "category": "expo",
+    "labels": [
+      "expo",
+      "performing-arts"
+    ],
+    "rank": 34,
+    "local_rank": 36,
+    "phq_attendance": 150,
+    "entities": [],
+    "duration": 93600,
+    "start": "2024-04-22T16:00:00Z",
+    "end": "2024-04-23T18:00:00Z",
+    "updated": "2023-10-26T17:52:27Z",
+    "first_seen": "2023-07-09T07:21:15Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3393955,
+      48.82611989999999
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3393955,
+          48.82611989999999
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7yf-9s5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-22",
+            "value": 75,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-23",
+            "value": 75,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-22",
+            "value": 75,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-23",
+            "value": 75,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2971090",
+        "6457375",
+        "6613140",
+        "3016292",
+        "2989781"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3913,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2672,
+      "transportation": 1240
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "J4Heuen42x2j9o7gDi",
+    "title": "24 Heures pour l'Emploi et la Formation – Valenciennes 2024",
+    "description": "Sourced from predicthq.com - La 17ème édition des 24H de l'Emploi et de la Formation reviennent le 18 avril 2024 à Valenciennes...",
+    "category": "expo",
+    "labels": [
+      "business",
+      "expo"
+    ],
+    "rank": 40,
+    "local_rank": 61,
+    "phq_attendance": 310,
+    "entities": [
+      {
+        "entity_id": "f6TZ3D8BMEtbHePwDJqpxQ",
+        "name": "Cite Des Congres De Valenciennes",
+        "type": "venue",
+        "formatted_address": "Anzin\nNord-Pas-de-Calais\nFrance"
+      }
+    ],
+    "duration": 25200,
+    "start": "2024-04-18T08:00:00Z",
+    "end": "2024-04-18T15:00:00Z",
+    "updated": "2023-11-09T02:20:32Z",
+    "first_seen": "2023-11-09T01:06:45Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.522271,
+      50.375182
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.522271,
+          50.375182
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53q-g59-w49"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-18",
+            "value": 310,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-18",
+            "value": 310,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2971040",
+        "6455194",
+        "3037397"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 7093,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 4644,
+      "transportation": 2449
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "ASbM4Zf9pPn5QJy4B7",
+    "title": "18/04 - ST ETIENNE - Découverte du nugde pour les entrepreneures",
+    "description": "Sourced from predicthq.com - Comment le nudge peut aider votre activité ?",
+    "category": "expo",
+    "labels": [
+      "business",
+      "expo"
+    ],
+    "rank": 36,
+    "local_rank": 65,
+    "phq_attendance": 191,
+    "entities": [],
+    "duration": 16200,
+    "start": "2024-04-18T07:30:00Z",
+    "end": "2024-04-18T12:00:00Z",
+    "updated": "2024-02-01T04:45:37Z",
+    "first_seen": "2024-02-01T03:15:42Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -1.7355086,
+      47.28520379999999
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -1.7355086,
+          47.28520379999999
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4dx-89z-2p9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-18",
+            "value": 191,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-18",
+            "value": 191,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2997861",
+        "2990968",
+        "6434560",
+        "3006820"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2997861",
+        "2990968",
+        "6434483",
+        "2990969"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 4440,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 3049,
+      "transportation": 1391
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "D8XcRPKiqEYKbT72Ux",
+    "title": "Le Village des Recruteurs de Strasbourg 2024",
+    "description": "Sourced from predicthq.com - Vous êtes à la recherche d’un emploi ou d’une formation ? Le Village des Recruteurs est la solution !",
+    "category": "expo",
+    "labels": [
+      "business",
+      "expo"
+    ],
+    "rank": 44,
+    "local_rank": 59,
+    "phq_attendance": 485,
+    "entities": [],
+    "duration": 27000,
+    "start": "2024-04-18T07:30:00Z",
+    "end": "2024-04-18T15:00:00Z",
+    "updated": "2023-12-14T08:19:29Z",
+    "first_seen": "2023-12-14T05:29:58Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      7.745555599999999,
+      48.5838889
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          7.745555599999999,
+          48.5838889
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53d-578-ct9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-18",
+            "value": 485,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-17",
+            "value": 20,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-18",
+            "value": 485,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "3034720",
+        "2973781",
+        "6441375",
+        "2973783"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 29156,
+    "predicted_event_spend_industries": {
+      "accommodation": 14580,
+      "hospitality": 10130,
+      "transportation": 4445
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "Hs4WZCrtJuaL9J42Mv",
+    "title": "Foire d'Angers",
+    "description": "Sourced from predicthq.com",
+    "category": "expo",
+    "labels": [
+      "expo"
+    ],
+    "rank": 64,
+    "local_rank": 93,
+    "phq_attendance": 5000,
+    "entities": [
+      {
+        "entity_id": "Uy6GzedYgMhtk6N2xqxCY5",
+        "name": "Parc des expoitions",
+        "type": "venue",
+        "formatted_address": "Route de Paris\n49000 Angers\nFrance"
+      },
+      {
+        "entity_id": "VC56jGbhffypLSMtE5Gc2N",
+        "name": "Foire d'Angers",
+        "type": "event-group",
+        "formatted_address": "Route de Paris, 49000 Angers",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "expo"
+        ]
+      }
+    ],
+    "duration": 378000,
+    "start": "2024-04-18T07:00:00Z",
+    "end": "2024-04-22T16:00:00Z",
+    "updated": "2023-10-26T07:58:31Z",
+    "first_seen": "2023-09-07T10:15:01Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -0.4959403,
+      47.4980608
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -0.4959403,
+          47.4980608
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4fb-nwr-hnq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-16",
+            "value": 45,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-17",
+            "value": 224,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-18",
+            "value": 893,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-19",
+            "value": 1071,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-20",
+            "value": 1071,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-21",
+            "value": 1071,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-22",
+            "value": 893,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-23",
+            "value": 90,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-24",
+            "value": 45,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-16",
+            "value": 45,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-17",
+            "value": 179,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-18",
+            "value": 893,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-19",
+            "value": 1071,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-20",
+            "value": 1071,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-21",
+            "value": 1071,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-22",
+            "value": 893,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-23",
+            "value": 134,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2996663",
+        "3037655",
+        "6435318",
+        "2976827"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2996663",
+        "3037655",
+        "6452361",
+        "3037656"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 490434,
+    "predicted_event_spend_industries": {
+      "accommodation": 243549,
+      "hospitality": 183452,
+      "transportation": 63433
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "7dMiMg5jCzqJUqUdHo",
+    "title": "Roadshow Solarwatt - K2 Sytems - Fronius - 18 avril 2024",
+    "description": "Sourced from predicthq.com - Lors de cette rencontre, familiarisez-vous avec les produits et services de fabricants européens !",
+    "category": "expo",
+    "labels": [
+      "business",
+      "expo"
+    ],
+    "rank": 29,
+    "local_rank": 45,
+    "phq_attendance": 85,
+    "entities": [],
+    "duration": 19800,
+    "start": "2024-04-18T06:30:00Z",
+    "end": "2024-04-18T12:00:00Z",
+    "updated": "2023-12-11T13:39:05Z",
+    "first_seen": "2023-12-11T13:38:51Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -1.7075198,
+      48.11734209999999
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -1.7075198,
+          48.11734209999999
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4f7-g8g-rhq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-18",
+            "value": 85,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-18",
+            "value": 85,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3030293",
+        "3012849",
+        "2983989",
+        "6432801",
+        "2983990"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 1516,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 912,
+      "transportation": 603
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "NnxxCGCsmtFvyRrRG2",
+    "title": "SolutionsCSE Tours",
+    "description": "Sourced from predicthq.com",
+    "category": "expo",
+    "labels": [
+      "expo"
+    ],
+    "rank": 64,
+    "local_rank": 83,
+    "phq_attendance": 5000,
+    "entities": [
+      {
+        "entity_id": "3ADnbjKFVWYfjLjggEfD7zF",
+        "name": "Vinci - Centre International de Congrès",
+        "type": "venue",
+        "formatted_address": "26 Boulevard Heurteloup\n37000 Tours\nFrance"
+      },
+      {
+        "entity_id": "hrwx8eXSWpU7ZaaUsquzQP",
+        "name": "SolutionsCSE Tours",
+        "type": "event-group",
+        "formatted_address": "26 Boulevard Heurteloup, 37000 Tours",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "expo"
+        ]
+      }
+    ],
+    "duration": 172799,
+    "start": "2024-04-17T22:00:00Z",
+    "end": "2024-04-19T21:59:59Z",
+    "updated": "2023-10-26T05:09:44Z",
+    "first_seen": "2023-10-17T11:37:31Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      0.6932444,
+      47.391662
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          0.6932444,
+          47.391662
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4f9-yx2-2hq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-16",
+            "value": 114,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-17",
+            "value": 569,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-18",
+            "value": 2273,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-19",
+            "value": 2727,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-20",
+            "value": 273,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-21",
+            "value": 137,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-16",
+            "value": 114,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-17",
+            "value": 455,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-18",
+            "value": 2273,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-19",
+            "value": 2727,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-20",
+            "value": 410,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3027939",
+        "3012804",
+        "2972190",
+        "6454060",
+        "2972191"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 532299,
+    "predicted_event_spend_industries": {
+      "accommodation": 300633,
+      "hospitality": 165825,
+      "transportation": 65840
+    },
+    "phq_labels": [
+      {
+        "label": "science-and-technology",
+        "weight": 0.398
+      },
+      {
+        "label": "literature-film-and-theater",
+        "weight": 0.388
+      },
+      {
+        "label": "education-and-careers",
+        "weight": 0.214
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "FKQ6apzyXrkoM3KWZe",
+    "title": "Le Village des Recruteurs de Nantes 2024",
+    "description": "Sourced from predicthq.com - Vous êtes à la recherche d’un emploi ou d’une formation ? Le Village des Recruteurs est la solution !",
+    "category": "expo",
+    "labels": [
+      "business",
+      "expo"
+    ],
+    "rank": 48,
+    "local_rank": 64,
+    "phq_attendance": 759,
+    "entities": [
+      {
+        "entity_id": "wUsQbZbDArmWcr5K7jzJGU",
+        "name": "La Cité, Le Centre des Congrès de Nantes",
+        "type": "venue",
+        "formatted_address": "5 Rue de Valmy\n44000 Nantes\nFrance"
+      }
+    ],
+    "duration": 27000,
+    "start": "2024-04-17T07:30:00Z",
+    "end": "2024-04-17T15:00:00Z",
+    "updated": "2023-12-11T13:23:08Z",
+    "first_seen": "2023-12-11T13:22:46Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -1.5426511,
+      47.2130313
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -1.5426511,
+          47.2130313
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4dx-826-w8v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-17",
+            "value": 759,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-16",
+            "value": 31,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-17",
+            "value": 759,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2997861",
+        "2990968",
+        "6434483",
+        "2990969"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 58810,
+    "predicted_event_spend_industries": {
+      "accommodation": 22817,
+      "hospitality": 29081,
+      "transportation": 6912
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "578g36RipZey5vEQ3x",
+    "title": "SO Events Nantes",
+    "description": "Sourced from predicthq.com",
+    "category": "expo",
+    "labels": [
+      "expo"
+    ],
+    "rank": 64,
+    "local_rank": 80,
+    "phq_attendance": 5000,
+    "entities": [
+      {
+        "entity_id": "wUsQbZbDArmWcr5K7jzJGU",
+        "name": "La Cité, Le Centre des Congrès de Nantes",
+        "type": "venue",
+        "formatted_address": "5 Rue de Valmy\n44000 Nantes\nFrance"
+      },
+      {
+        "entity_id": "vdLDCafzsmHg2hk2V2QSxe",
+        "name": "SO Events Nantes",
+        "type": "event-group",
+        "formatted_address": "5 Rue de Valmy 44041 Nantes",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "expo"
+        ]
+      }
+    ],
+    "duration": 118800,
+    "start": "2024-04-17T07:00:00Z",
+    "end": "2024-04-18T16:00:00Z",
+    "updated": "2023-10-26T02:16:04Z",
+    "first_seen": "2023-07-23T02:45:57Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -1.5426511,
+      47.2130313
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -1.5426511,
+          47.2130313
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4dx-826-w8v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-15",
+            "value": 125,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-16",
+            "value": 625,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-17",
+            "value": 2500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-18",
+            "value": 2500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-19",
+            "value": 250,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-20",
+            "value": 125,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-15",
+            "value": 125,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-16",
+            "value": 500,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-17",
+            "value": 2500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-18",
+            "value": 2500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-19",
+            "value": 375,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2997861",
+        "2990968",
+        "6434483",
+        "2990969"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 708203,
+    "predicted_event_spend_industries": {
+      "accommodation": 422749,
+      "hospitality": 223503,
+      "transportation": 61950
+    },
+    "phq_labels": [
+      {
+        "label": "management-and-consulting",
+        "weight": 0.531
+      },
+      {
+        "label": "medical",
+        "weight": 0.469
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "8uXvTfWZ8wWkbDPuaR",
+    "title": "Pour l'Amour du Fil",
+    "alternate_titles": [
+      "PAF"
+    ],
+    "description": "Sourced from predicthq.com - 'Pour l'Amour du Fil' is an immersive and vibrant expo event that celebrates the art of textiles and quilting. With a diverse range of exhibitions, workshops, and inspiring displays, this event brings together enthusiasts from around the world to showcase their passion for fabric and stitch.",
+    "category": "expo",
+    "labels": [
+      "expo"
+    ],
+    "rank": 73,
+    "local_rank": 92,
+    "phq_attendance": 13600,
+    "entities": [
+      {
+        "entity_id": "pKLfQANqngeq24nWMXLkDj",
+        "name": "Parc des expoitions de la Beaujoire - Hall 4",
+        "type": "venue",
+        "formatted_address": "44300 Nantes\nFrance"
+      },
+      {
+        "entity_id": "3ezc3w6XeCaKEnS3xNMCD9",
+        "name": "Pour l'Amour du Fil",
+        "type": "event-group",
+        "formatted_address": "44300 Nantes",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "expo"
+        ]
+      }
+    ],
+    "duration": 345599,
+    "start": "2024-04-16T22:00:00Z",
+    "end": "2024-04-20T21:59:59Z",
+    "updated": "2023-10-26T03:25:53Z",
+    "first_seen": "2023-06-12T01:58:02Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -1.5331324,
+      47.2585988
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -1.5331324,
+          47.2585988
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4dx-7zq-7qz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-15",
+            "value": 155,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-16",
+            "value": 773,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-17",
+            "value": 3091,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-18",
+            "value": 3091,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-19",
+            "value": 3709,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-20",
+            "value": 3709,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-21",
+            "value": 371,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-22",
+            "value": 186,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-15",
+            "value": 155,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-16",
+            "value": 619,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-17",
+            "value": 3091,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-18",
+            "value": 3091,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-19",
+            "value": 3709,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-20",
+            "value": 3709,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-21",
+            "value": 557,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2997861",
+        "2990968",
+        "6434483",
+        "2979169"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2997861",
+        "2990968",
+        "6434483",
+        "2990969"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 1717249,
+    "predicted_event_spend_industries": {
+      "accommodation": 940815,
+      "hospitality": 607929,
+      "transportation": 168504
+    },
+    "phq_labels": [
+      {
+        "label": "textile",
+        "weight": 0.419
+      },
+      {
+        "label": "literature-film-and-theater",
+        "weight": 0.208
+      },
+      {
+        "label": "education-and-careers",
+        "weight": 0.192
+      },
+      {
+        "label": "art-and-cultural",
+        "weight": 0.18
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "9HgFDj3qRzaAEeDejp",
+    "title": "in-cosmetics global 2024",
+    "description": "Sourced from predicthq.com - In-Cosmetics Global is a premier expo event that brings together leading professionals and innovators in the cosmetics industry for three days of insightful discussions, networking opportunities, and cutting-edge product showcases. This dynamic event serves as a platform for discovering the latest industry trends, exploring new business partnerships, and gaining invaluable knowledge to drive the future of cosmetics.",
+    "category": "expo",
+    "labels": [
+      "business",
+      "expo",
+      "industrial",
+      "product",
+      "technology"
+    ],
+    "rank": 72,
+    "local_rank": 75,
+    "phq_attendance": 12366,
+    "entities": [
+      {
+        "entity_id": "fNRA29TLUcuHbjD2YrEzjB",
+        "name": "Paris Expo Porte de Versailles",
+        "type": "venue",
+        "formatted_address": "1 Place de la Porte de Versailles\n75015 Paris\nFrance"
+      },
+      {
+        "entity_id": "GY48DjbTNH8NQuhLB7QsHZ",
+        "name": "In-cosmetics Global",
+        "type": "event-group",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "recurring"
+        ],
+        "description": "The leading exhibition in personal care formulation, in-cosmetics shapes future global industry trends and offers the most cost-effective business and networking opportunities for the personal care ingredient community.",
+        "recurring": {
+          "ical": "DTSTART;VALUE=DATE:20170404\nDURATION:P2DT13H\nRRULE:FREQ=YEARLY;INTERVAL=1"
+        }
+      }
+    ],
+    "duration": 259199,
+    "start": "2024-04-15T22:00:00Z",
+    "end": "2024-04-18T21:59:59Z",
+    "updated": "2023-10-26T03:48:06Z",
+    "first_seen": "2023-04-02T05:54:28Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.2904507,
+      48.8300389
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.2904507,
+          48.8300389
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7yk-8jv"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-14",
+            "value": 207,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 1031,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-16",
+            "value": 4122,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-17",
+            "value": 4122,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-18",
+            "value": 4122,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-19",
+            "value": 413,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-20",
+            "value": 207,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-14",
+            "value": 207,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 825,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-16",
+            "value": 4122,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-17",
+            "value": 4122,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-18",
+            "value": 4122,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-19",
+            "value": 619,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "3013657",
+        "6457368",
+        "6613135",
+        "2970761"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 1912261,
+    "predicted_event_spend_industries": {
+      "accommodation": 1121322,
+      "hospitality": 616882,
+      "transportation": 174056
+    },
+    "phq_labels": [
+      {
+        "label": "science-and-technology",
+        "weight": 0.39
+      },
+      {
+        "label": "beauty-and-fashion",
+        "weight": 0.334
+      },
+      {
+        "label": "textile",
+        "weight": 0.14
+      },
+      {
+        "label": "manufacturing-and-petroleum-products",
+        "weight": 0.137
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "CWSmErPrmGFdfhcDYm",
+    "title": "Mountain Planet",
+    "alternate_titles": [
+      "International Mountain Development Fair"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "expo",
+    "labels": [
+      "environment",
+      "expo",
+      "science",
+      "technology"
+    ],
+    "rank": 74,
+    "local_rank": 89,
+    "phq_attendance": 15357,
+    "entities": [
+      {
+        "entity_id": "twjPsXBxWLAXkZy5mc4zMp",
+        "name": "Mountain Planet",
+        "type": "event-group",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "recurring"
+        ],
+        "description": "International Mountain Development Fair"
+      }
+    ],
+    "duration": 259199,
+    "start": "2024-04-15T22:00:00Z",
+    "end": "2024-04-18T21:59:59Z",
+    "updated": "2024-01-29T00:13:07Z",
+    "first_seen": "2023-01-03T07:26:15Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      5.735228,
+      45.1546343
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          5.735228,
+          45.1546343
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53h-z57-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-14",
+            "value": 256,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 1280,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-16",
+            "value": 5119,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-17",
+            "value": 5119,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-18",
+            "value": 5119,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-19",
+            "value": 512,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-20",
+            "value": 256,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-14",
+            "value": 256,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 1024,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-16",
+            "value": 5119,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-17",
+            "value": 5119,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-18",
+            "value": 5119,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-19",
+            "value": 768,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "3012715",
+        "3014727",
+        "6433192",
+        "3000782"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "3012715",
+        "3014727",
+        "6454071",
+        "3014728"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 1497018,
+    "predicted_event_spend_industries": {
+      "accommodation": 672043,
+      "hospitality": 624649,
+      "transportation": 200325
+    },
+    "phq_labels": [
+      {
+        "label": "medical",
+        "weight": 0.205
+      },
+      {
+        "label": "agriculture-forestry-and-fisheries",
+        "weight": 0.2
+      },
+      {
+        "label": "automotive",
+        "weight": 0.194
+      },
+      {
+        "label": "sports-and-gaming",
+        "weight": 0.181
+      },
+      {
+        "label": "beauty-and-fashion",
+        "weight": 0.11
+      },
+      {
+        "label": "textile",
+        "weight": 0.11
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "9cqF8SixyYmzM55z9p",
+    "parent_event": {
+      "parent_event_id": "37BXG9ZG6Lt8deAcwL"
+    },
+    "title": "MIPTV",
+    "alternate_titles": [
+      "The world's audiovisual and digital content market"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "expo",
+    "labels": [
+      "expo",
+      "technology"
+    ],
+    "rank": 71,
+    "local_rank": 88,
+    "phq_attendance": 11000,
+    "entities": [
+      {
+        "entity_id": "38Y7JdaZDPNkqHrKqhuCHKH",
+        "name": "Palais des Festivals et des Congrès",
+        "type": "venue",
+        "formatted_address": "1 Boulevard de la Croisette\n06400 Cannes\nFrance"
+      },
+      {
+        "entity_id": "eMeQ8WREPbNbCkyFGxJFyj",
+        "name": "MIPTV International Television Market",
+        "type": "event-group",
+        "formatted_address": "06400 Cannes\nFrance",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "expo",
+          "recurring"
+        ],
+        "recurring": {
+          "ical": "DTSTART;VALUE=DATE-TIME:20200330T000000\nRRULE:FREQ=YEARLY;INTERVAL=1"
+        }
+      }
+    ],
+    "duration": 259199,
+    "start": "2024-04-14T22:00:00Z",
+    "end": "2024-04-17T21:59:59Z",
+    "updated": "2024-02-04T04:21:39Z",
+    "first_seen": "2023-01-03T07:51:39Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      7.017432099999951,
+      43.5507815
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          7.017432099999951,
+          43.5507815
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7fb-8yy-6kz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-13",
+            "value": 184,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 917,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 3667,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-16",
+            "value": 3667,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-17",
+            "value": 3667,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-18",
+            "value": 367,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-19",
+            "value": 184,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-13",
+            "value": 184,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 734,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 3667,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-16",
+            "value": 3667,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-17",
+            "value": 3667,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-18",
+            "value": 551,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "3038049",
+        "3014855",
+        "6446684",
+        "3028808"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "3038049",
+        "2990439",
+        "6454924",
+        "2990440"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 1546166,
+    "predicted_event_spend_industries": {
+      "accommodation": 830993,
+      "hospitality": 535080,
+      "transportation": 180092
+    },
+    "phq_labels": [
+      {
+        "label": "literature-film-and-theater",
+        "weight": 0.459
+      },
+      {
+        "label": "science-and-technology",
+        "weight": 0.402
+      },
+      {
+        "label": "music-and-dance",
+        "weight": 0.14
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "3omoYP8oUqgqsDxLo5",
+    "title": "Fabrics Fair",
+    "description": "Sourced from predicthq.com",
+    "category": "expo",
+    "labels": [
+      "expo"
+    ],
+    "rank": 64,
+    "local_rank": 82,
+    "phq_attendance": 5000,
+    "entities": [
+      {
+        "entity_id": "3BMwXRq42MCPeSsu3UDUA5C",
+        "name": "Mulhouse Expo SAEM",
+        "type": "venue",
+        "formatted_address": "120 Rue Lefebvre\n68100 Mulhouse\nFrance"
+      },
+      {
+        "entity_id": "3634zjSKysFiLrfdFBQtPLj",
+        "name": "Fabrics Fair",
+        "type": "event-group",
+        "formatted_address": "120 Rue Lefebvre, 68100 Mulhouse",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "expo"
+        ]
+      }
+    ],
+    "duration": 32400,
+    "start": "2024-04-14T07:00:00Z",
+    "end": "2024-04-14T16:00:00Z",
+    "updated": "2024-01-28T03:35:34Z",
+    "first_seen": "2024-01-28T00:36:02Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      7.3378595,
+      47.7646223
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          7.3378595,
+          47.7646223
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53b-pjr-b8v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-12",
+            "value": 250,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 750,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 5000,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 500,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-16",
+            "value": 250,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-13",
+            "value": 750,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 5000,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 500,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "3013663",
+        "2991213",
+        "6441541",
+        "2991214"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "3013663",
+        "3024296",
+        "6455228",
+        "3024297"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 584768,
+    "predicted_event_spend_industries": {
+      "accommodation": 413355,
+      "hospitality": 111030,
+      "transportation": 60381
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "5gjhjorYVVgVYygmE9",
+    "title": "Metz Auto Passion",
+    "description": "Sourced from predicthq.com",
+    "category": "expo",
+    "labels": [
+      "expo"
+    ],
+    "rank": 64,
+    "local_rank": 86,
+    "phq_attendance": 5000,
+    "entities": [
+      {
+        "entity_id": "ekfHzjMsuinFPDCCiE7vdi",
+        "name": "Metz-Evénements",
+        "type": "venue",
+        "formatted_address": "Rue de la Grange aux Bois\n57070 Metz\nFrance"
+      }
+    ],
+    "duration": 118800,
+    "start": "2024-04-13T07:00:00Z",
+    "end": "2024-04-14T16:00:00Z",
+    "updated": "2023-12-31T01:49:58Z",
+    "first_seen": "2023-12-31T01:10:21Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      6.234516,
+      49.090721
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          6.234516,
+          49.090721
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53c-y69-89z"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-11",
+            "value": 125,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 375,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 2500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 2500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 250,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-16",
+            "value": 125,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-12",
+            "value": 375,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 2500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 2500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 250,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "2991627",
+        "2994159",
+        "6437776",
+        "2988161"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "2991627",
+        "2994149",
+        "6454365",
+        "2994160"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 618402,
+    "predicted_event_spend_industries": {
+      "accommodation": 310016,
+      "hospitality": 239725,
+      "transportation": 68660
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "83MsMw2FMB2eEkRFon",
+    "title": "International Aesthetics & Spa Congress",
+    "alternate_titles": [
+      "Congrès International Esthétique & Spa",
+      "JOHNNY HALLYDAY L'expoITION - PARIS - JOHNNY HALLYDAY L'expoITION",
+      "SPOT 24 - APRES MIDI : A PARTIR DE 14H00 - L'expoITION OLYMPIQUE - APRES MIDI",
+      "SPOT 24 - MATIN : 9H30 - 13H00 - L'expoITION OLYMPIQUE - MATIN"
+    ],
+    "description": "Sourced from predicthq.com - The Congrès International Esthétique & Spa is a premier event bringing together industry experts, professionals, and enthusiasts from around the world to explore the latest trends and innovations in the aesthetics and spa industry. Attendees will have the opportunity to participate in informative sessions, hands-on workshops, and networking events, gaining valuable insights and practical knowledge to elevate their businesses and careers.",
+    "category": "expo",
+    "labels": [
+      "expo",
+      "fashion",
+      "health"
+    ],
+    "rank": 75,
+    "local_rank": 79,
+    "phq_attendance": 18811,
+    "entities": [
+      {
+        "entity_id": "fNRA29TLUcuHbjD2YrEzjB",
+        "name": "Paris Expo Porte de Versailles",
+        "type": "venue",
+        "formatted_address": "1 Place de la Porte de Versailles\n75015 Paris\nFrance"
+      },
+      {
+        "entity_id": "fRXR3e2RJtqUuPFuhHyR6p",
+        "name": "International Aesthetics & Spa Congress",
+        "type": "event-group",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "fashion",
+          "health"
+        ],
+        "description": "The Congrès International Esthétique & Spa is a premier event bringing together industry experts, professionals, and enthusiasts from around the world to explore the latest trends and innovations in the aesthetics and spa industry. Attendees will have the opportunity to participate in informative sessions, hands-on workshops, and networking events, gaining valuable insights and practical knowledge to elevate their businesses and careers."
+      }
+    ],
+    "duration": 259199,
+    "start": "2024-04-12T22:00:00Z",
+    "end": "2024-04-15T21:59:59Z",
+    "updated": "2024-02-05T00:37:55Z",
+    "first_seen": "2023-05-07T03:49:15Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.2904507,
+      48.8300389
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.2904507,
+          48.8300389
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7yk-8jv"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-11",
+            "value": 332,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 996,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 6639,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 6639,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 5533,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-16",
+            "value": 554,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-17",
+            "value": 277,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-12",
+            "value": 996,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 6639,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 6639,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 5533,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-16",
+            "value": 554,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "3013657",
+        "6457368",
+        "6613135",
+        "2970761"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2472428,
+    "predicted_event_spend_industries": {
+      "accommodation": 1269263,
+      "hospitality": 938393,
+      "transportation": 264772
+    },
+    "phq_labels": [
+      {
+        "label": "lifestyle",
+        "weight": 0.443
+      },
+      {
+        "label": "education-and-careers",
+        "weight": 0.284
+      },
+      {
+        "label": "literature-film-and-theater",
+        "weight": 0.273
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "3Ha7sbbGV8kZADqW6N",
+    "title": "Rencontres Territoriales de l'Energie : Rénovation énergétique",
+    "description": "Sourced from predicthq.com - Mobilisons ensemble les pistes d'action et moyens à mettre en œuvre pour changer d'échelle dans la rénovation énergétique en France",
+    "category": "expo",
+    "labels": [
+      "business",
+      "expo"
+    ],
+    "rank": 37,
+    "local_rank": 46,
+    "phq_attendance": 221,
+    "entities": [],
+    "duration": 27000,
+    "start": "2024-04-12T07:30:00Z",
+    "end": "2024-04-12T15:00:00Z",
+    "updated": "2024-01-10T13:34:21Z",
+    "first_seen": "2023-10-08T19:03:30Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      5.3688607,
+      43.2960113
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          5.3688607,
+          43.2960113
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7f9-tmp-jsq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-12",
+            "value": 221,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-12",
+            "value": 221,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "3031359",
+        "2995468",
+        "6447142",
+        "2995469",
+        "7284883"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "3031359",
+        "2995468",
+        "6447142",
+        "2995469"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 5626,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 3357,
+      "transportation": 2268
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "536gAnQmXoufzMNYzU",
+    "title": "Journée de l'écoconstruction locale et solidaire à en Pays de la Loire",
+    "description": "Sourced from predicthq.com - Témoignages de collectivités et particuliers, retours de chantiers, ateliers sur la construction durable et matériaux biosourcés, etc.",
+    "category": "expo",
+    "labels": [
+      "expo"
+    ],
+    "rank": 42,
+    "local_rank": 70,
+    "phq_attendance": 413,
+    "entities": [],
+    "duration": 41400,
+    "start": "2024-04-12T07:30:00Z",
+    "end": "2024-04-12T19:00:00Z",
+    "updated": "2024-02-01T03:59:45Z",
+    "first_seen": "2024-02-01T01:04:05Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -0.517146,
+      47.501835
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -0.517146,
+          47.501835
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4fb-nww-7yv"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-12",
+            "value": 413,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-11",
+            "value": 17,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 413,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2996663",
+        "3037655",
+        "6435207",
+        "3004644"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2996663",
+        "3037655",
+        "6452361",
+        "3037656"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 29243,
+    "predicted_event_spend_industries": {
+      "accommodation": 12415,
+      "hospitality": 12991,
+      "transportation": 3836
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "4HGmQTbvfpZYHuy9mF",
+    "title": "Mon Centre-Bourg a un Incroyable Commerce - Aniche",
+    "description": "Sourced from predicthq.com - Mon Centre-Bourg a un Incroyable Commerce (MCBAIC) est un programme d'accélération pour les porteurs de projet, commerçants et artisans",
+    "category": "expo",
+    "labels": [
+      "business",
+      "expo"
+    ],
+    "rank": 39,
+    "local_rank": 63,
+    "phq_attendance": 279,
+    "entities": [],
+    "duration": 104400,
+    "start": "2024-04-12T06:00:00Z",
+    "end": "2024-04-13T11:00:00Z",
+    "updated": "2023-11-28T01:05:44Z",
+    "first_seen": "2023-11-28T00:46:47Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.250277399999999,
+      50.33164779999999
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.250277399999999,
+          50.33164779999999
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53q-g9k-nnq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-12",
+            "value": 140,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 140,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-12",
+            "value": 140,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 140,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "3020999",
+        "6452426",
+        "3037571"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3036783",
+        "6618442",
+        "3036784"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 5922,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 3734,
+      "transportation": 2188
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "AJTmLKpSjkJFLwaosd",
+    "title": "Salons Mer & Vigne et Gastronomie Strasbourg",
+    "description": "Sourced from predicthq.com - Salons Mer & Vigne et Gastronomie Strasbourg is an extravagant expo event showcasing the best of the sea, vineyards, and gastronomy. This gathering of enthusiasts and professionals offers a unique opportunity to discover a wide selection of products and experiences celebrating the tastes and craftsmanship of the region.",
+    "category": "expo",
+    "labels": [
+      "expo"
+    ],
+    "rank": 64,
+    "local_rank": 85,
+    "phq_attendance": 5000,
+    "entities": [
+      {
+        "entity_id": "YXMPm2nwJjDvdgPhdn9KMr",
+        "name": "Zénith de Strasbourg",
+        "type": "venue",
+        "formatted_address": "1 Allée du Zénith\n67201 Eckbolsheim\nFrance"
+      },
+      {
+        "entity_id": "3Fv3umef9pNMjjXM5Eumnw",
+        "name": "Salons Mer & Vigne et Gastronomie Strasbourg",
+        "type": "event-group",
+        "formatted_address": "1 Allée du Zénith, 67201 Eckbolsheim, France",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "expo"
+        ]
+      }
+    ],
+    "duration": 345599,
+    "start": "2024-04-11T22:00:00Z",
+    "end": "2024-04-15T21:59:59Z",
+    "updated": "2024-01-12T02:08:08Z",
+    "first_seen": "2023-05-13T04:26:43Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      7.6871185,
+      48.59306489999999
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          7.6871185,
+          48.59306489999999
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53d-59v-9j9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-10",
+            "value": 66,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 326,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 1304,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 1304,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 1304,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 1087,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-16",
+            "value": 109,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-17",
+            "value": 55,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-10",
+            "value": 66,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 261,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 1304,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 1304,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 1304,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 1087,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-16",
+            "value": 164,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "3034720",
+        "2973782",
+        "6441080",
+        "3020489"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "3034720",
+        "2973781",
+        "6441375",
+        "2973783"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 444608,
+    "predicted_event_spend_industries": {
+      "accommodation": 260537,
+      "hospitality": 121821,
+      "transportation": 62249
+    },
+    "phq_labels": [
+      {
+        "label": "hospitality-and-travel",
+        "weight": 0.395
+      },
+      {
+        "label": "consumer-goods",
+        "weight": 0.362
+      },
+      {
+        "label": "literature-film-and-theater",
+        "weight": 0.243
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "FKK6uBRzGhEaPPDtNm",
+    "title": "Festival du Livre de Paris (formerly LIVRE Paris)",
+    "alternate_titles": [
+      "Book Fair",
+      "Festival du Livre de Paris 2024"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "expo",
+    "labels": [
+      "education",
+      "expo",
+      "print"
+    ],
+    "rank": 90,
+    "local_rank": 97,
+    "phq_attendance": 100000,
+    "entities": [
+      {
+        "entity_id": "ENRH5cLAdwKQSuGTKdz8xM",
+        "name": "Grand Palais Ephemere",
+        "type": "venue",
+        "formatted_address": "2 Place Joffre\n75007 Paris\nFrance"
+      },
+      {
+        "entity_id": "Mg2pnSFhY4zzx9PDBzf2py",
+        "name": "Festival du Livre de Paris (formerly LIVRE Paris)",
+        "type": "event-group",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "recurring"
+        ],
+        "description": "Book Fair"
+      }
+    ],
+    "duration": 259199,
+    "start": "2024-04-11T22:00:00Z",
+    "end": "2024-04-14T21:59:59Z",
+    "updated": "2024-01-30T04:22:30Z",
+    "first_seen": "2023-01-03T05:20:12Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3027546,
+      48.85290999999999
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3027546,
+          48.85290999999999
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7yg-dqf"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-10",
+            "value": 8334,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 23334,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 33333,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 33333,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 33333,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 13334,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-16",
+            "value": 1667,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-10",
+            "value": 1667,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 6667,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 33333,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 33333,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 33333,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 5000,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "3013657",
+        "6457368",
+        "6613135",
+        "2970761",
+        "2970479"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 20744990,
+    "predicted_event_spend_industries": {
+      "accommodation": 10578979,
+      "hospitality": 8551686,
+      "transportation": 1614324
+    },
+    "phq_labels": [
+      {
+        "label": "literature-film-and-theater",
+        "weight": 0.602
+      },
+      {
+        "label": "consumer-goods",
+        "weight": 0.398
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "FyWi2aDBC4of5VDZD2",
+    "title": "Salon Bio & Co Besancon",
+    "description": "Sourced from predicthq.com - Salon Bio Besancon is an exciting expo event that brings together a diverse range of exhibitors and experts in the field of organic and sustainable living. Explore innovative products, discover educational workshops, and get inspired by the latest trends in eco-friendly practices at this immersive event.",
+    "category": "expo",
+    "labels": [
+      "education",
+      "expo",
+      "product"
+    ],
+    "rank": 72,
+    "local_rank": 94,
+    "phq_attendance": 12000,
+    "entities": [
+      {
+        "entity_id": "wPqqR2WwdqkuGYA5eJdmfd",
+        "name": "Micropolis",
+        "type": "venue",
+        "formatted_address": "3 Boulevard Ouest\n25000 Besançon\nFrance"
+      },
+      {
+        "entity_id": "eRWpqXnb9H92qiHmvSzhHr",
+        "name": "Salon Bio Besancon",
+        "type": "event-group",
+        "formatted_address": "25000 Besançon\nFrance",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "expo",
+          "recurring"
+        ],
+        "recurring": {
+          "ical": "DTSTART;VALUE=DATE-TIME:20210409T100000\nRRULE:FREQ=YEARLY;INTERVAL=1"
+        }
+      }
+    ],
+    "duration": 259199,
+    "start": "2024-04-11T22:00:00Z",
+    "end": "2024-04-14T21:59:59Z",
+    "updated": "2024-01-21T04:34:54Z",
+    "first_seen": "2023-12-06T06:47:36Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      5.9877343,
+      47.2143003
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          5.9877343,
+          47.2143003
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53c-c3d-ygk"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-10",
+            "value": 200,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 1000,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 4000,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 4000,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 4000,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 400,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-16",
+            "value": 200,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-10",
+            "value": 200,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 800,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 4000,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 4000,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 4000,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 600,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071619",
+        "3020989",
+        "3033122",
+        "6447840",
+        "3032939"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071619",
+        "3020989",
+        "3033122",
+        "6447838",
+        "3033123"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 1498342,
+    "predicted_event_spend_industries": {
+      "accommodation": 901866,
+      "hospitality": 445565,
+      "transportation": 150911
+    },
+    "phq_labels": [
+      {
+        "label": "science-and-technology",
+        "weight": 0.428
+      },
+      {
+        "label": "education-and-careers",
+        "weight": 0.38
+      },
+      {
+        "label": "art-and-cultural",
+        "weight": 0.192
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "GHf3WXND3CMFGkBF3L",
+    "title": "Habitat & Jardin",
+    "alternate_titles": [
+      "Habitat & Jardin Chambery",
+      "Interior Design and Gardening Exhibition"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "expo",
+    "labels": [
+      "design",
+      "expo",
+      "furniture"
+    ],
+    "rank": 64,
+    "local_rank": 83,
+    "phq_attendance": 5000,
+    "entities": [
+      {
+        "entity_id": "LurpyXyf82TpLNSPDh2dSP",
+        "name": "Habitat & Jardin",
+        "type": "event-group",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "recurring"
+        ],
+        "description": "Interior Design and Gardening Exhibition"
+      }
+    ],
+    "duration": 345599,
+    "start": "2024-04-11T22:00:00Z",
+    "end": "2024-04-15T21:59:59Z",
+    "updated": "2023-10-26T02:30:08Z",
+    "first_seen": "2023-01-03T05:55:05Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      5.8990782,
+      45.5821903
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          5.8990782,
+          45.5821903
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53h-h7v-6c5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-10",
+            "value": 66,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 326,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 1304,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 1304,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 1304,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 1087,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-16",
+            "value": 109,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-17",
+            "value": 55,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-10",
+            "value": 66,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 261,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 1304,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 1304,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 1304,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 1087,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-16",
+            "value": 164,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "2975517",
+        "3027421",
+        "6455250",
+        "3032525"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "2975517",
+        "3027421",
+        "6455250",
+        "3027422"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 543429,
+    "predicted_event_spend_industries": {
+      "accommodation": 280093,
+      "hospitality": 197688,
+      "transportation": 65647
+    },
+    "phq_labels": [
+      {
+        "label": "design-and-furnishing",
+        "weight": 0.464
+      },
+      {
+        "label": "art-and-cultural",
+        "weight": 0.136
+      },
+      {
+        "label": "agriculture-forestry-and-fisheries",
+        "weight": 0.135
+      },
+      {
+        "label": "festivals-and-outdoor-activities",
+        "weight": 0.135
+      },
+      {
+        "label": "food-and-beverage",
+        "weight": 0.13
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "H3HBVNjg2BfSwUvJvL",
+    "title": "Foire Internationale de Toulouse",
+    "alternate_titles": [
+      "International Fair of Toulouse",
+      "Toulouse International Fair"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "expo",
+    "labels": [
+      "expo",
+      "product"
+    ],
+    "rank": 90,
+    "local_rank": 100,
+    "phq_attendance": 100000,
+    "entities": [
+      {
+        "entity_id": "q8jmRKwK2fAvp3FB9QbSgL",
+        "name": "MEETT",
+        "type": "venue",
+        "formatted_address": "CONCORDE AVENUE\nAussonne\nFrance"
+      },
+      {
+        "entity_id": "z7nYzuDeZP5MWeD4z9TABj",
+        "name": "Foire Internationale de Toulouse",
+        "type": "event-group",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "recurring"
+        ],
+        "description": "Toulouse International Fair"
+      }
+    ],
+    "duration": 863999,
+    "start": "2024-04-11T22:00:00Z",
+    "end": "2024-04-21T21:59:59Z",
+    "updated": "2023-11-03T07:55:31Z",
+    "first_seen": "2023-01-03T06:55:47Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      1.3489207,
+      43.6621064
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          1.3489207,
+          43.6621064
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7f7-skg-z2k"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-10",
+            "value": 2679,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 7500,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 10714,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 10714,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 10714,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 8929,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-16",
+            "value": 8929,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-17",
+            "value": 8929,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-18",
+            "value": 8929,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-19",
+            "value": 10714,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-20",
+            "value": 10714,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-21",
+            "value": 10714,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-22",
+            "value": 4286,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-23",
+            "value": 536,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-10",
+            "value": 536,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 2143,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 10714,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 10714,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 10714,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 8929,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-16",
+            "value": 8929,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-17",
+            "value": 8929,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-18",
+            "value": 8929,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-19",
+            "value": 10714,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-20",
+            "value": 10714,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-21",
+            "value": 10714,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-22",
+            "value": 1608,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071623",
+        "3013767",
+        "2972314",
+        "6448275",
+        "3033953"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071623",
+        "3013767",
+        "2972314",
+        "6453974",
+        "2972315"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 14902863,
+    "predicted_event_spend_industries": {
+      "accommodation": 7280673,
+      "hospitality": 6216898,
+      "transportation": 1405291
+    },
+    "phq_labels": [
+      {
+        "label": "consumer-goods",
+        "weight": 0.657
+      },
+      {
+        "label": "festivals-and-outdoor-activities",
+        "weight": 0.343
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "5q8hXPnKujtDuAzSBx",
+    "title": "Salon JobFest – Le Mans",
+    "description": "Sourced from predicthq.com - Le jeudi 11 avril 2024, le salon jobfest revient au Mans ...",
+    "category": "expo",
+    "labels": [
+      "business",
+      "expo"
+    ],
+    "rank": 36,
+    "local_rank": 59,
+    "phq_attendance": 195,
+    "entities": [],
+    "duration": 25200,
+    "start": "2024-04-11T08:00:00Z",
+    "end": "2024-04-11T15:00:00Z",
+    "updated": "2023-11-08T08:31:09Z",
+    "first_seen": "2023-11-08T05:28:40Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      0.2231634,
+      47.9592601
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          0.2231634,
+          47.9592601
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4f6-xwj-sh5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-11",
+            "value": 195,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-11",
+            "value": 195,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2975926",
+        "2996175",
+        "6456407",
+        "3033828"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2975926",
+        "2996175",
+        "6456407",
+        "3003603"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 4501,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 3108,
+      "transportation": 1393
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "HD6Cht3uz4tFrLFLaD",
+    "title": "Solutions CSE Rennes",
+    "alternate_titles": [
+      "SalonsCE Rennes"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "expo",
+    "labels": [
+      "expo"
+    ],
+    "rank": 67,
+    "local_rank": 91,
+    "phq_attendance": 7000,
+    "entities": [
+      {
+        "entity_id": "38fZ3u4J6HCJyMGr4PN5gmF",
+        "name": "Parc Expo Rennes Aéroport",
+        "type": "venue",
+        "formatted_address": "Parc Expo Rennes, La Haie Gautrais\n35172 Bruz\nFrance"
+      },
+      {
+        "entity_id": "MapcCiyrBrGJy4amDYLkb6",
+        "name": "Solutions CSE Rennes",
+        "type": "event-group",
+        "formatted_address": "La Haie Gautrais, 35170 Bruz",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "expo"
+        ]
+      }
+    ],
+    "duration": 118800,
+    "start": "2024-04-11T07:00:00Z",
+    "end": "2024-04-12T16:00:00Z",
+    "updated": "2023-10-26T03:52:06Z",
+    "first_seen": "2023-10-15T03:29:07Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -1.731611,
+      48.0574196
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -1.731611,
+          48.0574196
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4f7-g8d-mrk"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-09",
+            "value": 160,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 796,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 3182,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 3818,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 382,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 191,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-09",
+            "value": 160,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 637,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 3182,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 3818,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 573,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3030293",
+        "3012849",
+        "2983989",
+        "6448536",
+        "2995173"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3030293",
+        "3012849",
+        "2983989",
+        "6432801",
+        "2983990"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 716083,
+    "predicted_event_spend_industries": {
+      "accommodation": 420878,
+      "hospitality": 210453,
+      "transportation": 84751
+    },
+    "phq_labels": [
+      {
+        "label": "science-and-technology",
+        "weight": 0.412
+      },
+      {
+        "label": "literature-film-and-theater",
+        "weight": 0.33
+      },
+      {
+        "label": "education-and-careers",
+        "weight": 0.258
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "7FppP97rqodimHiFZK",
+    "parent_event": {
+      "parent_event_id": "Fcu62CNP9aRkPUS5Vz"
+    },
+    "title": "SolutionsCSE Reims",
+    "description": "Sourced from predicthq.com",
+    "category": "expo",
+    "labels": [
+      "expo"
+    ],
+    "rank": 64,
+    "local_rank": 85,
+    "phq_attendance": 5000,
+    "entities": [
+      {
+        "entity_id": "wNMWpLunSv9pFQAacvvMVN",
+        "name": "Reims Exhibition Centre",
+        "type": "venue",
+        "formatted_address": "51100 Reims\nFrance"
+      },
+      {
+        "entity_id": "FDjHUCfbewKKSeq5iv8qux",
+        "name": "SolutionsCSE Reims",
+        "type": "event-group",
+        "formatted_address": "Site Henri-Farman, 51100 Reims",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "expo"
+        ]
+      }
+    ],
+    "duration": 172799,
+    "start": "2024-04-10T22:00:00Z",
+    "end": "2024-04-12T21:59:59Z",
+    "updated": "2023-11-14T02:44:40Z",
+    "first_seen": "2023-10-16T04:33:31Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      4.060263,
+      49.235243
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          4.060263,
+          49.235243
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-fm5-xyv"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-09",
+            "value": 114,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 569,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 2273,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 2727,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 273,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 137,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-09",
+            "value": 114,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 455,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 2273,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 2727,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 410,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "2995603",
+        "2984113",
+        "6435758",
+        "3023628"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "2995603",
+        "3027486",
+        "6618295",
+        "3027487"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 571103,
+    "predicted_event_spend_industries": {
+      "accommodation": 300633,
+      "hospitality": 206380,
+      "transportation": 64089
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "Fcu62CNP9aRkPUS5Vz",
+    "title": "FranceCE Reims",
+    "description": "Sourced from predicthq.com",
+    "category": "expo",
+    "labels": [
+      "expo"
+    ],
+    "rank": 68,
+    "local_rank": 88,
+    "phq_attendance": 7845,
+    "entities": [
+      {
+        "entity_id": "wNMWpLunSv9pFQAacvvMVN",
+        "name": "Reims Exhibition Centre",
+        "type": "venue",
+        "formatted_address": "51100 Reims\nFrance"
+      },
+      {
+        "entity_id": "fB7LBaWWYrwp26KtfUcUfF",
+        "name": "FranceCE Reims",
+        "type": "event-group",
+        "formatted_address": "Site Henri-Farman, 51100 Reims",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "expo"
+        ]
+      }
+    ],
+    "duration": 172799,
+    "start": "2024-04-10T22:00:00Z",
+    "end": "2024-04-12T21:59:59Z",
+    "updated": "2023-11-14T02:11:58Z",
+    "first_seen": "2023-11-13T22:39:27Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      4.060263,
+      49.235243
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          4.060263,
+          49.235243
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-fm5-xyv"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-09",
+            "value": 179,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 892,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 3566,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 4279,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 428,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 214,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-09",
+            "value": 179,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 714,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 3566,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 4279,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 642,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "2995603",
+        "2984113",
+        "6435758",
+        "3023628"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "2995603",
+        "3027486",
+        "6618295",
+        "3027487"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 1067567,
+    "predicted_event_spend_industries": {
+      "accommodation": 643199,
+      "hospitality": 323810,
+      "transportation": 100557
+    },
+    "phq_labels": [
+      {
+        "label": "education-and-careers",
+        "weight": 0.338
+      },
+      {
+        "label": "art-and-cultural",
+        "weight": 0.264
+      },
+      {
+        "label": "consumer-goods",
+        "weight": 0.241
+      },
+      {
+        "label": "science-and-technology",
+        "weight": 0.157
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "9AstWBUdYyVCEn6UPq",
+    "title": "24 HEURES POUR L’EMPLOI ET LA FORMATION – ALENÇON 2024",
+    "description": "Sourced from predicthq.com - La 5ème édition des « 24 Heures pour l’Emploi et la Formation » d’Alençon se tiendra le Mercredi 10 Avril 2024 à la Halle aux Toiles.",
+    "category": "expo",
+    "labels": [
+      "business",
+      "expo"
+    ],
+    "rank": 35,
+    "local_rank": 56,
+    "phq_attendance": 178,
+    "entities": [],
+    "duration": 25200,
+    "start": "2024-04-10T08:00:00Z",
+    "end": "2024-04-10T15:00:00Z",
+    "updated": "2023-11-03T11:12:16Z",
+    "first_seen": "2023-11-03T10:50:15Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      0.0875755,
+      48.4321416
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          0.0875755,
+          48.4321416
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4f7-2h6-7t9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-10",
+            "value": 178,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-10",
+            "value": 178,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071621",
+        "2989247",
+        "3038229",
+        "6452432",
+        "3038230"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3502,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2116,
+      "transportation": 1385
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "7Dp8iQc9CK2ozhMV7w",
+    "title": "Nordbat",
+    "description": "Sourced from predicthq.com - Nordbat is an innovative expo event that brings together professionals from the construction and renovation industry, showcasing the latest trends, products, and services. With interactive exhibits and expert-led workshops, it offers a platform for networking and knowledge-sharing for those involved in the building sector.",
+    "category": "expo",
+    "labels": [
+      "expo"
+    ],
+    "rank": 64,
+    "local_rank": 77,
+    "phq_attendance": 5000,
+    "entities": [
+      {
+        "entity_id": "R7yuRmY2VwqG5ArDPUeVbr",
+        "name": "Lille Grand Palais",
+        "type": "venue",
+        "formatted_address": "1 Boulevard des Cités Unies\n59 Lille\nFrance"
+      },
+      {
+        "entity_id": "nD2K6jyYhxNLyep4jgbifF",
+        "name": "Nordbat",
+        "type": "event-group",
+        "formatted_address": "59800 Lille\nFrance",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "expo",
+          "recurring"
+        ],
+        "recurring": {
+          "ical": "DTSTART;VALUE=DATE-TIME:20180411T000000\nRRULE:FREQ=YEARLY;INTERVAL=1"
+        }
+      }
+    ],
+    "duration": 205200,
+    "start": "2024-04-10T07:00:00Z",
+    "end": "2024-04-12T16:00:00Z",
+    "updated": "2023-10-26T09:28:39Z",
+    "first_seen": "2022-04-10T03:03:56Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.078077,
+      50.6326569
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.078077,
+          50.6326569
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3x-7t9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-08",
+            "value": 79,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-09",
+            "value": 391,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 1562,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 1562,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 1875,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 188,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 94,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-08",
+            "value": 79,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-09",
+            "value": 313,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 1562,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 1562,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 1875,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 282,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 646900,
+    "predicted_event_spend_industries": {
+      "accommodation": 369821,
+      "hospitality": 209690,
+      "transportation": 67387
+    },
+    "phq_labels": [
+      {
+        "label": "design-and-furnishing",
+        "weight": 0.313
+      },
+      {
+        "label": "art-and-cultural",
+        "weight": 0.27
+      },
+      {
+        "label": "education-and-careers",
+        "weight": 0.228
+      },
+      {
+        "label": "consumer-goods",
+        "weight": 0.189
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "CSXpMb9A2UYCFJqdYs",
+    "title": "MIX.E",
+    "alternate_titles": [
+      "European Tech & Solutions Event for a carbon-neutral energy mix"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "expo",
+    "labels": [
+      "environment",
+      "expo",
+      "industrial"
+    ],
+    "rank": 58,
+    "local_rank": 72,
+    "phq_attendance": 2630,
+    "entities": [
+      {
+        "entity_id": "bchVuCCkbPQcfzjtswW27G",
+        "name": "MIX.E",
+        "type": "event-group",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "recurring"
+        ],
+        "description": "European Tech & Solutions Event for a carbon-neutral energy mix"
+      }
+    ],
+    "duration": 172799,
+    "start": "2024-04-09T22:00:00Z",
+    "end": "2024-04-11T21:59:59Z",
+    "updated": "2024-01-06T00:06:46Z",
+    "first_seen": "2023-01-03T06:04:59Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      4.8564453,
+      45.7851028
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          4.8564453,
+          45.7851028
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53h-58s-m6k"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-08",
+            "value": 66,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-09",
+            "value": 329,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 1315,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 1315,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 132,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 66,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-09",
+            "value": 106,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 1315,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 1315,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "2987410",
+        "2996943",
+        "6450723",
+        "3029096"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "2987410",
+        "2996943",
+        "6454573",
+        "2996944"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 168127,
+    "predicted_event_spend_industries": {
+      "accommodation": 52859,
+      "hospitality": 90008,
+      "transportation": 25259
+    },
+    "phq_labels": [
+      {
+        "label": "science-and-technology",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "LuBgxH9NGvp4QCgmKE",
+    "title": "Laval Virtual",
+    "description": "Sourced from predicthq.com - Unique opportunity to connect with clients and future partners through 5 days of conferences and exhibition, including 3 professional days. Learn about how to use AR/VR technologies selected by an international expert panel. Test inspiring XR contents and emerging technologies demos. Discover pioneering projects and meet a multi-disciplinary ecosystem and an exceptional opportunity for networking in Laval, the world capital of VR / AR expertise.",
+    "category": "expo",
+    "labels": [
+      "business",
+      "conference",
+      "expo",
+      "technology"
+    ],
+    "rank": 76,
+    "local_rank": 97,
+    "phq_attendance": 20000,
+    "entities": [
+      {
+        "entity_id": "gj5DjFhkEHzbmN5bCWx7vA",
+        "name": "Espace Mayenne",
+        "type": "venue",
+        "formatted_address": "2, rue Joséphine Baker\n53000 Laval\nFrance"
+      },
+      {
+        "entity_id": "qMK9U7svZ736hp2N2KzNva",
+        "name": "Laval Virtual",
+        "type": "event-group",
+        "formatted_address": "53000 Laval\nFrance",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "expo",
+          "recurring"
+        ],
+        "recurring": {
+          "ical": "DTSTART;VALUE=DATE-TIME:20180404T000000\nRRULE:FREQ=YEARLY;INTERVAL=1"
+        }
+      }
+    ],
+    "duration": 431999,
+    "start": "2024-04-09T22:00:00Z",
+    "end": "2024-04-14T21:59:59Z",
+    "updated": "2023-12-03T22:19:51Z",
+    "first_seen": "2023-05-03T21:57:16Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -0.76464,
+      48.06789
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -0.76464,
+          48.06789
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4f6-yq8-c89"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-08",
+            "value": 179,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-09",
+            "value": 893,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 3571,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 3571,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 4286,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 4286,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 4286,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 429,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-16",
+            "value": 215,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-08",
+            "value": 179,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-09",
+            "value": 715,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 3571,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 3571,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 4286,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 4286,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 4286,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-15",
+            "value": 643,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2994932",
+        "3005865",
+        "6454286",
+        "3005866"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 1914579,
+    "predicted_event_spend_industries": {
+      "accommodation": 974320,
+      "hospitality": 733956,
+      "transportation": 206302
+    },
+    "phq_labels": [
+      {
+        "label": "science-and-technology",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "8aeVrPU5pWhKcsjkGu",
+    "title": "Le Village des Recruteurs d'Aix-en-Provence 2024",
+    "description": "Sourced from predicthq.com - Vous êtes à la recherche d’un emploi ou d’une formation ? Le Village des Recruteurs est la solution !",
+    "category": "expo",
+    "labels": [
+      "expo"
+    ],
+    "rank": 41,
+    "local_rank": 59,
+    "phq_attendance": 336,
+    "entities": [],
+    "duration": 27000,
+    "start": "2024-04-09T07:30:00Z",
+    "end": "2024-04-09T15:00:00Z",
+    "updated": "2023-12-04T04:27:01Z",
+    "first_seen": "2023-12-04T04:26:35Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      5.435842999999998,
+      43.52315599999999
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          5.435842999999998,
+          43.52315599999999
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7f9-zpc-cdv"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-09",
+            "value": 336,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-08",
+            "value": 14,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-09",
+            "value": 336,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "3031359",
+        "3038353",
+        "6452134",
+        "3038354"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "3031359",
+        "2995468",
+        "6447142",
+        "2995469"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 26714,
+    "predicted_event_spend_industries": {
+      "accommodation": 10152,
+      "hospitality": 12250,
+      "transportation": 4311
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "7v8ru3m5PU5m7oouhS",
+    "title": "Urbest Metz Expo",
+    "description": "Sourced from predicthq.com",
+    "category": "expo",
+    "labels": [
+      "expo"
+    ],
+    "rank": 63,
+    "local_rank": 85,
+    "phq_attendance": 4500,
+    "entities": [
+      {
+        "entity_id": "ekfHzjMsuinFPDCCiE7vdi",
+        "name": "Metz-Evénements",
+        "type": "venue",
+        "formatted_address": "Rue de la Grange aux Bois\n57070 Metz\nFrance"
+      },
+      {
+        "entity_id": "KhaydXQXzescpmpGejiLkE",
+        "name": "Urbest Metz Expo",
+        "type": "event-group",
+        "formatted_address": "Rue de la Grange aux Bois 57070 Metz",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "expo"
+        ]
+      }
+    ],
+    "duration": 118800,
+    "start": "2024-04-09T07:00:00Z",
+    "end": "2024-04-10T16:00:00Z",
+    "updated": "2024-01-28T05:38:32Z",
+    "first_seen": "2024-01-28T03:21:31Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      6.234516,
+      49.090721
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          6.234516,
+          49.090721
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53c-y69-89z"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-07",
+            "value": 113,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-08",
+            "value": 563,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-09",
+            "value": 2250,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 2250,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 225,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 113,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-07",
+            "value": 113,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-08",
+            "value": 450,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-09",
+            "value": 2250,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 2250,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 338,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "2991627",
+        "2994159",
+        "6437776",
+        "2988161"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "2991627",
+        "2994149",
+        "6454365",
+        "2994160"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 556562,
+    "predicted_event_spend_industries": {
+      "accommodation": 279014,
+      "hospitality": 215752,
+      "transportation": 61794
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "36rGjJKCecntsptdv2",
+    "parent_event": {
+      "parent_event_id": "Horv9qDBY3vA2M7FxR"
+    },
+    "title": "SPIE.Photonics Europe",
+    "alternate_titles": [
+      "Photonics Europe"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "expo",
+    "labels": [
+      "expo",
+      "medical",
+      "technology"
+    ],
+    "rank": 55,
+    "local_rank": 72,
+    "phq_attendance": 1817,
+    "entities": [
+      {
+        "entity_id": "L7GPcCzT9wggbjhRF3vDBB",
+        "name": "Palais de la Musique et des Congres",
+        "type": "venue",
+        "formatted_address": "Place de Bordeaux\n67082 Strasbourg\nFrance"
+      },
+      {
+        "entity_id": "sr85rAfESnvsiU8NG977ML",
+        "name": "SPIE.Photonics Europe",
+        "type": "event-group",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "recurring"
+        ],
+        "description": "Photonics Europe"
+      }
+    ],
+    "duration": 172799,
+    "start": "2024-04-08T22:00:00Z",
+    "end": "2024-04-10T21:59:59Z",
+    "updated": "2024-01-28T09:39:55Z",
+    "first_seen": "2023-01-03T05:27:22Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      7.7583943,
+      48.5975463
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          7.7583943,
+          48.5975463
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53d-57h-s3q"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-07",
+            "value": 46,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-08",
+            "value": 227,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-09",
+            "value": 908,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 908,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 91,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 46,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-08",
+            "value": 73,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-09",
+            "value": 908,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 908,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "3034720",
+        "2973782",
+        "6441347",
+        "2975446"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "3034720",
+        "2973781",
+        "6441375",
+        "2973783"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 115996,
+    "predicted_event_spend_industries": {
+      "accommodation": 61417,
+      "hospitality": 37932,
+      "transportation": 16646
+    },
+    "phq_labels": [
+      {
+        "label": "science-and-technology",
+        "weight": 0.794
+      },
+      {
+        "label": "medical",
+        "weight": 0.206
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "4r6kDjtPTxagA7t3Lr",
+    "parent_event": {
+      "parent_event_id": "37BXG9ZG6Lt8deAcwL"
+    },
+    "title": "Mipdoc",
+    "description": "Sourced from predicthq.com - Mipdoc is an immersive expo event held at one of the most prestigious venues, offering a platform for creators and industry professionals from the global documentary community to network, engage in dynamic discussions, and showcase their groundbreaking works. With its unrivaled networking opportunities, cutting-edge screenings, and thought-provoking panels, Mipdoc is the ultimate gathering for documentary enthusiasts seeking inspiration and partnerships in the ever-evolving world of non-fiction storytelling.",
+    "category": "expo",
+    "labels": [
+      "expo"
+    ],
+    "rank": 64,
+    "local_rank": 81,
+    "phq_attendance": 5000,
+    "entities": [
+      {
+        "entity_id": "38Y7JdaZDPNkqHrKqhuCHKH",
+        "name": "Palais des Festivals et des Congrès",
+        "type": "venue",
+        "formatted_address": "1 Boulevard de la Croisette\n06400 Cannes\nFrance"
+      },
+      {
+        "entity_id": "EFh3ttqADba9Se7jyQbWfb",
+        "name": "Mipdoc",
+        "type": "event-group",
+        "formatted_address": "1 Boulevard de la Croisette 06400 Cannes",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "expo"
+        ]
+      }
+    ],
+    "duration": 205200,
+    "start": "2024-04-08T07:00:00Z",
+    "end": "2024-04-10T16:00:00Z",
+    "updated": "2024-01-14T04:27:37Z",
+    "first_seen": "2023-06-05T15:29:53Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      7.017432099999951,
+      43.5507815
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          7.017432099999951,
+          43.5507815
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7fb-8yy-6kz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 84,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-07",
+            "value": 417,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-08",
+            "value": 1667,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-09",
+            "value": 1667,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 1667,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 167,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 84,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 84,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-07",
+            "value": 334,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-08",
+            "value": 1667,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-09",
+            "value": 1667,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 1667,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 251,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "3038049",
+        "3014855",
+        "6446684",
+        "3028808"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "3038049",
+        "2990439",
+        "6454924",
+        "2990440"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 602142,
+    "predicted_event_spend_industries": {
+      "accommodation": 277028,
+      "hospitality": 243245,
+      "transportation": 81868
+    },
+    "phq_labels": [
+      {
+        "label": "lifestyle",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "BMebWz5aKMLWoZJHgg",
+    "parent_event": {
+      "parent_event_id": "37BXG9ZG6Lt8deAcwL"
+    },
+    "title": "MIPDrama",
+    "description": "Sourced from predicthq.com",
+    "category": "expo",
+    "labels": [
+      "expo"
+    ],
+    "rank": 50,
+    "local_rank": 67,
+    "phq_attendance": 1000,
+    "entities": [
+      {
+        "entity_id": "38Y7JdaZDPNkqHrKqhuCHKH",
+        "name": "Palais des Festivals et des Congrès",
+        "type": "venue",
+        "formatted_address": "1 Boulevard de la Croisette\n06400 Cannes\nFrance"
+      },
+      {
+        "entity_id": "LFRPQW5vX2vj2XcU64H8qn",
+        "name": "MIPDrama",
+        "type": "event-group",
+        "formatted_address": "1 Boulevard de la Croisette 06400 Cannes",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "expo"
+        ]
+      }
+    ],
+    "duration": 205200,
+    "start": "2024-04-08T07:00:00Z",
+    "end": "2024-04-10T16:00:00Z",
+    "updated": "2024-01-14T06:18:08Z",
+    "first_seen": "2023-07-09T02:46:00Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      7.017432099999951,
+      43.5507815
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          7.017432099999951,
+          43.5507815
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7fb-8yy-6kz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-08",
+            "value": 333,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-09",
+            "value": 333,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 333,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-07",
+            "value": 27,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-08",
+            "value": 333,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-09",
+            "value": 333,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 333,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "3038049",
+        "3014855",
+        "6446684",
+        "3028808"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "3038049",
+        "2990439",
+        "6454924",
+        "2990440"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 73716,
+    "predicted_event_spend_industries": {
+      "accommodation": 20123,
+      "hospitality": 41649,
+      "transportation": 11944
+    },
+    "phq_labels": [
+      {
+        "label": "management-and-consulting",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "37BXG9ZG6Lt8deAcwL",
+    "title": "MIPFormats",
+    "description": "Sourced from predicthq.com - MIPFORMATS is the world's largest gathering of formats producers, creators, buyers and distributors from over 40 countries, unveiling the next wave of creative business solutions and must-see unscripted formats, as well as an inspiring programme to dig deeper into the most recent content and tech trends in the international formats industry.",
+    "category": "expo",
+    "labels": [
+      "business",
+      "expo"
+    ],
+    "rank": 71,
+    "local_rank": 88,
+    "phq_attendance": 11500,
+    "entities": [
+      {
+        "entity_id": "38Y7JdaZDPNkqHrKqhuCHKH",
+        "name": "Palais des Festivals et des Congrès",
+        "type": "venue",
+        "formatted_address": "1 Boulevard de la Croisette\n06400 Cannes\nFrance"
+      },
+      {
+        "entity_id": "38v9FiXSCHPVaQrebeNNPWf",
+        "name": "MIPFormats",
+        "type": "event-group",
+        "formatted_address": "06400 Cannes\nFrance",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "expo",
+          "recurring"
+        ],
+        "recurring": {
+          "ical": "DTSTART;VALUE=DATE-TIME:20220404T090000\nRRULE:FREQ=YEARLY;INTERVAL=1"
+        }
+      }
+    ],
+    "duration": 259199,
+    "start": "2024-04-07T22:00:00Z",
+    "end": "2024-04-10T21:59:59Z",
+    "updated": "2024-02-04T05:14:43Z",
+    "first_seen": "2023-07-09T03:00:28Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      7.017432099999951,
+      43.5507815
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          7.017432099999951,
+          43.5507815
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7fb-8yy-6kz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 192,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-07",
+            "value": 959,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-08",
+            "value": 3833,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-09",
+            "value": 3833,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 3833,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 384,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 192,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 192,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-07",
+            "value": 767,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-08",
+            "value": 3833,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-09",
+            "value": 3833,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 3833,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 575,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "3038049",
+        "3014855",
+        "6446684",
+        "3028808"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "3038049",
+        "2990439",
+        "6454924",
+        "2990440"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 1384529,
+    "predicted_event_spend_industries": {
+      "accommodation": 636981,
+      "hospitality": 559303,
+      "transportation": 188244
+    },
+    "phq_labels": [
+      {
+        "label": "management-and-consulting",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "BFqqKnwNq4XFFLdJGX",
+    "parent_event": {
+      "parent_event_id": "37BXG9ZG6Lt8deAcwL"
+    },
+    "title": "MIPTV 2024 -The Spring International Television Market",
+    "description": "Sourced from predicthq.com",
+    "category": "expo",
+    "labels": [
+      "digital",
+      "expo",
+      "industrial",
+      "technology"
+    ],
+    "rank": 76,
+    "local_rank": 93,
+    "phq_attendance": 20000,
+    "entities": [
+      {
+        "entity_id": "38Y7JdaZDPNkqHrKqhuCHKH",
+        "name": "Palais des Festivals et des Congrès",
+        "type": "venue",
+        "formatted_address": "1 Boulevard de la Croisette\n06400 Cannes\nFrance"
+      }
+    ],
+    "duration": 259199,
+    "start": "2024-04-07T22:00:00Z",
+    "end": "2024-04-10T21:59:59Z",
+    "updated": "2024-01-30T03:39:40Z",
+    "first_seen": "2023-05-28T03:50:46Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      7.017432099999951,
+      43.5507815
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          7.017432099999951,
+          43.5507815
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7fb-8yy-6kz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 334,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-07",
+            "value": 1667,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-08",
+            "value": 6667,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-09",
+            "value": 6667,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 6667,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 667,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 334,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 334,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-07",
+            "value": 1334,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-08",
+            "value": 6667,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-09",
+            "value": 6667,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 6667,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 1001,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "3038049",
+        "3014855",
+        "6446684",
+        "3028808"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "3038049",
+        "2990439",
+        "6454924",
+        "2990440"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2408207,
+    "predicted_event_spend_industries": {
+      "accommodation": 1107946,
+      "hospitality": 972834,
+      "transportation": 327426
+    },
+    "phq_labels": [
+      {
+        "label": "science-and-technology",
+        "weight": 0.52
+      },
+      {
+        "label": "literature-film-and-theater",
+        "weight": 0.48
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "5gEZCt9EJiJebpcXbj",
+    "parent_event": {
+      "parent_event_id": "FnNF6KsuGroCqrm5JQ"
+    },
+    "title": "Studyrama SupAlternance and Apprenticeship Fair",
+    "description": "Sourced from predicthq.com - The Studyrama SupAlternance and Apprenticeship Fair is a prestigious expo event that offers a unique platform for students and professionals to explore a wide range of educational opportunities and apprenticeship programs. With an extensive lineup of esteemed institutions and companies, attendees can gain valuable insights, network with industry experts, and make informed decisions about their future career paths.",
+    "category": "expo",
+    "labels": [
+      "expo"
+    ],
+    "rank": 50,
+    "local_rank": 67,
+    "phq_attendance": 1000,
+    "entities": [
+      {
+        "entity_id": "zHVfJHCWZuyaMvvBxMzJ4h",
+        "name": "Bordeaux Convention Center",
+        "type": "venue",
+        "formatted_address": "Avenue Jean Gabriel Domergue\n33300 Bordeaux\nFrance"
+      },
+      {
+        "entity_id": "8N8bDUXJr5nhFbn276YCb6",
+        "name": "Studyrama SupAlternance and Apprenticeship Fair",
+        "type": "event-group",
+        "formatted_address": "Avenue Jean Gabriel Domergue, 33300 Bordeaux",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "expo"
+        ]
+      }
+    ],
+    "duration": 86399,
+    "start": "2024-04-05T22:00:00Z",
+    "end": "2024-04-06T21:59:59Z",
+    "updated": "2023-10-26T03:32:10Z",
+    "first_seen": "2023-04-23T04:03:50Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -0.567232,
+      44.888263
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -0.567232,
+          44.888263
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4f9-smz-cyv"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 1000,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-05",
+            "value": 40,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-06",
+            "value": 1000,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071620",
+        "3015948",
+        "3031580",
+        "6455053",
+        "2986026"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071620",
+        "3015948",
+        "3031580",
+        "6455058",
+        "3031582"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 87167,
+    "predicted_event_spend_industries": {
+      "accommodation": 45093,
+      "hospitality": 30960,
+      "transportation": 11113
+    },
+    "phq_labels": [
+      {
+        "label": "education-and-careers",
+        "weight": 0.699
+      },
+      {
+        "label": "art-and-cultural",
+        "weight": 0.301
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "FWTesfGPn7aQpPUhFv",
+    "title": "Salon VINIFRANCE Troyes",
+    "description": "Sourced from predicthq.com",
+    "category": "expo",
+    "labels": [
+      "expo"
+    ],
+    "rank": 64,
+    "local_rank": 82,
+    "phq_attendance": 5000,
+    "entities": [
+      {
+        "entity_id": "dN2fCfFhW8PgAeFZ8mtcb6",
+        "name": "Salon VINIFRANCE Troyes",
+        "type": "event-group",
+        "formatted_address": "20 Rue des Gayettes, 10000 Troyes, France",
+        "category": "expo",
+        "labels": [
+          "event-group",
+          "expo"
+        ]
+      }
+    ],
+    "duration": 172799,
+    "start": "2024-04-05T22:00:00Z",
+    "end": "2024-04-07T21:59:59Z",
+    "updated": "2023-10-26T06:54:01Z",
+    "first_seen": "2023-07-05T01:07:49Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      4.070976,
+      48.289212
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          4.070976,
+          48.289212
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53t-cgc-d7q"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-04",
+            "value": 125,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-05",
+            "value": 375,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-06",
+            "value": 2500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-07",
+            "value": 2500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-08",
+            "value": 250,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-09",
+            "value": 125,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-05",
+            "value": 375,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-06",
+            "value": 2500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-07",
+            "value": 2500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-08",
+            "value": 250,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "3036420",
+        "2971548",
+        "6426546",
+        "2981716"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "3036420",
+        "2971548",
+        "6453634",
+        "2971549"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 558728,
+    "predicted_event_spend_industries": {
+      "accommodation": 310016,
+      "hospitality": 183849,
+      "transportation": 64862
+    }
+  }
+]

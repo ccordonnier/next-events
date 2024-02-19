@@ -1,0 +1,977 @@
+[{
+  "relevance": 0,
+  "id": "42ipiwqMvybDB88iFc",
+  "title": "Course de la Paix",
+  "description": "Sourced from predicthq.com",
+  "category": "sport",
+  "labels": [
+    "outdoor",
+    "running",
+    "sport"
+  ],
+  "rank": 31,
+  "local_rank": 58,
+  "phq_attendance": 109,
+  "entities": [],
+  "duration": 86399,
+  "start": "2024-05-07T22:00:00Z",
+  "end": "2024-05-08T21:59:59Z",
+  "updated": "2024-01-10T22:10:36Z",
+  "first_seen": "2023-11-27T01:04:21Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.4881107,
+    50.3272216
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.4881107,
+        50.3272216
+      ],
+      "type": "Point"
+    },
+    "placekey": "@53q-fjw-6zf"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-05-08",
+          "value": 109,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-05-08",
+          "value": 109,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2971040",
+      "6438529",
+      "2978846"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 2167,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 1306,
+    "transportation": 861
+  },
+  "phq_labels": [
+    {
+      "label": "outdoor",
+      "weight": 0.5
+    },
+    {
+      "label": "running",
+      "weight": 0.5
+    }
+  ]
+},
+{
+  "relevance": 0,
+  "id": "GuGdM8HPwEPAi5ChCZ",
+  "title": "Course de la Victoire",
+  "description": "Sourced from predicthq.com",
+  "category": "sport",
+  "labels": [
+    "outdoor",
+    "running",
+    "sport"
+  ],
+  "rank": 30,
+  "local_rank": 56,
+  "phq_attendance": 103,
+  "entities": [],
+  "duration": 86399,
+  "start": "2024-05-07T22:00:00Z",
+  "end": "2024-05-08T21:59:59Z",
+  "updated": "2024-01-29T02:00:07Z",
+  "first_seen": "2024-01-29T01:51:09Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    6.024656,
+    43.206421
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        6.024656,
+        43.206421
+      ],
+      "type": "Point"
+    },
+    "placekey": "@7f9-v66-z75"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-05-08",
+          "value": 103,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-05-08",
+          "value": 103,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "2985244",
+      "2970749",
+      "2972326",
+      "6445072",
+      "2974337"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "2985244",
+      "2970749",
+      "2972326",
+      "6612862",
+      "2972328"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 2207,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 1508,
+    "transportation": 699
+  },
+  "phq_labels": [
+    {
+      "label": "outdoor",
+      "weight": 0.5
+    },
+    {
+      "label": "running",
+      "weight": 0.5
+    }
+  ]
+},
+{
+  "relevance": 0,
+  "id": "FbRiUb79emG5avP72N",
+  "title": "Tour de Houilles",
+  "description": "Sourced from predicthq.com",
+  "category": "sport",
+  "labels": [
+    "outdoor",
+    "running",
+    "sport"
+  ],
+  "rank": 32,
+  "local_rank": 44,
+  "phq_attendance": 129,
+  "entities": [],
+  "duration": 0,
+  "start": "2024-05-05T14:00:00Z",
+  "end": "2024-05-05T14:00:00Z",
+  "updated": "2024-01-29T01:59:58Z",
+  "first_seen": "2024-01-29T01:46:21Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    2.18888,
+    48.926916
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        2.18888,
+        48.926916
+      ],
+      "type": "Point"
+    },
+    "placekey": "@53v-8dd-7qz"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-05-05",
+          "value": 129,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-05-05",
+          "value": 129,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "3012874",
+      "2967196",
+      "6457364",
+      "6612809",
+      "3013097"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "3012874",
+      "3013657",
+      "6457369",
+      "6451976",
+      "2990970"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 2568,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 1569,
+    "transportation": 998
+  },
+  "phq_labels": [
+    {
+      "label": "outdoor",
+      "weight": 0.5
+    },
+    {
+      "label": "running",
+      "weight": 0.5
+    }
+  ]
+},
+{
+  "relevance": 0,
+  "id": "CPb5MhXdafTFmTMpm4",
+  "title": "15 km du Puy en Velay",
+  "description": "Sourced from predicthq.com",
+  "category": "sport",
+  "labels": [
+    "outdoor",
+    "running",
+    "sport"
+  ],
+  "rank": 28,
+  "local_rank": 50,
+  "phq_attendance": 78,
+  "entities": [],
+  "duration": 0,
+  "start": "2024-05-05T13:30:00Z",
+  "end": "2024-05-05T13:30:00Z",
+  "updated": "2024-01-10T21:59:03Z",
+  "first_seen": "2023-11-27T00:36:03Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.882936,
+    45.042768
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.882936,
+        45.042768
+      ],
+      "type": "Point"
+    },
+    "placekey": "@53h-tv5-68v"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-05-05",
+          "value": 78,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-05-05",
+          "value": 78,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071625",
+      "3013760",
+      "2985020",
+      "6456018",
+      "3002465"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 1519,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 860,
+    "transportation": 658
+  },
+  "phq_labels": [
+    {
+      "label": "outdoor",
+      "weight": 0.5
+    },
+    {
+      "label": "running",
+      "weight": 0.5
+    }
+  ]
+},
+{
+  "relevance": 0,
+  "id": "rp858SSvMTHPryDRFy",
+  "title": "LAVAL / LISSP 2",
+  "description": "Sourced from predicthq.com - LAVAL / LISSP 2 SALLE POLYVALENTE - LAVAL NATIONALE 2 MASCULINE 2023/2024 Les date et heure indiquées sont données à titre indicatif, elles sont susceptibles d'être modifiées en cours de saison.",
+  "category": "sport",
+  "labels": [
+    "sport",
+    "volleyball"
+  ],
+  "rank": 0,
+  "local_rank": 0,
+  "phq_attendance": null,
+  "entities": [
+    {
+      "entity_id": "RbCiRKz4dL7DDzaJL8Aswh",
+      "name": "Salle Polyvalente",
+      "type": "venue",
+      "formatted_address": "Place de Hercé\n53000 Laval\nFrance"
+    }
+  ],
+  "duration": 0,
+  "start": "2024-05-05T13:00:00Z",
+  "end": "2024-05-05T13:00:00Z",
+  "updated": "2024-01-26T00:54:51Z",
+  "first_seen": "2024-01-26T00:38:24Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    -0.7722043,
+    48.0660721
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        -0.7722043,
+        48.0660721
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4f7-nj2-7bk"
+  },
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "2988289",
+      "2994932",
+      "3005865",
+      "6454286",
+      "3005866"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "phq_labels": [
+    {
+      "label": "volleyball",
+      "weight": 1
+    }
+  ]
+},
+{
+  "relevance": 0,
+  "id": "F4jT8kdJS3KT3JNcs4",
+  "title": "La Jaroise",
+  "description": "Sourced from predicthq.com",
+  "category": "sport",
+  "labels": [
+    "outdoor",
+    "running",
+    "sport"
+  ],
+  "rank": 31,
+  "local_rank": 55,
+  "phq_attendance": 112,
+  "entities": [],
+  "duration": 0,
+  "start": "2024-05-05T08:30:00Z",
+  "end": "2024-05-05T08:30:00Z",
+  "updated": "2024-01-10T22:29:49Z",
+  "first_seen": "2023-10-02T00:32:31Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    3.115632,
+    50.746301
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        3.115632,
+        50.746301
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4hj-p5d-zmk"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-05-05",
+          "value": 112,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-05-05",
+          "value": 112,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6438450",
+      "2982938"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071624",
+      "2990129",
+      "2998323",
+      "6454414",
+      "2998324"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 2227,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 1342,
+    "transportation": 884
+  },
+  "phq_labels": [
+    {
+      "label": "outdoor",
+      "weight": 0.5
+    },
+    {
+      "label": "running",
+      "weight": 0.5
+    }
+  ]
+},
+{
+  "relevance": 0,
+  "id": "3dSLYHmhvTz7yGEGRa",
+  "title": "La Nordique Vauclusienne",
+  "description": "Sourced from predicthq.com",
+  "category": "sport",
+  "labels": [
+    "outdoor",
+    "running",
+    "sport"
+  ],
+  "rank": 31,
+  "local_rank": 61,
+  "phq_attendance": 117,
+  "entities": [],
+  "duration": 0,
+  "start": "2024-05-05T08:10:00Z",
+  "end": "2024-05-05T08:10:00Z",
+  "updated": "2024-01-10T21:57:02Z",
+  "first_seen": "2023-08-04T00:12:11Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    4.75331,
+    44.2811484
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        4.75331,
+        44.2811484
+      ],
+      "type": "Point"
+    },
+    "placekey": "@7fc-4cc-xnq"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-05-05",
+          "value": 117,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-05-05",
+          "value": 117,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "2985244",
+      "2970554",
+      "3035679",
+      "6455296",
+      "3031868"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "2985244",
+      "2970554",
+      "3035679",
+      "6455379",
+      "3035681"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 2279,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 1290,
+    "transportation": 988
+  },
+  "phq_labels": [
+    {
+      "label": "outdoor",
+      "weight": 0.5
+    },
+    {
+      "label": "running",
+      "weight": 0.5
+    }
+  ]
+},
+{
+  "relevance": 0,
+  "id": "37aq9ahs56DK98jyFb",
+  "title": "Les Courses de l'Espoir de Lué",
+  "description": "Sourced from predicthq.com",
+  "category": "sport",
+  "labels": [
+    "outdoor",
+    "running",
+    "sport"
+  ],
+  "rank": 33,
+  "local_rank": 70,
+  "phq_attendance": 135,
+  "entities": [],
+  "duration": 0,
+  "start": "2024-05-05T08:00:00Z",
+  "end": "2024-05-05T08:00:00Z",
+  "updated": "2024-01-10T22:47:45Z",
+  "first_seen": "2023-11-27T00:43:16Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    -0.277968,
+    47.527297
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        -0.277968,
+        47.527297
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4fb-nnx-z9f"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-05-05",
+          "value": 135,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-05-05",
+          "value": 135,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "2988289",
+      "2996663",
+      "3037655",
+      "6435234",
+      "2997181"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "2988289",
+      "2996663",
+      "3037655",
+      "6452361",
+      "3037656"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 2418,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 1415,
+    "transportation": 1003
+  },
+  "phq_labels": [
+    {
+      "label": "outdoor",
+      "weight": 0.5
+    },
+    {
+      "label": "running",
+      "weight": 0.5
+    }
+  ]
+},
+{
+  "relevance": 0,
+  "id": "3DAWMYEwxhzhLUbDQH",
+  "title": "Les 10 Bornes du Havre",
+  "description": "Sourced from predicthq.com",
+  "category": "sport",
+  "labels": [
+    "outdoor",
+    "running",
+    "sport"
+  ],
+  "rank": 31,
+  "local_rank": 50,
+  "phq_attendance": 118,
+  "entities": [],
+  "duration": 0,
+  "start": "2024-05-05T08:00:00Z",
+  "end": "2024-05-05T08:00:00Z",
+  "updated": "2024-01-11T05:43:33Z",
+  "first_seen": "2023-11-06T00:36:28Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    0.107929,
+    49.49437
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        0.107929,
+        49.49437
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4f8-7n9-r49"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-05-05",
+          "value": 118,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-05-05",
+          "value": 118,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071621",
+      "2975248",
+      "3013633",
+      "6456451",
+      "3003796"
+    ],
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071621",
+      "3029094",
+      "3029240",
+      "6427109",
+      "3029241"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 2195,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 1249,
+    "transportation": 946
+  },
+  "phq_labels": [
+    {
+      "label": "outdoor",
+      "weight": 0.5
+    },
+    {
+      "label": "running",
+      "weight": 0.5
+    }
+  ]
+},
+{
+  "relevance": 0,
+  "id": "4J2WnR2KusiUptiMaU",
+  "title": "Courir en Born",
+  "description": "Sourced from predicthq.com",
+  "category": "sport",
+  "labels": [
+    "marathon",
+    "outdoor",
+    "running",
+    "sport"
+  ],
+  "rank": 31,
+  "local_rank": 65,
+  "phq_attendance": 115,
+  "entities": [],
+  "duration": 0,
+  "start": "2024-05-05T08:00:00Z",
+  "end": "2024-05-05T08:00:00Z",
+  "updated": "2024-01-10T21:51:44Z",
+  "first_seen": "2023-10-09T00:14:16Z",
+  "timezone": "Europe/Paris",
+  "location": [
+    -1.164218,
+    44.3946602
+  ],
+  "geo": {
+    "geometry": {
+      "coordinates": [
+        -1.164218,
+        44.3946602
+      ],
+      "type": "Point"
+    },
+    "placekey": "@4dz-dby-v75"
+  },
+  "impact_patterns": [
+    {
+      "vertical": "accommodation",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-05-05",
+          "value": 115,
+          "position": "event_day"
+        }
+      ]
+    },
+    {
+      "vertical": "hospitality",
+      "impact_type": "phq_attendance",
+      "impacts": [
+        {
+          "date_local": "2024-05-05",
+          "value": 115,
+          "position": "event_day"
+        }
+      ]
+    }
+  ],
+  "scope": "locality",
+  "country": "FR",
+  "place_hierarchies": [
+    [
+      "6295630",
+      "6255148",
+      "3017382",
+      "11071620",
+      "3007866",
+      "2992770",
+      "6455089",
+      "3032556"
+    ]
+  ],
+  "state": "active",
+  "brand_safe": true,
+  "private": false,
+  "predicted_event_spend": 2099,
+  "predicted_event_spend_industries": {
+    "accommodation": 0,
+    "hospitality": 1195,
+    "transportation": 903
+  },
+  "phq_labels": [
+    {
+      "label": "marathon",
+      "weight": 0.33
+    },
+    {
+      "label": "outdoor",
+      "weight": 0.33
+    },
+    {
+      "label": "running",
+      "weight": 0.33
+    }
+  ]
+}]

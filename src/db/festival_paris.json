@@ -1,0 +1,5803 @@
+[
+  {
+    "relevance": 0,
+    "id": "3z3pyiSoP3v5kt7pUG",
+    "title": "Nuits Sonores",
+    "description": "Sourced from predicthq.com - Nuits Sonores is an electronic music festival based at Lyon in France. It usually occurs for five days in May. It has been held since 2003",
+    "category": "festival",
+    "labels": [
+      "entertainment",
+      "festival",
+      "music"
+    ],
+    "rank": 93,
+    "local_rank": 100,
+    "phq_attendance": 140000,
+    "entities": [
+      {
+        "entity_id": "g65jva5mWCezu92JXk2Cdr",
+        "name": "Nuits Sonores",
+        "type": "event-group",
+        "category": "festival",
+        "labels": [
+          "event-group",
+          "festival",
+          "music",
+          "recurring"
+        ],
+        "description": "Nuits Sonores festival is an annual festival of electronic music and independent music. It usually occurs for five days in May in Lyon France.",
+        "timezone": "Europe/Paris",
+        "recurring": {
+          "ical": "DTSTART;VALUE=DATE:20150513\nDURATION:P4D\nRRULE:FREQ=YEARLY;INTERVAL=1"
+        }
+      }
+    ],
+    "duration": 431999,
+    "start": "2024-05-07T22:00:00Z",
+    "end": "2024-05-12T21:59:59Z",
+    "updated": "2023-10-26T04:28:09Z",
+    "first_seen": "2023-07-28T02:02:44Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      4.85276466804438,
+      45.76160311949627
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              4.8523486,
+              45.7614114
+            ],
+            [
+              4.8527053,
+              45.7613478
+            ],
+            [
+              4.8532632,
+              45.7614825
+            ],
+            [
+              4.8526785,
+              45.7620065
+            ],
+            [
+              4.8523486,
+              45.7614114
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 7000,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 10500,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 19834,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 23333,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-09",
+            "value": 23333,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-10",
+            "value": 29167,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-11",
+            "value": 35000,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-12",
+            "value": 29167,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-13",
+            "value": 11667,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-05-14",
+            "value": 2917,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 11667,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 23333,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-09",
+            "value": 23333,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-10",
+            "value": 29167,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-11",
+            "value": 35000,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-12",
+            "value": 29167,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-13",
+            "value": 9626,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "2987410",
+        "2996943",
+        "6454573",
+        "2996944"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 10197577,
+    "predicted_event_spend_industries": {
+      "accommodation": 2110356,
+      "hospitality": 5989172,
+      "transportation": 2098048
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "7egRL2XBposP7eukpV",
+    "title": "L'ODYSSEE DE MONTCUL - WARM UP PLANE'R FEST : Sidilarsen   Gorod   ...",
+    "description": "Sourced from predicthq.com - L’ODYSSEE DE MONTCUL :WARM UP PLANE'R FEST : Sidilarsen   Gorod   Deliverance   Spit your hate",
+    "category": "festival",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 38,
+    "local_rank": 53,
+    "phq_attendance": 242,
+    "entities": [
+      {
+        "entity_id": "MZcx8gjcZsLJk86rn74TEV",
+        "name": "L'ILYADE",
+        "type": "venue",
+        "formatted_address": "32 RUE DE LA FAUCONNIERE\n38170 Seyssinet Pariset\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-03T18:00:00Z",
+    "end": "2024-05-03T18:00:00Z",
+    "updated": "2024-01-25T00:37:39Z",
+    "first_seen": "2024-01-25T00:22:31Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      5.6924254,
+      45.1755622
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          5.6924254,
+          45.1755622
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53h-z4k-26k"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 242,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 242,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "3012715",
+        "3014727",
+        "6433416",
+        "2974645"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "3012715",
+        "3014727",
+        "6454071",
+        "3014728"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 4665,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2812,
+      "transportation": 1853
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "APRngYLcERx7aHfvjf",
+    "title": "La Foire de Tours",
+    "alternate_titles": [
+      "Fair of Tours",
+      "Tours Fair"
+    ],
+    "description": "Sourced from predicthq.com - La Foire de Tours is a commercial, friendly and festive space, the largest meeting place in the region. This event features a gastronomic village, concerts, a dedicated exhibition space for furniture, home related products, automobiles, fashion, beauty, arts, and more.",
+    "category": "festival",
+    "labels": [
+      "entertainment",
+      "expo",
+      "festival",
+      "food"
+    ],
+    "rank": 100,
+    "local_rank": 100,
+    "phq_attendance": 373467,
+    "entities": [
+      {
+        "entity_id": "KL7TU2bdNwcaetQjRH9fXw",
+        "name": "Grand Hall - Parc des Expositions de Tours",
+        "type": "venue",
+        "formatted_address": "Avenue Camille Chautemps\n37000 Tours\nFrance"
+      },
+      {
+        "entity_id": "m8VMxMvAZJiVEqya6TtUZQ",
+        "name": "Foire Tours",
+        "type": "event-group",
+        "formatted_address": "37000 Tours\nFrance",
+        "category": "festival",
+        "labels": [
+          "event-group",
+          "festival",
+          "recurring"
+        ],
+        "recurring": {
+          "ical": "DTSTART;VALUE=DATE-TIME:20190503T090000\nRRULE:FREQ=YEARLY;INTERVAL=2"
+        }
+      }
+    ],
+    "duration": 863999,
+    "start": "2024-05-02T22:00:00Z",
+    "end": "2024-05-12T21:59:59Z",
+    "updated": "2024-01-08T02:03:21Z",
+    "first_seen": "2023-10-02T04:49:15Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      0.7227211523094754,
+      47.37778652118149
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              0.7179296,
+              47.3781137
+            ],
+            [
+              0.7196891,
+              47.3753238
+            ],
+            [
+              0.7275426,
+              47.3776342
+            ],
+            [
+              0.7260192,
+              47.3801478
+            ],
+            [
+              0.7179296,
+              47.3781137
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-30",
+            "value": 11671,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-01",
+            "value": 17507,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-02",
+            "value": 33068,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-03",
+            "value": 38903,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 46683,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 38903,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 31122,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 31122,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 31122,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-09",
+            "value": 31122,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-10",
+            "value": 38903,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-11",
+            "value": 46683,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-12",
+            "value": 38903,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-13",
+            "value": 15562,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-05-14",
+            "value": 3891,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-02",
+            "value": 19452,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-03",
+            "value": 38903,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 46683,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 38903,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 31122,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 31122,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 31122,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-09",
+            "value": 31122,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-10",
+            "value": 38903,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-11",
+            "value": 46683,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-12",
+            "value": 38903,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-13",
+            "value": 12838,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3027939",
+        "3012804",
+        "2972190",
+        "6433100",
+        "2981512"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3027939",
+        "3012804",
+        "2972190",
+        "6454060",
+        "2972191"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 25224364,
+    "predicted_event_spend_industries": {
+      "accommodation": 6315308,
+      "hospitality": 13270727,
+      "transportation": 5638328
+    },
+    "phq_labels": [
+      {
+        "label": "food-and-beverage",
+        "weight": 0.388
+      },
+      {
+        "label": "music",
+        "weight": 0.337
+      },
+      {
+        "label": "beauty-and-fashion",
+        "weight": 0.274
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "68KpWjw8FJ5GEcMvYz",
+    "title": "[WARM-UP HELLFEST] BENIGHTED   TEN56. - WARM-UP HELLFEST BENIGHTED   TEN56",
+    "description": "Sourced from predicthq.com - « Si tu ne viens pas au Hellfest, le Hellfest viendra à toi ! »Rendez-vous désormais incontournable de  l'expérience  Hellfest, le Warm-Up Tour, véritable Tour de France des salles de concerts repart sur la route en avril prochain !L'occasion de débuter les festivités et de fédérer la communauté de fans autour de concerts et d'animations dans l'ambiance du Hellfest !Pour cette édition 2024, deux groupes francophones aux styles extrêmes, prêts à rouler sur chaque salle de la Warm-up : Les patrons du Brutal Death BENIGHTED et la nouvelle sensation Deathcore TEN56.Formés en 1998, les Stéphanois sont devenus au fil des années des piliers du métal extrême avec 8 albums et des tournées dans le monde entier. Inspirés par les thèmes morbides et les méandres de l’âme humaine, leur savant mélange de brutalité avec un côté malsain clairement assumé, est le reflet des expériences qu’à vécu leur chanteur dans sa profession d’infirmier en hôpital psychiatrique. Après leur opus  Obscene Repressed  sorti en pleine pandémie, les 4 acharnés de BENIGHTED viennent prendre leur revanche et promettent un vraie torture à vos cervicales pendant cette warm_up !Nouvelle pépite de la scène francophone, les gars de TEN56. ont fait une apparition très remarquée sous la Altar lors de l’édition 2023. Mené par le charismatique Aaron Matts (ex-Betraying the Martyrs) et épaulé par ses 4 frères d’armes, les TEN56. gravissent les échelons aussi rapidement que leurs écoutes s’envolent sur les plateformes. Après une tournée américaine et européenne triomphante il y a quelques mois, nos Frenchies sont clairement lancés sur la route de la destruction et comptent bien le faire savoir dans le Pit ![AVANT-CONCERT]19h00 - GratuitVisite commentée du 9-9bisInscription sur 9-9bis.com",
+    "category": "festival",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 34,
+    "local_rank": 59,
+    "phq_attendance": 158,
+    "entities": [
+      {
+        "entity_id": "5kBXjLnAmRBRs3igTeZZfW",
+        "name": "Le 9-9bis",
+        "type": "venue",
+        "formatted_address": "Chemin du Tordoir\n62590 Oignies\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-30T18:00:00Z",
+    "end": "2024-04-30T18:00:00Z",
+    "updated": "2024-01-20T00:17:58Z",
+    "first_seen": "2024-01-20T00:09:46Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.987719,
+      50.460924
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.987719,
+          50.460924
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-nm8-f2k"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-30",
+            "value": 158,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-30",
+            "value": 158,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3003091",
+        "6439773",
+        "2989680"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3141,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1893,
+      "transportation": 1248
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "GHuzJTVCQ4UyCkEkaY",
+    "title": "Caribbean Fever au Forest #2, édition 2024",
+    "description": "Sourced from predicthq.com - Un événement incroyable la veille d'un jour férié pour bien commencer l'année, ça te dis ?",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "music"
+    ],
+    "rank": 39,
+    "local_rank": 60,
+    "phq_attendance": 278,
+    "entities": [],
+    "duration": 21600,
+    "start": "2024-04-30T18:00:00Z",
+    "end": "2024-05-01T00:00:00Z",
+    "updated": "2024-01-06T12:28:31Z",
+    "first_seen": "2024-01-06T12:27:15Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.1266999,
+      50.71964639999999
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.1266999,
+          50.71964639999999
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p5f-pgk"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-30",
+            "value": 139,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-01",
+            "value": 139,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-30",
+            "value": 139,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-01",
+            "value": 139,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6438379",
+        "2991302"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 5528,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 3331,
+      "transportation": 2196
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "AcAtngs7x9kyJ72d9A",
+    "title": "HELLFEST WARM UP TOUR - HELLFEST WARM UP TOUR - LUNDI 29 AVRIL 2",
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 38,
+    "local_rank": 63,
+    "phq_attendance": 245,
+    "entities": [
+      {
+        "entity_id": "p8sUAY6PdZixTmgJnfMzug",
+        "name": "Axone",
+        "type": "venue",
+        "formatted_address": "6 Rue du Commandant Pierre Rossel\n25200 Montbéliard\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-29T18:00:00Z",
+    "end": "2024-04-29T18:00:00Z",
+    "updated": "2024-01-19T02:59:03Z",
+    "first_seen": "2024-01-19T00:38:30Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      6.8205035,
+      47.4932982
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          6.8205035,
+          47.4932982
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53c-dfx-kcq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-29",
+            "value": 245,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-29",
+            "value": 245,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071619",
+        "3020989",
+        "2992937",
+        "6429774",
+        "3019248"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071619",
+        "3033789",
+        "3033790",
+        "6455331",
+        "3033791"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 4216,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2331,
+      "transportation": 1884
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "DfuGPgsjQGHLoptHsf",
+    "title": "Manu Payet - Emmanuel 2 Les Voiles de l'Humour",
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "music"
+    ],
+    "rank": 37,
+    "local_rank": 63,
+    "phq_attendance": 215,
+    "entities": [
+      {
+        "entity_id": "paSwtpKH8e9khLQSJPzBbH",
+        "name": "Atlantia (Palace of La Baule conference)",
+        "type": "venue",
+        "formatted_address": "44500 La Baule-Escoublac\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-28T18:30:00Z",
+    "end": "2024-04-28T18:30:00Z",
+    "updated": "2023-12-03T21:49:27Z",
+    "first_seen": "2023-11-15T22:07:36Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -2.4098161,
+      47.2835658
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -2.4098161,
+          47.2835658
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4dx-b8f-nqz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 215,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 215,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2997861",
+        "2977920",
+        "3033114"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 4312,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2745,
+      "transportation": 1566
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "J4hAh5qmStAcPiW9TS",
+    "title": "HELLFEST WARM UP TOUR - HELLFEST WARM UP TOUR - DIMANCHE 28 AVRI",
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 37,
+    "local_rank": 62,
+    "phq_attendance": 218,
+    "entities": [
+      {
+        "entity_id": "p8sUAY6PdZixTmgJnfMzug",
+        "name": "Axone",
+        "type": "venue",
+        "formatted_address": "6 Rue du Commandant Pierre Rossel\n25200 Montbéliard\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-28T18:00:00Z",
+    "end": "2024-04-28T18:00:00Z",
+    "updated": "2024-01-19T03:24:52Z",
+    "first_seen": "2024-01-19T00:28:57Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      6.8205035,
+      47.4932982
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          6.8205035,
+          47.4932982
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53c-dfx-kcq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 218,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 218,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071619",
+        "3020989",
+        "2992937",
+        "6429774",
+        "3019248"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071619",
+        "3033789",
+        "3033790",
+        "6455331",
+        "3033791"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3751,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2074,
+      "transportation": 1676
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "8DFs4sfr94nLRgzMod",
+    "parent_event": {
+      "parent_event_id": "54aCSvM4EFPSjNejp7"
+    },
+    "title": "Matt Pokora - Nej - Printemps de Bourges",
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "music"
+    ],
+    "rank": 36,
+    "local_rank": 59,
+    "phq_attendance": 194,
+    "entities": [
+      {
+        "entity_id": "JKEMVzQ9GRkZcpfEmCPgAV",
+        "name": "Le W (formerly Le Phénix)",
+        "type": "venue",
+        "formatted_address": "Rives d'Auron\n18000 Bourges\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-28T14:00:00Z",
+    "end": "2024-04-28T14:00:00Z",
+    "updated": "2023-11-12T22:43:47Z",
+    "first_seen": "2023-11-01T05:32:06Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.39152,
+      47.07803
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.39152,
+          47.07803
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53t-ppq-b6k"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 194,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 194,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3027939",
+        "3025480",
+        "3031004",
+        "6454979",
+        "3031005"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2727,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1226,
+      "transportation": 1500
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "HXvw4bxjw3hjradCWj",
+    "title": "Food Influencers Awards 2024",
+    "description": "Sourced from predicthq.com - Food Influencers Awards is a life celebration with different flavors from tastings, shows, demos, music, dance, influencers competition",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "food"
+    ],
+    "rank": 46,
+    "local_rank": 61,
+    "phq_attendance": 653,
+    "entities": [],
+    "duration": 21600,
+    "start": "2024-04-28T11:00:00Z",
+    "end": "2024-04-28T17:00:00Z",
+    "updated": "2024-01-09T08:08:42Z",
+    "first_seen": "2024-01-09T07:19:52Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      7.269369999999999,
+      43.6984
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          7.269369999999999,
+          43.6984
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7fb-8nx-hkf"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 653,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 653,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-29",
+            "value": 79,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "3038049",
+        "2990439",
+        "6454924",
+        "2990440"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 22850,
+    "predicted_event_spend_industries": {
+      "accommodation": 3699,
+      "hospitality": 11343,
+      "transportation": 7807
+    },
+    "phq_labels": [
+      {
+        "label": "food-and-beverage",
+        "weight": 0.371
+      },
+      {
+        "label": "music",
+        "weight": 0.358
+      },
+      {
+        "label": "art-and-cultural",
+        "weight": 0.27
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "HNenf5hnZJX8S9MF8c",
+    "title": "HELLFEST WARM UP TOUR - PASS 2 JOURS",
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 40,
+    "local_rank": 65,
+    "phq_attendance": 330,
+    "entities": [
+      {
+        "entity_id": "p8sUAY6PdZixTmgJnfMzug",
+        "name": "Axone",
+        "type": "venue",
+        "formatted_address": "6 Rue du Commandant Pierre Rossel\n25200 Montbéliard\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-27T22:00:00Z",
+    "end": "2024-04-27T22:00:00Z",
+    "updated": "2024-01-19T02:51:53Z",
+    "first_seen": "2024-01-19T00:27:38Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      6.8205035,
+      47.4932982
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          6.8205035,
+          47.4932982
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53c-dfx-kcq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 330,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 330,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071619",
+        "3020989",
+        "2992937",
+        "6429774",
+        "3019248"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071619",
+        "3033789",
+        "3033790",
+        "6455331",
+        "3033791"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 5678,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 3140,
+      "transportation": 2538
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "5sgSDbuxyzbRqJUMRU",
+    "parent_event": {
+      "parent_event_id": "54aCSvM4EFPSjNejp7"
+    },
+    "title": "Josman - Niska - Sdm - Werenoi - Bekar... - Printemps de Bourges",
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "music"
+    ],
+    "rank": 34,
+    "local_rank": 58,
+    "phq_attendance": 167,
+    "entities": [
+      {
+        "entity_id": "JKEMVzQ9GRkZcpfEmCPgAV",
+        "name": "Le W (formerly Le Phénix)",
+        "type": "venue",
+        "formatted_address": "Rives d'Auron\n18000 Bourges\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-27T16:00:00Z",
+    "end": "2024-04-27T16:00:00Z",
+    "updated": "2023-11-12T22:43:52Z",
+    "first_seen": "2023-11-01T05:32:03Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.39152,
+      47.07803
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.39152,
+          47.07803
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53t-ppq-b6k"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3027939",
+        "3025480",
+        "3031004",
+        "6454979",
+        "3031005"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2347,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1056,
+      "transportation": 1291
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "9TFwxREeJ6Qka3P6X4",
+    "title": "Festival raptown #4 - Lorient",
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "music"
+    ],
+    "rank": 56,
+    "local_rank": 81,
+    "phq_attendance": 1999,
+    "entities": [
+      {
+        "entity_id": "kyenHYxPz5d5bspDY8R2HV",
+        "name": "Parc des Expositions",
+        "type": "venue",
+        "formatted_address": "286 Rue Rouget de Lisle\n56600 Lanester\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-27T15:30:00Z",
+    "end": "2024-04-27T15:30:00Z",
+    "updated": "2023-12-30T22:36:46Z",
+    "first_seen": "2023-11-22T21:35:08Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -3.346935,
+      47.777666
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -3.346935,
+          47.777666
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4dw-xm7-ct9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-25",
+            "value": 200,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-26",
+            "value": 300,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-27",
+            "value": 1999,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-28",
+            "value": 100,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 1999,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-28",
+            "value": 240,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3030293",
+        "2991879",
+        "2997576",
+        "6449873",
+        "3007794"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3030293",
+        "2991879",
+        "2970775",
+        "6437407",
+        "2970777"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 56872,
+    "predicted_event_spend_industries": {
+      "accommodation": 11267,
+      "hospitality": 26920,
+      "transportation": 18684
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "EACRgwydXavhCNKhN5",
+    "title": "90 Degrés Festival (Samedi)",
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival"
+    ],
+    "rank": 36,
+    "local_rank": 63,
+    "phq_attendance": 205,
+    "entities": [
+      {
+        "entity_id": "9QcMHgrTiuSvnuGFyWrRsP",
+        "name": "PARC DES VERGERS",
+        "type": "venue",
+        "formatted_address": "¨, Langon, Aqu, France, FR"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-27T13:00:00Z",
+    "end": "2024-04-27T13:00:00Z",
+    "updated": "2024-01-18T07:32:29Z",
+    "first_seen": "2024-01-18T06:49:24Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -0.2429169,
+      44.5562827
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -0.2429169,
+          44.5562827
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4dz-gh2-rrk"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 205,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 205,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071620",
+        "3015948",
+        "3007688",
+        "6454005",
+        "3007691"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071620",
+        "3015948",
+        "3031580",
+        "6455058",
+        "3031582"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3938,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2115,
+      "transportation": 1822
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "3tzMuk86LwPzWteyzZ",
+    "title": "JARDINER LES PAYSAGES : PAYSAGES VIVANTS",
+    "description": "Sourced from predicthq.com - ⚠️ Pour vous inscrire aux animations de la journée, suivez les liens en bas de page. Ne pas tenir compte de la mention \"indisponible\".",
+    "category": "festival",
+    "labels": [
+      "community",
+      "festival"
+    ],
+    "rank": 39,
+    "local_rank": 74,
+    "phq_attendance": 273,
+    "entities": [],
+    "duration": 27000,
+    "start": "2024-04-27T08:00:00Z",
+    "end": "2024-04-27T15:30:00Z",
+    "updated": "2024-01-11T05:24:54Z",
+    "first_seen": "2024-01-11T00:53:26Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      6.084582,
+      48.431541
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          6.084582,
+          48.431541
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53c-vhq-wc5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 273,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 273,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "2994111",
+        "2990998",
+        "6436858",
+        "2975497"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "2994111",
+        "2990998",
+        "6454307",
+        "2990999"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 4963,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2901,
+      "transportation": 2061
+    },
+    "phq_labels": [
+      {
+        "label": "educational",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "6AQHwWvcyzpdcgDSnL",
+    "title": "Marché Holistique #printemps2024",
+    "description": "Sourced from predicthq.com - Après le succès de la première édition, le marché holistique r'ouvre ses portes pour favoriser la rencontre humaine avec vos thérapeutes!",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "health"
+    ],
+    "rank": 42,
+    "local_rank": 56,
+    "phq_attendance": 400,
+    "entities": [],
+    "duration": 115200,
+    "start": "2024-04-27T08:00:00Z",
+    "end": "2024-04-28T16:00:00Z",
+    "updated": "2024-02-01T04:58:50Z",
+    "first_seen": "2024-02-01T03:45:48Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.8705214,
+      43.60514920000001
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.8705214,
+          43.60514920000001
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7fb-zw6-8d9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 218,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-28",
+            "value": 182,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 66,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-27",
+            "value": 218,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-28",
+            "value": 182,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-29",
+            "value": 33,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071623",
+        "3013500",
+        "2992165",
+        "6454034",
+        "2992166"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 12315,
+    "predicted_event_spend_industries": {
+      "accommodation": 1503,
+      "hospitality": 5757,
+      "transportation": 5055
+    },
+    "phq_labels": [
+      {
+        "label": "nature-and-outdoor-activities",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "6SCgBLytJtoriyJSeC",
+    "title": "HRB",
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "music"
+    ],
+    "rank": 48,
+    "local_rank": 72,
+    "phq_attendance": 791,
+    "entities": [
+      {
+        "entity_id": "N48fT4GRNQBZeGvLZK5VSh",
+        "name": "Espace Culturel Ronny Coutteure",
+        "type": "venue",
+        "formatted_address": "62160 Grenay\nFrance"
+      }
+    ],
+    "duration": 86399,
+    "start": "2024-04-26T22:00:00Z",
+    "end": "2024-04-27T21:59:59Z",
+    "updated": "2023-10-26T13:26:46Z",
+    "first_seen": "2023-04-10T21:42:46Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.74368,
+      50.44935
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.74368,
+          50.44935
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-nvw-5vf"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 791,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 791,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-28",
+            "value": 95,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3003091",
+        "6439573",
+        "3014739"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3036783",
+        "6618442",
+        "3036784"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 22736,
+    "predicted_event_spend_industries": {
+      "accommodation": 4458,
+      "hospitality": 10550,
+      "transportation": 7727
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "Bac5usRSdXgk467zoP",
+    "title": "Foire Internationale",
+    "alternate_titles": [
+      "Foire Internationale Haute-Savoie Mont-Blanc",
+      "International Multi Branch Fair"
+    ],
+    "description": "Sourced from predicthq.com - Foire Internationale is a vibrant festival event that brings together diverse cultures and showcases a wide range of products, from food and crafts to technology and fashion. With captivating entertainment and exciting activities, this event offers a memorable experience for visitors of all ages.",
+    "category": "festival",
+    "labels": [
+      "fashion",
+      "festival",
+      "product",
+      "technology"
+    ],
+    "rank": 88,
+    "local_rank": 100,
+    "phq_attendance": 80073,
+    "entities": [
+      {
+        "entity_id": "35mg5Y2gsVerqq3ATJeCSCc",
+        "name": "Rochexpo",
+        "type": "venue",
+        "formatted_address": "59, Rue des Centaures\nLa Roche\nFrance"
+      },
+      {
+        "entity_id": "Yd2T9ViMtbGpr5DnGLYAZP",
+        "name": "Foire Internationale",
+        "type": "event-group",
+        "formatted_address": "74800 La Roche-sur-Foron\nFrance",
+        "category": "festival",
+        "labels": [
+          "event-group",
+          "festival",
+          "recurring"
+        ],
+        "recurring": {
+          "ical": "DTSTART;VALUE=DATE-TIME:20180428T000000\nRRULE:FREQ=YEARLY;INTERVAL=1"
+        }
+      }
+    ],
+    "duration": 863999,
+    "start": "2024-04-26T22:00:00Z",
+    "end": "2024-05-06T21:59:59Z",
+    "updated": "2023-12-03T00:19:10Z",
+    "first_seen": "2023-01-03T05:19:53Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      6.306979890118108,
+      46.073986408765194
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              6.3070171,
+              46.0747357
+            ],
+            [
+              6.3061373,
+              46.0743784
+            ],
+            [
+              6.3069635,
+              46.0732471
+            ],
+            [
+              6.307811,
+              46.0735597
+            ],
+            [
+              6.3070171,
+              46.0747357
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-24",
+            "value": 3067,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-25",
+            "value": 4600,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-26",
+            "value": 8689,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-27",
+            "value": 10222,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-28",
+            "value": 8518,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-29",
+            "value": 6815,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-30",
+            "value": 6815,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-01",
+            "value": 6815,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-02",
+            "value": 6815,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-03",
+            "value": 8518,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 10222,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 8518,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 6815,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 2726,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 682,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 5111,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-27",
+            "value": 10222,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-28",
+            "value": 8518,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-29",
+            "value": 6815,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-30",
+            "value": 6815,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-01",
+            "value": 6815,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-02",
+            "value": 6815,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-03",
+            "value": 8518,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 10222,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 8518,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 6815,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 2249,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "3013736",
+        "3031676",
+        "6456427",
+        "3006770"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "3013736",
+        "3037542",
+        "6455254",
+        "3037543"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 6735511,
+    "predicted_event_spend_industries": {
+      "accommodation": 1067486,
+      "hospitality": 4397861,
+      "transportation": 1270163
+    },
+    "phq_labels": [
+      {
+        "label": "food-and-beverage",
+        "weight": 0.528
+      },
+      {
+        "label": "nature-and-outdoor-activities",
+        "weight": 0.472
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "32YQ9ZtB9oHPJMBbe8",
+    "parent_event": {
+      "parent_event_id": "54aCSvM4EFPSjNejp7"
+    },
+    "title": "Plk - Luidji - Bon Entendeur - Worakls Orchestra - Printemps de Bourges",
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "music"
+    ],
+    "rank": 36,
+    "local_rank": 59,
+    "phq_attendance": 190,
+    "entities": [
+      {
+        "entity_id": "JKEMVzQ9GRkZcpfEmCPgAV",
+        "name": "Le W (formerly Le Phénix)",
+        "type": "venue",
+        "formatted_address": "Rives d'Auron\n18000 Bourges\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-26T17:00:00Z",
+    "end": "2024-04-26T17:00:00Z",
+    "updated": "2024-02-04T02:04:05Z",
+    "first_seen": "2023-11-01T05:32:04Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.39152,
+      47.07803
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.39152,
+          47.07803
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53t-ppq-b6k"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 190,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 190,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3027939",
+        "3025480",
+        "3031004",
+        "6454979",
+        "3031005"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2670,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1201,
+      "transportation": 1469
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "CkQn5awFTqXYfptJbE",
+    "title": "90 Degrés Festival (Vendredi)",
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival"
+    ],
+    "rank": 32,
+    "local_rank": 59,
+    "phq_attendance": 123,
+    "entities": [
+      {
+        "entity_id": "9QcMHgrTiuSvnuGFyWrRsP",
+        "name": "PARC DES VERGERS",
+        "type": "venue",
+        "formatted_address": "¨, Langon, Aqu, France, FR"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-26T15:00:00Z",
+    "end": "2024-04-26T15:00:00Z",
+    "updated": "2024-01-18T06:42:25Z",
+    "first_seen": "2024-01-18T06:15:57Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -0.2429169,
+      44.5562827
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -0.2429169,
+          44.5562827
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4dz-gh2-rrk"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 123,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 123,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071620",
+        "3015948",
+        "3007688",
+        "6454005",
+        "3007691"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071620",
+        "3015948",
+        "3031580",
+        "6455058",
+        "3031582"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2362,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1269,
+      "transportation": 1093
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "3uTQ5Mhos5PfkYW5Q8",
+    "title": "DON JIGI FEST #11",
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "music"
+    ],
+    "rank": 39,
+    "local_rank": 65,
+    "phq_attendance": 272,
+    "entities": [
+      {
+        "entity_id": "39A9ZavqQuAps7VZanS5fUN",
+        "name": "Parc Des Expositions",
+        "type": "venue",
+        "formatted_address": "Chemin Du Feil\n35500 Vitré\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-26T14:00:00Z",
+    "end": "2024-04-26T14:00:00Z",
+    "updated": "2023-11-20T08:34:29Z",
+    "first_seen": "2023-11-20T01:59:08Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -1.19404,
+      48.10718
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -1.19404,
+          48.10718
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4f7-nkj-7yv"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 272,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 272,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3030293",
+        "3012849",
+        "3017608",
+        "6454050",
+        "3008830"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3030293",
+        "3012849",
+        "2983989",
+        "6432801",
+        "2983990"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 4267,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2336,
+      "transportation": 1930
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "BK9QuMx9U8hWaVX32K",
+    "title": "Cat Power sings Dylan",
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "music"
+    ],
+    "rank": 38,
+    "local_rank": 63,
+    "phq_attendance": 266,
+    "entities": [
+      {
+        "entity_id": "k9QpgZuX5C7xKABxNtAthv",
+        "name": "Bourges Cathedral",
+        "type": "venue",
+        "formatted_address": "Place Etienne Dolet\n18000 Bourges\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-25T19:00:00Z",
+    "end": "2024-04-25T19:00:00Z",
+    "updated": "2024-01-30T01:30:52Z",
+    "first_seen": "2023-11-30T23:36:03Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.399205,
+      47.0821639
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.399205,
+          47.0821639
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53t-ppp-zfz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-25",
+            "value": 266,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-25",
+            "value": 266,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3027939",
+        "3025480",
+        "3031004",
+        "6454979",
+        "3031005"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3739,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1682,
+      "transportation": 2056
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "FEGQhFgMGFYjGT6Uiy",
+    "parent_event": {
+      "parent_event_id": "54aCSvM4EFPSjNejp7"
+    },
+    "title": "Shaka Ponk - Hoshi - Matmatah - Olivia Ruiz - Printemps de Bourges",
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "music"
+    ],
+    "rank": 35,
+    "local_rank": 58,
+    "phq_attendance": 172,
+    "entities": [
+      {
+        "entity_id": "JKEMVzQ9GRkZcpfEmCPgAV",
+        "name": "Le W (formerly Le Phénix)",
+        "type": "venue",
+        "formatted_address": "Rives d'Auron\n18000 Bourges\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-25T17:00:00Z",
+    "end": "2024-04-25T17:00:00Z",
+    "updated": "2023-11-12T22:43:52Z",
+    "first_seen": "2023-11-01T05:32:04Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.39152,
+      47.07803
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.39152,
+          47.07803
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53t-ppq-b6k"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-25",
+            "value": 172,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-25",
+            "value": 172,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3027939",
+        "3025480",
+        "3031004",
+        "6454979",
+        "3031005"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2417,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1087,
+      "transportation": 1330
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "68VPbqQkTfnMwcwCeF",
+    "parent_event": {
+      "parent_event_id": "54aCSvM4EFPSjNejp7"
+    },
+    "title": "Mika - Martin Solveig - Kyo - Zaho de Sagazan - Printemps de Bourges",
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "music"
+    ],
+    "rank": 34,
+    "local_rank": 58,
+    "phq_attendance": 161,
+    "entities": [
+      {
+        "entity_id": "JKEMVzQ9GRkZcpfEmCPgAV",
+        "name": "Le W (formerly Le Phénix)",
+        "type": "venue",
+        "formatted_address": "Rives d'Auron\n18000 Bourges\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-24T17:00:00Z",
+    "end": "2024-04-24T17:00:00Z",
+    "updated": "2023-12-17T21:41:24Z",
+    "first_seen": "2023-11-01T05:32:02Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.39152,
+      47.07803
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.39152,
+          47.07803
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53t-ppq-b6k"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-24",
+            "value": 161,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-24",
+            "value": 161,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3027939",
+        "3025480",
+        "3031004",
+        "6454979",
+        "3031005"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2263,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1018,
+      "transportation": 1245
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "FJBhLAH9UTCtN7gNaa",
+    "title": "HELLFEST WARM-UP W/BENIGHTED   TEN 56",
+    "description": "Sourced from predicthq.com - HELLFEST 2024 - WARM UP TOUR  Road to Infernopolis « Si tu ne viens pas au Hellfest, le Hellfest viendra à toi ! »Rendez-vous désormais incontournable de  l'expérience  Hellfest, le Warm-Up Tour, véritable Tour de France des salles de concerts repart sur la route en avril prochain ! L'occasion de débuter les festivités et de fédérer la communauté de fans autour de concerts et d'animations dans l'ambiance du Hellfest ! Pour cette édition 2024, deux groupes francophones aux styles extrêmes, prêts à rouler sur chaque salle de la Warm-up : Les patrons du Brutal Death BENIGHTED et la nouvelle sensation Deathcore TEN56.Benighted est un groupe de Death Metal français né en 1998 du rassemblement de musiciens des groupes Dishumanized, Darkness Fire et Osgiliath de la région Rhône-Alpes.Benighted est un groupe à la solide réputation scénique car c’est bien sur scène que leur musique prend toute sa dimension grâce au côté très accrocheur des compositions et l’énergie des musiciens sur scène, portée par un chanteur aux rang vocal incroyablement varié.ten56. est un groupe né à l'aube de la pandémie, au printemps 2020. Sorti de l'esprit et des tripes d’Aaron Matts (ex-Betraying the Martyrs), Quentin Godet (Kadinja), Arnaud Verrier (Uneven Structure) et Luka Garotin (Earth Trip), puis rejoints par Steeves Hostin (BTM), ten56. est la voix et l'expression d'émotions brutes, puisées dans les recoins les plus sombres de la nature humaine.La signature sonore regroupe une lourdeur écrasante mixée à des ambiances industrielles et apocalyptiques. Une vision moderne et sombre de ce que l'avenir nous réserve, lucide de la vie froide que vivent au quotidien les plus bas de la société.",
+    "category": "festival",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 46,
+    "local_rank": 68,
+    "phq_attendance": 660,
+    "entities": [
+      {
+        "entity_id": "37tC4svUf9LMCKEvuY5BVUa",
+        "name": "Salle Victoire 2",
+        "type": "venue",
+        "formatted_address": "Rue Théophraste Renaudot\n34430 Saint-Jean-de-Védas\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-23T17:30:00Z",
+    "end": "2024-04-23T17:30:00Z",
+    "updated": "2024-01-21T00:29:07Z",
+    "first_seen": "2024-01-21T00:20:20Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.8532404,
+      43.5742172
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.8532404,
+          43.5742172
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7fc-nch-f2k"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-23",
+            "value": 660,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-23",
+            "value": 660,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-24",
+            "value": 80,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071623",
+        "3013500",
+        "2992165",
+        "6432641",
+        "2979261"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071623",
+        "3013500",
+        "2992165",
+        "6454034",
+        "2992166"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 21561,
+    "predicted_event_spend_industries": {
+      "accommodation": 3720,
+      "hospitality": 9499,
+      "transportation": 8340
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "54aCSvM4EFPSjNejp7",
+    "title": "Le Printemps de Bourges Crédit Mutuel",
+    "description": "Sourced from predicthq.com - Le Printemps de Bourges festival has been a significant force in the French music scene for over 40 years, filling the small town of Bourges in central France every April with hundreds of artists and events championing both French and international music.",
+    "category": "festival",
+    "labels": [
+      "entertainment",
+      "festival",
+      "music"
+    ],
+    "rank": 96,
+    "local_rank": 100,
+    "phq_attendance": 200000,
+    "entities": [
+      {
+        "entity_id": "LcyWP2t3gu3yas4pFx2q8K",
+        "name": "Le Printemps de Bourges",
+        "type": "venue",
+        "formatted_address": "22 Rue Henri Sellier\n18000 Bourges\nFrance"
+      },
+      {
+        "entity_id": "324AP5Uh3rQR54NMBdc3bgu",
+        "name": "Printemps Bourges Credit Mutuel",
+        "type": "event-group",
+        "formatted_address": "18000 Bourges\nFrance",
+        "category": "festival",
+        "labels": [
+          "event-group",
+          "festival",
+          "recurring"
+        ],
+        "recurring": {
+          "ical": "DTSTART;VALUE=DATE-TIME:20200421T140000\nRRULE:FREQ=YEARLY;INTERVAL=1"
+        }
+      }
+    ],
+    "duration": 518399,
+    "start": "2024-04-22T22:00:00Z",
+    "end": "2024-04-28T21:59:59Z",
+    "updated": "2023-11-12T22:40:56Z",
+    "first_seen": "2023-04-28T01:33:27Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3948235919736103,
+      47.077354234976
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              2.393573,
+              47.0777237
+            ],
+            [
+              2.3944582,
+              47.0765035
+            ],
+            [
+              2.3960085,
+              47.0767921
+            ],
+            [
+              2.3952038,
+              47.0783082
+            ],
+            [
+              2.393573,
+              47.0777237
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-20",
+            "value": 8572,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-21",
+            "value": 12857,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-22",
+            "value": 24286,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-23",
+            "value": 28571,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-24",
+            "value": 28571,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-25",
+            "value": 28571,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-26",
+            "value": 35714,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-27",
+            "value": 42857,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-28",
+            "value": 35714,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-29",
+            "value": 14286,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-30",
+            "value": 3572,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-22",
+            "value": 14286,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-23",
+            "value": 28571,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-24",
+            "value": 28571,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-25",
+            "value": 28571,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-26",
+            "value": 35714,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-27",
+            "value": 42857,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-28",
+            "value": 35714,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-29",
+            "value": 11786,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3027939",
+        "3025480",
+        "3031004",
+        "6454979",
+        "3031005"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 11149303,
+    "predicted_event_spend_industries": {
+      "accommodation": 3381965,
+      "hospitality": 4742964,
+      "transportation": 3024373
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "7KGst672FzNsgTGieo",
+    "title": "BENIGHTED   TEN56 - WARM UP HELLFEST BENIGHTED   TEN56",
+    "description": "Sourced from predicthq.com - HELLFEST WARM UP TOUR 2024 -  Road to Infernopolis ----------« Si tu ne viens pas au Hellfest, le Hellfest viendra à toi ! »Rendez-vous désormais incontournable de  l'expérience  Hellfest, le Warm-Up Tour, véritable Tour de France des salles de concerts repart sur la route en avril prochain ! L'occasion de débuter les festivités et de fédérer la communauté de fans autour de concerts et d'animations dans l'ambiance du Hellfest !Pour cette édition 2024, deux groupes francophones aux styles extrêmes, prêts à rouler sur chaque salle de la Warm-up : Les légendes du Brutal Death BENIGHTED et la nouvelle sensation Deathcore TEN56.----------BENIGHTED (Brutal Death - France)Formés en 1998, les Stéphanois sont devenus au fil des années des piliers du métal extrême avec 8 albums et des tournées dans le monde entier. Inspirés par les thèmes morbides et les méandres de l'âme humaine, leur savant mélange de brutalité avec un côté malsain clairement assumé, est le reflet des expériences qu'à vécu leur chanteur dans sa profession d'infirmier en hôpital psychiatrique. Après leur opus  Obscene Repressed  sorti en pleine pandémie, les 4 acharnés de BENIGHTED viennent prendre leur revanche et promettent un vraie torture à vos cervicales pendant cette warm_up !----------TEN56. (Deathcore - France)Nouvelle pépite de la scène francophone, les gars de TEN56. ont mis tout le monde d'accord lors de leur première apparition sous la Altar en 2023. Mené par le charismatique Aaron Matts (ex-Betraying the Martyrs) et épaulé par ses 4 frères d'armes, les TEN56. gravissent les échelons aussi rapidement que leurs écoutes s'envolent sur les plateformes. Après une tournée américaine et européenne triomphante il y a quelques mois, nos Frenchies sont clairement lancés sur la route de la destruction et comptent bien le faire savoir dans le Pit !?? ???????????????????? ???????????????????????????????????????? ???????????????? ???? ?????? ???????????? ??Rendez-vous chaque soir pour le grand concours de  Air Guitar » animé par Jimmy Clisson (MC officiel de la Fédération Française de Air Guitar) et à travers deux vagues de compétition où s'affrontent 2 X 10 candidats. Les gagnants repartiront avec un Pass pour le Hellfest 2024 ! (Les inscriptions se font directement sur place, sur notre stand de air guitar, premier arrivé = premier inscrit !)Tous les gagnants seront conviés à participer à la grande finale de air guitar qui aura lieu sur la HELLSTAGE le mercredi 26 juin 2024. Le grand gagnant sera sacré champion du Hellfest et sera récompensé par un pass 2025 !?? ???????????????? ???????????? ?????? ??Après son succès de l'an dernier, le “Hellfest Tattoo Day” revient sur chaque date avec le tatoueur ASPHYX, vous permettant de repartir avec un souvenir indélébile de notre célèbre “H”, symbole du festival.Tatouage gratuit du logo Hellfest “H” (selon 2 tailles au choix. Remplissage full black ou tracés). Inscription sur place (nombre limité par soirée)?? ???????????????????? ???????????????????? ??Faites vous tirer le portrait sur notre photocall interactif !?? ???????????????????? ?????????? ?????????????? ??Replongez dans l'ambiance du festival à travers une vidéo inédite tournée lors de l'édition 2023 … quelques minutes d'immersion pour vous préparer à l'édition 2024?? ?????????????????????????? ???????????????? & ?????????????? ?????????????????? ??Un stand de merchandising exclusif est disponible sur place avec une multitude de produits Hellfest originaux et spécialement conçus pour la tournée.Tous les participants sont aussi invités à récupérer quelques cadeaux de bienvenue pendant la soirée (gobelets collector & goodies de nos partenaires)",
+    "category": "festival",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 40,
+    "local_rank": 64,
+    "phq_attendance": 316,
+    "entities": [
+      {
+        "entity_id": "u4wqzMdHYfyMWg9cxGFcrv",
+        "name": "Les Docks",
+        "type": "venue",
+        "formatted_address": "430 Allée des Soupirs\n46000 Cahors\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-22T19:00:00Z",
+    "end": "2024-04-22T19:00:00Z",
+    "updated": "2024-02-01T03:40:25Z",
+    "first_seen": "2024-02-01T00:22:57Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      1.4332086,
+      44.4445053
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          1.4332086,
+          44.4445053
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7f8-qxn-66k"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-22",
+            "value": 316,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-22",
+            "value": 316,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071623",
+        "2997524",
+        "3029212",
+        "6449211",
+        "3029213"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 5734,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 3181,
+      "transportation": 2553
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "3eCynn2M9LoUkHzj2q",
+    "title": "WARM UP HELLFEST",
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "music"
+    ],
+    "rank": 35,
+    "local_rank": 59,
+    "phq_attendance": 181,
+    "entities": [
+      {
+        "entity_id": "UKcvSzWEA9XvXJZryE5QmM",
+        "name": "Atabal Biarritz",
+        "type": "venue",
+        "formatted_address": "37 Allée du Moura\n64200 Biarritz\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-21T18:00:00Z",
+    "end": "2024-04-21T18:00:00Z",
+    "updated": "2023-12-13T03:43:31Z",
+    "first_seen": "2023-12-12T22:58:52Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -1.5398086,
+      43.4604752
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -1.5398086,
+          43.4604752
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4dy-9tn-tqf"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-21",
+            "value": 181,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-21",
+            "value": 181,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071620",
+        "2984887",
+        "3034473",
+        "6440301",
+        "3007799"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3562,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2285,
+      "transportation": 1277
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "F6EYVjRbGZQNfZx9ML",
+    "title": "Printemps Gourmand 2024",
+    "description": "Sourced from predicthq.com - Salon des vins et de la gastronomie à but caritatif",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "food"
+    ],
+    "rank": 35,
+    "local_rank": 68,
+    "phq_attendance": 182,
+    "entities": [],
+    "duration": 0,
+    "start": "2024-04-21T08:30:00Z",
+    "end": "2024-04-21T08:30:00Z",
+    "updated": "2024-01-25T01:19:31Z",
+    "first_seen": "2024-01-25T01:18:51Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      5.305588900000001,
+      43.7161529
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          5.305588900000001,
+          43.7161529
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7f9-yhm-yd9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-21",
+            "value": 182,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-21",
+            "value": 182,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "3031359",
+        "3038353",
+        "6456723",
+        "3006703"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "3031359",
+        "2995468",
+        "6447142",
+        "2995469"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 4080,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2211,
+      "transportation": 1868
+    },
+    "phq_labels": [
+      {
+        "label": "food-and-beverage",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "8tnR4f2My2g3bf6wTz",
+    "title": "BOOMIN FEST - RENNES - PASS SAMEDI",
+    "alternate_titles": [
+      "Josman at Le Liberte"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "music"
+    ],
+    "rank": 50,
+    "local_rank": 64,
+    "phq_attendance": 950,
+    "entities": [
+      {
+        "entity_id": "6gaWNBypTCU4fXDqBhGXnV",
+        "name": "Le Liberté",
+        "type": "venue",
+        "formatted_address": "1 Esplanade Charles de Gaulle\n35000 Rennes\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-20T17:00:00Z",
+    "end": "2024-04-20T17:00:00Z",
+    "updated": "2023-11-01T22:22:44Z",
+    "first_seen": "2023-11-01T07:02:34Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -1.676847,
+      48.106917
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -1.676847,
+          48.106917
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4f7-gpr-dn5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-20",
+            "value": 950,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-20",
+            "value": 950,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-21",
+            "value": 114,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3030293",
+        "3012849",
+        "2983989",
+        "6432801",
+        "2983990"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 23984,
+    "predicted_event_spend_industries": {
+      "accommodation": 5354,
+      "hospitality": 10200,
+      "transportation": 8429
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "He2sSnYggnkrAZBhfx",
+    "title": "Terrie Odabi + Curtis Salgado -  Beautiful Swamp Blues Festival",
+    "alternate_titles": [
+      "SHAKURA SAIDA   TERRIE ODABI",
+      "Shakura S'Aida + Terrie Odabi -  Beautiful Swamp Blues Festival"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "music"
+    ],
+    "rank": 33,
+    "local_rank": 54,
+    "phq_attendance": 140,
+    "entities": [
+      {
+        "entity_id": "sLSaWbFQsxVBzmvdrpi4Vi",
+        "name": "LA HALLE",
+        "type": "venue",
+        "formatted_address": "PLACE D'ARMES\n62100 Calais\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-20T17:00:00Z",
+    "end": "2024-04-20T17:00:00Z",
+    "updated": "2023-12-11T03:21:24Z",
+    "first_seen": "2023-07-22T00:11:22Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      1.8510468,
+      50.9596665
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          1.8510468,
+          50.9596665
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-8g8-q75"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-20",
+            "value": 140,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-20",
+            "value": 140,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3029161",
+        "6618424",
+        "3029162"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2564,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1465,
+      "transportation": 1099
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "8BR68LsqfBTDy8WatQ",
+    "title": "Festival International de Cerfs-Volants 2024 & Le Touquet - 20 avril",
+    "description": "Sourced from predicthq.com - Samedi 20 Avril, venez assister au Festival “Rencontres Internationales des Cerfs-Volants 2024” à Berck-sur-Mer",
+    "category": "festival",
+    "labels": [
+      "festival"
+    ],
+    "rank": 39,
+    "local_rank": 46,
+    "phq_attendance": 288,
+    "entities": [],
+    "duration": 43200,
+    "start": "2024-04-20T06:30:00Z",
+    "end": "2024-04-20T18:30:00Z",
+    "updated": "2024-01-02T21:06:38Z",
+    "first_seen": "2024-01-02T21:05:00Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.2842678,
+      48.880614
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.2842678,
+          48.880614
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-8dr-4gk"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-20",
+            "value": 288,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-20",
+            "value": 288,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "3013657",
+        "6457369",
+        "6451977",
+        "2990611"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 7454,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 5196,
+      "transportation": 2257
+    },
+    "phq_labels": [
+      {
+        "label": "educational",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "7epcQQqSLG3PHRzpdL",
+    "title": "HELLFEST WARM UP",
+    "description": "Sourced from predicthq.com - Rendez-vous désormais incontournable de  l'expérience  Hellfest, le Warm-Up Tour, véritable Tour de France des salles de concerts repart sur la route en avril prochain !L'occasion de débuter les festivités et de fédérer la communauté de fans autour de concerts et d'animations dans l'ambiance du Hellfest !Pour cette édition 2024, deux groupes francophones aux styles extrêmes, prêts à rouler sur chaque salle de la Warm-up : Les patrons du Brutal Death BENIGHTED et la nouvelle sensation Deathcore TEN56.",
+    "category": "festival",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 54,
+    "local_rank": 73,
+    "phq_attendance": 1500,
+    "entities": [
+      {
+        "entity_id": "gMfmwnFnKWAS6gNSEJbbE3",
+        "name": "La Coopérative De Mai",
+        "type": "venue",
+        "formatted_address": "Rue Serge Gainsbourg\n63000 Clermont-Ferrand\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-19T18:00:00Z",
+    "end": "2024-04-19T18:00:00Z",
+    "updated": "2024-01-17T00:12:15Z",
+    "first_seen": "2024-01-17T00:10:00Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.1001621,
+      45.7880893
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.1001621,
+          45.7880893
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53j-y6v-y9z"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-17",
+            "value": 150,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-18",
+            "value": 225,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-19",
+            "value": 1500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-20",
+            "value": 75,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-19",
+            "value": 1500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-20",
+            "value": 180,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "2984986",
+        "3024634",
+        "6440000",
+        "2992610"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "2984986",
+        "3024634",
+        "6440000",
+        "3024635"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 41374,
+    "predicted_event_spend_industries": {
+      "accommodation": 6665,
+      "hospitality": 18713,
+      "transportation": 15995
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "BgBugsxNHRkxhbPsyB",
+    "title": "BOOMIN FEST - RENNES - PASS 2 JOURS",
+    "alternate_titles": [
+      "BOOMIN FEST - RENNES - PASS VENDREDI",
+      "Kaaris at Le Liberte"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "music"
+    ],
+    "rank": 50,
+    "local_rank": 64,
+    "phq_attendance": 950,
+    "entities": [
+      {
+        "entity_id": "6gaWNBypTCU4fXDqBhGXnV",
+        "name": "Le Liberté",
+        "type": "venue",
+        "formatted_address": "1 Esplanade Charles de Gaulle\n35000 Rennes\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-19T18:00:00Z",
+    "end": "2024-04-19T18:00:00Z",
+    "updated": "2023-11-02T06:56:13Z",
+    "first_seen": "2023-11-01T07:01:50Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -1.676847,
+      48.106917
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -1.676847,
+          48.106917
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4f7-gpr-dn5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-19",
+            "value": 950,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-19",
+            "value": 950,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-20",
+            "value": 114,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3030293",
+        "3012849",
+        "2983989",
+        "6432801",
+        "2983990"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 23984,
+    "predicted_event_spend_industries": {
+      "accommodation": 5354,
+      "hospitality": 10200,
+      "transportation": 8429
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "BLSm7akcwWRCZVgXLb",
+    "title": "Madame Loyal Rennes : Pass 2 Jours",
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 39,
+    "local_rank": 63,
+    "phq_attendance": 282,
+    "entities": [
+      {
+        "entity_id": "38fZ3u4J6HCJyMGr4PN5gmF",
+        "name": "Parc Expo Rennes Aéroport",
+        "type": "venue",
+        "formatted_address": "Parc Expo Rennes, La Haie Gautrais\n35172 Bruz\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-19T17:59:00Z",
+    "end": "2024-04-19T17:59:00Z",
+    "updated": "2024-01-22T05:44:43Z",
+    "first_seen": "2024-01-06T05:55:36Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -1.731611,
+      48.0574196
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -1.731611,
+          48.0574196
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4f7-g8d-mrk"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-19",
+            "value": 282,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-19",
+            "value": 282,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3030293",
+        "3012849",
+        "2983989",
+        "6448536",
+        "2995173"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3030293",
+        "3012849",
+        "2983989",
+        "6432801",
+        "2983990"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 4424,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2422,
+      "transportation": 2001
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "74b26zV4tuV98UsUey",
+    "title": "ÉCU - The European Independent Film Festival 2024",
+    "description": "Sourced from predicthq.com - ÉCU 2024 is the top week-end experience for cinema lovers!\nA three day event with  live music, VIP guests, Q&As, workshops, and indie films.",
+    "category": "festival",
+    "labels": [
+      "festival"
+    ],
+    "rank": 43,
+    "local_rank": 46,
+    "phq_attendance": 431,
+    "entities": [],
+    "duration": 176400,
+    "start": "2024-04-19T17:00:00Z",
+    "end": "2024-04-21T18:00:00Z",
+    "updated": "2023-12-18T00:05:04Z",
+    "first_seen": "2023-12-13T21:00:41Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3276392,
+      48.84243980000001
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3276392,
+          48.84243980000001
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7y8-r6k"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-19",
+            "value": 135,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-20",
+            "value": 162,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-21",
+            "value": 135,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-18",
+            "value": 41,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-19",
+            "value": 135,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-20",
+            "value": 162,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-21",
+            "value": 135,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-22",
+            "value": 25,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "2997000"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 14122,
+    "predicted_event_spend_industries": {
+      "accommodation": 1958,
+      "hospitality": 7696,
+      "transportation": 4466
+    },
+    "phq_labels": [
+      {
+        "label": "art-and-cultural",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "Fy4PaSadrb9jqcGaZt",
+    "title": "Dystopia Festival",
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "music"
+    ],
+    "rank": 40,
+    "local_rank": 65,
+    "phq_attendance": 309,
+    "entities": [
+      {
+        "entity_id": "QxuDVTV6nsizimtyLez2FX",
+        "name": "Parc des Expositions les Oudairies",
+        "type": "venue",
+        "formatted_address": "Rue Giotto\n85000 La Roche-sur-Yon\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-19T17:00:00Z",
+    "end": "2024-04-19T17:00:00Z",
+    "updated": "2024-01-26T23:34:06Z",
+    "first_seen": "2023-11-04T23:15:16Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -1.40212,
+      46.67039
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -1.40212,
+          46.67039
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4f9-n4x-9pv"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-19",
+            "value": 309,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-19",
+            "value": 309,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2970140",
+        "3006766",
+        "6456577",
+        "3005072"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2970140",
+        "3006766",
+        "6456577",
+        "3006767"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 5671,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 3456,
+      "transportation": 2215
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 0.534
+      },
+      {
+        "label": "family-activities",
+        "weight": 0.466
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "EBBtAPbmAhWkRDPZyd",
+    "title": "PLEASE",
+    "alternate_titles": [
+      "Please at La Maroquinerie"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "music"
+    ],
+    "rank": 44,
+    "local_rank": 43,
+    "phq_attendance": 495,
+    "entities": [
+      {
+        "entity_id": "NeaHXVe2tLnfGDJWXDknpd",
+        "name": "La Maroquinerie",
+        "type": "venue",
+        "formatted_address": "23 Rue Boyer\n75020 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-17T18:00:00Z",
+    "end": "2024-04-17T18:00:00Z",
+    "updated": "2023-11-17T23:19:49Z",
+    "first_seen": "2023-11-17T06:46:54Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.392016099999978,
+      48.8685078
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.392016099999978,
+          48.8685078
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xk-4d9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-17",
+            "value": 495,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-17",
+            "value": 495,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-18",
+            "value": 60,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2994540"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 16181,
+    "predicted_event_spend_industries": {
+      "accommodation": 2244,
+      "hospitality": 8819,
+      "transportation": 5118
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "GZtURwDQz32a8mehSg",
+    "title": "Festival Jazz en Ouche",
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "music"
+    ],
+    "rank": 39,
+    "local_rank": 38,
+    "phq_attendance": 293,
+    "entities": [
+      {
+        "entity_id": "pEknw2mTJzK8PQ4JiUUmi3",
+        "name": "L'Aigle",
+        "type": "venue",
+        "formatted_address": "7 Rue de Reuilly\n75012 Paris\nFrance"
+      }
+    ],
+    "duration": 86399,
+    "start": "2024-04-13T22:00:00Z",
+    "end": "2024-04-14T21:59:59Z",
+    "updated": "2023-10-26T03:13:24Z",
+    "first_seen": "2023-06-13T21:34:16Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3853516,
+      48.8495191
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3853516,
+          48.8495191
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7vx-4n5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-14",
+            "value": 293,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-14",
+            "value": 293,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2971090",
+        "6457374",
+        "6613141",
+        "2978621",
+        "2983854"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 6599,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 4176,
+      "transportation": 2423
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "DNjqnyRYcc3iUdcZ3i",
+    "title": "FESTIVAL INTERNATIONAL VIVE LA MAGIE - 16EME EDITION",
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "music"
+    ],
+    "rank": 36,
+    "local_rank": 60,
+    "phq_attendance": 194,
+    "entities": [
+      {
+        "entity_id": "EnZtRyXEgTg6Dfh2fu3GMe",
+        "name": "Palais des Congrès",
+        "type": "venue",
+        "formatted_address": "26200 Montélimar\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-13T18:30:00Z",
+    "end": "2024-04-13T18:30:00Z",
+    "updated": "2023-10-26T02:55:35Z",
+    "first_seen": "2023-05-13T21:58:52Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      4.74397,
+      44.55485
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          4.74397,
+          44.55485
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53h-zt5-4gk"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-13",
+            "value": 194,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-13",
+            "value": 194,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "3020781",
+        "2989818",
+        "6430140",
+        "2992703"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "3037147",
+        "2985289",
+        "6425763",
+        "2985290"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3910,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2437,
+      "transportation": 1473
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "HFkejqb8DRUt4kEJrL",
+    "title": "Uncle Bard and The Dirty Bastards Festival",
+    "alternate_titles": [
+      "FESTIVAL LA CORDE RAIDE 2024 - 1 JOUR - UNCLE BARD AND THE DIRTY BASTARDS"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "music"
+    ],
+    "rank": 47,
+    "local_rank": 72,
+    "phq_attendance": 700,
+    "entities": [
+      {
+        "entity_id": "WmBVyE5kpKhAkP29vD9QSb",
+        "name": "Carré d'argent",
+        "type": "venue",
+        "formatted_address": "44160 Pontchâteau\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-13T17:00:00Z",
+    "end": "2024-04-13T17:00:00Z",
+    "updated": "2023-11-29T21:58:48Z",
+    "first_seen": "2023-11-28T00:26:10Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -2.091145,
+      47.437418
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -2.091145,
+          47.437418
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4dx-bh7-9zz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-13",
+            "value": 700,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-13",
+            "value": 700,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 84,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2997861",
+        "2977920",
+        "6434494",
+        "2986271"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2997861",
+        "2990968",
+        "6434483",
+        "2990969"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": false,
+    "private": false,
+    "predicted_event_spend": 20180,
+    "predicted_event_spend_industries": {
+      "accommodation": 2630,
+      "hospitality": 11175,
+      "transportation": 6375
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "76ThFpF7wLHf55zfY8",
+    "title": "METAL RIDE FEST VI",
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 37,
+    "local_rank": 53,
+    "phq_attendance": 214,
+    "entities": [
+      {
+        "entity_id": "MmhjbVgTdxrVFEA2FXwqT5",
+        "name": "L'Autre Canal",
+        "type": "venue",
+        "formatted_address": "45 Boulevard d'Austrasie\n54000 Nancy\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-13T15:00:00Z",
+    "end": "2024-04-13T15:00:00Z",
+    "updated": "2024-01-27T00:44:56Z",
+    "first_seen": "2024-01-27T00:11:37Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      6.198446,
+      48.694239
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          6.198446,
+          48.694239
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53c-rxc-ct9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-13",
+            "value": 214,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-13",
+            "value": 214,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "2994111",
+        "2990998",
+        "6436845",
+        "2978105"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "2994111",
+        "2990998",
+        "6454307",
+        "2990999"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3890,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2274,
+      "transportation": 1616
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "BeHFm5vs5rwUeaJsDn",
+    "title": "FESTIVAL LA CORDE RAIDE",
+    "alternate_titles": [
+      "FESTIVAL LA CORDE RAIDE 2024 - 1 JOUR - GAELLE BUSWEL - KODOMOR",
+      "Festival La Corde Raide-Vendredi-Samedi Valable les 12-13 avril",
+      "Komodor - Datcha Mandala Festival"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "music"
+    ],
+    "rank": 47,
+    "local_rank": 72,
+    "phq_attendance": 700,
+    "entities": [
+      {
+        "entity_id": "WmBVyE5kpKhAkP29vD9QSb",
+        "name": "Carré d'argent",
+        "type": "venue",
+        "formatted_address": "44160 Pontchâteau\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-12T16:30:00Z",
+    "end": "2024-04-12T16:30:00Z",
+    "updated": "2023-12-07T23:39:58Z",
+    "first_seen": "2023-11-27T22:38:32Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -2.091145,
+      47.437418
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -2.091145,
+          47.437418
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4dx-bh7-9zz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-12",
+            "value": 700,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-12",
+            "value": 700,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 84,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2997861",
+        "2977920",
+        "6434494",
+        "2986271"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2997861",
+        "2990968",
+        "6434483",
+        "2990969"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 21496,
+    "predicted_event_spend_industries": {
+      "accommodation": 3945,
+      "hospitality": 11175,
+      "transportation": 6375
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "3KA2XMx3V8khVcSXb3",
+    "title": "Festival La Corde Raide - Pass 3J Valable les 11-12-13 avril",
+    "alternate_titles": [
+      "Elmer Food Beat - Giédré - Festival",
+      "FESTIVAL LA CORDE RAIDE 2024 - 1 JOUR - ELMER FOOD BEAT - GIEDRE",
+      "FESTIVAL LA CORDE RAIDE 2024 - 2 JOURS - PASS 2 JOURS - JEUDI/VENDREDI",
+      "FESTIVAL LA CORDE RAIDE 2024 - 2 JOURS - PASS 2 JOURS - VENDREDI/SAMEDI"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "music"
+    ],
+    "rank": 47,
+    "local_rank": 72,
+    "phq_attendance": 700,
+    "entities": [
+      {
+        "entity_id": "WmBVyE5kpKhAkP29vD9QSb",
+        "name": "Carré d'argent",
+        "type": "venue",
+        "formatted_address": "44160 Pontchâteau\nFrance"
+      }
+    ],
+    "duration": 259199,
+    "start": "2024-04-10T22:00:00Z",
+    "end": "2024-04-13T21:59:59Z",
+    "updated": "2023-12-07T23:39:58Z",
+    "first_seen": "2023-11-28T00:20:05Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -2.091145,
+      47.437418
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -2.091145,
+          47.437418
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4dx-bh7-9zz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-11",
+            "value": 187,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 233,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 280,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-10",
+            "value": 57,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 187,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 233,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 280,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 51,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2997861",
+        "2977920",
+        "6434494",
+        "2986271"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2997861",
+        "2990968",
+        "6434483",
+        "2990969"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 20180,
+    "predicted_event_spend_industries": {
+      "accommodation": 2630,
+      "hospitality": 11175,
+      "transportation": 6375
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "BFjRFmzyqy2ko8Fuw4",
+    "title": "Festival Mythos",
+    "description": "Sourced from predicthq.com",
+    "category": "festival",
+    "labels": [
+      "festival",
+      "music"
+    ],
+    "rank": 55,
+    "local_rank": 71,
+    "phq_attendance": 1850,
+    "entities": [
+      {
+        "entity_id": "rC5ZHSPWkhcQYZP3ahbk4D",
+        "name": "Cabaret Botanique",
+        "type": "venue",
+        "formatted_address": "Jardins du Thabor\n35000 Rennes\nFrance"
+      },
+      {
+        "entity_id": "39pMWCd2gd5RhA9NeXATZBr",
+        "name": "Festival Mythos",
+        "type": "event-group",
+        "formatted_address": "35000 Rennes\nFrance",
+        "category": "festival",
+        "labels": [
+          "event-group",
+          "festival",
+          "recurring"
+        ],
+        "recurring": {
+          "ical": "DTSTART;VALUE=DATE-TIME:20180413T000000\nRRULE:FREQ=YEARLY;INTERVAL=6"
+        }
+      }
+    ],
+    "duration": 172799,
+    "start": "2024-04-10T22:00:00Z",
+    "end": "2024-04-12T21:59:59Z",
+    "updated": "2023-12-17T06:47:47Z",
+    "first_seen": "2023-11-14T21:35:07Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -1.692,
+      48.10305
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -1.692,
+          48.10305
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4f7-g8g-g8v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-09",
+            "value": 83,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-10",
+            "value": 288,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 822,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 1028,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 360,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-04-14",
+            "value": 103,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-10",
+            "value": 247,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-11",
+            "value": 822,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-12",
+            "value": 1028,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-13",
+            "value": 186,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3030293",
+        "3012849",
+        "2983989",
+        "6432801",
+        "2983990"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 46707,
+    "predicted_event_spend_industries": {
+      "accommodation": 10427,
+      "hospitality": 19864,
+      "transportation": 16415
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "4vsim6muW2mAfyiVSe",
+    "title": "Vide grenier de l'école Jean Macé",
+    "description": "Sourced from predicthq.com - Viens te joindre à nous pour le Vide grenier de l'école Jean Macé, une belle occasion de soutenir les projets de l'école !",
+    "category": "festival",
+    "labels": [
+      "community",
+      "festival"
+    ],
+    "rank": 42,
+    "local_rank": 58,
+    "phq_attendance": 382,
+    "entities": [],
+    "duration": 36000,
+    "start": "2024-04-07T05:00:00Z",
+    "end": "2024-04-07T15:00:00Z",
+    "updated": "2024-02-01T04:42:30Z",
+    "first_seen": "2024-02-01T03:01:26Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      4.811193899999999,
+      45.71358559999999
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          4.811193899999999,
+          45.71358559999999
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53h-5gm-2kz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-07",
+            "value": 382,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-07",
+            "value": 382,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-08",
+            "value": 46,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "2987410",
+        "2996943",
+        "6441724",
+        "2988998"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "2987410",
+        "2996943",
+        "6454573",
+        "2996944"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 11035,
+    "predicted_event_spend_industries": {
+      "accommodation": 1919,
+      "hospitality": 5447,
+      "transportation": 3668
+    },
+    "phq_labels": [
+      {
+        "label": "educational",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "BiEswB2zfmbpF9cXK4",
+    "title": "SALAISE BLUES FESTIVAL",
+    "description": "Sourced from predicthq.com - Comme chaque année, les stagiaires des Blues on stage vont ouvrir cette soirée Jon Cleary est aujourd’hui un artiste incontournable de la Nouvelle Orléans. Considéré par beaucoup comme le porte étendard de l’authentique Funk de la Nouvelle Orléans, Jon Cleary mène une brillante carrière internationale. Ses concerts, qu’il soit seul au piano ou accompagné par son groupe “The Absolute Monster Gentlemen”, sont des moments rares. Le son du groupe est unique : résolument moderne avec des grooves subtils et irrésistibles ancrés dans la plus pure tradition du “Fonk”.The Cinelli Brothers, c’est quatre garçons vivant en Grande-Bretagne, des musiciens multi instrumentistes bourrés de talent, qui s’inspirent du Blues pour proposer un répertoire situé quelque part ailleurs vers le rock et la pop, ils écrivent et jouent des titres qui semblent simples mais s’avèrent diablement efficaces et surtout plus sophistiqués qu’il n’y paraît, avec des harmonies vocales que peu de groupes sont capables de faire sur scène…Toute ressemblance avec un groupe existant ou ayant existé n’est pas tout à fait une coïncidence!",
+    "category": "festival",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 37,
+    "local_rank": 69,
+    "phq_attendance": 222,
+    "entities": [
+      {
+        "entity_id": "3ABMknby5FeHmehCg85eNh",
+        "name": "FOYER LAURENT-BOUVIER",
+        "type": "venue",
+        "formatted_address": "Rue du 11 novembre -\n38150 Salaise Sur Sanne\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-06T18:30:00Z",
+    "end": "2024-04-06T18:30:00Z",
+    "updated": "2024-01-21T04:08:06Z",
+    "first_seen": "2023-12-28T00:23:53Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      4.813669,
+      45.3464228
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          4.813669,
+          45.3464228
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53j-3ds-45f"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 222,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 222,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "3012715",
+        "2969282",
+        "6433406",
+        "2976507"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "2997870",
+        "2980288",
+        "6614010",
+        "2980291"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3558,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2032,
+      "transportation": 1525
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "F3DSiYuCkBNS6sBCW4",
+    "title": "FESTIVAL TRIBUTE NIGHTS #5 - 1 JOUR",
+    "description": "Sourced from predicthq.com - TRIBUTE NIGHTS #5 - PASS 1 JOUR EDITION PRINTANIERE 2024 DU FESTIVALLe plus gros festival de Nouvelle Aquitaine dédié aux Tribute bands.Du 05 au 06 Avril 2024 à Fargues Saint Hilaire (33) - 12 kms de Bordeaux.Les TRIBUTE NIGHTS – Deux soirées exceptionnelles avec les meilleurs Tribute bands, de Prince à Santana, de U2 à Michaël Jackson en passant par Kiss et Lenny Kravitz !Vendredi 05 avril 2024 : ONLY FRENCH TRIBUTE TO PRINCE (tribute PRINCE)   LKT (tribute LENNY KRAVITZ)   MATIS JACKSON (tribute MICHAEL JACKSON)Samedi 06 avril 2024 : U2 REVOLUTION (tribute U2)   JUGANDO (tribute SANTANA BAND)   KISS FOREVER BAND (tribute KISS)",
+    "category": "festival",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 33,
+    "local_rank": 61,
+    "phq_attendance": 148,
+    "entities": [
+      {
+        "entity_id": "34JE55U2T2M7MaX6VtEHLzG",
+        "name": "LE CARRE DES FORGES",
+        "type": "venue",
+        "formatted_address": "3 AVENUE DE LA LAURENCE\n33370 Fargues St Hilaire\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-06T18:00:00Z",
+    "end": "2024-04-06T18:00:00Z",
+    "updated": "2023-12-24T01:49:05Z",
+    "first_seen": "2023-12-24T00:30:29Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -0.4456034,
+      44.8244578
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -0.4456034,
+          44.8244578
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4dz-h47-28v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 148,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 148,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071620",
+        "3015948",
+        "3031580",
+        "6432223",
+        "3019016"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071620",
+        "3015948",
+        "3031580",
+        "6455058",
+        "3031582"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2843,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1527,
+      "transportation": 1315
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "7BUA7kMYkmxHiybFUN",
+    "title": "FESTIVAL DE LA MEUH FOLLE",
+    "description": "Sourced from predicthq.com - Pour la 21ème édition, le festival de la Meuh Folle revient du 5 au 6 avril 2024 au Parc des Expositions d’Alès Agglomération ! Deux jours de pur bonheur musical et culturel vous attendent, avec une programmation à couper le souffle ! Ouverture de 19h à 3hVendredi soir : Mango Mango, Bazil, Devi Reed, Hilight Tribe, GraviitySamedi après-midi (sound system) : Bhale Bacce Crew Samedi soir : Dub Driver, Vanupié, Skarra Mucci, Brain Damage, Gonzi",
+    "category": "festival",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 44,
+    "local_rank": 75,
+    "phq_attendance": 500,
+    "entities": [
+      {
+        "entity_id": "M56ad7CnvdGZTDM3gPirj6",
+        "name": "Parc des expositions d'Alès Agglomération",
+        "type": "venue",
+        "formatted_address": "Route d'Uzès\n30340 Méjannes-lès-Alès\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-06T17:00:00Z",
+    "end": "2024-04-06T17:00:00Z",
+    "updated": "2024-01-25T02:34:43Z",
+    "first_seen": "2023-12-13T00:06:35Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      4.148793,
+      44.098144
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          4.148793,
+          44.098144
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7fc-55g-d7q"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 500,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-07",
+            "value": 60,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071623",
+        "3016670",
+        "3038223",
+        "6431328",
+        "2994724"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071623",
+        "3016670",
+        "2990362",
+        "6431349",
+        "2990363"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 13553,
+    "predicted_event_spend_industries": {
+      "accommodation": 2818,
+      "hospitality": 4918,
+      "transportation": 5816
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "BzAhLyPCLAWUYRq4in",
+    "title": "FESTIVAL LES INSO NANTES",
+    "description": "Sourced from predicthq.com - L'association Les Inso Nantes est fière d'annoncer la quatrième édition de son festival, qui se déroulera le 06/04/2024 à la salle de La Carrière à Saint Herblain.Célébrant la diversité artistique nantaise et régionale, cette édition promet une expérience unique et humaniste, centrée sur la découverte et la bienveillance.Le festival, animé par l'humoriste nantaise Agnès, connue pour son humour vif et son esprit pétillant, se déroulera de 19h30 à 00h30.La soirée alternera entre performances d'humoristes et groupes de musique, offrant une diversité de styles et de talents.Artistes Vedettes :• Romuald Maufras : Cet humoriste, célèbre pour son humour introspectif et son regard critiquesur la société, est une figure incontournable de la scène humoristique française.• Aymeric Maini & David Le Deunff : Ces chanteurs apportent une touche de blues et de folk avec des mélodies chaleureuses et de textes profonds.Et retrouvez également :• Charles Henry Lemonnier : un humoriste au style unique, combinant satire sociale et absurdité, promet de captiver le public avec son humour intelligent et décalé.• Afrolab : ce groupe se distingue par son mélange riche d'afrobeat, de funk et de rythmes entraînants, garantissant une ambiance électrisante.• Jérôme Le Tessier : c’est le gagnant de notre tremplin humour pour l’édition 4. Une étoilemontante de l'humour, apprécié pour son style incisif et ses observations fines sur le quotidien.• Voltair : gagnants du tremplin musique des Inso’ Nantes pour cette édition 4, reconnus pour leur rock indie innovant et leur énergie scénique.",
+    "category": "festival",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 58,
+    "local_rank": 81,
+    "phq_attendance": 2500,
+    "entities": [
+      {
+        "entity_id": "36EHUXPyNHW82Jm4CwJ3c3R",
+        "name": "La Carrière",
+        "type": "venue",
+        "formatted_address": "44800 Saint-Herblain\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-06T17:00:00Z",
+    "end": "2024-04-06T17:00:00Z",
+    "updated": "2024-01-31T01:45:12Z",
+    "first_seen": "2024-01-31T01:36:30Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -1.628776,
+      47.21053
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -1.628776,
+          47.21053
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4dx-82q-8gk"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-04",
+            "value": 250,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-05",
+            "value": 375,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-06",
+            "value": 2500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-07",
+            "value": 125,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-06",
+            "value": 2500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-07",
+            "value": 300,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2997861",
+        "2983245"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2997861",
+        "2990968",
+        "6434483",
+        "2990969"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 76771,
+    "predicted_event_spend_industries": {
+      "accommodation": 14091,
+      "hospitality": 39911,
+      "transportation": 22768
+    },
+    "phq_labels": [
+      {
+        "label": "music",
+        "weight": 1
+      }
+    ]
+  }
+]

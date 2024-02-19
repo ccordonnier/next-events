@@ -1,14 +1,18 @@
 import { useEffect, useState } from "react"
 
 
-export function useFetchEvents(options) {
+export default function useFetchEvents(url, options={}) {
   let [events, setEvents] = useState([]);
   let [error, setError] = useState({});
   let [state, setState] = useState("loading");
-
-
-  useEffect(() => {
-    fetch(options.url)
+  
+  
+  if(url==""){    
+    return [events, error, state];
+  }
+  useEffect( () => {
+    let fetchData = async () => {
+      fetch(url, options)
       .then((response) => {
         if (response.status === 200) {
           let r = response.json()
@@ -18,15 +22,20 @@ export function useFetchEvents(options) {
         }
       })
       .then((data) => {
+        console.log(options.from);
+        console.log(data);
         data.date = new Date(data.date);
-        setEvents(data);
         setState("succeeded")
+        setEvents(data);
+        
       })
       .catch((error) => {
-        setError(error);
         setState("error");
+
+        setError(error);
       });
-  }, []);
-  console.log("events", events)
+    }
+    fetchData();
+  }, [url]);
   return ([events, error, state])
 }

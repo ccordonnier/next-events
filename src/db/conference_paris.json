@@ -1,0 +1,1141 @@
+[
+  {
+    "relevance": 0,
+    "id": "Ec5xaRN8amhhNrgN6M",
+    "title": "Women in Tech Global Summit 2024",
+    "description": "Sourced from predicthq.com - We're back for the 3rd annual Women in Tech® Global Summit. Over 50 delegations from all over the world will meet in Paris. Join us!",
+    "category": "conference",
+    "labels": [
+      "conference",
+      "science",
+      "technology"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "33uS5PY985ksNZc3YcCrVMM",
+        "name": "Hotel du Collectionneur",
+        "type": "venue",
+        "formatted_address": "51-57 Rue de Courcelles\n75008 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-06T07:00:00Z",
+    "end": "2024-05-06T07:00:00Z",
+    "updated": "2023-08-22T02:02:53Z",
+    "first_seen": "2023-08-22T01:56:35Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3069133,
+      48.8769205
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3069133,
+          48.8769205
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-8dr-pgk"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "3020270"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "science-and-technology",
+        "weight": 0.583
+      },
+      {
+        "label": "lifestyle",
+        "weight": 0.417
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "6tyHJgsRPcJ7sHdtTh",
+    "title": "European Calcified Tissue Society Congress",
+    "alternate_titles": [
+      "ECTS Congress"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "conference",
+    "labels": [
+      "conference"
+    ],
+    "rank": 44,
+    "local_rank": 58,
+    "phq_attendance": 500,
+    "entities": [
+      {
+        "entity_id": "fjJSz3cC4Nwp6VBksEyXnV",
+        "name": "Marseille Chanot",
+        "type": "venue",
+        "formatted_address": "114 Rond-Point du Prado\n13008 Marseille\nFrance"
+      }
+    ],
+    "duration": 291600,
+    "start": "2024-05-04T07:00:00Z",
+    "end": "2024-05-07T16:00:00Z",
+    "updated": "2023-10-26T03:52:12Z",
+    "first_seen": "2022-07-03T02:16:04Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      5.3946713,
+      43.2725939
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          5.3946713,
+          43.2725939
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7f9-t2y-st9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-02",
+            "value": 75,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-03",
+            "value": 200,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 100,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-05-09",
+            "value": 25,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-02",
+            "value": 25,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-03",
+            "value": 200,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 65,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "3031359",
+        "2995468",
+        "6447142",
+        "2995469",
+        "7284889"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "3031359",
+        "2995468",
+        "6447142",
+        "2995469"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 159961,
+    "predicted_event_spend_industries": {
+      "accommodation": 61374,
+      "hospitality": 72921,
+      "transportation": 25665
+    },
+    "phq_labels": [
+      {
+        "label": "lifestyle",
+        "weight": 0.222
+      },
+      {
+        "label": "education-and-careers",
+        "weight": 0.211
+      },
+      {
+        "label": "legal-and-property-services",
+        "weight": 0.207
+      },
+      {
+        "label": "mining-drilling-and-metalwork",
+        "weight": 0.184
+      },
+      {
+        "label": "science-and-technology",
+        "weight": 0.176
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "9wpJ9zTmWgLfCL65Jn",
+    "title": "2024 Taira France Seminar",
+    "description": "Sourced from predicthq.com - Okinawa Gojuryu kenkyukai France shibu dojos (IGKDF & OGKDF) will host Sensei Taira (9th Dan) on May 03-05 of 2024.",
+    "category": "conference",
+    "labels": [
+      "conference",
+      "sport"
+    ],
+    "rank": 37,
+    "local_rank": 41,
+    "phq_attendance": 217,
+    "entities": [],
+    "duration": 169200,
+    "start": "2024-05-03T15:00:00Z",
+    "end": "2024-05-05T14:00:00Z",
+    "updated": "2024-02-02T04:11:59Z",
+    "first_seen": "2024-02-02T04:11:31Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.2890154000000393,
+      48.8208342
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.2890154000000393,
+          48.8208342
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7ry-975"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 217,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 217,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 217,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 217,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 217,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 217,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "3013657",
+        "6457368",
+        "6613135",
+        "2970761"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 16983,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 11598,
+      "transportation": 5385
+    },
+    "phq_labels": [
+      {
+        "label": "education-and-careers",
+        "weight": 0.589
+      },
+      {
+        "label": "lifestyle",
+        "weight": 0.411
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "7psza7gK8x7V2yHzxu",
+    "title": "Défi Gouvernance Partagée - 3-4-5 Mai 2024 - Compiègne",
+    "description": "Sourced from predicthq.com - Découvrir et expérimenter une nouvelle manière de faire ensemble",
+    "category": "conference",
+    "labels": [
+      "conference"
+    ],
+    "rank": 38,
+    "local_rank": 60,
+    "phq_attendance": 258,
+    "entities": [],
+    "duration": 207000,
+    "start": "2024-05-03T07:00:00Z",
+    "end": "2024-05-05T16:30:00Z",
+    "updated": "2024-01-25T02:15:54Z",
+    "first_seen": "2024-01-25T02:06:11Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.8201866,
+      49.41003109999999
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.8201866,
+          49.41003109999999
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-mzk-5zz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 258,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 258,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 258,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 258,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 258,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 258,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2989663",
+        "3024065",
+        "6454431",
+        "3024066"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 16224,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 10204,
+      "transportation": 6020
+    },
+    "phq_labels": [
+      {
+        "label": "education-and-careers",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "F4LHVoPEmBFNDooAGy",
+    "title": "Conférence - Le Burn out : Une Renaissance ?",
+    "description": "Sourced from predicthq.com - «Le burn-out est une maladie de l'âme en deuil de son idéal »  Freudenberger",
+    "category": "conference",
+    "labels": [
+      "conference",
+      "health"
+    ],
+    "rank": 24,
+    "local_rank": 41,
+    "phq_attendance": 52,
+    "entities": [],
+    "duration": 7200,
+    "start": "2024-04-27T12:30:00Z",
+    "end": "2024-04-27T14:30:00Z",
+    "updated": "2024-02-08T05:46:56Z",
+    "first_seen": "2024-02-08T05:46:35Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      1.0861207,
+      49.4400828
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          1.0861207,
+          49.4400828
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4f8-62w-68v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 52,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 52,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071621",
+        "2975248",
+        "2982651",
+        "6454707",
+        "2982652"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 975,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 557,
+      "transportation": 418
+    },
+    "phq_labels": [
+      {
+        "label": "medical",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "8uFBBsdkrUiDBpkv9q",
+    "title": "Le MÉTRO aux LILAS - samedi 27 avril  - 5 conférences - 9h30-17h00 (J9)",
+    "description": "Sourced from predicthq.com - Une journée entière de conférences, pour plonger dans l'histoire et le devenir du Métro et de ceux qui l'on fait.",
+    "category": "conference",
+    "labels": [
+      "community",
+      "conference"
+    ],
+    "rank": 40,
+    "local_rank": 47,
+    "phq_attendance": 329,
+    "entities": [],
+    "duration": 27000,
+    "start": "2024-04-27T07:30:00Z",
+    "end": "2024-04-27T15:00:00Z",
+    "updated": "2024-02-01T16:43:48Z",
+    "first_seen": "2024-02-01T16:43:30Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.4187196,
+      48.8827669
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.4187196,
+          48.8827669
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7y2-wff"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 329,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 329,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2975246",
+        "6457371",
+        "6457184",
+        "3000491"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2975246",
+        "6457371",
+        "6452608",
+        "3032179"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 6453,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 3911,
+      "transportation": 2542
+    },
+    "phq_labels": [
+      {
+        "label": "lifestyle",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "9fMt7SyBfrMtLxXT8j",
+    "title": "Les Vendredis de l'Histoire",
+    "description": "Sourced from predicthq.com - « Venise en Autriche (1814-1866) : une entrée dans la modernité ? » par Ivan BROVELLI",
+    "category": "conference",
+    "labels": [
+      "conference"
+    ],
+    "rank": 32,
+    "local_rank": 55,
+    "phq_attendance": 133,
+    "entities": [],
+    "duration": 10800,
+    "start": "2024-04-26T16:00:00Z",
+    "end": "2024-04-26T19:00:00Z",
+    "updated": "2023-12-14T18:01:25Z",
+    "first_seen": "2023-12-14T18:00:35Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.1394234,
+      43.9416692
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.1394234,
+          43.9416692
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7f7-rky-ffz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 133,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 133,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071623",
+        "2973362",
+        "3038260",
+        "6452544",
+        "3038261"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2625,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1575,
+      "transportation": 1050
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "H96pvY7PVq7ENY3vtJ",
+    "title": "LE PRINTEMPS DE LA CPTS",
+    "description": "Sourced from predicthq.com - CONGRÈS SANTÉ innovant animé par des conférences inédites, des ateliers formatifs variés et un village de partenaires. come on !",
+    "category": "conference",
+    "labels": [
+      "conference",
+      "health"
+    ],
+    "rank": 36,
+    "local_rank": 59,
+    "phq_attendance": 206,
+    "entities": [],
+    "duration": 100800,
+    "start": "2024-04-26T12:00:00Z",
+    "end": "2024-04-27T16:00:00Z",
+    "updated": "2024-01-25T00:35:58Z",
+    "first_seen": "2024-01-25T00:33:58Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      0.0859007,
+      43.2194269
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          0.0859007,
+          43.2194269
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7f9-bhs-xwk"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 206,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-27",
+            "value": 206,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 206,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-27",
+            "value": 206,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071623",
+        "3013726",
+        "2973384",
+        "6440938",
+        "2973385"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 8655,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 5452,
+      "transportation": 3202
+    },
+    "phq_labels": [
+      {
+        "label": "education-and-careers",
+        "weight": 0.502
+      },
+      {
+        "label": "medical",
+        "weight": 0.498
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "7Yo9JcpKjX3GNorPaq",
+    "title": "International Conference on Physical & Life Sciences",
+    "alternate_titles": [
+      "ICPLS"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "conference",
+    "labels": [
+      "conference"
+    ],
+    "rank": 29,
+    "local_rank": 31,
+    "phq_attendance": 90,
+    "entities": [
+      {
+        "entity_id": "RnxNNGKNkHh9LFqKKQzymM",
+        "name": "Paris Marriott Rive Gauche Hotel & Conference Center",
+        "type": "venue",
+        "formatted_address": "17 Boulevard Saint-Jacques\n75014 Paris\nFrance"
+      },
+      {
+        "entity_id": "36JbwpZTZjrNBw5Gz99w9eW",
+        "name": "International Conference on Physical & Life Sciences",
+        "type": "event-group",
+        "formatted_address": "17 Boulevard Saint-Jacques, 75014 Paris",
+        "category": "conference",
+        "labels": [
+          "conference",
+          "event-group"
+        ]
+      }
+    ],
+    "duration": 172799,
+    "start": "2024-04-25T22:00:00Z",
+    "end": "2024-04-27T21:59:59Z",
+    "updated": "2023-12-17T01:46:28Z",
+    "first_seen": "2023-12-17T01:25:46Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.339956,
+      48.831785
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.339956,
+          48.831785
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7y9-nqz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 90,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-27",
+            "value": 90,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 90,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-27",
+            "value": 90,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2971090",
+        "6457375",
+        "6613140",
+        "3016292",
+        "2989781"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 4695,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 3206,
+      "transportation": 1488
+    },
+    "phq_labels": [
+      {
+        "label": "education-and-careers",
+        "weight": 0.637
+      },
+      {
+        "label": "science-and-technology",
+        "weight": 0.363
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "9psCQMFFAbTmL3gn3p",
+    "title": "International Conference on Engineering & Technology",
+    "alternate_titles": [
+      "ICBE",
+      "ICEM",
+      "ICITCS",
+      "International Conference on Business and Economics",
+      "International Conference on Education & Management",
+      "International Conference on IT & Computer Science"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "conference",
+    "labels": [
+      "conference"
+    ],
+    "rank": 30,
+    "local_rank": 32,
+    "phq_attendance": 100,
+    "entities": [
+      {
+        "entity_id": "RnxNNGKNkHh9LFqKKQzymM",
+        "name": "Paris Marriott Rive Gauche Hotel & Conference Center",
+        "type": "venue",
+        "formatted_address": "17 Boulevard Saint-Jacques\n75014 Paris\nFrance"
+      },
+      {
+        "entity_id": "tr8ieYUgCJvvgE9yenVaK6",
+        "name": "International Conference on Engineering & Technology",
+        "type": "event-group",
+        "formatted_address": "17 Boulevard Saint-Jacques, 75014 Paris",
+        "category": "conference",
+        "labels": [
+          "conference",
+          "event-group"
+        ]
+      }
+    ],
+    "duration": 172799,
+    "start": "2024-04-25T22:00:00Z",
+    "end": "2024-04-27T21:59:59Z",
+    "updated": "2023-12-17T01:48:01Z",
+    "first_seen": "2023-12-17T01:05:49Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.339956,
+      48.831785
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.339956,
+          48.831785
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7y9-nqz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 100,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-27",
+            "value": 100,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 100,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-27",
+            "value": 100,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2971090",
+        "6457375",
+        "6613140",
+        "3016292",
+        "2989781"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 5217,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 3563,
+      "transportation": 1654
+    },
+    "phq_labels": [
+      {
+        "label": "science-and-technology",
+        "weight": 0.553
+      },
+      {
+        "label": "education-and-careers",
+        "weight": 0.447
+      }
+    ]
+  }
+]

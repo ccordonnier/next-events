@@ -1,0 +1,4832 @@
+[
+  {
+    "relevance": 1,
+    "id": "7xV8vTUnMCQ9qJ4TwP",
+    "title": "LE LAC DES CYGNES - BALLET ET ORCHESTRE - LE LAC DES CYGNES",
+    "description": "Sourced from predicthq.com - Chef-d’œuvre intemporel du ballet classique, le Lac des Cygnes fait son grand retour en 2024.Dans une toute nouvelle tournée française et européenne, retrouvez l’amour romanesque d’une princesse-cygne et de son prince sous de somptueux décors et d’étincelants costumes dans cette dernière production inédite.Ce ballet nous plonge dans l’histoire féérique du Prince Siegfried et de la Princesse Odette. Celle-ci est victime du célèbre maléfice du magicien Rothbart: elle se transforme en cygne le jour et redevient femme la nuit. Seule la promesse d’un amour éternel pourra la libérer de cet ensorcellement. Siegfried promet alors à Odette de l’épouser lors du bal donné en son honneur. Échapperont-ils aux fourberies de Rothbart et de sa fille Odile? Le Prince parviendra-t-il à sauver sa promise? Créé en 1875 par le compositeur russe Piotr Ilitch Tchaïkovski, c’est en 1895 avec la reprise du chorégraphe Marius Petipa que Le Lac des Cygnes deviendra le plus grand succès classique de tous les temps. Entre « Pas de deux », duos romantiques et « Danse des Petits Cygnes », les danseurs, accompagnés d’un orchestre de renom, interpréteront tout en élégance cette œuvre magistrale. Symbole du ballet romantique, Le Lac des Cygnes envoûte et continue d’enchanter enfants comme adultes.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "u3dbzFUXJUGPnx36gAzBa",
+        "name": "Casino d'Arras",
+        "type": "venue",
+        "formatted_address": "3 Rue Emile Legrelle\n62000 Arras\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:00:00Z",
+    "end": "2024-05-07T18:00:00Z",
+    "predicted_end": "2024-05-07T20:10:00Z",
+    "updated": "2024-01-09T00:25:50Z",
+    "first_seen": "2023-06-03T00:23:43Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.7770794,
+      50.2900117
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.7770794,
+          50.2900117
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-nxf-kj9"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3036783",
+        "6618442",
+        "3036784"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "HehjTv8hTBerp2tos9",
+    "title": "LES HOMMES SONT CONS, - LES HOMMES SONT CONS, LES FEMMES CASSE COUILLES",
+    "description": "Sourced from predicthq.com - La séance initialement prévue le 02 février 2024 à 20h00 aura finalement lieu à 21h30Les billets restent valables, les remboursements sont acceptésLa séance initialement prévue le 01 février 2024 à 20h00 est annulée, remboursement des billetsIl y a des dates qu'il ne faut surtout pas oublier, exemple : 10 ans de couple !Pupuce et Minou fêtent leurs dix ans de couple. Pour l'occasion, Pupuce espère que son minou lui aura réservé une soirée exceptionnelle, mais Minou à complètement oublié cet anniversaire, forcément c'est un homme !Pour ne pas décevoir sa chérie, il fait mine de ne pas avoir oublié et improvise une soirée surprise riche en rebondissements. Ce couple va passer une soirée qu'il n'est pas près d'oublier : mensonges, cadeaux moches, sexe, fantasmes, alcool, amis, révélations et pétages de plombs !Messieurs, vous n'oublierez plus jamais la date de votre anniversaire de rencontre !A Savoir :Spectacle déconseillé aux enfants de moins de 14 ans.Auteur : Julie AymardMetteur en scène : Julian Aymard",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 34,
+    "local_rank": 48,
+    "phq_attendance": 167,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-05T15:00:00Z",
+    "end": "2024-05-05T15:00:00Z",
+    "predicted_end": "2024-05-05T16:50:00Z",
+    "updated": "2024-02-02T03:30:55Z",
+    "first_seen": "2023-08-30T01:00:21Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3320,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2001,
+      "transportation": 1319
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "BV2dK3bAuHi367sF8q",
+    "title": "LE LAC DES CYGNES - BALLET ET ORCHESTRE - LE LAC DES CYGNES",
+    "description": "Sourced from predicthq.com - Join us at Zenith Arena Lille in Lille, Hauts-de-France, France for an enchanting evening of ballet and orchestral music as the timeless classic 'Le Lac des Cygnes' comes to life on stage. Experience the grace and beauty of this iconic performance, accompanied by a captivating orchestra, guaranteed to transport you into a world of pure wonder and emotion.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 59,
+    "local_rank": 72,
+    "phq_attendance": 2711,
+    "entities": [
+      {
+        "entity_id": "Wze8QwanBCUvrKYmAc9jhv",
+        "name": "Zenith Arena Lille",
+        "type": "venue",
+        "formatted_address": "1 Boulevard des Cités Unies\n59777 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-05T14:00:00Z",
+    "end": "2024-05-05T14:00:00Z",
+    "predicted_end": "2024-05-05T16:10:00Z",
+    "updated": "2024-01-09T00:25:09Z",
+    "first_seen": "2023-03-18T00:22:26Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0774781,
+      50.6335712
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0774781,
+          50.6335712
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3x-7qz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 407,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 2711,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 272,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 760,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 2711,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 28,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 72479,
+    "predicted_event_spend_industries": {
+      "accommodation": 5093,
+      "hospitality": 40613,
+      "transportation": 26772
+    },
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "h8tJUDAy9KRYQ4zcke",
+    "title": "RIMBAUD UNE SAISON EN ENFER",
+    "description": "Sourced from predicthq.com - Jadis, si je me souviens bien, ma vie était un festin où s'ouvraient tous les coeurs, où tous les vins coulaient. Été 1873, Rimbaud n'a que 19 ans et le voilà déjà usé de susciter l'engouement des poètes. Il a le coeur retourné après une violente dispute avec son amant, Paul Verlaine, qui lui a tiré un coup de pistolet et a choisi de retourner vivre avec sa femme. Rimbaud écrit alors Une Saison en Enfer et décide de le publier à compte d'auteur mais s'en détourne, abandonne tout et s'en va. Pour quelle raison ? Certainement parce qu'Arthur n'est plus tout à fait Rimbaud. Il ne s'intéresse plus à la littérature.Le poète a déjà dépassé la banalité de l'existence et vit désormais pourchassé par des images de cadavres.Une Saison en Enfer, c'est le tableau bouleversant d'une conversion autant qu'un discours contre chaque forme d'hypocrisie. Alors oubliez printemps, été, automne et hiver ! Et plongez dans cette lecture-spectacle qui vous révèle Une Saison en Enfer !",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "a2fCn6TEKFhZkLGP8w7eUR",
+        "name": "THEATRE RONNY COUTTEURE",
+        "type": "venue",
+        "formatted_address": "1, RUE LÉON GAMBETTA\n59273 Fretin\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-05T14:00:00Z",
+    "end": "2024-05-05T14:00:00Z",
+    "predicted_end": "2024-05-05T15:50:00Z",
+    "updated": "2024-01-20T01:53:19Z",
+    "first_seen": "2024-01-20T00:16:02Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.1303576,
+      50.5571348
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.1303576,
+          50.5571348
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-p3n-h3q"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6438253",
+        "3017100"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false
+  },
+  {
+    "relevance": 1,
+    "id": "5aVMeYGRT2TDggMxJZ",
+    "title": "Y'A DU MACRON A S'FAIRE !",
+    "description": "Sourced from predicthq.com - 'Y'A DU MACRON A S'FAIRE !' is an engaging and thought-provoking performing-art event taking place at Théâtre Sebastopol in Lille, Hauts-de-France, France. Through a combination of captivating performances, it explores and critiques the political landscape surrounding President Emmanuel Macron, sparking conversations on power, leadership, and societal values.",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 50,
+    "local_rank": 63,
+    "phq_attendance": 1023,
+    "entities": [
+      {
+        "entity_id": "LbCNv8YiWV5wSTYptfUNPP",
+        "name": "Théâtre Sebastopol",
+        "type": "venue",
+        "formatted_address": "Place Sébastopol\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-05T13:30:00Z",
+    "end": "2024-05-05T13:30:00Z",
+    "predicted_end": "2024-05-05T15:40:00Z",
+    "updated": "2023-12-18T01:14:08Z",
+    "first_seen": "2023-04-15T02:54:57Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0581095,
+      50.6291845
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0581095,
+          50.6291845
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-rkz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 1023,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 287,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 1023,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 11,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 27350,
+    "predicted_event_spend_industries": {
+      "accommodation": 1922,
+      "hospitality": 15325,
+      "transportation": 10102
+    },
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "7cXN7By9pJGFcY74WY",
+    "title": "Le gang des chieuses",
+    "description": "Sourced from predicthq.com - La séance initialement prévue le 04 novembre 2023 à 21h30 est annulée, remboursement des billetsVous aussi vous êtes une chieuse ?L'une est célibataire endurcie.L'autre n'arrive pas à tenir un couple.La première est spirituelle.La seconde cartésienne.Tout les oppose et pourtant... A elles deux, elles forment le gang des chieuses.Par choix ou par maladresse découvrez pourquoi il est important de le rester... ou pas.Auteur : Elise Ponti",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 36,
+    "local_rank": 49,
+    "phq_attendance": 189,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-04T19:30:00Z",
+    "end": "2024-05-04T19:30:00Z",
+    "predicted_end": "2024-05-04T21:40:00Z",
+    "updated": "2024-02-02T03:30:29Z",
+    "first_seen": "2023-08-26T00:17:56Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 189,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 189,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3758,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2265,
+      "transportation": 1493
+    },
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "9HidfMM53DGR27QHCH",
+    "title": "CE SOIR OU JAMAIS",
+    "alternate_titles": [
+      "LES HOMMES SONT CONS, - LES HOMMES SONT CONS, LES FEMMES CASSE COUILLES"
+    ],
+    "description": "Sourced from predicthq.com - La séance initialement prévue le 25 février 2024 à 17h00 est annulée, remboursement des billetsLa séance initialement prévue le 09 janvier 2024 à 20h00 est annulée, remboursement des billetsLa séance initialement prévue le 04 novembre 2023 à 16h00 est annulée, remboursement des billetsChercher l'amour via une application de rencontres peut réserver quelques surprises.Greg, jeune célibataire sentimentalement perdu, a promis à sa mère qu'il se caserait avant ses 35 ans.Et c'est ce soir.Il ne lui reste plus qu'une heure pour tenir cette promesse.Il décide de s'inscrire sur l'application  Ce soir ou jamais , qui lui garantit de lui faire rencontrer celles avec qui ça marchera à coup sûr.Mais, peut-on faire confiance aux algorithmes et trouver le véritable amour sur une application de rencontre ? Et surtout, Greg est-il prêt à être en couple ?Venez partager l'intimité de ce célibataire  fils à maman , dans  Ce soir ou jamais , une comédie de moeurs fraîche et légère où les deux sexes en prennent pour leur grade et dans laquelle, l'auteur vous offre un savoureux mélange de plusieurs genres de théâtre : comédie, café-théâtre, stand-up, improvisation.Auteur : Robert Punzano",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 34,
+    "local_rank": 48,
+    "phq_attendance": 167,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-04T18:00:00Z",
+    "end": "2024-05-04T18:00:00Z",
+    "predicted_end": "2024-05-04T19:50:00Z",
+    "updated": "2024-02-02T03:29:51Z",
+    "first_seen": "2023-08-26T00:14:57Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": false,
+    "private": false,
+    "predicted_event_spend": 3320,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2001,
+      "transportation": 1319
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "9LmbM9xU6N33rZyM7f",
+    "title": "TOUTE L'HISTOIRE DE LA PEINTURE",
+    "description": "Sourced from predicthq.com - Hector Obalk fait un stand’up en musique et en images sur l’histoire de la peinture occidentale, accompagné de ses musiciens et d'un écran géant projetant des détails époustouflants. Spectacle complet, visuellement sophistiqué, musical et drôlissime d’un expert original, passionné et pédagogue. Pour tout public, de 9 à 99 ans. Sur la trame d’un mur de 1000 images, chaque show propose de visiter toute l’Histoire de la peinture, de Giotto à Yves Klein, et au-delà...",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 50,
+    "local_rank": 63,
+    "phq_attendance": 1024,
+    "entities": [
+      {
+        "entity_id": "LbCNv8YiWV5wSTYptfUNPP",
+        "name": "Théâtre Sebastopol",
+        "type": "venue",
+        "formatted_address": "Place Sébastopol\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-04T18:00:00Z",
+    "end": "2024-05-04T18:00:00Z",
+    "predicted_end": "2024-05-04T19:50:00Z",
+    "updated": "2024-01-19T03:01:49Z",
+    "first_seen": "2024-01-19T00:33:14Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0581095,
+      50.6291845
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0581095,
+          50.6291845
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-rkz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 1024,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 287,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 1024,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 11,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 29300,
+    "predicted_event_spend_industries": {
+      "accommodation": 3847,
+      "hospitality": 15340,
+      "transportation": 10112
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "HJjn3HbGyq3GfyqaWp",
+    "title": "PLANQUEZ VOS SAINTS - PLANQUEZ VOS SAINTS NOUS NE SOMMES PAS DES ANGES",
+    "description": "Sourced from predicthq.com - Quand arrive le week-end de la Toussaint et qu'il n'y a plus personne pour garder le purgatoire, c'est la panique totale !C'est la Toussaint et Dieu et Satan décident de s'offrir un peu de vacances. Conduits par Saint-Pierre, il ne reste personne pour garder le Purgatoire !Mais pour quelques heures sans gardien, ce serait bien le Diable si des âmes débarquaient, non ?Et pourtant... Une blonde hystérique et un braqueur prétentieux parviennent à se retrouver pris au piège entre l'Enfer et le Paradis !Avec une avalanche de rires, de quiproquos et de situations plus rocambolesques les unes que les autres, embarquez pour un voyage humoristique de la Terre vers le Ciel ou, pour les moins sages, de la Terre vers les plaisirs de l'Enfer !",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "a2fCn6TEKFhZkLGP8w7eUR",
+        "name": "THEATRE RONNY COUTTEURE",
+        "type": "venue",
+        "formatted_address": "1, RUE LÉON GAMBETTA\n59273 Fretin\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-04T17:00:00Z",
+    "end": "2024-05-04T17:00:00Z",
+    "predicted_end": "2024-05-04T18:50:00Z",
+    "updated": "2024-01-20T01:52:04Z",
+    "first_seen": "2024-01-20T00:28:44Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.1303576,
+      50.5571348
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.1303576,
+          50.5571348
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-p3n-h3q"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6438253",
+        "3017100"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "9SaVjkX3h7Eszhszia",
+    "title": "CHERI, ON SE DIT TOUT !",
+    "alternate_titles": [
+      "LE DINER DE CONS"
+    ],
+    "description": "Sourced from predicthq.com - Le spectacle initialement prévu le 04 octobre 2023 à 20h00 est annulé, remboursement des billetsLe spectacle initialement prévu le 11 octobre 2023 à 20h00 est annulé, remboursement des billetsEntre hommes et femmes, une seule règle : ne pas se fâcher ! Doit-on tout se dire lorsque l'on est en couple ? Florence et Damien sont ensemble depuis sept ans. Florence décide qu'il est temps ne plus rien se cacher pour faire durer son couple. Alors, le temps d'un weekend, ils vont jouer la transparence totale et tout se dire... leur contrainte, ne jamais se fâcher !La famille, les amis, le quotidien, tout y passe ! Florence et Damien arriveront-ils à relever le défi ? Auteurs : Guilhem Connac, Benoit Labannierre",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 34,
+    "local_rank": 48,
+    "phq_attendance": 167,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-04T16:00:00Z",
+    "end": "2024-05-04T16:00:00Z",
+    "predicted_end": "2024-05-04T17:50:00Z",
+    "updated": "2024-02-02T03:31:19Z",
+    "first_seen": "2023-08-31T00:25:06Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3320,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2001,
+      "transportation": 1319
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "HsGYFrNMqcnrj3Q9Vr",
+    "title": "LES AVENTURES EXTRAORDINAIRES",
+    "description": "Sourced from predicthq.com - Et si, comme Fred l'Explorateur, chaque enfant faisait de son imagination une aventure extraordinaire ?Fred l'explorateur part pour des aventures extraordinaires avec ses deux fidèles compagnons : sa guitare et son petit robot.Vous les enfants, vous ne serez pas de trop pour aider Fred et ses amis à passer les différents obstacles. Un spectacle interactif et musical qui éveille l'imagination tout en s'amusant au travers d'inoubliables aventures. Alors, n'hésitez plus ! Partez dans la forêt magique, nagez au milieu de l'océan et volez même dans l'espace avec Fred l'Explorateur, Zita la Guitare et Zoom le petit Robot ! Un spectacle qui plaira aux petits comme aux grands !",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "a2fCn6TEKFhZkLGP8w7eUR",
+        "name": "THEATRE RONNY COUTTEURE",
+        "type": "venue",
+        "formatted_address": "1, RUE LÉON GAMBETTA\n59273 Fretin\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-04T14:00:00Z",
+    "end": "2024-05-04T14:00:00Z",
+    "predicted_end": "2024-05-04T16:10:00Z",
+    "updated": "2024-01-20T01:53:38Z",
+    "first_seen": "2024-01-20T00:46:30Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.1303576,
+      50.5571348
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.1303576,
+          50.5571348
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-p3n-h3q"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6438253",
+        "3017100"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "F6FqNqdS2sXJfQ8YW9",
+    "title": "Alice au pays des merveilles",
+    "description": "Sourced from predicthq.com - Quand Alice peine à apprendre sa leçon d’histoire géographie, elle se laisse aller à ses rêveries...Mais TIC TAC, le lapin est en retard et Alice n’a qu’une idée en tête: le suivre !Dans sa course folle, elle va rencontrer autant de personnages et d’univers fantastiques tous plus colorés les uns que les autres.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 35,
+    "local_rank": 49,
+    "phq_attendance": 187,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-04T12:30:00Z",
+    "end": "2024-05-04T12:30:00Z",
+    "predicted_end": "2024-05-04T14:40:00Z",
+    "updated": "2024-02-02T03:31:01Z",
+    "first_seen": "2023-09-24T02:22:44Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 187,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 187,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": false,
+    "private": false,
+    "predicted_event_spend": 3718,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2241,
+      "transportation": 1477
+    },
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "4dGBpHZXG97mzEELa8",
+    "title": "J'AI BESOIN DE TON AMOUR ET D'UNE PSY",
+    "description": "Sourced from predicthq.com - Et si la rencontre du grand amour passait pas une thérapie pour atteindre la terre Happy ?Notre héros, comme la plupart des losers, ne rêve que d'une chose : passer de malheureux à mâle heureux !En quête du grand amour, qu'il pense avoir déjà croisé... ou pas, il décide d'écrire le roman de sa vie en se mettant seul en scène avec l'appui de sa psy.De rencontres amoureuses plus romantiques et drôles les unes que les autres, suivez le parcours de ce combattant des coeurs dans un seul en scène authentique où amour rime avec humour.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "a2fCn6TEKFhZkLGP8w7eUR",
+        "name": "THEATRE RONNY COUTTEURE",
+        "type": "venue",
+        "formatted_address": "1, RUE LÉON GAMBETTA\n59273 Fretin\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-03T18:30:00Z",
+    "end": "2024-05-03T18:30:00Z",
+    "predicted_end": "2024-05-03T20:20:00Z",
+    "updated": "2024-01-20T01:47:50Z",
+    "first_seen": "2024-01-20T00:32:43Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.1303576,
+      50.5571348
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.1303576,
+          50.5571348
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-p3n-h3q"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6438253",
+        "3017100"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false
+  },
+  {
+    "relevance": 1,
+    "id": "DMMCT9UfgSJrb9udKC",
+    "title": "LES HOMMES SONT CONS, - LES HOMMES SONT CONS, LES FEMMES CASSE COUILLES",
+    "description": "Sourced from predicthq.com - La séance initialement prévue le 02 février 2024 à 20h00 aura finalement lieu à 21h30Les billets restent valables, les remboursements sont acceptésLa séance initialement prévue le 01 février 2024 à 20h00 est annulée, remboursement des billetsIl y a des dates qu'il ne faut surtout pas oublier, exemple : 10 ans de couple !Pupuce et Minou fêtent leurs dix ans de couple. Pour l'occasion, Pupuce espère que son minou lui aura réservé une soirée exceptionnelle, mais Minou à complètement oublié cet anniversaire, forcément c'est un homme !Pour ne pas décevoir sa chérie, il fait mine de ne pas avoir oublié et improvise une soirée surprise riche en rebondissements. Ce couple va passer une soirée qu'il n'est pas près d'oublier : mensonges, cadeaux moches, sexe, fantasmes, alcool, amis, révélations et pétages de plombs !Messieurs, vous n'oublierez plus jamais la date de votre anniversaire de rencontre !A Savoir :Spectacle déconseillé aux enfants de moins de 14 ans.Auteur : Julie AymardMetteur en scène : Julian Aymard",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 34,
+    "local_rank": 48,
+    "phq_attendance": 167,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-03T18:00:00Z",
+    "end": "2024-05-03T18:00:00Z",
+    "predicted_end": "2024-05-03T19:50:00Z",
+    "updated": "2024-02-02T03:30:57Z",
+    "first_seen": "2023-08-30T03:48:45Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3320,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2001,
+      "transportation": 1319
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "9E62FECE6BKJs6UiHn",
+    "title": "Alice au pays des merveilles",
+    "description": "Sourced from predicthq.com - Quand Alice peine à apprendre sa leçon d’histoire géographie, elle se laisse aller à ses rêveries...Mais TIC TAC, le lapin est en retard et Alice n’a qu’une idée en tête: le suivre !Dans sa course folle, elle va rencontrer autant de personnages et d’univers fantastiques tous plus colorés les uns que les autres.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 35,
+    "local_rank": 49,
+    "phq_attendance": 187,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-03T13:00:00Z",
+    "end": "2024-05-03T13:00:00Z",
+    "predicted_end": "2024-05-03T15:10:00Z",
+    "updated": "2024-02-02T03:30:19Z",
+    "first_seen": "2023-09-24T02:30:18Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 187,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 187,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": false,
+    "private": false,
+    "predicted_event_spend": 3718,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2241,
+      "transportation": 1477
+    },
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "HybwDx2BgEtsqYLQiz",
+    "title": "JEAN-CHRISTOPHE ET WINNIE",
+    "description": "Sourced from predicthq.com - Lorsque la forêt des Rêves Bleus voit le retour de Jean-Christophe, ce sont tous les personnages de notre enfance qui reprennent des couleurs !Jean-Christophe a bien grandi et a réalisé son plus grand rêve, devenir artiste. Il écrit des histoires, des chansons et fait même quelques dessins. Mais lorsque sa patronne, Lady Trice, lui demande de trouver la plus merveilleuse des plus merveilleuses idées pour son nouveau livre, c'est la pire des pires choses qui lui arrive : la panne d'inspiration !Jean-Christophe décide alors de retourner dans la forêt des Rêves Bleus, là où toutes ses petites histoires sont devenues de grandes histoires, là où tous les presque impossibles sont devenus possibles, là où toutes ses petites peluches sont devenues... de grands amis !Chers enfants, chers parents, prenez vos valises remplies de vos plus beaux rêves et partez avec Jean-Christophe à la rencontre de la magie de l'enfance et de Winnie l'ourson et tous ses amis !",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "a2fCn6TEKFhZkLGP8w7eUR",
+        "name": "THEATRE RONNY COUTTEURE",
+        "type": "venue",
+        "formatted_address": "1, RUE LÉON GAMBETTA\n59273 Fretin\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-03T13:00:00Z",
+    "end": "2024-05-03T13:00:00Z",
+    "predicted_end": "2024-05-03T15:10:00Z",
+    "updated": "2024-01-20T01:50:29Z",
+    "first_seen": "2024-01-20T00:21:19Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.1303576,
+      50.5571348
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.1303576,
+          50.5571348
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-p3n-h3q"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6438253",
+        "3017100"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "72u7g7x7MGAsx9BC5S",
+    "title": "LES HOMMES SONT CONS, - LES HOMMES SONT CONS, LES FEMMES CASSE COUILLES",
+    "description": "Sourced from predicthq.com - La séance initialement prévue le 02 février 2024 à 20h00 aura finalement lieu à 21h30Les billets restent valables, les remboursements sont acceptésLa séance initialement prévue le 01 février 2024 à 20h00 est annulée, remboursement des billetsIl y a des dates qu'il ne faut surtout pas oublier, exemple : 10 ans de couple !Pupuce et Minou fêtent leurs dix ans de couple. Pour l'occasion, Pupuce espère que son minou lui aura réservé une soirée exceptionnelle, mais Minou à complètement oublié cet anniversaire, forcément c'est un homme !Pour ne pas décevoir sa chérie, il fait mine de ne pas avoir oublié et improvise une soirée surprise riche en rebondissements. Ce couple va passer une soirée qu'il n'est pas près d'oublier : mensonges, cadeaux moches, sexe, fantasmes, alcool, amis, révélations et pétages de plombs !Messieurs, vous n'oublierez plus jamais la date de votre anniversaire de rencontre !A Savoir :Spectacle déconseillé aux enfants de moins de 14 ans.Auteur : Julie AymardMetteur en scène : Julian Aymard",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 34,
+    "local_rank": 48,
+    "phq_attendance": 167,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-02T18:00:00Z",
+    "end": "2024-05-02T18:00:00Z",
+    "predicted_end": "2024-05-02T19:50:00Z",
+    "updated": "2024-02-02T03:30:02Z",
+    "first_seen": "2023-08-30T03:48:45Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-02",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-02",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3320,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2001,
+      "transportation": 1319
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "3DCZyBpy9epHmV6pFd",
+    "title": "Alice au pays des merveilles",
+    "description": "Sourced from predicthq.com - Quand Alice peine à apprendre sa leçon d’histoire géographie, elle se laisse aller à ses rêveries...Mais TIC TAC, le lapin est en retard et Alice n’a qu’une idée en tête: le suivre !Dans sa course folle, elle va rencontrer autant de personnages et d’univers fantastiques tous plus colorés les uns que les autres.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 35,
+    "local_rank": 49,
+    "phq_attendance": 187,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-02T13:00:00Z",
+    "end": "2024-05-02T13:00:00Z",
+    "predicted_end": "2024-05-02T15:10:00Z",
+    "updated": "2024-02-02T03:30:35Z",
+    "first_seen": "2023-09-24T02:49:03Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-02",
+            "value": 187,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-02",
+            "value": 187,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": false,
+    "private": false,
+    "predicted_event_spend": 3718,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2241,
+      "transportation": 1477
+    },
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "8AehPPKAKGVB3BV3cC",
+    "title": "CHERI, ON SE DIT TOUT !",
+    "description": "Sourced from predicthq.com - Le spectacle initialement prévu le 04 octobre 2023 à 20h00 est annulé, remboursement des billetsLe spectacle initialement prévu le 11 octobre 2023 à 20h00 est annulé, remboursement des billetsEntre hommes et femmes, une seule règle : ne pas se fâcher ! Doit-on tout se dire lorsque l'on est en couple ? Florence et Damien sont ensemble depuis sept ans. Florence décide qu'il est temps ne plus rien se cacher pour faire durer son couple. Alors, le temps d'un weekend, ils vont jouer la transparence totale et tout se dire... leur contrainte, ne jamais se fâcher !La famille, les amis, le quotidien, tout y passe ! Florence et Damien arriveront-ils à relever le défi ? Auteurs : Guilhem Connac, Benoit Labannierre",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 34,
+    "local_rank": 48,
+    "phq_attendance": 167,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-01T18:00:00Z",
+    "end": "2024-05-01T18:00:00Z",
+    "predicted_end": "2024-05-01T19:50:00Z",
+    "updated": "2024-02-02T03:31:28Z",
+    "first_seen": "2023-08-31T00:24:24Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-01",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-01",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3320,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2001,
+      "transportation": 1319
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "7FuqiCY58VNkTXJ69f",
+    "title": "PETER PAN OU EST CLOCHETTE",
+    "description": "Sourced from predicthq.com - Peter Pan et la fée Clochette ont beau être les meilleurs amis du monde, une simple dispute vient tout remettre en question.Peter Pan a invité son amie, la fée Clochette, pour une partie de cache-cache. Mais aujourd'hui, Clochette a décidé de remettre les pendules à l'heure en montrant qu'elle est la meilleure. Sauf que ce n'est pas du tout du goût de Peter qui est un mauvais perdant. Le jeu bascule vite en dispute et Clochette quitte le monde imaginaire.Peter n'a alors qu'une idée en tête, retrouver son amie. Mais où est-elle ? Dans quel monde est-elle allée ?Peter va devoir faire vite avant qu'elle ne parte trop loin. À moins que le capitaine Crochet ne vienne se mettre sur sa route.De l'amitié, du rire, de l'émotion, de la musique.Retrouvez Peter Pan dans une nouvelle aventure totalement inédite contée par un comédien qui se glisse dans la peau de chaque personnage !",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "a2fCn6TEKFhZkLGP8w7eUR",
+        "name": "THEATRE RONNY COUTTEURE",
+        "type": "venue",
+        "formatted_address": "1, RUE LÉON GAMBETTA\n59273 Fretin\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-01T13:00:00Z",
+    "end": "2024-05-01T13:00:00Z",
+    "predicted_end": "2024-05-01T15:10:00Z",
+    "updated": "2024-01-20T01:49:55Z",
+    "first_seen": "2024-01-20T00:25:54Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.1303576,
+      50.5571348
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.1303576,
+          50.5571348
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-p3n-h3q"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6438253",
+        "3017100"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "C4ShNVmWPEgvq9jtiJ",
+    "title": "Alice au pays des merveilles",
+    "description": "Sourced from predicthq.com - Quand Alice peine à apprendre sa leçon d’histoire géographie, elle se laisse aller à ses rêveries...Mais TIC TAC, le lapin est en retard et Alice n’a qu’une idée en tête: le suivre !Dans sa course folle, elle va rencontrer autant de personnages et d’univers fantastiques tous plus colorés les uns que les autres.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 35,
+    "local_rank": 49,
+    "phq_attendance": 187,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-01T13:00:00Z",
+    "end": "2024-05-01T13:00:00Z",
+    "predicted_end": "2024-05-01T15:10:00Z",
+    "updated": "2024-02-02T03:29:23Z",
+    "first_seen": "2023-09-24T02:46:15Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-01",
+            "value": 187,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-01",
+            "value": 187,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": false,
+    "private": false,
+    "predicted_event_spend": 3718,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2241,
+      "transportation": 1477
+    },
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "BTsbkvDP5MeuCGCwps",
+    "title": "CE SOIR OU JAMAIS",
+    "description": "Sourced from predicthq.com - La séance initialement prévue le 25 février 2024 à 17h00 est annulée, remboursement des billetsLa séance initialement prévue le 09 janvier 2024 à 20h00 est annulée, remboursement des billetsLa séance initialement prévue le 04 novembre 2023 à 16h00 est annulée, remboursement des billetsChercher l'amour via une application de rencontres peut réserver quelques surprises.Greg, jeune célibataire sentimentalement perdu, a promis à sa mère qu'il se caserait avant ses 35 ans.Et c'est ce soir.Il ne lui reste plus qu'une heure pour tenir cette promesse.Il décide de s'inscrire sur l'application  Ce soir ou jamais , qui lui garantit de lui faire rencontrer celles avec qui ça marchera à coup sûr.Mais, peut-on faire confiance aux algorithmes et trouver le véritable amour sur une application de rencontre ? Et surtout, Greg est-il prêt à être en couple ?Venez partager l'intimité de ce célibataire  fils à maman , dans  Ce soir ou jamais , une comédie de moeurs fraîche et légère où les deux sexes en prennent pour leur grade et dans laquelle, l'auteur vous offre un savoureux mélange de plusieurs genres de théâtre : comédie, café-théâtre, stand-up, improvisation.Auteur : Robert Punzano",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 34,
+    "local_rank": 48,
+    "phq_attendance": 167,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-30T18:00:00Z",
+    "end": "2024-04-30T18:00:00Z",
+    "predicted_end": "2024-04-30T19:50:00Z",
+    "updated": "2024-02-02T03:30:35Z",
+    "first_seen": "2023-08-26T00:27:46Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-30",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-30",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": false,
+    "private": false,
+    "predicted_event_spend": 3320,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2001,
+      "transportation": 1319
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "HPDGfQMSHpSTAvavmk",
+    "title": "Alice au pays des merveilles",
+    "description": "Sourced from predicthq.com - Quand Alice peine à apprendre sa leçon d’histoire géographie, elle se laisse aller à ses rêveries...Mais TIC TAC, le lapin est en retard et Alice n’a qu’une idée en tête: le suivre !Dans sa course folle, elle va rencontrer autant de personnages et d’univers fantastiques tous plus colorés les uns que les autres.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 35,
+    "local_rank": 49,
+    "phq_attendance": 187,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-30T13:00:00Z",
+    "end": "2024-04-30T13:00:00Z",
+    "predicted_end": "2024-04-30T15:10:00Z",
+    "updated": "2024-02-02T03:29:04Z",
+    "first_seen": "2023-09-24T02:48:55Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-30",
+            "value": 187,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-30",
+            "value": 187,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": false,
+    "private": false,
+    "predicted_event_spend": 3718,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2241,
+      "transportation": 1477
+    },
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "4YWUimh9hi8h7E9gN8",
+    "title": "Le gang des chieuses",
+    "description": "Sourced from predicthq.com - La séance initialement prévue le 04 novembre 2023 à 21h30 est annulée, remboursement des billetsVous aussi vous êtes une chieuse ?L'une est célibataire endurcie.L'autre n'arrive pas à tenir un couple.La première est spirituelle.La seconde cartésienne.Tout les oppose et pourtant... A elles deux, elles forment le gang des chieuses.Par choix ou par maladresse découvrez pourquoi il est important de le rester... ou pas.Auteur : Elise Ponti",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 36,
+    "local_rank": 49,
+    "phq_attendance": 189,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-29T18:00:00Z",
+    "end": "2024-04-29T18:00:00Z",
+    "predicted_end": "2024-04-29T20:10:00Z",
+    "updated": "2024-02-02T03:31:10Z",
+    "first_seen": "2023-08-26T05:38:32Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-29",
+            "value": 189,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-29",
+            "value": 189,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3758,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2265,
+      "transportation": 1493
+    },
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "CSUzrKDn3hNBkGFd8a",
+    "title": "JEAN-CHRISTOPHE ET WINNIE",
+    "description": "Sourced from predicthq.com - Lorsque la forêt des Rêves Bleus voit le retour de Jean-Christophe, ce sont tous les personnages de notre enfance qui reprennent des couleurs !Jean-Christophe a bien grandi et a réalisé son plus grand rêve, devenir artiste. Il écrit des histoires, des chansons et fait même quelques dessins. Mais lorsque sa patronne, Lady Trice, lui demande de trouver la plus merveilleuse des plus merveilleuses idées pour son nouveau livre, c'est la pire des pires choses qui lui arrive : la panne d'inspiration !Jean-Christophe décide alors de retourner dans la forêt des Rêves Bleus, là où toutes ses petites histoires sont devenues de grandes histoires, là où tous les presque impossibles sont devenus possibles, là où toutes ses petites peluches sont devenues... de grand amis !Chers enfants, chers parents, prenez vos valises remplies de vos plus beaux rêves et partez avec Jean-Christophe à la rencontre de la magie de l'enfance et de Winnie l'ourson et tous ses amis !",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 28,
+    "local_rank": 46,
+    "phq_attendance": 80,
+    "entities": [
+      {
+        "entity_id": "kHgutanbF3MjZc4dyczSGT",
+        "name": "LA FERME DUPIRE",
+        "type": "venue",
+        "formatted_address": "80 RUE YVES DECUGIS\n59650 Villeneuve D'ascq\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-29T15:00:00Z",
+    "end": "2024-04-29T15:00:00Z",
+    "predicted_end": "2024-04-29T17:10:00Z",
+    "updated": "2023-12-31T00:42:26Z",
+    "first_seen": "2023-12-31T00:22:20Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.1419495,
+      50.6189057
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.1419495,
+          50.6189057
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3c-8n5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-29",
+            "value": 80,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-29",
+            "value": 80,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "2968577",
+        "3037551"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 1590,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 958,
+      "transportation": 632
+    },
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "Gd4BrauSRExxPhJVZi",
+    "title": "Alice au pays des merveilles",
+    "description": "Sourced from predicthq.com - Quand Alice peine à apprendre sa leçon d’histoire géographie, elle se laisse aller à ses rêveries...Mais TIC TAC, le lapin est en retard et Alice n’a qu’une idée en tête: le suivre !Dans sa course folle, elle va rencontrer autant de personnages et d’univers fantastiques tous plus colorés les uns que les autres.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 35,
+    "local_rank": 49,
+    "phq_attendance": 187,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-29T13:00:00Z",
+    "end": "2024-04-29T13:00:00Z",
+    "predicted_end": "2024-04-29T15:10:00Z",
+    "updated": "2024-02-02T03:23:54Z",
+    "first_seen": "2023-09-24T02:36:46Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-29",
+            "value": 187,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-29",
+            "value": 187,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": false,
+    "private": false,
+    "predicted_event_spend": 3718,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2241,
+      "transportation": 1477
+    },
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "9GatThuvGBinnuhYov",
+    "title": "PETER PAN OU EST CLOCHETTE",
+    "description": "Sourced from predicthq.com - Peter Pan et la fée Clochette ont beau être les meilleurs amis du monde, une simple dispute vient tout remettre en question.Peter Pan a invité son amie, la fée Clochette, pour une partie de cache-cache. Mais aujourd'hui, Clochette a décidé de remettre les pendules à l'heure en montrant qu'elle est la meilleure.Sauf que ce n'est pas du tout du goût de Peter qui est un mauvais perdant. Le jeu bascule vite en dispute et Clochette quitte le monde imaginaire.Peter n'a alors qu'une idée en tête, retrouver son amie. Mais où est-elle ? Dans quel monde est-elle allée ?Peter va devoir faire vite avant qu'elle ne parte trop loin. À moins que le capitaine Crochet ne vienne se mettre sur sa route.De l'amitié, du rire, de l'émotion, de la musique. Retrouvez Peter Pan dans une nouvelle aventure totalement inédite contée par un comédien qui se glisse dans la peau de chaque personnage !",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 28,
+    "local_rank": 46,
+    "phq_attendance": 80,
+    "entities": [
+      {
+        "entity_id": "kHgutanbF3MjZc4dyczSGT",
+        "name": "LA FERME DUPIRE",
+        "type": "venue",
+        "formatted_address": "80 RUE YVES DECUGIS\n59650 Villeneuve D'ascq\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-29T12:30:00Z",
+    "end": "2024-04-29T12:30:00Z",
+    "predicted_end": "2024-04-29T14:40:00Z",
+    "updated": "2023-12-31T00:18:33Z",
+    "first_seen": "2023-12-31T00:10:23Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.1419495,
+      50.6189057
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.1419495,
+          50.6189057
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3c-8n5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-29",
+            "value": 80,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-29",
+            "value": 80,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "2968577",
+        "3037551"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 1590,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 958,
+      "transportation": 632
+    },
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "BxKDwmG6mgSf493hNW",
+    "title": "ET SI LA FEMME ETAIT L'AVENIR - ET SI LA FEMME ETAIT L'AVENIR DE L'HOMME",
+    "description": "Sourced from predicthq.com - Et si la femme était l'avenir de l'homme ? Serions-nous vraiment dans la merde ?A une époque où chacun tente de faire de son mieux pour que l'égalité entre les sexes ne soit plus une utopie, certains clichés résistent encore et toujours à l'envahisseuse !Mais si la femme prenait définitivement le pouvoir, que se passerait-il ? Les places de parking seraient-elles plus larges ? Les toilettes plus nombreuses ? Les hommes pisseraient-ils assis et porteraient-ils jupes et talons hauts ? Y aurait-il moins de guerres et plus de soldes débiteurs sur les cartes bleues ?Venez découvrir ce que pourrait être le monde de demain à travers un seul en scène musical rempli d'amour et d'humour et qui plaira autant aux femmes qu'aux futurs dominés.",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 28,
+    "local_rank": 46,
+    "phq_attendance": 80,
+    "entities": [
+      {
+        "entity_id": "kHgutanbF3MjZc4dyczSGT",
+        "name": "LA FERME DUPIRE",
+        "type": "venue",
+        "formatted_address": "80 RUE YVES DECUGIS\n59650 Villeneuve D'ascq\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-28T17:00:00Z",
+    "end": "2024-04-28T17:00:00Z",
+    "predicted_end": "2024-04-28T18:50:00Z",
+    "updated": "2023-12-31T00:32:37Z",
+    "first_seen": "2023-12-31T00:19:07Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.1419495,
+      50.6189057
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.1419495,
+          50.6189057
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3c-8n5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 80,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 80,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "2968577",
+        "3037551"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": false,
+    "private": false,
+    "predicted_event_spend": 1590,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 958,
+      "transportation": 632
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "6YchEjAwqZZ4WASJVc",
+    "title": "J'AI BESOIN DE TON AMOUR ET D'UNE PSY",
+    "description": "Sourced from predicthq.com - Et si la rencontre du grand amour passait pas une thérapie pour atteindre la terre Happy ?Le héros, comme la plupart des losers, ne rêve que d'une chose : passer de malheureux à mâle heureux !En quête du grand amour, qu'il pense avoir déjà croisé... ou pas, il décide d'écrire le roman de sa vie en se mettant seul en scène avec l'appui de sa psy.De rencontres amoureuses plus romantiques et drôles les unes que les autres, suivez le parcours de ce combattant des coeurs dans un seul en scène authentique où amour rime avec humour.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 28,
+    "local_rank": 46,
+    "phq_attendance": 80,
+    "entities": [
+      {
+        "entity_id": "kHgutanbF3MjZc4dyczSGT",
+        "name": "LA FERME DUPIRE",
+        "type": "venue",
+        "formatted_address": "80 RUE YVES DECUGIS\n59650 Villeneuve D'ascq\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-28T15:00:00Z",
+    "end": "2024-04-28T15:00:00Z",
+    "predicted_end": "2024-04-28T16:50:00Z",
+    "updated": "2023-12-31T00:32:37Z",
+    "first_seen": "2023-12-31T00:19:07Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.1419495,
+      50.6189057
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.1419495,
+          50.6189057
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3c-8n5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 80,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 80,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "2968577",
+        "3037551"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 1590,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 958,
+      "transportation": 632
+    }
+  },
+  {
+    "relevance": 1,
+    "id": "AxWEbVvJpRW7EuEbnz",
+    "title": "CE SOIR OU JAMAIS",
+    "description": "Sourced from predicthq.com - La séance initialement prévue le 25 février 2024 à 17h00 est annulée, remboursement des billetsLa séance initialement prévue le 09 janvier 2024 à 20h00 est annulée, remboursement des billetsLa séance initialement prévue le 04 novembre 2023 à 16h00 est annulée, remboursement des billetsChercher l'amour via une application de rencontres peut réserver quelques surprises.Greg, jeune célibataire sentimentalement perdu, a promis à sa mère qu'il se caserait avant ses 35 ans.Et c'est ce soir.Il ne lui reste plus qu'une heure pour tenir cette promesse.Il décide de s'inscrire sur l'application  Ce soir ou jamais , qui lui garantit de lui faire rencontrer celles avec qui ça marchera à coup sûr.Mais, peut-on faire confiance aux algorithmes et trouver le véritable amour sur une application de rencontre ? Et surtout, Greg est-il prêt à être en couple ?Venez partager l'intimité de ce célibataire  fils à maman , dans  Ce soir ou jamais , une comédie de moeurs fraîche et légère où les deux sexes en prennent pour leur grade et dans laquelle, l'auteur vous offre un savoureux mélange de plusieurs genres de théâtre : comédie, café-théâtre, stand-up, improvisation.Auteur : Robert Punzano",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 34,
+    "local_rank": 48,
+    "phq_attendance": 167,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-28T15:00:00Z",
+    "end": "2024-04-28T15:00:00Z",
+    "predicted_end": "2024-04-28T16:50:00Z",
+    "updated": "2024-02-02T03:30:47Z",
+    "first_seen": "2023-08-26T00:20:19Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": false,
+    "private": false,
+    "predicted_event_spend": 3320,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2001,
+      "transportation": 1319
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "HSgUpE6MNS6j7EFrLn",
+    "title": "PAPASSS",
+    "description": "Sourced from predicthq.com - Ludmila, 41 ans, 5 enfants, a trois papas, dont elle ignorait encore l’existence 4 ans auparavant.S’ils n’ont pas été là pendant son enfance, ils comptent bien rattraper le temps perdu, et prennent leur rôle de père très au sérieux.Alors, quand elle leur annonce qu’elle se marie avec un homme de leur âge qu’elle ne connaît que depuis 2 mois, l’accueil réservé à ce futur « gendre » va être des plus mitigés.",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 50,
+    "local_rank": 63,
+    "phq_attendance": 1024,
+    "entities": [
+      {
+        "entity_id": "LbCNv8YiWV5wSTYptfUNPP",
+        "name": "Théâtre Sebastopol",
+        "type": "venue",
+        "formatted_address": "Place Sébastopol\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-28T15:00:00Z",
+    "end": "2024-04-28T15:00:00Z",
+    "predicted_end": "2024-04-28T16:50:00Z",
+    "updated": "2023-12-17T21:32:36Z",
+    "first_seen": "2023-09-14T00:28:27Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0581095,
+      50.6291845
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0581095,
+          50.6291845
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-rkz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 1024,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 287,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-28",
+            "value": 1024,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-29",
+            "value": 11,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 29300,
+    "predicted_event_spend_industries": {
+      "accommodation": 3847,
+      "hospitality": 15340,
+      "transportation": 10112
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "7isyzFfRc6J3v7nF3n",
+    "title": "LA MACHINE DES ENFANTS",
+    "description": "Sourced from predicthq.com - La séance initialement prévue le 10 décembre 2023 à 15h00 est annulée, remboursement des billetsUn inventeur fou a créé une machine extraordinaire pour donner du bonheur aux enfants.Un levier comptine, un curseur théâtre, un bouton chanson, et une multitude de connexions surprenantes transforment rapidement la salle de spectacle en un véritable parc d'attraction.Un moment magique pour les petits qui chantent, dansent, et qui participent à un spectacle familial, ludique et interactif avec des chorégraphies adaptées aux petits.Artistes : Matieu, GP3Metteur en scène : Michaël Dufour",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 35,
+    "local_rank": 49,
+    "phq_attendance": 188,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-28T13:00:00Z",
+    "end": "2024-04-28T13:00:00Z",
+    "predicted_end": "2024-04-28T15:10:00Z",
+    "updated": "2024-02-02T03:23:54Z",
+    "first_seen": "2023-08-26T05:38:15Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 188,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 188,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3738,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2253,
+      "transportation": 1485
+    },
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "Dd6XuuTgsK5o7NZh42",
+    "title": "RIMBAUD UNE SAISON EN ENFER",
+    "description": "Sourced from predicthq.com - Jadis, si je me souviens bien, ma vie était un festin où s'ouvraient tous les coeurs, où tous les vins coulaient. Été 1873, Rimbaud n'a que 19 ans et le voilà déjà usé de susciter l'engouement des poètes. Il a le coeur retourné après une violente dispute avec son amant, Paul Verlaine, qui lui a tiré un coup de pistolet et a choisi de retourner vivre avec sa femme.Rimbaud écrit alors Une Saison en Enfer et décide de le publier à compte d'auteur mais s'en détourne, abandonne tout et s'en va.Pour quelle raison ? Certainement parce qu'Arthur n'est plus tout à fait Rimbaud. Il ne s'intéresse plus à la littérature.Le poète a déjà dépassé la banalité de l'existence et vit désormais pourchassé par des images de cadavres.Une Saison en Enfer, c'est le tableau bouleversant d'une conversion autant qu'un discours contre chaque forme d'hypocrisie.Alors oubliez printemps, été, automne et hiver ! Et plongez dans cette lecture-spectacle qui vous révèle Une Saison en Enfer !",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 28,
+    "local_rank": 46,
+    "phq_attendance": 79,
+    "entities": [
+      {
+        "entity_id": "kHgutanbF3MjZc4dyczSGT",
+        "name": "LA FERME DUPIRE",
+        "type": "venue",
+        "formatted_address": "80 RUE YVES DECUGIS\n59650 Villeneuve D'ascq\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-28T13:00:00Z",
+    "end": "2024-04-28T13:00:00Z",
+    "predicted_end": "2024-04-28T14:50:00Z",
+    "updated": "2023-12-31T00:38:22Z",
+    "first_seen": "2023-12-31T00:19:06Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.1419495,
+      50.6189057
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.1419495,
+          50.6189057
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3c-8n5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 79,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-28",
+            "value": 79,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "2968577",
+        "3037551"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 1570,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 946,
+      "transportation": 624
+    }
+  },
+  {
+    "relevance": 1,
+    "id": "5L26vMk5yrZfdkQtHp",
+    "title": "HOLIDAY ON ICE - AURORE",
+    "description": "Sourced from predicthq.com - 'HOLIDAY ON ICE - AURORE' is a mesmerizing performing-art spectacle that takes place at the Zenith Arena Lille in Lille, Hauts-de-France, France. This stunning event showcases the beauty and grace of ice skating, combining breathtaking choreography, dazzling costumes, and captivating music for an unforgettable experience.",
+    "category": "arts",
+    "labels": [
+      "arts",
+      "skating"
+    ],
+    "rank": 58,
+    "local_rank": 71,
+    "phq_attendance": 2461,
+    "entities": [
+      {
+        "entity_id": "Wze8QwanBCUvrKYmAc9jhv",
+        "name": "Zenith Arena Lille",
+        "type": "venue",
+        "formatted_address": "1 Boulevard des Cités Unies\n59777 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-28T12:00:00Z",
+    "end": "2024-04-28T12:00:00Z",
+    "predicted_end": "2024-04-28T14:10:00Z",
+    "updated": "2023-12-17T22:39:23Z",
+    "first_seen": "2023-04-09T01:13:21Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0774781,
+      50.6335712
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0774781,
+          50.6335712
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3x-7qz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 370,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-28",
+            "value": 2461,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-29",
+            "value": 247,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 690,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-28",
+            "value": 2461,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-29",
+            "value": 25,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 65795,
+    "predicted_event_spend_industries": {
+      "accommodation": 4623,
+      "hospitality": 36868,
+      "transportation": 24303
+    },
+    "phq_labels": [
+      {
+        "label": "community-event",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "3fkFDu2pXBPY5FFmFi",
+    "title": "Le gang des chieuses",
+    "alternate_titles": [
+      "LES HOMMES SONT CONS, - LES HOMMES SONT CONS, LES FEMMES CASSE COUILLES"
+    ],
+    "description": "Sourced from predicthq.com - La séance initialement prévue le 04 novembre 2023 à 21h30 est annulée, remboursement des billetsVous aussi vous êtes une chieuse ?L'une est célibataire endurcie.L'autre n'arrive pas à tenir un couple.La première est spirituelle.La seconde cartésienne.Tout les oppose et pourtant... A elles deux, elles forment le gang des chieuses.Par choix ou par maladresse découvrez pourquoi il est important de le rester... ou pas.Auteur : Elise Ponti",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 35,
+    "local_rank": 48,
+    "phq_attendance": 178,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-27T19:30:00Z",
+    "end": "2024-04-27T19:30:00Z",
+    "predicted_end": "2024-04-27T21:40:00Z",
+    "updated": "2024-02-02T03:30:35Z",
+    "first_seen": "2023-08-26T00:20:23Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 178,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 178,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3539,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2133,
+      "transportation": 1406
+    },
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "95q89xBwMQrYyBZMrP",
+    "title": "LES CONS S'INVITENT DANS MON SALON",
+    "description": "Sourced from predicthq.com - Quand une soirée pépère à la maison se transforme en bordel absolu, c'est que les cons sont déjà dans votre salon !Bernard est un con et comme tous les cons, il ne s'en est toujours pas rendu compte. Il pense être le meilleur en tout. Dans sa tête, c'est lui le plus beau, le plus fort, le plus intelligent, le plus séduisant et personne ne peut atteindre son niveau de modestie, à tel point qu'il préfère ne plus sortir et ne plus rencontrer personne, sauf que...D'autres cons vont s'inviter dans son salon !Vivez une soirée unique placée sous le signe de l'humour avec cette comédie d'un nouveau genre !Du théâtre agrémenté de sketchs, de numéros artistiques et d'improvisation, est-ce vraiment si con ?",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 28,
+    "local_rank": 46,
+    "phq_attendance": 80,
+    "entities": [
+      {
+        "entity_id": "kHgutanbF3MjZc4dyczSGT",
+        "name": "LA FERME DUPIRE",
+        "type": "venue",
+        "formatted_address": "80 RUE YVES DECUGIS\n59650 Villeneuve D'ascq\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-27T18:00:00Z",
+    "end": "2024-04-27T18:00:00Z",
+    "predicted_end": "2024-04-27T19:50:00Z",
+    "updated": "2024-01-04T00:35:14Z",
+    "first_seen": "2023-12-31T00:19:07Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.1419495,
+      50.6189057
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.1419495,
+          50.6189057
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3c-8n5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 80,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 80,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "2968577",
+        "3037551"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 1590,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 958,
+      "transportation": 632
+    }
+  },
+  {
+    "relevance": 1,
+    "id": "9gRFHWGfJYJjoauqCN",
+    "title": "LE COUP DE PELLE",
+    "alternate_titles": [
+      "DANS LA PEAU DE MA FEMME"
+    ],
+    "description": "Sourced from predicthq.com - Les séances des 29 et 30 décembre 2023 à 20h00 sont annulées, remboursement des billetsRire ou mourir à vous de choisir ? Une comédie hilarante, entre coup de pelle, coup de boule et coup de génie !Stéphanie Spielberg , une célèbre auteure de romans d'épouvante cherche le calme et l'inspiration dans un manoir de province pour y écrire son nouveau livre.A peine arrivée, elle est reconnue par Nestor La porte le directeur de l'hôtel, qui va tout mettre en oeuvre pour que son hôtel lui inspire son nouveau roman.Ça lui fera une pub d'enfer. Il est donc prêt à tout, mais elle aussi...Le Saviez-vous?Michaël Dufour est aussi l'auteur de Faites l'amour avec un belge !Auteur : Solène Delannoy, Michaël Dufour",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 34,
+    "local_rank": 48,
+    "phq_attendance": 167,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-27T18:00:00Z",
+    "end": "2024-04-27T18:00:00Z",
+    "predicted_end": "2024-04-27T19:50:00Z",
+    "updated": "2024-02-02T03:31:28Z",
+    "first_seen": "2023-08-26T05:34:56Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3320,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2001,
+      "transportation": 1319
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "AGrHJZqX954ys4Rvvt",
+    "title": "JE VAIS T'AIMER",
+    "description": "Sourced from predicthq.com - Michel Sardou, 20h30 le dimanche du 15 mai 2022, France 2 :“C’est la comédie musicale [Je vais t’aimer] qui m’a donné envie [de remonter sur scène]“.Face à son immense succès depuis la Première à Lille le 21 octobre 2021, la comédie musicale JE VAIST’AIMER repart pour une 3ème tournée dans toute la France !JE VAIS T’AIMER est une création dans la pure tradition de Broadway. Le public est totalement conquis et la presse parle, elle, d’un “Mamma Mia“ à la française.C’est l’histoire de six jeunes français qui racontent leurs amours, leurs amitiés au rythme des plus grands succès de Michel Sardou : En chantant, La java de Broadway, Les lacs du Connemara, Les vieux mariés, Être une femme, La rivière de notre enfance… Plus de 25 chansons extraites de son exceptionnel répertoire.La troupe de chanteurs, danseurs, comédiens vous embarque du Port du Havre à New York, à bord du mythique paquebot “France“ et leurs destins croisent celui d’un pays. D’un mouvement de révolte sociale au rêve américain, d’une guinguette des bords de Marne à l’énergie communicative de Broadway, du charme d’un mariage irlandais aux couleurs douces de Ghardaïa, vous voyagez sur quatre décennies, des années Kennedy au début des années 2000.Le metteur en scène et auteur québécois Serge Denoncourt, reconnu dans le monde entier, a signé plus de 150 mises en scène vues sur tous les continents : théâtre, opéra, concert pop, comédie musicale…La scénographie est signée Stéphane Roy, une référence incontournable au Canada.Et c’est aussi grâce au talent de Nicolas Vaudelet, formé par les plus grands noms de la mode, que les personnages évolueront dans 180 costumes.Vous savez déjà que vous allez chanter !“On vous prévient immédiatement, on a tout aimé (…) Les arrangements, l’histoire, les chorégraphies, les voix“ – Le Progrès“Un moment à ne pas rater pour tous ceux qui ne l’ont pas encore vu“ – Le Bien Public“Je vais t’aimer a donné envie à Michel Sardou de revenir sur scène“ – La Dépêche“Quand je suis allé à Caen voir le spectacle, j’étais sur le cul (…) J’ai vu une troupe de jeunes gens qui chantent, qui dansent, quijouent la comédie… Formidable !“ – Michel Sardou pour Le Pays d’Auge“Cette tranche de vie pleine d’énergie rappelle à chacun, inconditionnel ou non du chanteur, un moment de son passé, etl’envie de reprendre en chœur les refrains est franchement irrépressible“ – Notre Temps“Une mise en scène époustouflante, des costumes éblouissants“ – Europe 1“Des paroles que l’on a déjà tous chantées, mais avec une histoire jamais racontée“ – CNEWS“Je vais t’aimer marche dans les pas du West End et de Broadway“ – BFMTV“Une troupe talentueuse (…) dans un spectacle qui jongle entre les lieux et les époques“ – Le Monde M“On adore les décors, les costumes et l’ambiance“ – Le Parisien“C’est une vraie performance vocale et chorégraphique“ – RTL“Un des plus beaux cadeaux qui pouvait être fait à la discographie de Michel Sardou“ – France Inter“Le show est un succès total“ – France Bleu“Ce spectacle, l’un des plus attendus“ – TF1",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "music",
+      "arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "pDCC97bmZ3BJZF9nkmWUbN",
+        "name": "Gayant Expo",
+        "type": "venue",
+        "formatted_address": "Route de Tournai\n59500 Douai\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-27T18:00:00Z",
+    "end": "2024-04-27T18:00:00Z",
+    "predicted_end": "2024-04-27T19:50:00Z",
+    "updated": "2023-12-17T23:12:56Z",
+    "first_seen": "2023-03-11T00:22:34Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0929422,
+      50.3817971
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0929422,
+          50.3817971
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hh-p6w-cwk"
+    },
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "3020999",
+        "6454407",
+        "3021036"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2988430",
+        "3036783",
+        "6618442",
+        "3036784"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false
+  },
+  {
+    "relevance": 1,
+    "id": "HUioTBHjfu94tuu4XE",
+    "title": "LE DINER DE CONS",
+    "alternate_titles": [
+      "CHERI, ON SE DIT TOUT !"
+    ],
+    "description": "Sourced from predicthq.com - Chaque mercredi, Pierre Brochant et ses amis organisent un dîner de cons. Le principe est simple : chaque participant amène un  con , et celui dont l'invité se distingue le plus est déclaré vainqueur.Ce soir Pierre est heureux, il pense avoir trouvé la perle rare : François Pignon, comptable au ministère des Finances, passionné de modèles réduits en allumettes.Mais ce qu'il ignore, c'est que Pignon, prêt à tout pour rendre service, est un fieffé porteur de guigne passé maître dans l'art de déclencher des catastrophes...La rencontre entre deux destins qui n'auraient jamais dû se croiser...Le Saviez-vous?Dès sa création en 1993, la pièce de Francis Veber  Le dîner de cons , a connu un immense succès, elle sera adaptée au cinéma en 1998 par le même auteur et connaîtra un succès mondial.Auteur : Francis Veber",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 34,
+    "local_rank": 48,
+    "phq_attendance": 167,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-27T16:00:00Z",
+    "end": "2024-04-27T16:00:00Z",
+    "predicted_end": "2024-04-27T17:50:00Z",
+    "updated": "2024-02-02T03:29:18Z",
+    "first_seen": "2023-08-31T00:21:26Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3320,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2001,
+      "transportation": 1319
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 0.706
+      },
+      {
+        "label": "dinner-theatre",
+        "weight": 0.294
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "CarvJM4XywtR4tEdwh",
+    "title": "HOLIDAY ON ICE - AURORE",
+    "description": "Sourced from predicthq.com - 'HOLIDAY ON ICE - AURORE' is a mesmerizing performing-art spectacle that takes place at the Zenith Arena Lille in Lille, Hauts-de-France, France. This stunning event showcases the beauty and grace of ice skating, combining breathtaking choreography, dazzling costumes, and captivating music for an unforgettable experience.",
+    "category": "arts",
+    "labels": [
+      "arts",
+      "skating"
+    ],
+    "rank": 58,
+    "local_rank": 71,
+    "phq_attendance": 2461,
+    "entities": [
+      {
+        "entity_id": "Wze8QwanBCUvrKYmAc9jhv",
+        "name": "Zenith Arena Lille",
+        "type": "venue",
+        "formatted_address": "1 Boulevard des Cités Unies\n59777 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-27T15:30:00Z",
+    "end": "2024-04-27T15:30:00Z",
+    "predicted_end": "2024-04-27T17:40:00Z",
+    "updated": "2023-12-18T01:56:28Z",
+    "first_seen": "2023-04-09T00:15:57Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0774781,
+      50.6335712
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0774781,
+          50.6335712
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3x-7qz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 370,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-27",
+            "value": 2461,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-28",
+            "value": 247,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 690,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-27",
+            "value": 2461,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-28",
+            "value": 25,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 65795,
+    "predicted_event_spend_industries": {
+      "accommodation": 4623,
+      "hospitality": 36868,
+      "transportation": 24303
+    },
+    "phq_labels": [
+      {
+        "label": "community-event",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "HxTLxk6mov3bqRuLMQ",
+    "title": "PETER PAN OU EST CLOCHETTE",
+    "description": "Sourced from predicthq.com - Peter Pan et la fée Clochette ont beau être les meilleurs amis du monde, une simple dispute vient tout remettre en question.Peter Pan a invité son amie, la fée Clochette, pour une partie de cache-cache. Mais aujourd'hui, Clochette a décidé de remettre les pendules à l'heure en montrant qu'elle est la meilleure.Sauf que ce n'est pas du tout du goût de Peter qui est un mauvais perdant. Le jeu bascule vite en dispute et Clochette quitte le monde imaginaire.Peter n'a alors qu'une idée en tête, retrouver son amie. Mais où est-elle ? Dans quel monde est-elle allée ?Peter va devoir faire vite avant qu'elle ne parte trop loin. À moins que le capitaine Crochet ne vienne se mettre sur sa route.De l'amitié, du rire, de l'émotion, de la musique. Retrouvez Peter Pan dans une nouvelle aventure totalement inédite contée par un comédien qui se glisse dans la peau de chaque personnage !",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 28,
+    "local_rank": 46,
+    "phq_attendance": 80,
+    "entities": [
+      {
+        "entity_id": "kHgutanbF3MjZc4dyczSGT",
+        "name": "LA FERME DUPIRE",
+        "type": "venue",
+        "formatted_address": "80 RUE YVES DECUGIS\n59650 Villeneuve D'ascq\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-27T15:00:00Z",
+    "end": "2024-04-27T15:00:00Z",
+    "predicted_end": "2024-04-27T17:10:00Z",
+    "updated": "2023-12-31T00:34:42Z",
+    "first_seen": "2023-12-31T00:21:52Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.1419495,
+      50.6189057
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.1419495,
+          50.6189057
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3c-8n5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 80,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 80,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "2968577",
+        "3037551"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 1590,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 958,
+      "transportation": 632
+    },
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "FfeJEwrgCV3mdcB8ry",
+    "title": "CE SOIR OU JAMAIS",
+    "alternate_titles": [
+      "Ados vs parents : mode d'emploi"
+    ],
+    "description": "Sourced from predicthq.com - La séance initialement prévue le 25 février 2024 à 17h00 est annulée, remboursement des billetsLa séance initialement prévue le 09 janvier 2024 à 20h00 est annulée, remboursement des billetsLa séance initialement prévue le 04 novembre 2023 à 16h00 est annulée, remboursement des billetsChercher l'amour via une application de rencontres peut réserver quelques surprises.Greg, jeune célibataire sentimentalement perdu, a promis à sa mère qu'il se caserait avant ses 35 ans.Et c'est ce soir.Il ne lui reste plus qu'une heure pour tenir cette promesse.Il décide de s'inscrire sur l'application  Ce soir ou jamais , qui lui garantit de lui faire rencontrer celles avec qui ça marchera à coup sûr.Mais, peut-on faire confiance aux algorithmes et trouver le véritable amour sur une application de rencontre ? Et surtout, Greg est-il prêt à être en couple ?Venez partager l'intimité de ce célibataire  fils à maman , dans  Ce soir ou jamais , une comédie de moeurs fraîche et légère où les deux sexes en prennent pour leur grade et dans laquelle, l'auteur vous offre un savoureux mélange de plusieurs genres de théâtre : comédie, café-théâtre, stand-up, improvisation.Auteur : Robert Punzano",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 35,
+    "local_rank": 48,
+    "phq_attendance": 177,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-27T14:00:00Z",
+    "end": "2024-04-27T14:00:00Z",
+    "predicted_end": "2024-04-27T15:50:00Z",
+    "updated": "2024-02-02T03:31:24Z",
+    "first_seen": "2023-08-26T00:30:37Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 177,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 177,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": false,
+    "private": false,
+    "predicted_event_spend": 3519,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2121,
+      "transportation": 1398
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "4vSSqf7cj7mgvqZrdn",
+    "title": "JEAN-CHRISTOPHE ET WINNIE",
+    "description": "Sourced from predicthq.com - Lorsque la forêt des Rêves Bleus voit le retour de Jean-Christophe, ce sont tous les personnages de notre enfance qui reprennent des couleurs !Jean-Christophe a bien grandi et a réalisé son plus grand rêve, devenir artiste. Il écrit des histoires, des chansons et fait même quelques dessins. Mais lorsque sa patronne, Lady Trice, lui demande de trouver la plus merveilleuse des plus merveilleuses idées pour son nouveau livre, c'est la pire des pires choses qui lui arrive : la panne d'inspiration !Jean-Christophe décide alors de retourner dans la forêt des Rêves Bleus, là où toutes ses petites histoires sont devenues de grandes histoires, là où tous les presque impossibles sont devenus possibles, là où toutes ses petites peluches sont devenues... de grand amis !Chers enfants, chers parents, prenez vos valises remplies de vos plus beaux rêves et partez avec Jean-Christophe à la rencontre de la magie de l'enfance et de Winnie l'ourson et tous ses amis !",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 28,
+    "local_rank": 46,
+    "phq_attendance": 80,
+    "entities": [
+      {
+        "entity_id": "kHgutanbF3MjZc4dyczSGT",
+        "name": "LA FERME DUPIRE",
+        "type": "venue",
+        "formatted_address": "80 RUE YVES DECUGIS\n59650 Villeneuve D'ascq\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-27T12:30:00Z",
+    "end": "2024-04-27T12:30:00Z",
+    "predicted_end": "2024-04-27T14:40:00Z",
+    "updated": "2023-12-31T00:58:03Z",
+    "first_seen": "2023-12-31T00:22:20Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.1419495,
+      50.6189057
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.1419495,
+          50.6189057
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3c-8n5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 80,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 80,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "2968577",
+        "3037551"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 1590,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 958,
+      "transportation": 632
+    },
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "8CUhSBGSF4T6ys5hwg",
+    "title": "Cendrillon",
+    "description": "Sourced from predicthq.com - Dans un royaume fort ancien, Cendrillon, jeune fille de bonne famille, se retrouve à devoir vivre dans la demeure de la redoutable Lady Trémaine.Heureusement, Cendrillon peut compter sur ses amis les souris pour surmonter les exigences cruelles de Lady Trémaine et de ses filles Javotte et Anastasia.Et comme la magie vient toujours au secours de ceux qui en ont le plus besoin, elle va vivre des aventures extraordinaires et peut-être rencontrer l'amour !Ce spectacle interactif va propulser les enfants au coeur de l'action ! Entre comédie, émotion et magie, ils vont vivre eux aussi des aventures exceptionnelles.De 2 à 7 ansDurée : 50 min",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 35,
+    "local_rank": 49,
+    "phq_attendance": 188,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-27T12:30:00Z",
+    "end": "2024-04-27T12:30:00Z",
+    "predicted_end": "2024-04-27T14:40:00Z",
+    "updated": "2024-02-02T03:23:46Z",
+    "first_seen": "2023-09-24T02:22:44Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 188,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-27",
+            "value": 188,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3738,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2253,
+      "transportation": 1485
+    },
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "Ho4o3PvJ4wzAHbtcwp",
+    "title": "LES HOMMES SONT CONS, - LES HOMMES SONT CONS, LES FEMMES CASSE COUILLES",
+    "description": "Sourced from predicthq.com - La séance initialement prévue le 02 février 2024 à 20h00 aura finalement lieu à 21h30Les billets restent valables, les remboursements sont acceptésLa séance initialement prévue le 01 février 2024 à 20h00 est annulée, remboursement des billetsIl y a des dates qu'il ne faut surtout pas oublier, exemple : 10 ans de couple !Pupuce et Minou fêtent leurs dix ans de couple. Pour l'occasion, Pupuce espère que son minou lui aura réservé une soirée exceptionnelle, mais Minou à complètement oublié cet anniversaire, forcément c'est un homme !Pour ne pas décevoir sa chérie, il fait mine de ne pas avoir oublié et improvise une soirée surprise riche en rebondissements. Ce couple va passer une soirée qu'il n'est pas près d'oublier : mensonges, cadeaux moches, sexe, fantasmes, alcool, amis, révélations et pétages de plombs !Messieurs, vous n'oublierez plus jamais la date de votre anniversaire de rencontre !A Savoir :Spectacle déconseillé aux enfants de moins de 14 ans.Auteur : Julie AymardMetteur en scène : Julian Aymard",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 34,
+    "local_rank": 48,
+    "phq_attendance": 167,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-26T19:30:00Z",
+    "end": "2024-04-26T19:30:00Z",
+    "predicted_end": "2024-04-26T21:20:00Z",
+    "updated": "2024-02-02T03:30:54Z",
+    "first_seen": "2023-08-30T00:42:31Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3320,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2001,
+      "transportation": 1319
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "ADAM39wC3FdvhkKULA",
+    "title": "HOLIDAY ON ICE - AURORE",
+    "description": "Sourced from predicthq.com - 'HOLIDAY ON ICE - AURORE' is a mesmerizing performing-art spectacle that takes place at the Zenith Arena Lille in Lille, Hauts-de-France, France. This stunning event showcases the beauty and grace of ice skating, combining breathtaking choreography, dazzling costumes, and captivating music for an unforgettable experience.",
+    "category": "arts",
+    "labels": [
+      "arts",
+      "skating"
+    ],
+    "rank": 58,
+    "local_rank": 71,
+    "phq_attendance": 2461,
+    "entities": [
+      {
+        "entity_id": "Wze8QwanBCUvrKYmAc9jhv",
+        "name": "Zenith Arena Lille",
+        "type": "venue",
+        "formatted_address": "1 Boulevard des Cités Unies\n59777 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-26T18:00:00Z",
+    "end": "2024-04-26T18:00:00Z",
+    "predicted_end": "2024-04-26T20:10:00Z",
+    "updated": "2023-12-17T23:10:58Z",
+    "first_seen": "2023-04-09T00:15:57Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0774781,
+      50.6335712
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0774781,
+          50.6335712
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3x-7qz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-25",
+            "value": 370,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-26",
+            "value": 2461,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-27",
+            "value": 247,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-25",
+            "value": 690,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-04-26",
+            "value": 2461,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-04-27",
+            "value": 25,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 65795,
+    "predicted_event_spend_industries": {
+      "accommodation": 4623,
+      "hospitality": 36868,
+      "transportation": 24303
+    },
+    "phq_labels": [
+      {
+        "label": "community-event",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "Dh7Bu6MCPfJiLLK7tr",
+    "title": "DON JAMEL... DE BRUXELLES",
+    "alternate_titles": [
+      "LE COUP DE PELLE"
+    ],
+    "description": "Sourced from predicthq.com - Les séances initialement prévues les 01 et 02 juin 2023 sont annulées, remboursement des billetsJamel est un séducteur. Chaque rencontre avec une femme est l’occasion pour Jamel de sortir son grand jeu de séduction et trouver chez son interlocutrice l’élément sensible qui lui permettra de la faire succomber.C’est alors que toutes ses prétendantes décident d’organiser ensemble : un piège bien ficelé dont il ne pourra se sortir. Mais la solidarité est-elle réellement le fil conducteur de cette organisation ? Jamel sera-t-il puni comme chacune l’espère ?Une pièce aux tonalités contemporainesAuteur : Saïd Ben AliArtistes : Ynes Ben Saad, Marie Depret, Fatiha El-Amri, Naïma Jamaï, Harmonie Rouffiange, Jean-François Chefneux, Véronique Patte, Camille Mathoulin et Saïd Ben Ali, et Jérôme Hauptman (Don Jamel).Mise en scène : Ludovic Philips",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 34,
+    "local_rank": 48,
+    "phq_attendance": 167,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-26T18:00:00Z",
+    "end": "2024-04-26T18:00:00Z",
+    "predicted_end": "2024-04-26T19:50:00Z",
+    "updated": "2024-02-02T03:30:24Z",
+    "first_seen": "2023-04-19T00:18:42Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3320,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2001,
+      "transportation": 1319
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "HAs7vwHFyAmjam9tbQ",
+    "title": "Alice au pays des merveilles",
+    "description": "Sourced from predicthq.com - Quand Alice peine à apprendre sa leçon d’histoire géographie, elle se laisse aller à ses rêveries...Mais TIC TAC, le lapin est en retard et Alice n’a qu’une idée en tête: le suivre !Dans sa course folle, elle va rencontrer autant de personnages et d’univers fantastiques tous plus colorés les uns que les autres.",
+    "category": "arts",
+    "labels": [
+      "entertainment",
+      "arts"
+    ],
+    "rank": 35,
+    "local_rank": 49,
+    "phq_attendance": 187,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-26T13:00:00Z",
+    "end": "2024-04-26T13:00:00Z",
+    "predicted_end": "2024-04-26T15:10:00Z",
+    "updated": "2024-02-02T03:24:00Z",
+    "first_seen": "2023-09-24T02:46:15Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 187,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-26",
+            "value": 187,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": false,
+    "private": false,
+    "predicted_event_spend": 3718,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2241,
+      "transportation": 1477
+    },
+    "phq_labels": [
+      {
+        "label": "general-theatre",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "FdB2qkT5ysg4dKC67G",
+    "title": "LES HOMMES SONT CONS, - LES HOMMES SONT CONS, LES FEMMES CASSE COUILLES",
+    "description": "Sourced from predicthq.com - La séance initialement prévue le 02 février 2024 à 20h00 aura finalement lieu à 21h30Les billets restent valables, les remboursements sont acceptésLa séance initialement prévue le 01 février 2024 à 20h00 est annulée, remboursement des billetsIl y a des dates qu'il ne faut surtout pas oublier, exemple : 10 ans de couple !Pupuce et Minou fêtent leurs dix ans de couple. Pour l'occasion, Pupuce espère que son minou lui aura réservé une soirée exceptionnelle, mais Minou à complètement oublié cet anniversaire, forcément c'est un homme !Pour ne pas décevoir sa chérie, il fait mine de ne pas avoir oublié et improvise une soirée surprise riche en rebondissements. Ce couple va passer une soirée qu'il n'est pas près d'oublier : mensonges, cadeaux moches, sexe, fantasmes, alcool, amis, révélations et pétages de plombs !Messieurs, vous n'oublierez plus jamais la date de votre anniversaire de rencontre !A Savoir :Spectacle déconseillé aux enfants de moins de 14 ans.Auteur : Julie AymardMetteur en scène : Julian Aymard",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 34,
+    "local_rank": 48,
+    "phq_attendance": 167,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-25T18:00:00Z",
+    "end": "2024-04-25T18:00:00Z",
+    "predicted_end": "2024-04-25T19:50:00Z",
+    "updated": "2024-02-02T03:31:28Z",
+    "first_seen": "2023-08-30T00:35:31Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-25",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-25",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3320,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2001,
+      "transportation": 1319
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 1,
+    "id": "vh4mbEGc5p9YsdYHcr",
+    "title": "DON JAMEL... DE BRUXELLES",
+    "description": "Sourced from predicthq.com - Les séances initialement prévues les 01 et 02 juin 2023 sont annulées, remboursement des billetsJamel est un séducteur. Chaque rencontre avec une femme est l’occasion pour Jamel de sortir son grand jeu de séduction et trouver chez son interlocutrice l’élément sensible qui lui permettra de la faire succomber.C’est alors que toutes ses prétendantes décident d’organiser ensemble : un piège bien ficelé dont il ne pourra se sortir. Mais la solidarité est-elle réellement le fil conducteur de cette organisation ? Jamel sera-t-il puni comme chacune l’espère ?Une pièce aux tonalités contemporainesAuteur : Saïd Ben AliArtistes : Ynes Ben Saad, Marie Depret, Fatiha El-Amri, Naïma Jamaï, Harmonie Rouffiange, Jean-François Chefneux, Véronique Patte, Camille Mathoulin et Saïd Ben Ali, et Jérôme Hauptman (Don Jamel).Mise en scène : Ludovic Philips",
+    "category": "arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "arts"
+    ],
+    "rank": 34,
+    "local_rank": 48,
+    "phq_attendance": 167,
+    "entities": [
+      {
+        "entity_id": "ixQPctsYVxabXyGvnzeHRp",
+        "name": "Comédie de Lille",
+        "type": "venue",
+        "formatted_address": "204 Rue Solférino\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-04-25T18:00:00Z",
+    "end": "2024-04-25T18:00:00Z",
+    "predicted_end": "2024-04-25T19:50:00Z",
+    "updated": "2024-02-02T03:29:48Z",
+    "first_seen": "2023-04-19T00:22:40Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0572242,
+      50.6298278
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0572242,
+          50.6298278
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-v4v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-25",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-04-25",
+            "value": 167,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3320,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2001,
+      "transportation": 1319
+    },
+    "phq_labels": [
+      {
+        "label": "comedy-club",
+        "weight": 1
+      }
+    ]
+  }
+]

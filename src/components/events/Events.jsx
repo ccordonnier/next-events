@@ -1,40 +1,24 @@
 'use client';
 
 import React, {useEffect, useState} from 'react';
-import Bcard from '../cards/Card';
-const EventList = () => {
-    const [events,setEvents] = useState([]);
+import useFetchEvents from "@/hooks/useFetchEvents"
+import Event from "@/components/events/Event";
 
-    useEffect(()=>{
-        console.warn("useEffect")
-        fetch("http://localhost:3001/api/events", { method:"GET"  } )
-        .then((response) => {
-            console.warn("response.status",response.status)
-            if (response.status === 200) {
-                let r = response.json()
-                console.warn("r",r)
-                return r;
-            } else {
-                throw new Error("Something went wrong on API server!");
-            }
-        })
-        .then((data) => {
-            console.log("data",data)
-            setEvents(data);
-        })
-        .catch((error) => {
-            console.error(error);
-        });
-
-
-    },[]);
+const EventList = (props) => {
+    const [options, setOptions] = useState({from:"events"});// options for fetch
+    const [urlApi, setUrlApi] = useState("http://localhost:3001/api/events"); //url for fetch
+    const [events, state, error] = useFetchEvents(urlApi,options)
     return (
         <>
         <h1>Events</h1>
-        <div style={{display:"grid", gridTemplateColumns:"repeat(3,1fr)", gridGap:"10px"}}>
-            {events.map(event => {
-                return <Bcard title={event.title} image={event.image} description={event.description} date={new Date(event.date)} time={event.time}></Bcard>
-            }) }
+        <div style={{display:"grid", gridTemplateColumns:`repeat(${props.columns},1fr)`, gridGap:"10px"}}>
+
+{state == "loading" && <div>Loading ...</div>}
+        {events.map(event => {
+          return (
+            <Event key={event._id} event={event}/>
+          )
+        })}
         </div>
         </>
     );

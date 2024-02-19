@@ -1,0 +1,5900 @@
+[
+  {
+    "relevance": 0,
+    "id": "59wXAVh7CYh9AVnyAk",
+    "title": "LA POISON",
+    "description": "Sourced from predicthq.com - La Poison réussit la synthèse parfaite d'un rock sauvage et percutant, tendance garage/post-punk, avec une électro entêtante aux frontières de la new/cold wave.  La Poison vient présenter en concert « Décadanse générale » son nouvel ovni discographique sorti en janvier 2024, le trio s’affirme à nouveau comme un puissant antidote à la morosité. Un show toujours aussi décalé et délicieusement toxique.",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 47,
+    "local_rank": 62,
+    "phq_attendance": 700,
+    "entities": [
+      {
+        "entity_id": "rFggsr8KZDrnUSPGfVZtdU",
+        "name": "Rock School Barbey",
+        "type": "venue",
+        "formatted_address": "18 Cours Barbey\n33800 Bordeaux\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T19:00:00Z",
+    "end": "2024-05-07T19:00:00Z",
+    "predicted_end": "2024-05-07T23:10:00Z",
+    "updated": "2024-02-04T02:11:45Z",
+    "first_seen": "2024-02-04T01:49:58Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -0.5635247,
+      44.8269055
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -0.5635247,
+          44.8269055
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4f9-sn5-snq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 700,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 105,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 700,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 21,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071620",
+        "3015948",
+        "3031580",
+        "6455058",
+        "3031582"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 21412,
+    "predicted_event_spend_industries": {
+      "accommodation": 4603,
+      "hospitality": 9030,
+      "transportation": 7779
+    },
+    "phq_labels": [
+      {
+        "label": "other",
+        "weight": 0.5
+      },
+      {
+        "label": "rock",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "7DKvt5ysdVNASKknJV",
+    "title": "Public Memory",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 38,
+    "local_rank": 37,
+    "phq_attendance": 265,
+    "entities": [
+      {
+        "entity_id": "dk2ppBgrwipReCSgNqjpQR",
+        "name": "L'international",
+        "type": "venue",
+        "formatted_address": "5/7 Rue Moret\n75011 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:45:00Z",
+    "end": "2024-05-07T18:45:00Z",
+    "predicted_end": "2024-05-08T01:25:00Z",
+    "updated": "2023-12-17T22:54:03Z",
+    "first_seen": "2023-08-25T21:28:44Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.379781,
+      48.866685
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.379781,
+          48.866685
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xk-kcq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 265,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 265,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "2986082"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 5969,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 3777,
+      "transportation": 2192
+    },
+    "phq_labels": [
+      {
+        "label": "electronic",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "5Gt7Hpu9UNmJVp6Mv5",
+    "title": "H-Burns",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 53,
+    "local_rank": 72,
+    "phq_attendance": 1423,
+    "entities": [
+      {
+        "entity_id": "SQPmXMGznhB5VaYugfvWEn",
+        "name": "Theatre De L'esplanade",
+        "type": "venue",
+        "formatted_address": "83300 Draguignan\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:30:00Z",
+    "end": "2024-05-07T18:30:00Z",
+    "predicted_end": "2024-05-07T22:40:00Z",
+    "updated": "2023-12-17T21:40:54Z",
+    "first_seen": "2023-08-29T21:25:55Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      6.46499,
+      43.53773
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          6.46499,
+          43.53773
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7fb-9t3-bc5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 285,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 1423,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 143,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 214,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 1423,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 43,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "2970749",
+        "3020849",
+        "6451483",
+        "3020850"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 47534,
+    "predicted_event_spend_industries": {
+      "accommodation": 9405,
+      "hospitality": 26051,
+      "transportation": 12076
+    },
+    "phq_labels": [
+      {
+        "label": "rock",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "6mvbuSUWRcvtWYzLP6",
+    "title": "SCHLAGER PARADE",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 42,
+    "local_rank": 76,
+    "phq_attendance": 382,
+    "entities": [
+      {
+        "entity_id": "gF6zZduiiATWY6L6uTQsy9",
+        "name": "ECRHIN",
+        "type": "venue",
+        "formatted_address": "8 RUE DE DORDOGNE\n67760 Gambsheim\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:30:00Z",
+    "end": "2024-05-07T18:30:00Z",
+    "predicted_end": "2024-05-07T22:40:00Z",
+    "updated": "2023-12-22T08:17:24Z",
+    "first_seen": "2023-12-22T02:57:03Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      7.8818556,
+      48.6862863
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          7.8818556,
+          48.6862863
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53d-5vv-7nq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 382,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 58,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 382,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 12,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "3034720",
+        "2973782",
+        "6441109",
+        "3016730"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "3034720",
+        "2973781",
+        "6441375",
+        "2973783"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 9338,
+    "predicted_event_spend_industries": {
+      "accommodation": 2512,
+      "hospitality": 3324,
+      "transportation": 3501
+    },
+    "phq_labels": [
+      {
+        "label": "pop",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "73BvEGih29SrZBnne3",
+    "title": "H-BUNS",
+    "description": "Sourced from predicthq.com - Renaud Brustlein, alias H-Burns, est en état de grâce. Son 9e album Sunset Park est un long road-trip de Los Angeles à Vancouver, un voyage en solitaire pour conjurer les amours perdues. Sa balade folk-rock nous donne envie de partir avec lui, on the road again...",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 49,
+    "local_rank": 67,
+    "phq_attendance": 860,
+    "entities": [
+      {
+        "entity_id": "pBkaTPjXTrSuanYMV5qsx8",
+        "name": "THEATRE DE L'ESPLANADE",
+        "type": "venue",
+        "formatted_address": "BOULEVARD G. CLEMENCEAU\n83300 Draguignan\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:30:00Z",
+    "end": "2024-05-07T18:30:00Z",
+    "predicted_end": "2024-05-07T22:40:00Z",
+    "updated": "2024-01-21T01:30:03Z",
+    "first_seen": "2023-09-22T08:38:41Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      6.463928,
+      43.536805
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          6.463928,
+          43.536805
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7fb-9t3-bhq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 860,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 129,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 860,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 26,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "2970749",
+        "3020849",
+        "6451483",
+        "3020850"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 28727,
+    "predicted_event_spend_industries": {
+      "accommodation": 5684,
+      "hospitality": 15744,
+      "transportation": 7298
+    },
+    "phq_labels": [
+      {
+        "label": "rock",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "CNBtQBRHtuNBkMYCWr",
+    "title": "L'AVENTURA - L AVENTURA",
+    "description": "Sourced from predicthq.com - [Show déjanté] « L’AVENTURA » par Lou Volt & Eric Toulis Quand Lou Volt du Grand Orchestre du Splendid rencontre Eric Toulis, chanteur du groupe Les Escrocs (et chroniqueur sur Rire et Chansons) ça fait forcément des étincelles. Puis des chansons mémorables avant de créer un spectacle mixte et irrésistible. En piste paillettes, rock’n’roll qui rigole, chansons bien secouées, sketches, duos, duels, trompette et guitare en bois. C’est l’Aventura ! Un show déjanté plein d’humour et d’énergie. Un vrai régal.",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 44,
+    "local_rank": 71,
+    "phq_attendance": 523,
+    "entities": [
+      {
+        "entity_id": "gYpAtUJLkMJsTiBG5GJ6ci",
+        "name": "La Décale",
+        "type": "venue",
+        "formatted_address": "France"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:30:00Z",
+    "end": "2024-05-07T18:30:00Z",
+    "predicted_end": "2024-05-07T22:40:00Z",
+    "updated": "2023-12-17T23:06:35Z",
+    "first_seen": "2023-06-01T00:04:30Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.0612783642,
+      47.2297751135
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.0612783642,
+          47.2297751135
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53t-ns9-p9z"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 523,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 79,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 523,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 16,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3027939",
+        "3025480",
+        "6457360",
+        "6453748",
+        "2969255"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3027939",
+        "3025480",
+        "3031004",
+        "6454979",
+        "3031005"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 12629,
+    "predicted_event_spend_industries": {
+      "accommodation": 3439,
+      "hospitality": 4134,
+      "transportation": 5055
+    },
+    "phq_labels": [
+      {
+        "label": "pop",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "3VzKqYWnzrzkDX4Ea4",
+    "title": "Yves DUTEIL - Chemin d'écriture",
+    "description": "Sourced from predicthq.com - Yves Duteil, 50 ans de carrière : « Il faut rêver le monde plus beau qu’il ne l’est » Le chanteur de « Tarantelle » et du « Petit pont de bois » célèbre un demi-siècle de « chemin d’écriture » avec un concert événement que vous aurez la chance de voir si vous êtes avec nous, le 7 mai 2024 à la Basilique Saint-Pierre de Luxeuil-les-Bains« La lumière s’est éteinte, et ça commence… Il y a des mois que j’attends que j’imagine, je me dis « Voilà ce que je voudrais leur dire, partager avec eux… ». Et puis tout à coup vous êtes là, et le spectacle commence…Il y a des soirs comme ça où on se dit qu’on a bien de la chance, où on ne donnerait sa place pour rien au monde, des soirs où la musique déborde du piano, où les mots se bousculent. J’aime ces instants partagés, qui sont la raison d’être de l’écriture. Où pourrais-je puiser sans eux le courage de m’exposer ainsi à cœur découvert, s’il n’y avait, à l’autre bout de ma guitare, vos réponses, en écho à ma voix ? ... » Yves Duteil",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 43,
+    "local_rank": 71,
+    "phq_attendance": 472,
+    "entities": [
+      {
+        "entity_id": "yqnRraYrsyEAZAwS389yZN",
+        "name": "BASILIQUE SAINT PIERRE",
+        "type": "venue",
+        "formatted_address": "PLACE SAINT PIERRE\n70300 Luxeuil Les Bains\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:00:00Z",
+    "end": "2024-05-07T18:00:00Z",
+    "predicted_end": "2024-05-07T22:10:00Z",
+    "updated": "2023-12-30T02:13:54Z",
+    "first_seen": "2023-12-30T00:31:05Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      6.3807786,
+      47.8166741
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          6.3807786,
+          47.8166741
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53b-qsn-qmk"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 472,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 71,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 472,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 15,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071619",
+        "3013737",
+        "2997075",
+        "6441988",
+        "2996995"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071619",
+        "3013737",
+        "2969561",
+        "6454607",
+        "2969562"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 13759,
+    "predicted_event_spend_industries": {
+      "accommodation": 3103,
+      "hospitality": 6119,
+      "transportation": 4535
+    },
+    "phq_labels": [
+      {
+        "label": "pop",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "6SM4oXuxtRtAgfGoLb",
+    "title": "ELOIZ",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 44,
+    "local_rank": 47,
+    "phq_attendance": 500,
+    "entities": [
+      {
+        "entity_id": "Qhm8sSKfhHUqDLjdMGytm7",
+        "name": "Café de la Danse",
+        "type": "venue",
+        "formatted_address": "5 Passage Louis-Philippe\n75011 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:00:00Z",
+    "end": "2024-05-07T18:00:00Z",
+    "predicted_end": "2024-05-07T22:10:00Z",
+    "updated": "2023-12-17T23:06:12Z",
+    "first_seen": "2023-12-17T00:06:02Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3729025,
+      48.8540691
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3729025,
+          48.8540691
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xh-4d9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 500,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 75,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 500,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 15,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "2986082"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 18045,
+    "predicted_event_spend_industries": {
+      "accommodation": 3967,
+      "hospitality": 8908,
+      "transportation": 5170
+    },
+    "phq_labels": [
+      {
+        "label": "pop",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "8PEe6pHucTpasVDynt",
+    "title": "THE CONGOS & THE GLADIATORS",
+    "description": "Sourced from predicthq.com - THE CONGOSLa légende continue ! Les CONGOS sont un des derniers groupes jamaïcains restés dans sa formation originale depuis les années 70 et on ressent forcément cette unité, cette cohésion puissante lors de leurs concerts qui sont autant de véritables messes rastafariennes. Préparez-vous à un grand moment de fête.THE GLADIATORSLes GLADIATORS ont écrit des titres emblématiques du Roots Reggae des années 70 et ont ainsi atteint une notoriété internationale. Le leadership du groupe est passé à Al, fils du fondateur Albert Griffiths en 2004. La ressemblance d’Al avec son père étant bluffante, tant sur le physique qu’au niveau de sa voix, la tournée s’annonce d’ores et déjà mémorable !",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 36,
+    "local_rank": 60,
+    "phq_attendance": 205,
+    "entities": [
+      {
+        "entity_id": "H5eAkYSCJHG6BYauASajf6",
+        "name": "ATABAL",
+        "type": "venue",
+        "formatted_address": "Allée du Moura\n64200 Biarritz\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:00:00Z",
+    "end": "2024-05-07T18:00:00Z",
+    "predicted_end": "2024-05-07T21:40:00Z",
+    "updated": "2023-12-22T05:00:23Z",
+    "first_seen": "2023-12-22T04:57:05Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -1.5415193,
+      43.4606708
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -1.5415193,
+          43.4606708
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4dy-9tn-tvz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 205,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 205,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071620",
+        "2984887",
+        "3034473",
+        "6440301",
+        "3007799"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 4035,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2588,
+      "transportation": 1446
+    },
+    "phq_labels": [
+      {
+        "label": "other",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "Acdvw6Rg8EQmKc8AcM",
+    "title": "Le Concert de l'Hostel Dieu",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 41,
+    "local_rank": 48,
+    "phq_attendance": 353,
+    "entities": [
+      {
+        "entity_id": "zBXKddKDbxuaFgGrE6uEch",
+        "name": "Auditorium & National Orchestra of Lyon",
+        "type": "venue",
+        "formatted_address": "149 Rue Garibaldi\n69003 Lyon\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:00:00Z",
+    "end": "2024-05-07T18:00:00Z",
+    "predicted_end": "2024-05-07T22:10:00Z",
+    "updated": "2023-12-18T01:19:30Z",
+    "first_seen": "2023-11-02T23:53:06Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      4.8527534,
+      45.7615618
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          4.8527534,
+          45.7615618
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53h-574-kfz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 353,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 53,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 353,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 11,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "2987410",
+        "2996943",
+        "6454573",
+        "2996944"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 10493,
+    "predicted_event_spend_industries": {
+      "accommodation": 2069,
+      "hospitality": 5033,
+      "transportation": 3390
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "EuhD8vww95uRUEqehH",
+    "title": "CALEMA",
+    "alternate_titles": [
+      "Calema at Théâtre Sébastopol"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 54,
+    "local_rank": 68,
+    "phq_attendance": 1662,
+    "entities": [
+      {
+        "entity_id": "LbCNv8YiWV5wSTYptfUNPP",
+        "name": "Théâtre Sebastopol",
+        "type": "venue",
+        "formatted_address": "Place Sébastopol\n59000 Lille\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:00:00Z",
+    "end": "2024-05-07T18:00:00Z",
+    "predicted_end": "2024-05-07T21:40:00Z",
+    "updated": "2024-02-06T07:10:00Z",
+    "first_seen": "2023-10-29T06:25:52Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.0581095,
+      50.6291845
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.0581095,
+          50.6291845
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4hj-p3z-rkz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 333,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 1662,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 167,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 250,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 1662,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 50,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071624",
+        "2990129",
+        "2998323",
+        "6454414",
+        "2998324"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 52240,
+    "predicted_event_spend_industries": {
+      "accommodation": 10929,
+      "hospitality": 24898,
+      "transportation": 16412
+    },
+    "phq_labels": [
+      {
+        "label": "other",
+        "weight": 0.56
+      },
+      {
+        "label": "pop",
+        "weight": 0.44
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "FKycMjYfKUBBr4r9Fg",
+    "title": "Jain",
+    "alternate_titles": [
+      "Jain at Trianon"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 53,
+    "local_rank": 53,
+    "phq_attendance": 1430,
+    "entities": [
+      {
+        "entity_id": "MmdEiMyYg5qRK97iGU59Tm",
+        "name": "Le Trianon",
+        "type": "venue",
+        "formatted_address": "75018 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:00:00Z",
+    "end": "2024-05-07T18:00:00Z",
+    "predicted_end": "2024-05-07T22:10:00Z",
+    "updated": "2024-02-08T03:47:55Z",
+    "first_seen": "2023-12-07T23:31:00Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.343041,
+      48.883086
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.343041,
+          48.883086
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xq-w6k"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 286,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 1430,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 143,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 215,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 1430,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 43,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2975246",
+        "2980915",
+        "6455342",
+        "2977824",
+        "3029374"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 51609,
+    "predicted_event_spend_industries": {
+      "accommodation": 11346,
+      "hospitality": 25477,
+      "transportation": 14786
+    },
+    "phq_labels": [
+      {
+        "label": "pop",
+        "weight": 0.48
+      },
+      {
+        "label": "electronic",
+        "weight": 0.22
+      },
+      {
+        "label": "other",
+        "weight": 0.15
+      },
+      {
+        "label": "rock",
+        "weight": 0.15
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "Fxa4MgGWz3Mc9VkP4Y",
+    "title": "Tété",
+    "alternate_titles": [
+      "TETE"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 44,
+    "local_rank": 63,
+    "phq_attendance": 517,
+    "entities": [
+      {
+        "entity_id": "iFnyMK2aXc6t4QF4CX8j74",
+        "name": "Hôtel Vauban",
+        "type": "venue",
+        "formatted_address": "17 Avenue Georges Clemenceau\n29200 Brest\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T18:00:00Z",
+    "end": "2024-05-07T18:00:00Z",
+    "predicted_end": "2024-05-07T22:10:00Z",
+    "updated": "2024-01-01T02:14:04Z",
+    "first_seen": "2023-09-29T00:17:47Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -4.4841988,
+      48.389272
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -4.4841988,
+          48.389272
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4fc-ggt-hh5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 517,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 78,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 517,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 16,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3030293",
+        "3018471",
+        "3030299",
+        "6448047",
+        "3030300"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 11869,
+    "predicted_event_spend_industries": {
+      "accommodation": 3399,
+      "hospitality": 5671,
+      "transportation": 2798
+    },
+    "phq_labels": [
+      {
+        "label": "pop",
+        "weight": 0.56
+      },
+      {
+        "label": "jazz-and-classical",
+        "weight": 0.44
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "FzYTATBq9pDAKYApNR",
+    "title": "Ocie Elliott and Old Sea Brigade",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 46,
+    "local_rank": 47,
+    "phq_attendance": 614,
+    "entities": [
+      {
+        "entity_id": "33r73LWQRWk2c7x22jYq29",
+        "name": "O'Sullivans By The Mill",
+        "type": "venue",
+        "formatted_address": "92 Boulevard de Clichy\n75018 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T17:30:00Z",
+    "end": "2024-05-07T17:30:00Z",
+    "predicted_end": "2024-05-07T20:00:00Z",
+    "updated": "2024-02-02T03:21:07Z",
+    "first_seen": "2023-10-18T00:23:20Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3319989,
+      48.8841989
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3319989,
+          48.8841989
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xr-35z"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 614,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 93,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 614,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 19,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "3034610"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 22159,
+    "predicted_event_spend_industries": {
+      "accommodation": 4871,
+      "hospitality": 10939,
+      "transportation": 6348
+    },
+    "phq_labels": [
+      {
+        "label": "jazz-and-classical",
+        "weight": 0.64
+      },
+      {
+        "label": "pop",
+        "weight": 0.18
+      },
+      {
+        "label": "rock",
+        "weight": 0.18
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "J7UBQt72ZKJduaFXNE",
+    "title": "GoGo Penguin",
+    "alternate_titles": [
+      "GoGo Penguin at Le Bikini"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 49,
+    "local_rank": 71,
+    "phq_attendance": 887,
+    "entities": [
+      {
+        "entity_id": "MhpRtP9BtJqZm3PK2HwxqC",
+        "name": "Le Bikini",
+        "type": "venue",
+        "formatted_address": "Rue Théodore Monod\n31520 Ramonville-Saint-Agne\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T17:30:00Z",
+    "end": "2024-05-07T17:30:00Z",
+    "predicted_end": "2024-05-07T21:40:00Z",
+    "updated": "2024-02-08T00:34:59Z",
+    "first_seen": "2023-11-01T05:36:36Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      1.4856759,
+      43.5480028
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          1.4856759,
+          43.5480028
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7f7-mbn-cnq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 887,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 134,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 887,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 27,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071623",
+        "3013767",
+        "2972314",
+        "6431773",
+        "2984493"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071623",
+        "3013767",
+        "2972314",
+        "6453974",
+        "2972315"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 25310,
+    "predicted_event_spend_industries": {
+      "accommodation": 5833,
+      "hospitality": 11488,
+      "transportation": 7989
+    },
+    "phq_labels": [
+      {
+        "label": "electronic",
+        "weight": 0.5
+      },
+      {
+        "label": "jazz-and-classical",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "6sHGvFZVm5BcNAZwQD",
+    "title": "CANCER BATS",
+    "description": "Sourced from predicthq.com - La TAF et BOOMERANG présentent CANCER BATS - Mardi 7 mai 2024 - Ouverture des portes, du bar et du foodtruck à 19h - Prévente 15€ (hors frais de loc) - Sur place 17€ - Adhésion annuelle obligatoire 3€CANCER BATSCancer Bats est un groupe de punk hardcore canadien, originaire de Toronto. Le groupe se compose actuellement du chanteur Liam Cormier, du guitariste Scott Middleton, du batteur Mike Peters et du bassiste Jaye R. Schwarzer.https://www.facebook.com/cancerbats/https://www.youtube.com/cancerbatsofficial",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 40,
+    "local_rank": 63,
+    "phq_attendance": 300,
+    "entities": [
+      {
+        "entity_id": "8JhdfUW6XJPm5VTcwpqQVZ",
+        "name": "SECRET PLACE",
+        "type": "venue",
+        "formatted_address": "25 Rue Saint-Exupéry\n34430 Saint-Jean-de-Védas\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T17:00:00Z",
+    "end": "2024-05-07T17:00:00Z",
+    "predicted_end": "2024-05-07T21:10:00Z",
+    "updated": "2024-01-12T02:40:40Z",
+    "first_seen": "2024-01-12T00:27:05Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      3.8419343,
+      43.5620282
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          3.8419343,
+          43.5620282
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7fc-n9b-yy9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 300,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 300,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071623",
+        "3013500",
+        "2992165",
+        "6432641",
+        "2979261"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071623",
+        "3013500",
+        "2992165",
+        "6454034",
+        "2992166"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 6487,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 3454,
+      "transportation": 3033
+    },
+    "phq_labels": [
+      {
+        "label": "rock",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "Gy73S35KTCfzhDnaSJ",
+    "title": "Philine Sonny at Supersonic",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 27,
+    "local_rank": 30,
+    "phq_attendance": 71,
+    "entities": [
+      {
+        "entity_id": "UUS6W4TjAm8HN5tiSrWSVj",
+        "name": "Supersonic",
+        "type": "venue",
+        "formatted_address": "9 Rue Biscornet\n75012 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T17:00:00Z",
+    "end": "2024-05-07T17:00:00Z",
+    "predicted_end": "2024-05-07T21:10:00Z",
+    "updated": "2024-02-03T06:08:14Z",
+    "first_seen": "2023-12-17T06:27:33Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3697085,
+      48.8503272
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3697085,
+          48.8503272
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7vw-xwk"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 71,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 71,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "2986082"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 1599,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1011,
+      "transportation": 587
+    },
+    "phq_labels": [
+      {
+        "label": "pop",
+        "weight": 0.5
+      },
+      {
+        "label": "rock",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "4vFnJmGWCxDKKJdkxF",
+    "title": "TOUJOURS UN TUBE (QUI ME RAPPELLE)",
+    "description": "Sourced from predicthq.com - Vous avez été des milliers depuis 2015 à aimer le spectacle Tubes d'un jour tubes toujours. Vous allez adorer notre nouveau spectacle épisode 2 : Toujours un Tube (qui me rappelle) !!Notre chorégraphe Nicolas Schwartz s’est librement inspiré de Tubes d'un jour, Tubes toujours pour retrouver l’esprit d’origine qui accompagne les nouveaux et nombreux medleys !!Toute l’histoire part d’une discussion d'un groupe d'amis qui se remémore les bons moments de la vie autour de la musique. Revivez les sixties, parcourez les plus grands succès français et internationaux des années 70, replongez-vous dans l’ambiance unique du Festival mythique de Woodstock, enfilez vos vestes à paillettes sur les rythmes endiablés du disco, reprenez les refrains accrocheurs et indémodables des années 80 et, enfin, enivrez-vous de la chanson française des années 90 !!Nos 18 artistes sur scène se donneront à « plein Tube » pour vivre ensemble un spectacle fait d’énergie, d'enthousiasme, de fête, de joie et d'émotion. Nos musiciens, danseuses, danseurs, chanteuses et chanteurs évolueront sur une mise en scène et un décor exceptionnels pour que ce voyage de joyeuse nostalgie musicale enrichisse encore le souvenir de ces années incroyablement riches.Retrouvez les artistes emblématiques de cette époque bénie: Johnny, Cloclo, Dalida, Eddy Mitchell, Goldman, Rika Zarai, France Gall, Patrick Bruel, Larusso, Toto Cuttugno, Ricchi e Poveri, Les Beattles, Les Stones, Image, Niagara, Gilbert Montagné, Joe Dassin, Lara Fabian, Céline Dion, Nicoletta, Sheila, Patrick Hernandez, Gloria Gaynor, Village People, Daniel Balavoine, Lio, Rose Laurens, Julio Iglesias, JP Mader, De Palmas, Pascal Obispo et tant d’autres... 2h de show en 2 parties pour le meilleur de la musique des années 60 à l'an 2000 !!!",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 41,
+    "local_rank": 55,
+    "phq_attendance": 361,
+    "entities": [
+      {
+        "entity_id": "8EtCAHS6TxqLmGXABtJT2R",
+        "name": "THEATRE DU BLANC-MESNIL",
+        "type": "venue",
+        "formatted_address": "1-5 PLACE DE LA LIBERATION\n93150 Le Blanc Mesnil\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-07T13:00:00Z",
+    "end": "2024-05-07T13:00:00Z",
+    "predicted_end": "2024-05-07T17:10:00Z",
+    "updated": "2024-02-07T02:54:51Z",
+    "first_seen": "2024-02-07T00:25:23Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.4658549,
+      48.9441756
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.4658549,
+          48.9441756
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-62m-w8v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-07",
+            "value": 361,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 55,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 361,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-08",
+            "value": 11,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2975246",
+        "6457372",
+        "6457205",
+        "3005269"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2975246",
+        "6457371",
+        "6452608",
+        "3032179"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 10643,
+    "predicted_event_spend_industries": {
+      "accommodation": 2864,
+      "hospitality": 4291,
+      "transportation": 3487
+    },
+    "phq_labels": [
+      {
+        "label": "pop",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "AiYGDok35k4mXdp9XQ",
+    "title": "PINK TURTLE ' Pop in Swing",
+    "description": "Sourced from predicthq.com - PINK TURTLE   Pop in Swing  Après 10 ans de break ils reviennent !Pink Turtle revisite les plus gros hits de grands groupes Pop/Rock à la sauce Jazz.Artiste(s) : Pink TurtleSpectacle tout public Genre : Jazz/Pop RockDurée : 90mn",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 41,
+    "local_rank": 42,
+    "phq_attendance": 350,
+    "entities": [
+      {
+        "entity_id": "yA7rsPc72UtnA74AVJ4bCp",
+        "name": "Théâtre de l'Européen",
+        "type": "venue",
+        "formatted_address": "5 Rue Biot\n75017 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-06T18:30:00Z",
+    "end": "2024-05-06T18:30:00Z",
+    "predicted_end": "2024-05-06T21:00:00Z",
+    "updated": "2024-01-22T00:25:38Z",
+    "first_seen": "2024-01-22T00:18:37Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3264877,
+      48.8838116
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3264877,
+          48.8838116
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xr-2ff"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 350,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 53,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 350,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 11,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "3034610"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 12631,
+    "predicted_event_spend_industries": {
+      "accommodation": 2777,
+      "hospitality": 6235,
+      "transportation": 3619
+    },
+    "phq_labels": [
+      {
+        "label": "jazz-and-classical",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "5AQzLyMUbdZ5pFu8YV",
+    "title": "Jain",
+    "alternate_titles": [
+      "Jain at Trianon"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 53,
+    "local_rank": 53,
+    "phq_attendance": 1430,
+    "entities": [
+      {
+        "entity_id": "MmdEiMyYg5qRK97iGU59Tm",
+        "name": "Le Trianon",
+        "type": "venue",
+        "formatted_address": "75018 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-06T18:00:00Z",
+    "end": "2024-05-06T18:00:00Z",
+    "predicted_end": "2024-05-06T22:10:00Z",
+    "updated": "2024-02-08T02:45:50Z",
+    "first_seen": "2023-12-07T23:07:28Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.343041,
+      48.883086
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.343041,
+          48.883086
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xq-w6k"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 286,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 1430,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 143,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 215,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 1430,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 43,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2975246",
+        "2980915",
+        "6455342",
+        "2977824",
+        "3029374"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 51609,
+    "predicted_event_spend_industries": {
+      "accommodation": 11346,
+      "hospitality": 25477,
+      "transportation": 14786
+    },
+    "phq_labels": [
+      {
+        "label": "pop",
+        "weight": 0.48
+      },
+      {
+        "label": "electronic",
+        "weight": 0.22
+      },
+      {
+        "label": "other",
+        "weight": 0.15
+      },
+      {
+        "label": "rock",
+        "weight": 0.15
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "9Dm2YquP6NKGxEBUCw",
+    "title": "Avishai Cohen",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 42,
+    "local_rank": 62,
+    "phq_attendance": 417,
+    "entities": [
+      {
+        "entity_id": "p3i6eDK4SVin2A6WHRieCk",
+        "name": "Espace Malraux",
+        "type": "venue",
+        "formatted_address": "67 place François Mitterrand\n73000 Chambéry\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-06T18:00:00Z",
+    "end": "2024-05-06T18:00:00Z",
+    "predicted_end": "2024-05-06T20:30:00Z",
+    "updated": "2023-12-18T00:12:40Z",
+    "first_seen": "2023-06-22T21:52:13Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      5.9249478625,
+      45.5632639713
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          5.9249478625,
+          45.5632639713
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53h-h7n-fxq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 417,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 63,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 417,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 13,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "2975517",
+        "3027421",
+        "6455250",
+        "3027422"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 12062,
+    "predicted_event_spend_industries": {
+      "accommodation": 2161,
+      "hospitality": 5889,
+      "transportation": 4011
+    },
+    "phq_labels": [
+      {
+        "label": "jazz-and-classical",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "AbHnJHWJdJjrzpp5ap",
+    "title": "LA Priest at La Maroquinerie",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 49,
+    "local_rank": 49,
+    "phq_attendance": 929,
+    "entities": [
+      {
+        "entity_id": "NeaHXVe2tLnfGDJWXDknpd",
+        "name": "La Maroquinerie",
+        "type": "venue",
+        "formatted_address": "23 Rue Boyer\n75020 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-06T18:00:00Z",
+    "end": "2024-05-06T18:00:00Z",
+    "predicted_end": "2024-05-06T22:10:00Z",
+    "updated": "2024-02-07T07:33:11Z",
+    "first_seen": "2024-02-07T07:31:25Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.392016099999978,
+      48.8685078
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.392016099999978,
+          48.8685078
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xk-4d9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 929,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 140,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 929,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 28,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2994540"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 33528,
+    "predicted_event_spend_industries": {
+      "accommodation": 7370,
+      "hospitality": 16551,
+      "transportation": 9605
+    },
+    "phq_labels": [
+      {
+        "label": "pop",
+        "weight": 0.5
+      },
+      {
+        "label": "rock",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "D7sGu6Cyo7V6XqAB24",
+    "title": "Dixit Dominus",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 49,
+    "local_rank": 59,
+    "phq_attendance": 924,
+    "entities": [
+      {
+        "entity_id": "32UhHAQ82RYxff6fH6PgmM",
+        "name": "Auditorium P. Devedjian, Seine Musicale",
+        "type": "venue",
+        "formatted_address": "Ile Seguin\n92100 Boulogne-Billancourt\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-06T18:00:00Z",
+    "end": "2024-05-06T18:00:00Z",
+    "predicted_end": "2024-05-06T22:10:00Z",
+    "updated": "2023-12-17T21:57:14Z",
+    "first_seen": "2023-07-05T21:30:27Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.23329,
+      48.82382
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.23329,
+          48.82382
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7th-w8v"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 924,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 139,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 924,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 28,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "3013657",
+        "3033628"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2967196",
+        "2969678",
+        "6444096",
+        "2969679"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 28431,
+    "predicted_event_spend_industries": {
+      "accommodation": 7331,
+      "hospitality": 12357,
+      "transportation": 8742
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "D9TWbtTT44gfxDrnai",
+    "title": "Julius Drake and Mark Padmore",
+    "description": "Sourced from predicthq.com - Julius Drake and Mark Padmore come together to present a mesmerizing evening of classical music at ATHENEE THEATRE LOUIS-JOUVET - Gde Salle in Paris, France. Renowned pianist Julius Drake and esteemed tenor Mark Padmore blend their talents, delivering an unforgettable performance that will captivate audiences with their artistry and interpretation.",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 53,
+    "local_rank": 59,
+    "phq_attendance": 1429,
+    "entities": [
+      {
+        "entity_id": "328xd4ieQs4hCqXETHDXjPd",
+        "name": "ATHENEE THEATRE LOUIS-JOUVET - Gde Salle",
+        "type": "venue",
+        "formatted_address": "7, Rue Boudreau\n75009 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-06T18:00:00Z",
+    "end": "2024-05-06T18:00:00Z",
+    "predicted_end": "2024-05-06T20:30:00Z",
+    "updated": "2024-01-16T05:43:14Z",
+    "first_seen": "2023-07-05T21:34:05Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3290542,
+      48.8720594
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3290542,
+          48.8720594
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xq-bhq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 286,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 1429,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 143,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 215,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 1429,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 43,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "2989487"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 51573,
+    "predicted_event_spend_industries": {
+      "accommodation": 11338,
+      "hospitality": 25459,
+      "transportation": 14775
+    },
+    "phq_labels": [
+      {
+        "label": "jazz-and-classical",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "F2gkWbeMXLzNVxxdSN",
+    "title": "Uche Yara",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 34,
+    "local_rank": 37,
+    "phq_attendance": 156,
+    "entities": [
+      {
+        "entity_id": "5XHut9keN34CPWYY7n5kmE",
+        "name": "POPUP!",
+        "type": "venue",
+        "formatted_address": "14 RUE ABEL\n75012 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-06T18:00:00Z",
+    "end": "2024-05-06T18:00:00Z",
+    "predicted_end": "2024-05-06T22:10:00Z",
+    "updated": "2024-02-08T03:21:55Z",
+    "first_seen": "2023-11-24T01:28:26Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3756459,
+      48.8475436
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3756459,
+          48.8475436
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7vw-wff"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 156,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 156,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2971090",
+        "6457374",
+        "6613141",
+        "2978621",
+        "2983854"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3513,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2223,
+      "transportation": 1290
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "F7jAgNCtkuEMsSnwNa",
+    "title": "El Perro del Mar",
+    "alternate_titles": [
+      "El Perro Del Mar at Badaboum"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 39,
+    "local_rank": 41,
+    "phq_attendance": 294,
+    "entities": [
+      {
+        "entity_id": "3jbjwNnbs6i34yrRwvEAPU",
+        "name": "Badaboum",
+        "type": "venue",
+        "formatted_address": "2B Rue des Taillandiers\n75011 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-06T18:00:00Z",
+    "end": "2024-05-06T18:00:00Z",
+    "predicted_end": "2024-05-06T22:10:00Z",
+    "updated": "2024-02-07T03:56:21Z",
+    "first_seen": "2023-12-05T22:37:14Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3757792,
+      48.8536014
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3757792,
+          48.8536014
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7vw-xkf"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 294,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 294,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "2986082"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 6622,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 4190,
+      "transportation": 2431
+    },
+    "phq_labels": [
+      {
+        "label": "pop",
+        "weight": 0.62
+      },
+      {
+        "label": "rock",
+        "weight": 0.38
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "GZdVxU3z5TTHbAemes",
+    "title": "Giedré",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 48,
+    "local_rank": 48,
+    "phq_attendance": 796,
+    "entities": [
+      {
+        "entity_id": "NLkfiXMfkpXiJ9pP7RHkFr",
+        "name": "Théâtre de l'Atelier",
+        "type": "venue",
+        "formatted_address": "1 Place Charles Dullin\n75018 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-06T18:00:00Z",
+    "end": "2024-05-06T18:00:00Z",
+    "predicted_end": "2024-05-06T21:40:00Z",
+    "updated": "2024-01-12T00:40:01Z",
+    "first_seen": "2023-11-11T22:22:36Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3422628,
+      48.8833994
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3422628,
+          48.8833994
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xq-wp9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 796,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 120,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 796,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 24,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2975246",
+        "2980915",
+        "6455342",
+        "2977824",
+        "3029374"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 28728,
+    "predicted_event_spend_industries": {
+      "accommodation": 6315,
+      "hospitality": 14181,
+      "transportation": 8230
+    },
+    "phq_labels": [
+      {
+        "label": "other",
+        "weight": 0.75
+      },
+      {
+        "label": "pop",
+        "weight": 0.25
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "BDejF28gg6SQh54kgj",
+    "title": "CRYPTA",
+    "description": "Sourced from predicthq.com - Sounds Like Hell Productions, en accord avec Garmonbozia, présenteChers amateurs de Metal Extrême, préparez-vous à un pur moment musical lundi 6 mai 2024 ! Le quartette féminin de Death Metal CRYPTA débarque pour la première fois à Lyon pour vous transmettre son énergie dévastatrice ! Fusionnant le Death Metal classique et moderne, agrémenté d'éléments Black Metal savamment dosés, CRYPTA vous garantit une soirée électrisante au Rock'n Eat, ouverte par NAKKEKNAEKKER et PLAGUEMACE. Ça va secouer !",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 40,
+    "local_rank": 51,
+    "phq_attendance": 300,
+    "entities": [
+      {
+        "entity_id": "e25kQ5pp7rYhU6kiAWpMkp",
+        "name": "ROCK N EAT",
+        "type": "venue",
+        "formatted_address": "32 QUAI ARLOING\n69009 Lyon\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-06T17:00:00Z",
+    "end": "2024-05-06T17:00:00Z",
+    "predicted_end": "2024-05-06T21:10:00Z",
+    "updated": "2024-01-13T03:26:43Z",
+    "first_seen": "2023-12-14T00:25:22Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      4.811632,
+      45.7710368
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          4.811632,
+          45.7710368
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53h-53b-qzz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 300,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 300,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "2987410",
+        "2996943",
+        "6454573",
+        "2973317"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "2987410",
+        "2996943",
+        "6454573",
+        "2996944"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 5727,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 3422,
+      "transportation": 2305
+    },
+    "phq_labels": [
+      {
+        "label": "rock",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "jSwAFeYagiLCqPteDF",
+    "title": "TRIO MAWOGANI / SEBAH / ISA",
+    "description": "Sourced from predicthq.com - Le trio : Mawogani, Sebah et Isa se réunissent pour offrir une performance live épique qui vous époustouflera le lundi 6 mai 2024 à 19h00 !",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 36,
+    "local_rank": 62,
+    "phq_attendance": 200,
+    "entities": [
+      {
+        "entity_id": "S7ubaDhhCB9ALzDFrwEMUh",
+        "name": "Salle De L'union",
+        "type": "venue",
+        "formatted_address": "7 boulevard Lafayette\nCeret\nFrance"
+      }
+    ],
+    "duration": 16200,
+    "start": "2024-05-06T17:00:00Z",
+    "end": "2024-05-06T21:30:00Z",
+    "updated": "2024-02-08T01:55:34Z",
+    "first_seen": "2024-02-08T01:54:59Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.74934,
+      42.4843
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.74934,
+          42.4843
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7f8-hyx-8y9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 200,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-06",
+            "value": 200,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071623",
+        "2984885",
+        "3027887",
+        "6614350",
+        "3027888"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071623",
+        "2984885",
+        "2987913",
+        "6440996",
+        "2987914"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 3692,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2311,
+      "transportation": 1380
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "3dq9wAUUUW9SJ6pZ5j",
+    "title": "JAY SEBAG",
+    "description": "Sourced from predicthq.com - JAY SEBAGArtiste international aux multiples facettes, compositeur de tubes de la chanson française tels que Où Je Vais ou Tu N’Es Plus Là d’Amel Bent, ainsi que pour le groupe superstar japonais Exile ou encore de jeunes artistes émergents (Sasha, artiste Capitol- Universal « Alive », Liam, artiste Scorpio Music, « And I Feel »), vocalist et co-songwriter des hits de Dj producteurs « French Touch » au rayonnement international tels que Martin Solveig (Rocking Music, Rejection, Something Better, C'est La vie), pianiste hors-pair, Jay (Jérôme) Sebag est un auteur-compositeur-interprète de renom (album « Comment vous dire », incluant les chansons « En Silence » et « J’attends » reprises par Amel Bent), qui parcourt la planète en chansons depuis près de 20 ans, entre Miami et Paris, Tokyo et New York, Sydney et Moscou, Shanghai et Londres, Dubai et Rio de Janeiro, écumant festivals, clubs et salles de concerts, alternant les performances tout en français, au piano, avec des shows Electro sur un dance floor endiablé.",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 36,
+    "local_rank": 36,
+    "phq_attendance": 200,
+    "entities": [
+      {
+        "entity_id": "iq9sVMXPhWeg2iBeF67a97",
+        "name": "Comédie République",
+        "type": "venue",
+        "formatted_address": "1 Boulevard Saint-Martin\n75003 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-05T18:00:00Z",
+    "end": "2024-05-05T18:00:00Z",
+    "predicted_end": "2024-05-05T22:10:00Z",
+    "updated": "2024-01-22T00:27:03Z",
+    "first_seen": "2024-01-22T00:18:46Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.361957,
+      48.8678081
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.361957,
+          48.8678081
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xh-mkz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 200,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 200,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "2973189"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 4505,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 2850,
+      "transportation": 1654
+    },
+    "phq_labels": [
+      {
+        "label": "pop",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "E3X5cjtyTigxpU2RrN",
+    "title": "Jain",
+    "alternate_titles": [
+      "Jain at Trianon"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 53,
+    "local_rank": 53,
+    "phq_attendance": 1437,
+    "entities": [
+      {
+        "entity_id": "MmdEiMyYg5qRK97iGU59Tm",
+        "name": "Le Trianon",
+        "type": "venue",
+        "formatted_address": "75018 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-05T18:00:00Z",
+    "end": "2024-05-05T18:00:00Z",
+    "predicted_end": "2024-05-05T22:10:00Z",
+    "updated": "2024-02-08T03:24:52Z",
+    "first_seen": "2023-12-08T00:48:16Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.343041,
+      48.883086
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.343041,
+          48.883086
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xq-w6k"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 288,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 1437,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 144,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 216,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 1437,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 44,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2975246",
+        "2980915",
+        "6455342",
+        "2977824",
+        "3029374"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 51862,
+    "predicted_event_spend_industries": {
+      "accommodation": 11401,
+      "hospitality": 25601,
+      "transportation": 14858
+    },
+    "phq_labels": [
+      {
+        "label": "pop",
+        "weight": 0.48
+      },
+      {
+        "label": "electronic",
+        "weight": 0.22
+      },
+      {
+        "label": "other",
+        "weight": 0.15
+      },
+      {
+        "label": "rock",
+        "weight": 0.15
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "J88chTxmkaJjWFCqu2",
+    "title": "STAR ACADEMY",
+    "description": "Sourced from predicthq.com - La STAR ACADEMY revient pour une nouvelle saison sur les écrans…mais aussi sur scène dès mars 2024 !  Une sélection d’élèves désignés au cours de cette nouvelle édition aura la chance de partir sur les routes et de nous faire vivre LA grande tournée événement : STAR ACADEMY « TOUR 2024 », dans les plus grandes salles de France et de Belgique. Cette nouvelle tournée exceptionnelle, c’est la promesse d’un grand show multi-artistes inédit, pour chanter ensemble les plus grands titres interprétés tout au long de la saison, partager à nouveau les meilleurs moments de la vie au Château, mais aussi de nombreuses surprises…!  Retrouvez Pierre, Lénie, Julien, Héléna, Axel, Djebril et Candice le 5 mai prochain au Zénith de Paris - La Villette pour un concert exceptionnel après deux dates au Dôme de Paris les 22 et 23 mars.",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 69,
+    "local_rank": 71,
+    "phq_attendance": 9000,
+    "entities": [
+      {
+        "entity_id": "G3FakVxTL3MUgnaNEMteBu",
+        "name": "Zénith Paris - La Villette",
+        "type": "venue",
+        "formatted_address": "211 Avenue Jean Jaurès\n75019 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-05T18:00:00Z",
+    "end": "2024-05-05T18:00:00Z",
+    "predicted_end": "2024-05-05T22:10:00Z",
+    "updated": "2024-01-24T08:49:28Z",
+    "first_seen": "2023-12-24T00:12:05Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3932285,
+      48.89420459999999
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3932285,
+          48.89420459999999
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xn-k9f"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 1800,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 9000,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 900,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 180,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 2250,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 9000,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 270,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2975246",
+        "6457371",
+        "6452001",
+        "2988621"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2975246",
+        "6457371",
+        "6452608",
+        "3032179"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 549933,
+    "predicted_event_spend_industries": {
+      "accommodation": 153018,
+      "hospitality": 278169,
+      "transportation": 118745
+    },
+    "phq_labels": [
+      {
+        "label": "pop",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "BLJVxbEPTTPjPmAer6",
+    "title": "CALEMA",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 56,
+    "local_rank": 70,
+    "phq_attendance": 2047,
+    "entities": [
+      {
+        "entity_id": "bUzEAdxx8TFXRUKAhRF7Bm",
+        "name": "Amphithéâtre 3000",
+        "type": "venue",
+        "formatted_address": "80, Quai Charles de Gaulle\n69006 Lyon\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-05T16:00:00Z",
+    "end": "2024-05-05T16:00:00Z",
+    "predicted_end": "2024-05-05T19:40:00Z",
+    "updated": "2024-02-06T07:53:00Z",
+    "first_seen": "2023-11-05T00:17:04Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      4.8522,
+      45.78452
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          4.8522,
+          45.78452
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53h-58q-87q"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 410,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 2047,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 205,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 308,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 2047,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 62,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "2987410",
+        "2996943",
+        "6450723",
+        "3029096"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "2987410",
+        "2996943",
+        "6454573",
+        "2996944"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 60850,
+    "predicted_event_spend_industries": {
+      "accommodation": 11999,
+      "hospitality": 29190,
+      "transportation": 19660
+    },
+    "phq_labels": [
+      {
+        "label": "other",
+        "weight": 0.56
+      },
+      {
+        "label": "pop",
+        "weight": 0.44
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "GFgciu8oQQhZyo4wDH",
+    "title": "SLIMANE",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 62,
+    "local_rank": 81,
+    "phq_attendance": 3869,
+    "entities": [
+      {
+        "entity_id": "cQC6FAq9WaBTE5Tf8M4Qgu",
+        "name": "Zénith de Nancy",
+        "type": "venue",
+        "formatted_address": "Rue du Zénith\n54320 Maxéville\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-05T16:00:00Z",
+    "end": "2024-05-05T16:00:00Z",
+    "predicted_end": "2024-05-05T20:10:00Z",
+    "updated": "2024-02-08T13:21:42Z",
+    "first_seen": "2023-11-10T07:46:47Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      6.1393619,
+      48.7097817
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          6.1393619,
+          48.7097817
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53c-rwz-pvz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 774,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 3869,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 387,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 78,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 968,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 3869,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 117,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "2994111",
+        "2990998",
+        "6436741",
+        "2994951"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "2994111",
+        "2990998",
+        "6454307",
+        "2990999"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 238246,
+    "predicted_event_spend_industries": {
+      "accommodation": 54520,
+      "hospitality": 133655,
+      "transportation": 50070
+    },
+    "phq_labels": [
+      {
+        "label": "pop",
+        "weight": 0.64
+      },
+      {
+        "label": "rock",
+        "weight": 0.36
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "GphL5PY9yt5yz988er",
+    "title": "Patrick Bruel",
+    "description": "Sourced from predicthq.com - Patrick Bruel is a highly acclaimed French singer-songwriter and actor, known for his captivating performances and soulful voice. Prepare to be mesmerized as he takes the stage at Zenith Pau in Pau, Nouvelle-Aquitaine, France, delivering an unforgettable evening of musical brilliance and emotion.",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 61,
+    "local_rank": 80,
+    "phq_attendance": 3356,
+    "entities": [
+      {
+        "entity_id": "WWb33sU89G2sZ3AJckxWe3",
+        "name": "Zenith Pau",
+        "type": "venue",
+        "formatted_address": "Rue Suzanne Bacarisse\n64000 Pau\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-05T16:00:00Z",
+    "end": "2024-05-05T16:00:00Z",
+    "predicted_end": "2024-05-05T20:10:00Z",
+    "updated": "2024-02-08T04:37:48Z",
+    "first_seen": "2023-03-15T21:30:25Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -0.364982,
+      43.335524
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -0.364982,
+          43.335524
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4dy-dqr-jvz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 672,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 3356,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 336,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 68,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 839,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 3356,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 101,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071620",
+        "2984887",
+        "2988356",
+        "6440480",
+        "2997628"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071620",
+        "2984887",
+        "2988356",
+        "6440557",
+        "2988358"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 207020,
+    "predicted_event_spend_industries": {
+      "accommodation": 47291,
+      "hospitality": 115933,
+      "transportation": 43794
+    },
+    "phq_labels": [
+      {
+        "label": "pop",
+        "weight": 0.57
+      },
+      {
+        "label": "rock",
+        "weight": 0.43
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "6btfgKMvxv499NMxkX",
+    "title": "Miro",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 38,
+    "local_rank": 53,
+    "phq_attendance": 266,
+    "entities": [
+      {
+        "entity_id": "MmmAPVbgeps4mrPZBWU6s9",
+        "name": "AUDITORIUM DU MUSEE",
+        "type": "venue",
+        "formatted_address": "5 place Lavalette\n38000 Grenoble\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-05T15:30:00Z",
+    "end": "2024-05-05T15:30:00Z",
+    "predicted_end": "2024-05-05T22:10:00Z",
+    "updated": "2023-12-17T22:51:37Z",
+    "first_seen": "2023-07-29T21:33:12Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      5.73217,
+      45.1941
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          5.73217,
+          45.1941
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53n-7vp-ty9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 266,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 266,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "3012715",
+        "3014727",
+        "6455959",
+        "3006131"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071625",
+        "3012715",
+        "3014727",
+        "6454071",
+        "3014728"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 5128,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 3091,
+      "transportation": 2037
+    },
+    "phq_labels": [
+      {
+        "label": "electronic",
+        "weight": 0.56
+      },
+      {
+        "label": "rock",
+        "weight": 0.44
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "BcnWUdyTNQqKpU5N8C",
+    "title": "GOD SAVE THE DREAM",
+    "description": "Sourced from predicthq.com - Troisième Jour présente un concert chorales inédit et propulsé par les ensembles vocaux strasbourgeois Catharsis et Catharsis Queen. Intitulé  God save the Dream , comme une invitation au rêve et au dépassement de soi, celui-ci verra se produire 150 choristes sous la direction de Thomas Hurter. Les chansons, entièrement réarrangées pour 5 à 8 pupitres de voix, sont issues du répertoire pop-rock des années 60 à nos jours (Eurythmics, Supertramp, Imagine Dragons, Queen,..).",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 72,
+    "local_rank": 93,
+    "phq_attendance": 12079,
+    "entities": [
+      {
+        "entity_id": "YXMPm2nwJjDvdgPhdn9KMr",
+        "name": "Zénith de Strasbourg",
+        "type": "venue",
+        "formatted_address": "1 Allée du Zénith\n67201 Eckbolsheim\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-05T15:00:00Z",
+    "end": "2024-05-05T15:00:00Z",
+    "predicted_end": "2024-05-05T19:10:00Z",
+    "updated": "2024-01-16T04:12:07Z",
+    "first_seen": "2023-11-16T00:21:07Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      7.6871185,
+      48.59306489999999
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          7.6871185,
+          48.59306489999999
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53d-59v-9j9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-02",
+            "value": 1208,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-03",
+            "value": 6644,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 7248,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 12079,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 1812,
+            "position": "lagging"
+          },
+          {
+            "date_local": "2024-05-07",
+            "value": 1208,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 242,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 3020,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 12079,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 363,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "3034720",
+        "2973782",
+        "6441080",
+        "3020489"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "3034720",
+        "2973781",
+        "6441375",
+        "2973783"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 593953,
+    "predicted_event_spend_industries": {
+      "accommodation": 170213,
+      "hospitality": 273328,
+      "transportation": 150411
+    },
+    "phq_labels": [
+      {
+        "label": "pop",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "Dbe2E6JCMWoYYvneF4",
+    "title": "Frédéric François",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 48,
+    "local_rank": 73,
+    "phq_attendance": 820,
+    "entities": [
+      {
+        "entity_id": "V7JfJMenWpxewWjDYDpeuV",
+        "name": "Dome De Mutzig",
+        "type": "venue",
+        "formatted_address": "Rue du Mattfeld\n67190 Mutzig\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-05T15:00:00Z",
+    "end": "2024-05-05T15:00:00Z",
+    "predicted_end": "2024-05-05T19:10:00Z",
+    "updated": "2024-02-02T02:11:46Z",
+    "first_seen": "2023-03-28T21:26:12Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      7.44694,
+      48.5375
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          7.44694,
+          48.5375
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53d-5ys-2zf"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 820,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 123,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 820,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 25,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "3034720",
+        "2993475",
+        "6441239",
+        "2991086"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "3034720",
+        "2973781",
+        "6441375",
+        "2973783"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 20045,
+    "predicted_event_spend_industries": {
+      "accommodation": 5392,
+      "hospitality": 7136,
+      "transportation": 7516
+    },
+    "phq_labels": [
+      {
+        "label": "pop",
+        "weight": 0.5
+      },
+      {
+        "label": "rock",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "F9i7GJ2c2uewbE45jR",
+    "title": "PAT'PATROUILLE - LE SPECTACLE !",
+    "description": "Sourced from predicthq.com - PAT' PATROUILLE - LE SPECTACLE !La Pat' Patrouille à la rescousse !Retrouvez les neufs chiens et Ryder de la célèbre série d’animation canadienne Pat’Patrouille sur scène ! Si vous ne saviez pas comment faire plaisir à vos enfants, voici le spectacle à ne pas rater.  La Pat’ Patrouille – Le Spectacle ! « À la rescousse ! » met en scène les personnages préférés de vos enfants pour une aventure musicale pleine de gags, de rythme et d’action !Vous pourrez assister au spectacle interactif « A la rescousse ! ». En quelques mots, les habitants de La Grande Vallée se retrouvent pour l’lncroyable Course des Maires qui oppose le maire de La Grande Vallée au maire de la localité voisine FoggyBottom.  Mais tout n’est pas si simple, et c’est ce qui va tenir les enfants en haleine pendant le spectacle. En effet, Mme le maire Goodway de la Grande Vallée a disparu… Vous l’avez deviné, c’est grâce à l’intervention de la Pat’ Patrouille que ce mystère va être résolu dans la joie et la bonne humeur.Le spectacle est conçu de manière interactive. Vos enfants seront ravis de retrouver leurs héros favoris sur scène. Chase, Marcus, Stella, Ruben, Rocky, Zuma, Everest et Ryder se succèderont pour leur plus grand plaisir. Ils vont aussi pouvoir se projeter dans les endroits les plus célèbres de la série : la Grande Vallée, l’incontournable Tour de Contrôle, la célèbre l’Île des Phoques et bien sûr la montagne de Jake.La Pat’ Patrouille est  avant tout une série d’animation canadienne appelée Paw Patrol dans les pays anglo-saxons. Elle a été créée par Ketih Chapman et est diffusée depuis 2013 sur Nickelodeon aux Etats-Unis. Elle est diffusée en France depuis 2014, notamment dans Tfou sur la chaine TF1.Les héros de la série sont représentés par neufs chiens haut en couleur (rouge, jaune, bleu, vert, orange, rose, turquoise et kaki) de diverses races (Dalmatien, Bouledogue Français, Berger Allemande, Labrador, Cocker anglais, Husky…). Chaque personnage de la série effectuera des prouesses avec un véhicule spécifique. C’est le cas par exemple de Marcus, le plus célèbre de tous, qui ravi petits et grands dans son camion de pompier rouge.Enfin, n’oubliez pas que pour nos chers amis de la Pat’Patrouille « aucune mission , n’est trop dure car nos amis, ils assurent » !Et le plus sûr moyen de vous en assurer, c’est d’aller les voir sur scène. Vous ne pourrez pas les rater, ils passeront très certainement dans une grande salle pas loin de chez vous !Durée : 60 minutes",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 64,
+    "local_rank": 91,
+    "phq_attendance": 5000,
+    "entities": [
+      {
+        "entity_id": "9DcH3YfFBCmr8MzsHin6ub",
+        "name": "Arena Loire",
+        "type": "venue",
+        "formatted_address": "131 Rue Ferdinand Vest\n49800 Trélazé\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-05T15:00:00Z",
+    "end": "2024-05-05T15:00:00Z",
+    "predicted_end": "2024-05-05T18:40:00Z",
+    "updated": "2024-01-03T03:16:22Z",
+    "first_seen": "2023-12-10T00:25:56Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -0.480048,
+      47.443
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -0.480048,
+          47.443
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4fb-nx6-vpv"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 1000,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 5000,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 500,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 100,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 1250,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 5000,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 150,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2996663",
+        "3037655",
+        "6435338",
+        "2971896"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2996663",
+        "3037655",
+        "6452361",
+        "3037656"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 304287,
+    "predicted_event_spend_industries": {
+      "accommodation": 70458,
+      "hospitality": 170382,
+      "transportation": 63446
+    },
+    "phq_labels": [
+      {
+        "label": "other",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "AZpvvzXgtomn5uUgqC",
+    "title": "LA FRANCE EN CHANTE",
+    "description": "Sourced from predicthq.com - Les Spectacles RGR et les Productions UNDERSHOW sont heureux de vous présenter leur nouveau spectacle : La France En Chanté2 heures de show variétés, digne des plus grands plateaux de stars de la chanson française et autres joyaux de la francophonie réunis en direct sur scène, pour votre plus grand plaisir.Nos artistes parés de leurs plus beaux habits de gala vous feront vivre un moment inoubliable, entre interactivité, émotion et énergie débordante. Une envie irrépressible de chanter montera en vous pour accompagner chaque mélodie de nos medleys de haute tenue, eux aussi !18 artistes professionnels, chanteuses, chanteurs, danseuses, danseurs et musiciens feront rayonner sur scène et devant vos yeux conquis les légendes de la musique de France et de Navarre :Retrouvez la fougue rock'n'roll de Johnny Hallyday et de ses canailles de potes Eddy Mitchell et Jacques Dutronc, puis un vent de nostalgie nous transportera vers le vieux Paris pour une visite poétique, guidée par ceux qui le dépeignent le mieux, comme Yves Montand, Charles Aznavour ou encore Edith Piaf. Sans oublier la folie du Music-Hall et ses étoiles éternelles, telles Line Renaud et Joséphine Baker !Nous nous rendrons aussi jusqu'aux terres lointaines de nos cousins du Québec, attirés par le chant de Céline Dion comme le fut Jean-Jacques Goldman, pour revenir dans l'hexagone mettre à l'honneur nos artistes aux engagements forts comme Daniel Balavoine, Renaud, Barbara, Serge Gainsbourg, Michel Sardou ou encore Florent PagnyDe l'émotion (Maurane, Jeanne Moreau, Jacques Brel, Mike Brant...), de l'énergie (Michel Fugain, Pascal Obispo, Rita Mitsouko...), et nombre de pépites de la variété française sont réunies dans ce spectacle à découvrir au plus vite ! Pour orchestrer le tout, notre maître de cérémonie vous accompagnera avec panache tout au long de ce fabuleux spectacle. « La France En Chanté » c’est l’événement à ne pas manquer ! Alors, rejoignez-nous et chantons ensemble ce grand hommage à la variété française !",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 43,
+    "local_rank": 62,
+    "phq_attendance": 468,
+    "entities": [
+      {
+        "entity_id": "u6HArtFXs6UYH7NWRHqPmC",
+        "name": "Théâtre de Longjumeau",
+        "type": "venue",
+        "formatted_address": "20 Avenue du Général de Gaulle\n91160 Longjumeau\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-05T13:30:00Z",
+    "end": "2024-05-05T13:30:00Z",
+    "predicted_end": "2024-05-05T17:40:00Z",
+    "updated": "2024-02-07T00:35:58Z",
+    "first_seen": "2024-02-07T00:28:51Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.2989827,
+      48.6955303
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.2989827,
+          48.6955303
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-84q-r6k"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 468,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 71,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 468,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 15,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "3019599",
+        "6457367",
+        "6446160",
+        "2997712"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "3019599",
+        "6457366",
+        "6454878",
+        "3019256"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 13915,
+    "predicted_event_spend_industries": {
+      "accommodation": 3713,
+      "hospitality": 5567,
+      "transportation": 4634
+    },
+    "phq_labels": [
+      {
+        "label": "pop",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "B5gAAKRmKv8D4kRqWs",
+    "title": "STAR ACADEMY",
+    "description": "Sourced from predicthq.com - La STAR ACADEMY revient pour une nouvelle saison sur les écrans…mais aussi sur scène dès mars 2024 !  Une sélection d’élèves désignés au cours de cette nouvelle édition aura la chance de partir sur les routes et de nous faire vivre LA grande tournée événement : STAR ACADEMY « TOUR 2024 », dans les plus grandes salles de France et de Belgique. Cette nouvelle tournée exceptionnelle, c’est la promesse d’un grand show multi-artistes inédit, pour chanter ensemble les plus grands titres interprétés tout au long de la saison, partager à nouveau les meilleurs moments de la vie au Château, mais aussi de nombreuses surprises…!  Retrouvez Pierre, Lénie, Julien, Héléna, Axel, Djebril et Candice le 5 mai prochain au Zénith de Paris - La Villette pour un concert exceptionnel après deux dates au Dôme de Paris les 22 et 23 mars.",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 69,
+    "local_rank": 71,
+    "phq_attendance": 9000,
+    "entities": [
+      {
+        "entity_id": "G3FakVxTL3MUgnaNEMteBu",
+        "name": "Zénith Paris - La Villette",
+        "type": "venue",
+        "formatted_address": "211 Avenue Jean Jaurès\n75019 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-05T13:00:00Z",
+    "end": "2024-05-05T13:00:00Z",
+    "predicted_end": "2024-05-05T17:10:00Z",
+    "updated": "2024-01-24T08:49:55Z",
+    "first_seen": "2024-01-15T00:16:18Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3932285,
+      48.89420459999999
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3932285,
+          48.89420459999999
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xn-k9f"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 1800,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 9000,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 900,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 180,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 2250,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 9000,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 270,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2975246",
+        "6457371",
+        "6452001",
+        "2988621"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2975246",
+        "6457371",
+        "6452608",
+        "3032179"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 549933,
+    "predicted_event_spend_industries": {
+      "accommodation": 153018,
+      "hospitality": 278169,
+      "transportation": 118745
+    },
+    "phq_labels": [
+      {
+        "label": "pop",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "3nWh8m8hHR38TQC9cX",
+    "title": "AU COEUR DE LA NUIT",
+    "description": "Sourced from predicthq.com - A partir de 2 ans // durée 30 min« La nuit est là mais pas de frayeur ! Les personnages de ces cinq petits films sont prêts à se lancer dans de grandes aventures et à faire de la nuit leur meilleure amie. » Avec ce ciné-concert composé de 5 courts-métrages, nos petits cinéphiles seront plongés dans l’univers si mystérieux de la nuit et portés par la musique jouée en direct par la talentueuse Sophie Maurin.Chanteuse, pianiste, Sophie Maurin compose une pop joyeuse et ludique à travers des mélodies aussi bien instrumentales que vocales. Pour son premier ciné-concert, elle utilise une ribambelle de petits synthétiseurs et de claviers vintage afin de mettre en lumière la nuit et ses mystères.Au programme• Matilda d’Eduard Puertas Anfruns et Irene Iborra (2018)• Petite flamme de Vladislav Bayramgulov (2017)• Premier tonnerre d’Anastasia Melikhovan(2019)• Conte d’une nuit de Maria Stepanova (2018)• Le Fil des rêves de Camille Foirest (2020)Ce spectacle est une production Forum des images et organisé en partenariat avec cinémas 93",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 45,
+    "local_rank": 58,
+    "phq_attendance": 573,
+    "entities": [
+      {
+        "entity_id": "ite8PxYuP6YZ53UuyQ2qua",
+        "name": "L'Espace des Arts",
+        "type": "venue",
+        "formatted_address": "144 ave Jean Jaurès\n93320 Les Pavillons-Sous-Bois\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-05T08:30:00Z",
+    "end": "2024-05-05T08:30:00Z",
+    "predicted_end": "2024-05-05T12:10:00Z",
+    "updated": "2023-12-17T21:34:59Z",
+    "first_seen": "2023-07-27T00:05:44Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.506394,
+      48.903134
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.506394,
+          48.903134
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-63r-y35"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-05",
+            "value": 573,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 86,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 573,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-06",
+            "value": 18,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2975246",
+        "6457371",
+        "6457185",
+        "3000060"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2975246",
+        "6457371",
+        "6452608",
+        "3032179"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 16893,
+    "predicted_event_spend_industries": {
+      "accommodation": 4546,
+      "hospitality": 6811,
+      "transportation": 5535
+    },
+    "phq_labels": [
+      {
+        "label": "other",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "5PDLCzNjvdAuAokrsY",
+    "title": "THE CONGOS AND THE GLADIATORS",
+    "description": "Sourced from predicthq.com - THE CONGOS----------Les CONGOS sont un des derniers groupe jamaïcain resté dans sa formation originale depuis les années 70 et on ressent forcément cette unité, cette cohésion puissante lors de leurs concerts qui sont autant de véritables messes rastafariennes.En effet Cedric Myton, Ashanti Roy, Watty Burnett et Talash, le dernier arrivé, sont bien de vrais rastas qui vivent et agissent conformément à l'image qu'ils véhiculent et qui sont restés proches de leurs racines et de leurs principes. Toujours infatigables ils entrent à nouveau en studio enregistrer un nouvel album qui sortira au printemps 2024 à l'occasion d'une tournée européenne où ils partageront l'affiche avec les GLADIATORS, un autre grand nom de la musique jamaïcaine.THE GLADIATORS----------Les GLADIATORS ont été fondés en 1967 par Albert Griffiths qui a choisi ce nom après avoir vu les combats de gladiateurs dans le fim « Ben Hur ». L'idée de ces hommes qui combattaient pour leur liberté, à l'image de la lutte contre Babylone, séduit aussitôt les rastas et colle encore aujourd'hui au combat contre la dureté de la vie en Jamaïque. Préparez-vous à des grands moments de fête.",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 41,
+    "local_rank": 66,
+    "phq_attendance": 366,
+    "entities": [
+      {
+        "entity_id": "u4wqzMdHYfyMWg9cxGFcrv",
+        "name": "Les Docks",
+        "type": "venue",
+        "formatted_address": "430 Allée des Soupirs\n46000 Cahors\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-04T19:00:00Z",
+    "end": "2024-05-04T19:00:00Z",
+    "predicted_end": "2024-05-04T22:40:00Z",
+    "updated": "2023-12-22T10:39:41Z",
+    "first_seen": "2023-12-22T10:34:20Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      1.4332086,
+      44.4445053
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          1.4332086,
+          44.4445053
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7f8-qxn-66k"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 366,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 55,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 366,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 11,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071623",
+        "2997524",
+        "3029212",
+        "6449211",
+        "3029213"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 10709,
+    "predicted_event_spend_industries": {
+      "accommodation": 2406,
+      "hospitality": 4605,
+      "transportation": 3696
+    },
+    "phq_labels": [
+      {
+        "label": "other",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "7oFPt68Wnc8hmnYpPa",
+    "title": "BIRDS IN ROW   W!ZARD",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 47,
+    "local_rank": 64,
+    "phq_attendance": 721,
+    "entities": [
+      {
+        "entity_id": "MmhjbVgTdxrVFEA2FXwqT5",
+        "name": "L'Autre Canal",
+        "type": "venue",
+        "formatted_address": "45 Boulevard d'Austrasie\n54000 Nancy\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-04T19:00:00Z",
+    "end": "2024-05-04T19:00:00Z",
+    "predicted_end": "2024-05-04T23:10:00Z",
+    "updated": "2024-01-11T23:38:10Z",
+    "first_seen": "2023-12-14T00:19:18Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      6.198446,
+      48.694239
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          6.198446,
+          48.694239
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53c-rxc-ct9"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 721,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 109,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 721,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 22,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "2994111",
+        "2990998",
+        "6436845",
+        "2978105"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071622",
+        "2994111",
+        "2990998",
+        "6454307",
+        "2990999"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 21127,
+    "predicted_event_spend_industries": {
+      "accommodation": 4741,
+      "hospitality": 9579,
+      "transportation": 6806
+    },
+    "phq_labels": [
+      {
+        "label": "rock",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "8PNB3B7Mq4xzmnQmrE",
+    "title": "QU'ON EN FINISSE CONCERT D'ADIEU - QU ON EN FINISSE CONCERT D ADIEU",
+    "description": "Sourced from predicthq.com - Si tout devait s’arrêter, qu’est-ce qu’on aurait envie de chanter, juste pour le plaisir, avant le dernier salut ?Après « Les Swinging Poules », « L’Envers du décor », « Le crime de l’orpheline »… Florence Andrieu et Flannan Obé ont décidé d’arrêter les frais. Autant partir en pleine gloire, si modeste soit-elle !Accompagnés de leur complice, Philippe Brocard, ils sont allés chercher du côté de Diane Dufresne, Marie-Paule Belle, Gilbert Bécaud, mais aussi, Sondheim, Bernstein et quelques autres encore… Puisqu’ils n’ont plus rien, ni à perdre, ni à prouver, un seul mot d’ordre : se faire plaisir… et tant mieux si ça fait aussi plaisir au public, au passage !Auteurs : Florence Andrieu et Flannan Obé Mise en scène : Florence Andrieu et Flannan ObéDistribution : Florence Andrieu, Flannan Obé, Philippe Brocard (au piano)Durée : 80 mnExtraits de Presse : Il est difficile de bouder son plaisir devant cette joute, qui n’est jamais meilleure que lorsque les protagonistes se mettent à improviser. Spectacle intimiste, joliment troussé, des adieux forts plaisants, donc, mais qui menacent de ne jamais en finir d’en finir ! Regard en coulisse",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 30,
+    "local_rank": 34,
+    "phq_attendance": 102,
+    "entities": [
+      {
+        "entity_id": "37rA9B3U6zLDkYyupZkV7c4",
+        "name": "Essaïon Théâtre - Theatre room",
+        "type": "venue",
+        "formatted_address": "6 Rue Pierre au Lard\n75004 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-04T19:00:00Z",
+    "end": "2024-05-04T19:00:00Z",
+    "predicted_end": "2024-05-04T23:10:00Z",
+    "updated": "2024-01-28T04:20:48Z",
+    "first_seen": "2024-01-28T04:01:38Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3533099,
+      48.859704
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3533099,
+          48.859704
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7xg-zcq"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 102,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 102,
+            "position": "event_day"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "3013131"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 2297,
+    "predicted_event_spend_industries": {
+      "accommodation": 0,
+      "hospitality": 1453,
+      "transportation": 843
+    },
+    "phq_labels": [
+      {
+        "label": "pop",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "AstbKXu9ZzktGYm3FH",
+    "title": "LOGIC ALL SONGS",
+    "description": "Sourced from predicthq.com - LOGIC ALL SONGS  TRIBUTE SUPERTRAMPLes 8 musicien·ne·s d’horizons très différents, professionnel·le·s ou amateur·rice·s passionné·e·s, sont uni·e·s dans la volonté de retrouver l’énergie et l’originalité des plus grands albums du mythique groupe anglais du XX° siècle.Dans un juste équilibre entre fidélité du son et arrangements originaux tout en affirmant sa propre identité, Logic All Songs propose un véritable hommage à un des plus grands groupes de rock progressif.",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 45,
+    "local_rank": 73,
+    "phq_attendance": 564,
+    "entities": [
+      {
+        "entity_id": "8FU3p26SZMkSNAABay5Xkh",
+        "name": "Le Bascala",
+        "type": "venue",
+        "formatted_address": "12 Rue de la Briqueterie\n31150 Bruguières\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-04T19:00:00Z",
+    "end": "2024-05-04T19:00:00Z",
+    "predicted_end": "2024-05-04T23:10:00Z",
+    "updated": "2023-12-18T00:04:20Z",
+    "first_seen": "2023-09-24T05:24:11Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      1.406942,
+      43.7319801
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          1.406942,
+          43.7319801
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7f7-m66-4n5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 564,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 85,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 564,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 17,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071623",
+        "3013767",
+        "2972314",
+        "6448303",
+        "3029793"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "11071623",
+        "3013767",
+        "2972314",
+        "6453974",
+        "2972315"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 16093,
+    "predicted_event_spend_industries": {
+      "accommodation": 3708,
+      "hospitality": 7304,
+      "transportation": 5080
+    },
+    "phq_labels": [
+      {
+        "label": "rock",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "DSBX9JNTeH9GZHVroc",
+    "title": "Hubert-Félix Thiéfaine",
+    "alternate_titles": [
+      "HUBERT FELIX THIEFAINE"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 46,
+    "local_rank": 70,
+    "phq_attendance": 635,
+    "entities": [
+      {
+        "entity_id": "VrnZWn6nf8xhfdzxcJM9gF",
+        "name": "L'Usine",
+        "type": "venue",
+        "formatted_address": "RN 569 - Route de Fos\n13800 Istres\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-04T19:00:00Z",
+    "end": "2024-05-04T19:00:00Z",
+    "predicted_end": "2024-05-04T23:10:00Z",
+    "updated": "2024-02-07T00:38:09Z",
+    "first_seen": "2023-11-29T23:58:39Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      4.9694467,
+      43.4913721
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          4.9694467,
+          43.4913721
+        ],
+        "type": "Point"
+      },
+      "placekey": "@7fb-2hw-bx5"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 635,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 96,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 635,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 20,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "3031359",
+        "6457359",
+        "6447134",
+        "2984388"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2985244",
+        "3031359",
+        "2995468",
+        "6447142",
+        "2995469"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 21992,
+    "predicted_event_spend_industries": {
+      "accommodation": 4197,
+      "hospitality": 9646,
+      "transportation": 8148
+    },
+    "phq_labels": [
+      {
+        "label": "rock",
+        "weight": 0.33
+      },
+      {
+        "label": "pop",
+        "weight": 0.33
+      },
+      {
+        "label": "jazz-and-classical",
+        "weight": 0.33
+      }
+    ]
+  },
+  {
+    "relevance": 0,
+    "id": "9sAfiXzykuTXX3dbfW",
+    "title": "CONCERT GOSPEL HÉLIOS",
+    "description": "Sourced from predicthq.com - CONCERT GOSPEL HÉLIOSDOMINIQUE MAGLOIRENe manquez pas cette incroyable performance du chœur Gospel Hélios dirigé par Dominique Magloire, dans les prestigieuses Églises de Saint-Germain des Prés et de la Madeleine.Au Programme : “Oh Happy Day”, Amazing Grace, “Oh When the Saints” ...",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music",
+      "religion"
+    ],
+    "rank": 52,
+    "local_rank": 58,
+    "phq_attendance": 1233,
+    "entities": [
+      {
+        "entity_id": "dMK2G6ZuG6nP72ngMRkUMC",
+        "name": "L'église de la Madeleine",
+        "type": "venue",
+        "formatted_address": "Place de la Madeleine\n75008 Paris\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-04T18:45:00Z",
+    "end": "2024-05-04T18:45:00Z",
+    "predicted_end": "2024-05-04T22:55:00Z",
+    "updated": "2024-01-24T08:58:14Z",
+    "first_seen": "2023-11-01T03:09:53Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      2.3245502,
+      48.8700435
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          2.3245502,
+          48.8700435
+        ],
+        "type": "Point"
+      },
+      "placekey": "@53v-7yj-3qz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 247,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 1233,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 124,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 185,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 1233,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 37,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507",
+        "3020270"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3012874",
+        "2968815",
+        "2988506",
+        "6455259",
+        "2988507"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 44499,
+    "predicted_event_spend_industries": {
+      "accommodation": 9783,
+      "hospitality": 21967,
+      "transportation": 12749
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "36AmXzqPWCTG5CmGt7",
+    "title": "Denez",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 53,
+    "local_rank": 83,
+    "phq_attendance": 1437,
+    "entities": [
+      {
+        "entity_id": "PYh2KtQ8CNqU9ZpszyCiMQ",
+        "name": "Église Saint-Pierre-et-Saint-Paul",
+        "type": "venue",
+        "formatted_address": "Rue de Paris\n29490 Guipavas\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-04T18:30:00Z",
+    "end": "2024-05-04T18:30:00Z",
+    "predicted_end": "2024-05-04T22:40:00Z",
+    "updated": "2023-12-17T21:56:19Z",
+    "first_seen": "2023-09-30T21:32:56Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -4.39102,
+      48.43567
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -4.39102,
+          48.43567
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4fc-g4x-xqz"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 288,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 1437,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 144,
+            "position": "lagging"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 216,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 1437,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 44,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "3030293",
+        "3018471",
+        "3030299",
+        "6448086",
+        "3014213"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 32990,
+    "predicted_event_spend_industries": {
+      "accommodation": 9449,
+      "hospitality": 15762,
+      "transportation": 7777
+    }
+  },
+  {
+    "relevance": 0,
+    "id": "3VSATm2NVa9VMDSrLF",
+    "title": "Timber Timbre and Jason Glasser",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 44,
+    "local_rank": 67,
+    "phq_attendance": 490,
+    "entities": [
+      {
+        "entity_id": "G35dZuQQZDzrSVg7VJ4kDM",
+        "name": "Le 6PAR4",
+        "type": "venue",
+        "formatted_address": "177 Rue du Vieux Saint-Louis\n53000 Laval\nFrance"
+      }
+    ],
+    "duration": 0,
+    "start": "2024-05-04T18:30:00Z",
+    "end": "2024-05-04T18:30:00Z",
+    "predicted_end": "2024-05-04T21:00:00Z",
+    "updated": "2023-12-18T00:06:37Z",
+    "first_seen": "2023-12-07T23:11:00Z",
+    "timezone": "Europe/Paris",
+    "location": [
+      -0.7714005,
+      48.0789282
+    ],
+    "geo": {
+      "geometry": {
+        "coordinates": [
+          -0.7714005,
+          48.0789282
+        ],
+        "type": "Point"
+      },
+      "placekey": "@4f6-yq6-d9z"
+    },
+    "impact_patterns": [
+      {
+        "vertical": "accommodation",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-04",
+            "value": 490,
+            "position": "event_day"
+          }
+        ]
+      },
+      {
+        "vertical": "hospitality",
+        "impact_type": "phq_attendance",
+        "impacts": [
+          {
+            "date_local": "2024-05-03",
+            "value": 74,
+            "position": "leading"
+          },
+          {
+            "date_local": "2024-05-04",
+            "value": 490,
+            "position": "event_day"
+          },
+          {
+            "date_local": "2024-05-05",
+            "value": 15,
+            "position": "lagging"
+          }
+        ]
+      }
+    ],
+    "scope": "locality",
+    "country": "FR",
+    "place_hierarchies": [
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2994932",
+        "3005865",
+        "6454286",
+        "2983717"
+      ],
+      [
+        "6295630",
+        "6255148",
+        "3017382",
+        "2988289",
+        "2994932",
+        "3005865",
+        "6454286",
+        "3005866"
+      ]
+    ],
+    "state": "active",
+    "brand_safe": true,
+    "private": false,
+    "predicted_event_spend": 13376,
+    "predicted_event_spend_industries": {
+      "accommodation": 3222,
+      "hospitality": 6422,
+      "transportation": 3732
+    },
+    "phq_labels": [
+      {
+        "label": "jazz-and-classical",
+        "weight": 0.53
+      },
+      {
+        "label": "pop",
+        "weight": 0.24
+      },
+      {
+        "label": "rock",
+        "weight": 0.24
+      }
+    ]
+  }
+]
