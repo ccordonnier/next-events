@@ -10,16 +10,19 @@ import DetailsEvent from "@/components/dashboard/detailsEvent";
 
 const FormEvent = ({ event }) => {
   const router = useRouter();
+
   const submitForm = async (event) => {
     event.preventDefault();
     let form = document.getElementById("formEvent");
     let formdata = new FormData(form);
+    console.log(formdata.entries);
     const response = await fetch("http://localhost:3001/api/event/" + params.id, {
       method: "PUT",
       mode: "cors",
       body: formdata,
     })
       .then((response) => {
+        console.warn("response: " + response)
         if (response.status === 201) {
           alert("L'event a bien été Modifié")
           return response.json();
@@ -27,7 +30,8 @@ const FormEvent = ({ event }) => {
           throw new Error("Something went wrong on API server!");
         }
       }).catch((error) => {
-        alert("erreur lors de la modification: " + error);
+        console.error("erreur lors de la modification: " + error)
+        //alert("erreur lors de la modification: " + error);
       });
   }
   

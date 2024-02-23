@@ -26,8 +26,12 @@ const AddEvent = () => {
     event.preventDefault();
     let form = document.getElementById("formEvent");
     let formdata = new FormData(form);
-    let result = addEventApi({formdata: formdata, options : {contentType : 'application/json'}})
-    console.log(result);
+    for (const pair of formdata.entries()) {
+      console.log(pair[0], pair[1]);
+    }
+    
+
+    let result = addEventApi(formdata)
   }
   return (
       <div className='m-4'>
