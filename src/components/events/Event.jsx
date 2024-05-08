@@ -53,7 +53,7 @@ const Event = (props) => {
                       </div>
                     </div>
                     <div className="ml-10 text-xl">
-                      <Link className="background-orange-400 px-5 py-2" href={"/" + event._id}>Détails</Link>
+                      <Link className="background-orange-400 px-5 py-2" href={"/evenements/" + event._id}>Détails</Link>
                     </div>
                   </div>
                 </div>

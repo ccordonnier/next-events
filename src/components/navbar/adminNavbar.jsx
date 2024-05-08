@@ -29,8 +29,8 @@ const Navbar = () => {
   return (
     <>
 
-      <div className="fixed w-screen z-20">
-        <Disclosure as="nav" className="bg-white shadow text-black">
+      <div className="fixed w-screen z-10" style={{borderColor:"#636b7433", borderWidth:"1px"}}>
+        <Disclosure as="nav" className="bg-white text-black" >
           {({ open }) => (
             <>
               <div style={{marginLeft:"10vw"}} className="mx-16 px-4 sm:px-6 lg:px-8">

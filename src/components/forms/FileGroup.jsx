@@ -3,6 +3,7 @@ import {PhotoIcon} from '@heroicons/react/20/solid';
 
 const Filegroup = (props) => {
   let item=props.item;
+  console.log("item",item); 
   return (
     <div>
       <div className="mt-2 flex justify-center rounded-lg border border-dashed border-gray-900/25 px-6 py-10">
@@ -13,6 +14,7 @@ const Filegroup = (props) => {
                 className="relative cursor-pointer rounded-md bg-white font-semibold text-indigo-600 focus-within:outline-none focus-within:ring-2 focus-within:ring-indigo-600 focus-within:ring-offset-2 hover:text-indigo-500"
               >
                 <span>Téléchargez un fichier</span>
+                <input type="hidden" name="currentImageEvent" value={item.value}/>                
                 <input id={item.id} name={item.name} type="file" className="sr-only" />
               </label>
               <p className="pl-1">ou glissez votre fichier ici</p>

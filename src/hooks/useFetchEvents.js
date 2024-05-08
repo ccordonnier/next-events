@@ -36,6 +36,6 @@ export default function useFetchEvents(url, options={}) {
       });
     }
     fetchData();
-  }, [url]);
+  }, []);
   return ([events, error, state])
 }

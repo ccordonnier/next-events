@@ -74,7 +74,7 @@ export default function Navbar() {
             .includes(query.toLowerCase().replace(/\s+/g, ''))
         );
   useEffect(()=>{
-    console.log(account);
+    console.log("navbar", account);
   })
   return (
     <div className="bg-white">

@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, {useState, useRef} from 'react';
 import { useRouter } from 'next/navigation';
 
 import Filegroup from "@/components/forms/FileGroup";
@@ -7,32 +7,16 @@ import Textarea from "@/components/forms/Textarea";
 import SubmitButton from "@/components/forms/SubmitButton";
 import Image from "next/legacy/image";
 import DetailsEvent from "@/components/dashboard/detailsEvent";
+import {modifyEventApi} from "@/api/eventsApi";
 
-const FormEvent = ({ event }) => {
+const FormEvent = ({ event, params }) => {
+  const formEvent = useRef(null);
   const router = useRouter();
-
   const submitForm = async (event) => {
     event.preventDefault();
-    let form = document.getElementById("formEvent");
-    let formdata = new FormData(form);
-    console.log(formdata.entries);
-    const response = await fetch("http://localhost:3001/api/event/" + params.id, {
-      method: "PUT",
-      mode: "cors",
-      body: formdata,
-    })
-      .then((response) => {
-        console.warn("response: " + response)
-        if (response.status === 201) {
-          alert("L'event a bien été Modifié")
-          return response.json();
-        } else {
-          throw new Error("Something went wrong on API server!");
-        }
-      }).catch((error) => {
-        console.error("erreur lors de la modification: " + error)
-        //alert("erreur lors de la modification: " + error);
-      });
+    const formdata = new FormData(formEvent.current);
+    modifyEventApi(params.id, formdata);
+    router.push("/admin/evenements");
   }
   
   const removeEvent = () => {
@@ -54,8 +38,7 @@ const FormEvent = ({ event }) => {
         alert("erreur lors de la modification: " + error);
       });
   }
-  let [form, setForm] = useState([
-    { name: "title", type: "text", id: "title", placeholder: "Mon Evènement", label: "Nom de l'évènement", value : event.title??""},
+  let form = [{ name: "title", type: "text", id: "title", placeholder: "Mon Evènement", label: "Nom de l'évènement", value : event.title??""},
     { name: "description", type: "textarea", id: "description", placeholder: "", label: "Description" , value : event.description??""},
     { name: "date", type: "date", id: "date", placeholder: "", label: "Date" , value : event.date},
     { name: "timeStart", type: "time", id: "timeStart", placeholder: "00:00", label: "Heure de début", value : event.time??"" },
@@ -65,13 +48,13 @@ const FormEvent = ({ event }) => {
     { name: "place", type: "number", id: "place", placeholder: "100", label: "Nombre de places", value : event.places??"" },
     { name: "price", type: "number", id: "price", placeholder: "23.99", label: "Prix", value : event.price??"" },
     { name: "imageEvent", type: "file", id: "imageEvent", placeholder: "", label: "Image de l'évènement", value : event.imageEvent??"" },
-  ])
+  ]
 
   
 
   return (
     <>
-    <form method="post" id="formEvent" className="flex">
+    <form method="post" id="formEvent" className="flex" ref={formEvent}>
       <div className='bg-white p-6 grid gap-x-6 gap-y-4 w-9/12	'>
         {form.map(item => {
           return (
@@ -100,7 +83,7 @@ const FormEvent = ({ event }) => {
           )
         })}
       </div>
-      <DetailsEvent></DetailsEvent>
+      <DetailsEvent event={event} submitForm={submitForm}></DetailsEvent>
     </form>
     </>
   );

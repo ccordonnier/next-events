@@ -13,7 +13,7 @@ const DropdownItems = [
 const ListEvents = (props) => {
   let event = props.event
   return (
-    <div className="flex flex-row items-start bg-white rounded m-3 shadow hover:shadow-md cursor-pointer items-center" key={event._id}>
+    <div className="flex flex-row items-start bg-white rounded shadow hover:shadow-md cursor-pointer items-center" key={event._id} onClick={() => { window.Location = process.env.NEXT_PUBLIC_ADMIN_EVENT_PATH + "/" + event._id }}>
       <div className="relative mx-4" style={{ width: "10%", height: "11rem" }}>
         <Image
           className='max-w-36'
@@ -25,17 +25,26 @@ const ListEvents = (props) => {
       <div className='px-4 w-100' style={{ width: "90%" }}>
         <h2 className='text-2xl mt-3 h-7 overflow-hidden'>{event.title}</h2>
         <div className=''>
-          <div className='flex flex-row text-lg my-3'>
-            <MapPinIcon className="h-6 flex-none text-orange-400" aria-hidden="true" /><span>{event.city}</span>
-          </div>
-          <div className='flex flex-row text-lg my-3'>
-            <div className='flex flex-row'>
-              <CalendarDaysIcon className="h-6 flex-none text-orange-400" aria-hidden="true" /><span>{new Date(event.date).getFullYear()}</span>
+          {event.city &&
+            <div className='flex flex-row text-lg my-3'>
+              <MapPinIcon className="h-6 flex-none text-orange-400" aria-hidden="true" /><span>{event.city}</span>
             </div>
-            <div className="flex flex-row ml-10">
-              <ClockIcon className="h-6 flex-none text-orange-400" aria-hidden="true" /><span>{event.time}</span>
+          }
+          {
+            (event.dateStart || event.time) &&
+            <div className='flex flex-row text-lg my-3'>
+              {event.dateStart &&
+                <div className='flex flex-row'>
+                  <CalendarDaysIcon className="h-6 flex-none text-orange-400" aria-hidden="true" /><span>{new Date(event.dateStart).toLocaleDateString('fr-FR')}</span>
+                </div>
+              }
+              {event.time &&
+                <div className="flex flex-row ml-10">
+                  <ClockIcon className="h-6 flex-none text-orange-400" aria-hidden="true" /><span>{event.time}</span>
+                </div>
+              }
             </div>
-          </div>
+          }
           <div className='flex flex-row text-lg my-3 justify-between'>
             <div>
               <div className="flex -space-x-1 overflow-hidden">

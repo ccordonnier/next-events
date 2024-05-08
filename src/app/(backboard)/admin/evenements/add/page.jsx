@@ -4,13 +4,14 @@ import Filegroup from "@/components/forms/FileGroup";
 import InputText from "@/components/forms/InputText";
 import Textarea from "@/components/forms/Textarea";
 import SubmitButton from "@/components/forms/SubmitButton";
-import {addEventApi} from "@/api/eventsApi.js";
+import { addEventApi } from "@/api/eventsApi.js";
 
 
 const form = [
   { name: "title", type: "text", id: "title", placeholder: "Mon Evènement", label: "Nom de l'évènement" },
   { name: "description", type: "textarea", id: "description", placeholder: "", label: "Description" },
-  { name: "date", type: "date", id: "date", placeholder: "", label: "Date" },
+  { name: "dateStart", type: "date", id: "dateStart", placeholder: "", label: "Date de début" },
+  { name: "dateEnd", type: "date", id: "dateEnd", placeholder: "", label: "Date de fin" },
   { name: "timeStart", type: "time", id: "timeStart", placeholder: "00:00", label: "Heure de début" },
   { name: "timeEnd", type: "time", id: "timeEnd", placeholder: "23:59", label: "Heure de fin" },
   { name: "city", type: "text", id: "city", placeholder: "Ville...", label: "Ville" },
@@ -29,8 +30,6 @@ const AddEvent = () => {
     for (const pair of formdata.entries()) {
       console.log(pair[0], pair[1]);
     }
-    
-
     let result = addEventApi(formdata)
   }
   return (
