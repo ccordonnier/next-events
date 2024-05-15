@@ -1,4 +1,4 @@
-import { URL_API_EVENTS } from "@/constants";
+import { URL_API_EVENTS, URL_DASHBOARD_EVENTS } from "@/constants";
 
 export const getEventsApi = async (options) => {
   let paramsUrl = "";
@@ -58,13 +58,13 @@ export const addEventApi = (formdata) => {
     .then((response) => {
       if (response.status === 201) {
         alert("L'event a bien été enregistré")
-        return response.json();
+        window.location=URL_DASHBOARD_EVENTS;
       } else {
         throw new Error("Something went wrong on API server!");
       }
     })
     .catch((error) => {
-      alert("erreur lors de l'enregistrement" + error);
+      alert("erreur lors de l'enregistrement " + error);
     });
 }
 
@@ -90,3 +90,19 @@ export const modifyEventApi = async (id,formdata) => {
     return response; 
 }
 
+export const removeEventApi = async (id) => {
+  const response = await fetch(URL_API_EVENTS+id,{
+    method: "DELETE",
+    mode: "cors"
+  }).then((res) => {
+    if(res.status ===200){
+      alert("L'évènement à été supprimé");
+      return res.json();
+    }else{
+      throw new Error("Erreur lors de la suppression de l'évènement");
+    }
+  }).catch((error) => {
+    alert(error);
+  });
+  return response
+}

@@ -7,7 +7,14 @@ function classNames(...classes) {
   return classes.filter(Boolean).join(' ')
 }
 
+
 const Dropdown = (props) => {
+  
+  const handleOnClick = (e)=>{
+    e.preventDefault();
+    props.removeEvent(props.eventId);
+  }
+  
   return (
     <Menu as="div" className="relative inline-block text-left">
       <div>
@@ -29,10 +36,11 @@ const Dropdown = (props) => {
         <Menu.Items className="absolute right-0 z-10 mt-2 w-56 origin-top-right rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none">
           <div className="py-1">
         {props.items.map( item => { return (
-          <Menu.Item key={item._id}>
+          <Menu.Item key={item.name}>
           {({ active }) => (
             <Link
-              href={item.href}
+              onClick={(e)=>{item.onclick?handleOnClick(e):console.log("ok")}}
+              href={item.name!=="supprimer"?item.href:"#"}
               className={classNames(
                 active ? 'bg-gray-100 text-gray-900' : 'text-gray-700',
                 'block px-4 py-2 text-md'

@@ -3,17 +3,28 @@ import Image from "next/legacy/image";
 import Link from 'next/link';
 import Dropdown from "@/components/dropdown/dropdown";
 import { MapPinIcon, CalendarDaysIcon, ClockIcon, UserGroupIcon } from '@heroicons/react/24/solid';
+import { removeEventApi } from '@/api/eventsApi';
+import {URL_DASHBOARD_EVENTS} from "@/constants"
+
+const removeEvent = (id) => {
+  if(confirm("Cette action est irréversible. Etes vous sur de vouloir supprimer cet évènement ?")){
+    removeEventApi(id);
+    window.location=URL_DASHBOARD_EVENTS;
+  }
+}
 
 const DropdownItems = [
   { name: 'Dupliquer', href: '#Duplicate' },
   { name: 'Annuler', href: '#cancel' },
-  { name: 'Supprimer', href: '#remove' },
+  { name: 'Supprimer', href: '#remove', onclick: removeEvent },
 ]
+
+
 
 const ListEvents = (props) => {
   let event = props.event
   return (
-    <div className="flex flex-row items-start bg-white rounded shadow hover:shadow-md cursor-pointer items-center" key={event._id} onClick={() => { window.Location = process.env.NEXT_PUBLIC_ADMIN_EVENT_PATH + "/" + event._id }}>
+    <div className="flex flex-row items-start bg-white rounded shadow hover:shadow-md items-center" key={event._id}>
       <div className="relative mx-4" style={{ width: "10%", height: "11rem" }}>
         <Image
           className='max-w-36'
@@ -52,7 +63,7 @@ const ListEvents = (props) => {
               </div>
             </div>
             <div className="ml-10 text-xl mr-10 flex gap-2">
-              <Dropdown value="action" items={DropdownItems} />
+              <Dropdown value="action" items={DropdownItems} removeEvent={removeEvent} eventId={event._id}/>
               <Link className="bg-orange-600 rounded-md px-5 py-2 text-sm font-semibold text-white shadow-sm hover:bg-orange-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-orange-600" href={process.env.NEXT_PUBLIC_ADMIN_EVENT_PATH + "/" + event._id}>Détails</Link>
             </div>
           </div>

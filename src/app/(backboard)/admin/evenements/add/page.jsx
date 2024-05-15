@@ -5,6 +5,7 @@ import InputText from "@/components/forms/InputText";
 import Textarea from "@/components/forms/Textarea";
 import SubmitButton from "@/components/forms/SubmitButton";
 import { addEventApi } from "@/api/eventsApi.js";
+import {URL_DASHBOARD_EVENTS} from "@/constants";
 
 
 const form = [
@@ -30,7 +31,7 @@ const AddEvent = () => {
     for (const pair of formdata.entries()) {
       console.log(pair[0], pair[1]);
     }
-    let result = addEventApi(formdata)
+    let result = addEventApi(formdata);
   }
   return (
       <div className='m-4'>

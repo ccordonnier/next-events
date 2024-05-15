@@ -1,8 +1,16 @@
 import React from 'react';
+import {removeEventApi} from "@/api/eventsApi"
+import {URL_DASHBOARD_EVENTS} from "@/constants"
 
 const DetailsEvent = ({event, submitForm}) => {
   const onlineSelected = event.status == 1?true:false;
   const draftSelected = typeof(event.status)=="undefined" || event.status == 0?true:false;
+  const removeEvent = (id) => {
+    if(confirm("Cette action est irréversible. Etes vous sur de vouloir supprimer cet évènement ?")){
+      removeEventApi(id);
+      window.location=URL_DASHBOARD_EVENTS;
+    }
+  }
 
   return (
     <div className='rounded-md border-2 border-gray-300	bg-white w-3/12 m-6 p-6 h-fit min-w-[300px]'>
@@ -19,7 +27,7 @@ const DetailsEvent = ({event, submitForm}) => {
       {event.update_user && <div className='flex py-3 justify-between'><p>Modifié le: </p><p>8 janvier 2024</p></div>}
       {event.update_user && <div className='flex py-3 justify-between'><p>Modifié par: </p><p>Corentin Cordonnier</p></div>}
       <div className='flex py-3 justify-between'>
-        <button className='rounded bg-red-600 px-6 py-3 hover:bg-red-500 text-white w-[45%]' type="button" onClick={() => removeEvent}>Supprimer</button>
+        <button className='rounded bg-red-600 px-6 py-3 hover:bg-red-500 text-white w-[45%]' type="button" onClick={() => removeEvent(event._id)}>Supprimer</button>
         <button className='rounded bg-indigo-600 px-6 py-3 hover:bg-blue-500 text-white w-[45%]' type='submit' onClick={(e) => submitForm(e)}>Modiifier</button>
       </div>
     </div>

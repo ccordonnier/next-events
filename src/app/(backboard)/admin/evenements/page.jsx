@@ -4,15 +4,23 @@ import Searchbar from "@/components/searchbar";
 import ListEvents from "@/components/lists/listEvents";
 import { useLocalStorage } from '@/hooks/useLocalStorage';
 import { getEventsApi } from "@/api/eventsApi";
+import { useDispatch, useSelector } from 'react-redux';
 
 const page = () => {
   const [account, , clearLs] = useLocalStorage("account",null);
   const [options, setOptions] = useState({id_creator:account?._id??0})
   const [events,setEvents] = useState([])
+  const dispatch = useDispatch();
+  const eventSelector = useSelector((state)=>state);
 
   useEffect(()=>{
     getEventsApi(options).then(events=>setEvents(events))
+    dispatch({ type: "events/getEvents", payload: { id: account?._id} });
   },[options])
+
+  useEffect(()=>{
+    console.log("eventSelector",eventSelector);
+  },[eventSelector])
 
 
 const filter = (filter) => {
@@ -39,7 +47,7 @@ const filter = (filter) => {
       <div className='flex flex-col flex-wrap gap-3 m-3'>
         {events?.map(event => {
           return (
-            <ListEvents key={event._id} event={event}></ListEvents>
+            <ListEvents key={event._id} event={event} ></ListEvents>
           )
         })}
       </div>

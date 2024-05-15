@@ -1,7 +1,5 @@
 "use client"
 import '../globals.css'
-import { Provider } from "react-redux";
-import { store } from "../../store/redux";
 import Sidebar from "../../components/sidebar/adminSidebar";
 import Navbar from "../../components/navbar/adminNavbar";
 
